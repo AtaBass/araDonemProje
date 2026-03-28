@@ -1,0 +1,117 @@
+{
+  "overall_sentiment": {
+    "positive": 0.9501312335958005,
+    "negative": 0.02099737532808399,
+    "neutral": 0.028871391076115485
+  },
+  "aspects": [
+    {
+      "aspect": "Anne Memnuniyeti",
+      "sentiment": {
+        "positive": 0.9117647058823529,
+        "negative": 0.0,
+        "neutral": 0.08823529411764706
+      },
+      "summary": "Anne Memnuniyeti kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Fiyat-Performans",
+      "sentiment": {
+        "positive": 0.975,
+        "negative": 0.025,
+        "neutral": 0.0
+      },
+      "summary": "Fiyat-Performans kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Genel Begeni",
+      "sentiment": {
+        "positive": 0.9487179487179487,
+        "negative": 0.0,
+        "neutral": 0.05128205128205128
+      },
+      "summary": "Genel Begeni kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Genel Memnuniyet / Diger",
+      "sentiment": {
+        "positive": 0.9327731092436975,
+        "negative": 0.046218487394957986,
+        "neutral": 0.02100840336134454
+      },
+      "summary": "Genel Memnuniyet / Diger kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Hediye / Anne",
+      "sentiment": {
+        "positive": 0.9695121951219512,
+        "negative": 0.0,
+        "neutral": 0.03048780487804878
+      },
+      "summary": "Hediye / Anne kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Indirim / Fiyat",
+      "sentiment": {
+        "positive": 0.90625,
+        "negative": 0.03125,
+        "neutral": 0.0625
+      },
+      "summary": "Indirim / Fiyat kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Kapasite / Aile Uygunlugu",
+      "sentiment": {
+        "positive": 0.9285714285714286,
+        "negative": 0.0,
+        "neutral": 0.07142857142857142
+      },
+      "summary": "Kapasite / Aile Uygunlugu kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Kargo ve Paketleme",
+      "sentiment": {
+        "positive": 0.9722222222222222,
+        "negative": 0.0,
+        "neutral": 0.027777777777777776
+      },
+      "summary": "Kargo ve Paketleme kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Kullanim Memnuniyeti",
+      "sentiment": {
+        "positive": 0.9607843137254902,
+        "negative": 0.0,
+        "neutral": 0.0392156862745098
+      },
+      "summary": "Kullanim Memnuniyeti kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Pisirme Performansi",
+      "sentiment": {
+        "positive": 0.9166666666666666,
+        "negative": 0.052083333333333336,
+        "neutral": 0.03125
+      },
+      "summary": "Pisirme Performansi kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Tavsiye / Genel Memnuniyet",
+      "sentiment": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "neutral": 0.0
+      },
+      "summary": "Tavsiye / Genel Memnuniyet kullanicilar tarafindan genelde begeniliyor."
+    },
+    {
+      "aspect": "Tesekkur / Memnuniyet",
+      "sentiment": {
+        "positive": 0.9876543209876543,
+        "negative": 0.0,
+        "neutral": 0.012345679012345678
+      },
+      "summary": "Tesekkur / Memnuniyet kullanicilar tarafindan genelde begeniliyor."
+    }
+  ]
+}

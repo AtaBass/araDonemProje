@@ -1,0 +1,52 @@
+{
+  "urun_geneli": {
+    "genel_duygu": {
+      "positive": "95.0%",
+      "negative": "2.1%",
+      "neutral": "2.9%"
+    },
+    "genel_yorum": "Kullanıcılar ürünün Kargo ve Paketleme, Hediye / Anne ve Kullanim Memnuniyeti yönlerini genel olarak beğeniyor. Yorumlarda belirgin bir olumsuzluk öne çıkmıyor."
+  },
+  "belirlenen_aspectler": [
+    {
+      "aspect": "Anne Memnuniyeti",
+      "duygu": "çoğunlukla pozitif",
+      "ozet": "Anne Memnuniyeti kullanıcılar tarafından belirgin şekilde beğeniliyor."
+    },
+    {
+      "aspect": "Fiyat-Performans",
+      "duygu": "çoğunlukla pozitif",
+      "ozet": "Fiyat-Performans kullanıcılar tarafından belirgin şekilde beğeniliyor."
+    },
+    {
+      "aspect": "Hediye / Anne",
+      "duygu": "çoğunlukla pozitif",
+      "ozet": "Hediye / Anne kullanıcılar tarafından belirgin şekilde beğeniliyor."
+    },
+    {
+      "aspect": "Indirim / Fiyat",
+      "duygu": "çoğunlukla pozitif",
+      "ozet": "Indirim / Fiyat kullanıcılar tarafından belirgin şekilde beğeniliyor."
+    },
+    {
+      "aspect": "Kapasite / Aile Uygunlugu",
+      "duygu": "çoğunlukla pozitif",
+      "ozet": "Kapasite / Aile Uygunlugu kullanıcılar tarafından belirgin şekilde beğeniliyor."
+    },
+    {
+      "aspect": "Kargo ve Paketleme",
+      "duygu": "çoğunlukla pozitif",
+      "ozet": "Kargo ve Paketleme kullanıcılar tarafından belirgin şekilde beğeniliyor."
+    },
+    {
+      "aspect": "Kullanim Memnuniyeti",
+      "duygu": "çoğunlukla pozitif",
+      "ozet": "Kullanim Memnuniyeti kullanıcılar tarafından belirgin şekilde beğeniliyor."
+    },
+    {
+      "aspect": "Pisirme Performansi",
+      "duygu": "çoğunlukla pozitif",
+      "ozet": "Pisirme Performansi kullanıcılar tarafından belirgin şekilde beğeniliyor."
+    }
+  ]
+}
