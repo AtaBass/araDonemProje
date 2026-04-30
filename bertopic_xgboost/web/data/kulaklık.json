@@ -1,0 +1,224 @@
+{
+  "category": "kulaklık",
+  "category_label": "Kablosuz Kulaklık",
+  "total_reviews": 1403,
+  "overall_score": 4.92,
+  "overall_sentiment": "positive",
+  "summary": "Kablosuz Kulaklık kategorisi, 1403 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Kalite & Dayanıklılık**, **Çok iyi**, **Teşekkür ederim** konularında yüksek memnuniyet bildirmektedir. Genel olarak Kablosuz Kulaklık ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 0,
+    "2": 1,
+    "3": 2,
+    "4": 101,
+    "5": 1299
+  },
+  "aspects": [
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 287,
+      "avg_score": 4.93,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "ses kalitesi",
+        "gayet",
+        "hediye",
+        "teşekkürler",
+        "fiyata",
+        "harika"
+      ],
+      "positive_pct": 93.7,
+      "negative_pct": 0.3,
+      "neutral_pct": 5.9,
+      "sample_reviews": [
+        "1 sene sonra eklemek istedim hala kullanıyorum ve çok memnunum fiyatıyla karşılaştırınca orjinallerinden farkı yok denecek kadar az satıcı çok ilgiliydi kargo 2 gunde geldi kulaklıgın paketlemesi resmen apple kalitesiydi kesinlikle bayıldım kılıf da aynı sekilde ek olarak iki kulaklık icin sunger ve sarj aleti gondermeleri de superdi sadece telefonla konusurken sesiniz karsı tarafa biraz boguk gidiyor ve dısarıya biraz ses veriyor ama 360 lira verilen bir kulaklık icin cok iyi kesinlikle tavsiye ederim",
+        "1 sene sonra eklemek istedim hala kullanıyorum ve çok memnunum fiyatıyla karşılaştırınca orjinallerinden farkı yok denecek kadar az satıcı çok ilgiliydi kargo 2 gunde geldi kulaklıgın paketlemesi resmen apple kalitesiydi kesinlikle bayıldım kılıf da aynı sekilde ek olarak iki kulaklık icin sunger ve sarj aleti gondermeleri de superdi sadece telefonla konusurken sesiniz karsı tarafa biraz boguk gidiyor ve dısarıya biraz ses veriyor ama 360 lira verilen bir kulaklık icin cok iyi kesinlikle tavsiye ederim",
+        "1 sene sonra eklemek istedim hala kullanıyorum ve çok memnunum fiyatıyla karşılaştırınca orjinallerinden farkı yok denecek kadar az satıcı çok ilgiliydi kargo 2 gunde geldi kulaklıgın paketlemesi resmen apple kalitesiydi kesinlikle bayıldım kılıf da aynı sekilde ek olarak iki kulaklık icin sunger ve sarj aleti gondermeleri de superdi sadece telefonla konusurken sesiniz karsı tarafa biraz boguk gidiyor ve dısarıya biraz ses veriyor ama 360 lira verilen bir kulaklık icin cok iyi kesinlikle tavsiye ederim"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Çok iyi",
+      "review_count": 224,
+      "avg_score": 4.97,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok iyi",
+        "kalitesi çok",
+        "tane",
+        "kalitesi",
+        "ses kalitesi",
+        "verdim",
+        "sipariş verdim",
+        "çok beğendim"
+      ],
+      "positive_pct": 97.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 2.7,
+      "sample_reviews": [
+        "harikaaaa alın kesinlikle yaklaşık iki aydır kullanıyorum kullandıktan sonra yorum yapmak istedim yaklaşık bi hafta tüm markaların kulaklıklarına bakıp araştırdım en son bunu almaya karar verdim ve gerçekten sesi engellemesi olsun dayanıklılığı olsun her şeyiyle çok iyi çok kolay bi cihaza bağlanıyor şarjı üç hafta boyunca her gün kullanmama rağmen dayandı kesinlikle alın telefon görüşmelerinde ses karşı tarafa boğuk gidiyo o da olsun zaten fiyatına değer",
+        "harikaaaa alın kesinlikle yaklaşık iki aydır kullanıyorum kullandıktan sonra yorum yapmak istedim yaklaşık bi hafta tüm markaların kulaklıklarına bakıp araştırdım en son bunu almaya karar verdim ve gerçekten sesi engellemesi olsun dayanıklılığı olsun her şeyiyle çok iyi çok kolay bi cihaza bağlanıyor şarjı üç hafta boyunca her gün kullanmama rağmen dayandı kesinlikle alın telefon görüşmelerinde ses karşı tarafa boğuk gidiyo o da olsun zaten fiyatına değer",
+        "zamanın en iddalı telefon devinden de bu beklenir kulaklık mükemmel arkadaşlar bu fiyat bandında alınabilecek en mantıklı ürün ses kalitesi çok iyi bass tiz tam tadında iphone da kullanıyorum bağlantı sorunu yok eğer huawei bizim pazarımızda kalabilseydi şu an bu yorumu net o cihazdan yazardım"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Teşekkür ederim",
+      "review_count": 217,
+      "avg_score": 4.93,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teşekkür ederim",
+        "için aldım",
+        "çok memnun",
+        "kızım",
+        "aldım çok",
+        "kızım için",
+        "çok teşekkür",
+        "hediye"
+      ],
+      "positive_pct": 94.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 6.0,
+      "sample_reviews": [
+        "o kadar harika bir ürünki çok mutluyum normalde arkadaşıma hediye olarak almıştım ama çöktüm o kadar iyi ki şöyle iphone uma direk bağlandı bağlantı sorunu yok bluetooth ayarlarında başka marka bile yazmıyor airpod yazıyor o kadar muadil bişey çok mutluyum yurt dışından ikinci el falan alıyım diyordum ama kime sorsam o paraya deymez diyordu gerçeği için bu ürünü şuana kadar 4 arkadaşıma önerdim herkese de önericem çok karlı bir alışveriş kesinlikle bu arada satıcıya nezaketi ve hediye olarak koyduğu kutu için teşekkür ederim ben normal airpod 4 nesil için de kılıf almıştım nolur nolmaz diye onun ölçüleri de tam oluyor yani nasıl desem 800 liraya airpod almak istiyorsanız buyrun hemen alın",
+        "o kadar harika bir ürünki çok mutluyum normalde arkadaşıma hediye olarak almıştım ama çöktüm o kadar iyi ki şöyle iphone uma direk bağlandı bağlantı sorunu yok bluetooth ayarlarında başka marka bile yazmıyor airpod yazıyor o kadar muadil bişey çok mutluyum yurt dışından ikinci el falan alıyım diyordum ama kime sorsam o paraya deymez diyordu gerçeği için bu ürünü şuana kadar 4 arkadaşıma önerdim herkese de önericem çok karlı bir alışveriş kesinlikle bu arada satıcıya nezaketi ve hediye olarak koyduğu kutu için teşekkür ederim ben normal airpod 4 nesil için de kılıf almıştım nolur nolmaz diye onun ölçüleri de tam oluyor yani nasıl desem 800 liraya airpod almak istiyorsanız buyrun hemen alın",
+        "aynı firmadan aynı üründen 2nci siparişim alacak olanlar tereddütsüz alabilir ben iş yerinde 3.5 saat kullanıyorum tekrardan hiç şarja takmadan ertesi günde yine bi 3.5 saat kullanıyorum aktif olarak kullanıyorum haftada 2 defa şarja takıyorum kesinlikle mükemmel bi ürün iki renk farklı aldım 10 12 metrede harika çekim gücü var bana fazlasıyla yetiyor tok bi müzik sesi veriyor bu paraya alınabilecek harika bi ürün ayrıca hızlı kargo güzel paketleme içinde teşekkür ederim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Tavsiye ederim",
+      "review_count": 211,
+      "avg_score": 4.88,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "tavsiye ederim",
+        "ürün",
+        "kaliteli",
+        "çok güzel",
+        "bir ürün",
+        "herkese tavsiye",
+        "tavsiye ediyorum"
+      ],
+      "positive_pct": 87.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 12.3,
+      "sample_reviews": [
+        "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim",
+        "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim",
+        "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kargo & Teslimat",
+      "review_count": 151,
+      "avg_score": 4.94,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "elime",
+        "ulaştı",
+        "teşekkür ederim",
+        "elime ulaştı",
+        "sağlam",
+        "ürün",
+        "çok güzel",
+        "ürün çok"
+      ],
+      "positive_pct": 94.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 6.0,
+      "sample_reviews": [
+        "ürünüm bugün elime ulaştı yanında extradan gönderdiğiniz hediyeler çok güzeldi kablo ucu koruyucuya ve kılıfa bayıldım sorunsuz elime ulaşmasını ve memnun kalmayı çok istiyordum tamda beklediğim gibi geldi hiç kuşku duymadan çevrenizdekilere önerebilirsiniz ses kalitesi harika güzel bir kalite çok teşekkür ediyorum",
+        "ürünüm bugün elime ulaştı yanında extradan gönderdiğiniz hediyeler çok güzeldi kablo ucu koruyucuya ve kılıfa bayıldım sorunsuz elime ulaşmasını ve memnun kalmayı çok istiyordum tamda beklediğim gibi geldi hiç kuşku duymadan çevrenizdekilere önerebilirsiniz ses kalitesi harika güzel bir kalite çok teşekkür ediyorum",
+        "ürünüm bugün elime ulaştı yanında extradan gönderdiğiniz hediyeler çok güzeldi kablo ucu koruyucuya ve kılıfa bayıldım sorunsuz elime ulaşmasını ve memnun kalmayı çok istiyordum tamda beklediğim gibi geldi hiç kuşku duymadan çevrenizdekilere önerebilirsiniz ses kalitesi harika güzel bir kalite çok teşekkür ediyorum"
+      ],
+      "icon": "📦"
+    },
+    {
+      "name": "Fiyat & Değer",
+      "review_count": 124,
+      "avg_score": 4.89,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyatına göre",
+        "fiyatına",
+        "güzel bir",
+        "önce",
+        "çok güzel",
+        "daha önce",
+        "göre çok",
+        "ürün"
+      ],
+      "positive_pct": 88.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.3,
+      "sample_reviews": [
+        "ürün 1 hafta içerisinde tarafıma teslim edildi rengi tam pembe değil öncelikle açık somon rengi çok hoşuma gitti gürültü önleme olayı hakikatten var arkadaşlar dışarda kullandım fiyatına göre ve bana göre yeterli denilecek seviyede içinden 2 çift yedek kulak içi aparatı garanti belgesi kullanım kılavuzu çıktı ürün olması gerektiği gibi kargolanmıştı x'te bi kızda görüp aldım iyi ki de almışım",
+        "ürün 1 hafta içerisinde tarafıma teslim edildi rengi tam pembe değil öncelikle açık somon rengi çok hoşuma gitti gürültü önleme olayı hakikatten var arkadaşlar dışarda kullandım fiyatına göre ve bana göre yeterli denilecek seviyede içinden 2 çift yedek kulak içi aparatı garanti belgesi kullanım kılavuzu çıktı ürün olması gerektiği gibi kargolanmıştı x'te bi kızda görüp aldım iyi ki de almışım",
+        "netlik çok güzel hoparlöre bağlayınca efsane oluyor şuan öğleden sonra 15.01 gibi çektim ama eminim akşam daha güzel olacak dedim vede öyle oldu paketeleme güzeldi inşallah sorun çıkarmaz ayrıca satıcıya önerimdir kumandaya sesli konuşma eklenebilir fiyat farkıda olsa güzel ve cazibeli bir özellik olabilir teşekkür ediyorum hayırlı işler"
+      ],
+      "icon": "💰"
+    },
+    {
+      "name": "Fiyat",
+      "review_count": 108,
+      "avg_score": 4.93,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "bir fiyat",
+        "tam bir",
+        "performans ürünü",
+        "ürünü",
+        "ürün"
+      ],
+      "positive_pct": 92.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 7.4,
+      "sample_reviews": [
+        "kesinlikle tam bir fiyat performans ürünü önce pembesini aldım çok beğendim sonra bir tane daha sipariş edip siyahını aldım ses kalitesi çok iyi şarjı da çok uzun süre gidiyor gönül rahatligiyla alabilirsiniz kargolama da çok iyiydi ürün zarar gormesin diye gayet özenli paketlenmisti ve sipariş verdiğim gündeb bir gün sonra elime ulaştı çok teşekkür ediyorum",
+        "kesinlikle tam bir fiyat performans ürünü önce pembesini aldım çok beğendim sonra bir tane daha sipariş edip siyahını aldım ses kalitesi çok iyi şarjı da çok uzun süre gidiyor gönül rahatligiyla alabilirsiniz kargolama da çok iyiydi ürün zarar gormesin diye gayet özenli paketlenmisti ve sipariş verdiğim gündeb bir gün sonra elime ulaştı çok teşekkür ediyorum",
+        "kesinlikle tam bir fiyat performans ürünü önce pembesini aldım çok beğendim sonra bir tane daha sipariş edip siyahını aldım ses kalitesi çok iyi şarjı da çok uzun süre gidiyor gönül rahatligiyla alabilirsiniz kargolama da çok iyiydi ürün zarar gormesin diye gayet özenli paketlenmisti ve sipariş verdiğim gündeb bir gün sonra elime ulaştı çok teşekkür ediyorum"
+      ],
+      "icon": "💰"
+    },
+    {
+      "name": "Satıcı & Hizmet",
+      "review_count": 81,
+      "avg_score": 4.88,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beğendi",
+        "çok beğendi",
+        "aldım çok",
+        "kızıma",
+        "kızıma aldım",
+        "hediye",
+        "hediye aldım",
+        "eşime"
+      ],
+      "positive_pct": 87.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 12.3,
+      "sample_reviews": [
+        "bu fiyata bu kalite beklemiyorduk doğrusu oğlum için aldık çok beğendi çok memnun kaldık almak istersen düşünmeden alabilir",
+        "bu fiyata bu kalite beklemiyorduk doğrusu oğlum için aldık çok beğendi çok memnun kaldık almak istersen düşünmeden alabilir",
+        "bu fiyata bu kalite beklemiyorduk doğrusu oğlum için aldık çok beğendi çok memnun kaldık almak istersen düşünmeden alabilir"
+      ],
+      "icon": "🏪"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

@@ -1,0 +1,1299 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OpinionMiner — Ürün Bazlı Fikir Analizi</title>
+  <meta name="description"
+    content="Trendyol ürünleri için yorum verilerinden dinamik aspect çıkarımı, puanlama ve doğal dil özeti." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet" />
+  <style>
+    :root {
+      --bg-0: #090a0f;
+      --bg-1: #0f1018;
+      --bg-2: #181a27;
+      --bg-3: #202338;
+      --border: rgba(255, 255, 255, 0.07);
+      --border-h: rgba(255, 255, 255, 0.14);
+      --accent: #7c6df8;
+      --accent2: #a78bfa;
+      --accent3: #38bdf8;
+      --green: #34d399;
+      --yellow: #fbbf24;
+      --red: #f87171;
+      --orange: #fb923c;
+      --t1: #f0efff;
+      --t2: #9a9dc0;
+      --t3: #4e5070;
+      --r-sm: 8px;
+      --r-md: 14px;
+      --r-lg: 20px;
+      --r-xl: 28px;
+      --shadow: 0 6px 40px rgba(0, 0, 0, .55);
+      --glow: 0 0 28px rgba(124, 109, 248, .22);
+    }
+
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0
+    }
+
+    html {
+      scroll-behavior: smooth
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-0);
+      color: var(--t1);
+      min-height: 100vh;
+      overflow-x: hidden
+    }
+
+    /* BG ORBS */
+    .orbs {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+      overflow: hidden
+    }
+
+    .orb {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(90px);
+      opacity: .10;
+      animation: float 22s ease-in-out infinite
+    }
+
+    .o1 {
+      width: 550px;
+      height: 550px;
+      background: #7c6df8;
+      top: -180px;
+      left: -180px;
+      animation-delay: 0s
+    }
+
+    .o2 {
+      width: 420px;
+      height: 420px;
+      background: #38bdf8;
+      bottom: -120px;
+      right: -120px;
+      animation-delay: -11s
+    }
+
+    .o3 {
+      width: 320px;
+      height: 320px;
+      background: #a78bfa;
+      top: 45%;
+      left: 55%;
+      animation-delay: -5s
+    }
+
+    @keyframes float {
+
+      0%,
+      100% {
+        transform: translate(0, 0) scale(1)
+      }
+
+      33% {
+        transform: translate(28px, -36px) scale(1.04)
+      }
+
+      66% {
+        transform: translate(-18px, 18px) scale(.96)
+      }
+    }
+
+    /* LAYOUT */
+    .wrap {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 0 24px;
+      position: relative;
+      z-index: 1
+    }
+
+    /* HEADER */
+    header {
+      padding: 22px 0;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      background: rgba(9, 10, 15, .85);
+      backdrop-filter: blur(20px);
+      z-index: 100
+    }
+
+    .hdr {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px
+    }
+
+    .logo-icon {
+      width: 38px;
+      height: 38px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border-radius: 9px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      box-shadow: var(--glow)
+    }
+
+    .logo h1 {
+      font-size: 1.1rem;
+      font-weight: 800;
+      letter-spacing: -.2px
+    }
+
+    .logo p {
+      font-size: .68rem;
+      color: var(--t2);
+      letter-spacing: .5px;
+      margin-top: 1px
+    }
+
+    .hdr-badge {
+      background: rgba(124, 109, 248, .14);
+      border: 1px solid rgba(124, 109, 248, .3);
+      color: var(--accent2);
+      padding: 4px 12px;
+      border-radius: 50px;
+      font-size: .72rem;
+      font-weight: 600
+    }
+
+    /* TWO-COLUMN LAYOUT */
+    .page {
+      display: grid;
+      grid-template-columns: 300px 1fr;
+      gap: 0;
+      min-height: calc(100vh - 80px)
+    }
+
+    /* SIDEBAR */
+    .sidebar {
+      border-right: 1px solid var(--border);
+      padding: 24px 0;
+      overflow-y: auto;
+      max-height: calc(100vh - 80px);
+      position: sticky;
+      top: 80px
+    }
+
+    .sidebar-section {
+      padding: 0 16px;
+      margin-bottom: 8px
+    }
+
+    .sidebar-label {
+      font-size: .65rem;
+      font-weight: 700;
+      color: var(--t3);
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      padding: 12px 8px 8px
+    }
+
+    /* Category tabs */
+    .cat-tabs {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 6px;
+      padding: 0 16px;
+      margin-bottom: 16px
+    }
+
+    .cat-tab {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r-sm);
+      padding: 9px 8px;
+      cursor: pointer;
+      text-align: center;
+      font-size: .72rem;
+      font-weight: 500;
+      color: var(--t2);
+      font-family: 'Inter', sans-serif;
+      transition: all .2s;
+      line-height: 1.3
+    }
+
+    .cat-tab:hover {
+      border-color: var(--accent);
+      color: var(--t1)
+    }
+
+    .cat-tab.active {
+      background: rgba(124, 109, 248, .18);
+      border-color: var(--accent);
+      color: var(--t1);
+      box-shadow: var(--glow)
+    }
+
+    .cat-tab .ci {
+      font-size: 1.1rem;
+      display: block;
+      margin-bottom: 3px
+    }
+
+    /* Product list */
+    .prod-list {
+      padding: 0 12px
+    }
+
+    .prod-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 8px;
+      border-radius: var(--r-sm);
+      cursor: pointer;
+      transition: all .2s;
+      margin-bottom: 2px;
+      border: 1px solid transparent
+    }
+
+    .prod-item:hover {
+      background: var(--bg-2);
+      border-color: var(--border)
+    }
+
+    .prod-item.active {
+      background: rgba(124, 109, 248, .12);
+      border-color: var(--accent)
+    }
+
+    .prod-score {
+      min-width: 34px;
+      height: 34px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: .8rem;
+      font-weight: 800;
+      flex-shrink: 0
+    }
+
+    .prod-info {
+      flex: 1;
+      min-width: 0
+    }
+
+    .prod-name {
+      font-size: .78rem;
+      font-weight: 600;
+      line-height: 1.35;
+      color: var(--t1);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis
+    }
+
+    .prod-meta {
+      font-size: .68rem;
+      color: var(--t2);
+      margin-top: 2px
+    }
+
+    /* MAIN CONTENT */
+    .main-content {
+      padding: 32px;
+      overflow-y: auto
+    }
+
+    /* EMPTY STATE */
+    .empty-state {
+      text-align: center;
+      padding: 100px 40px;
+      color: var(--t2)
+    }
+
+    .empty-icon {
+      font-size: 3.5rem;
+      margin-bottom: 16px;
+      opacity: .4
+    }
+
+    .empty-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: var(--t1)
+    }
+
+    .empty-sub {
+      font-size: .88rem;
+      line-height: 1.6
+    }
+
+    /* LOADING */
+    #loading {
+      display: none;
+      text-align: center;
+      padding: 80px 0;
+      color: var(--t2)
+    }
+
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .8s linear infinite;
+      margin: 0 auto 14px
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg)
+      }
+    }
+
+    /* PRODUCT HEADER */
+    .product-header {
+      background: linear-gradient(135deg, var(--bg-2), var(--bg-3));
+      border: 1px solid var(--border);
+      border-radius: var(--r-xl);
+      padding: 32px;
+      margin-bottom: 28px;
+      position: relative;
+      overflow: hidden
+    }
+
+    .product-header::before {
+      content: '';
+      position: absolute;
+      top: -80px;
+      right: -80px;
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(124, 109, 248, .13), transparent 70%)
+    }
+
+    .ph-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-bottom: 20px
+    }
+
+    .ph-left {
+      flex: 1;
+      min-width: 0
+    }
+
+    .ph-cat {
+      font-size: .7rem;
+      font-weight: 700;
+      color: var(--accent2);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 6px
+    }
+
+    .ph-name {
+      font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+      font-weight: 800;
+      letter-spacing: -.3px;
+      line-height: 1.25
+    }
+
+    .ph-url {
+      font-size: .72rem;
+      color: var(--t3);
+      margin-top: 6px;
+      font-family: 'JetBrains Mono', monospace;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap
+    }
+
+    .ph-url a {
+      color: var(--accent3);
+      text-decoration: none
+    }
+
+    .ph-url a:hover {
+      text-decoration: underline
+    }
+
+    .score-bubble {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background: rgba(0, 0, 0, .35);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      padding: 16px 24px;
+      min-width: 110px;
+      flex-shrink: 0
+    }
+
+    .sb-num {
+      font-size: 2.6rem;
+      font-weight: 900;
+      line-height: 1;
+      letter-spacing: -2px
+    }
+
+    .sb-stars {
+      font-size: .88rem;
+      letter-spacing: 2px;
+      margin-top: 3px
+    }
+
+    .sb-label {
+      font-size: .65rem;
+      color: var(--t2);
+      margin-top: 4px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 600
+    }
+
+    /* SUMMARY */
+    .summary-box {
+      background: rgba(124, 109, 248, .07);
+      border: 1px solid rgba(124, 109, 248, .2);
+      border-radius: var(--r-md);
+      padding: 18px 22px;
+      line-height: 1.78;
+      font-size: .92rem;
+      margin-bottom: 18px
+    }
+
+    .summary-box strong {
+      color: var(--accent2)
+    }
+
+    /* SCORE DIST */
+    .score-dist {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      margin-bottom: 6px
+    }
+
+    .sd-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 5px
+    }
+
+    .sd-label {
+      font-size: .72rem;
+      font-weight: 700
+    }
+
+    .sd-bar-wrap {
+      width: 100%;
+      height: 5px;
+      background: var(--bg-0);
+      border-radius: 3px;
+      overflow: hidden
+    }
+
+    .sd-bar {
+      height: 100%;
+      border-radius: 3px;
+      transition: width .6s ease
+    }
+
+    .sd-count {
+      font-size: .7rem;
+      color: var(--t2)
+    }
+
+    /* ASPECT GRID */
+    .section-hd {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 18px
+    }
+
+    .section-hd h2 {
+      font-size: 1rem;
+      font-weight: 700
+    }
+
+    .section-hd .badge {
+      background: var(--bg-3);
+      border: 1px solid var(--border);
+      border-radius: 50px;
+      padding: 3px 10px;
+      font-size: .73rem;
+      color: var(--t2)
+    }
+
+    .aspect-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 18px;
+      margin-bottom: 40px
+    }
+
+    .aspect-card {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r-lg);
+      padding: 22px;
+      cursor: pointer;
+      transition: all .22s;
+      position: relative;
+      overflow: hidden
+    }
+
+    .aspect-card:hover {
+      border-color: var(--border-h);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow)
+    }
+
+    .aspect-card::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, transparent, rgba(255, 255, 255, .015));
+      pointer-events: none
+    }
+
+    .ac-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 14px
+    }
+
+    .ac-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 11px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      flex-shrink: 0
+    }
+
+    .ac-info {
+      flex: 1;
+      min-width: 0
+    }
+
+    .ac-name {
+      font-size: .9rem;
+      font-weight: 700
+    }
+
+    .ac-count {
+      font-size: .72rem;
+      color: var(--t2);
+      margin-top: 2px
+    }
+
+    .ac-pill {
+      padding: 3px 10px;
+      border-radius: 50px;
+      font-size: .68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      flex-shrink: 0
+    }
+
+    .pill-pos {
+      background: rgba(52, 211, 153, .14);
+      color: var(--green);
+      border: 1px solid rgba(52, 211, 153, .28)
+    }
+
+    .pill-neu {
+      background: rgba(251, 191, 36, .14);
+      color: var(--yellow);
+      border: 1px solid rgba(251, 191, 36, .28)
+    }
+
+    .pill-neg {
+      background: rgba(248, 113, 113, .14);
+      color: var(--red);
+      border: 1px solid rgba(248, 113, 113, .28)
+    }
+
+    /* Ring */
+    .ring-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 12px
+    }
+
+    .ring {
+      position: relative;
+      width: 48px;
+      height: 48px;
+      flex-shrink: 0
+    }
+
+    .ring svg {
+      transform: rotate(-90deg)
+    }
+
+    .ring circle {
+      transition: stroke-dashoffset .7s ease
+    }
+
+    .ring-txt {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: .78rem;
+      font-weight: 800
+    }
+
+    .ring-info {
+      flex: 1
+    }
+
+    .ring-val {
+      font-size: .82rem;
+      font-weight: 600
+    }
+
+    .ring-sub {
+      font-size: .7rem;
+      color: var(--t2)
+    }
+
+    /* Sentiment bar */
+    .sent-bar {
+      height: 5px;
+      border-radius: 3px;
+      background: var(--bg-0);
+      display: flex;
+      overflow: hidden;
+      margin-bottom: 7px
+    }
+
+    .sb-p {
+      background: var(--green);
+      transition: width .6s
+    }
+
+    .sb-n-bar {
+      background: var(--yellow);
+      transition: width .6s
+    }
+
+    .sb-neg {
+      background: var(--red);
+      transition: width .6s
+    }
+
+    .sent-legend {
+      display: flex;
+      gap: 10px;
+      font-size: .68rem;
+      color: var(--t3)
+    }
+
+    .dot {
+      display: inline-block;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      margin-right: 3px
+    }
+
+    /* Keywords */
+    .kws {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 12px
+    }
+
+    .kw {
+      background: var(--bg-3);
+      border: 1px solid var(--border);
+      border-radius: 50px;
+      padding: 2px 9px;
+      font-size: .67rem;
+      color: var(--t2);
+      font-family: 'JetBrains Mono', monospace
+    }
+
+    /* MODAL */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 200;
+      background: rgba(0, 0, 0, .78);
+      backdrop-filter: blur(10px);
+      align-items: center;
+      justify-content: center;
+      padding: 24px
+    }
+
+    .modal-overlay.open {
+      display: flex;
+      animation: fadeIn .2s ease
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(12px)
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0)
+      }
+    }
+
+    .modal {
+      background: var(--bg-1);
+      border: 1px solid var(--border-h);
+      border-radius: var(--r-xl);
+      padding: 28px;
+      max-width: 620px;
+      width: 100%;
+      max-height: 82vh;
+      overflow-y: auto
+    }
+
+    .modal-hdr {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 22px
+    }
+
+    .modal-ttl {
+      font-size: 1.05rem;
+      font-weight: 700
+    }
+
+    .modal-close {
+      width: 30px;
+      height: 30px;
+      background: var(--bg-3);
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: .9rem;
+      color: var(--t2);
+      transition: all .2s
+    }
+
+    .modal-close:hover {
+      color: var(--t1);
+      background: var(--bg-2)
+    }
+
+    .review-card {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      padding: 14px 16px;
+      margin-bottom: 10px;
+      font-size: .86rem;
+      line-height: 1.68;
+      position: relative
+    }
+
+    .review-card::before {
+      content: '"';
+      position: absolute;
+      top: -6px;
+      left: 12px;
+      font-size: 2.5rem;
+      color: var(--accent);
+      opacity: .18;
+      font-family: Georgia, serif;
+      line-height: 1
+    }
+
+    /* SEARCH */
+    .search-wrap {
+      padding: 0 12px 12px
+    }
+
+    .search-input {
+      width: 100%;
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r-sm);
+      padding: 8px 12px;
+      font-size: .8rem;
+      color: var(--t1);
+      font-family: 'Inter', sans-serif;
+      outline: none;
+      transition: border-color .2s
+    }
+
+    .search-input:focus {
+      border-color: var(--accent)
+    }
+
+    .search-input::placeholder {
+      color: var(--t3)
+    }
+
+    /* RESPONSIVE */
+    @media(max-width:900px) {
+      .page {
+        grid-template-columns: 1fr
+      }
+
+      .sidebar {
+        max-height: none;
+        position: static;
+        border-right: none;
+        border-bottom: 1px solid var(--border)
+      }
+
+      .main-content {
+        padding: 20px
+      }
+    }
+
+    @media(max-width:600px) {
+      .aspect-grid {
+        grid-template-columns: 1fr
+      }
+
+      .score-dist {
+        grid-template-columns: repeat(5, 1fr);
+        gap: 6px
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="orbs">
+    <div class="orb o1"></div>
+    <div class="orb o2"></div>
+    <div class="orb o3"></div>
+  </div>
+
+  <header>
+    <div class="wrap">
+      <div class="hdr">
+        <div class="logo">
+          <div class="logo-icon">🧠</div>
+          <div>
+            <h1>OpinionMiner</h1>
+            <p>ÜRÜN BAZLI FİKİR MADENCİLİĞİ</p>
+          </div>
+        </div>
+        <span class="hdr-badge">Dinamik Aspect Analizi</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="page">
+
+      <!-- SIDEBAR -->
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-label" style="padding:12px 24px 8px">Kategori</div>
+        <div class="cat-tabs" id="cat-tabs"></div>
+
+        <div class="sidebar-label" style="padding:4px 24px 8px">Ürünler</div>
+        <div class="search-wrap">
+          <input class="search-input" id="search-input" placeholder="Ürün ara..."
+            oninput="filterProducts(this.value)" />
+        </div>
+        <div class="prod-list" id="prod-list">
+          <div style="padding:20px 8px;color:var(--t3);font-size:.8rem">Kategori seçin...</div>
+        </div>
+      </aside>
+
+      <!-- MAIN -->
+      <div class="main-content">
+        <div id="loading">
+          <div class="spinner"></div>
+          <p>Ürün analizi yükleniyor...</p>
+        </div>
+
+        <div id="empty-state" class="empty-state">
+          <div class="empty-icon">🔍</div>
+          <div class="empty-title">Ürün Seçin</div>
+          <div class="empty-sub">Sol panelden bir kategori, ardından analiz etmek istediğiniz ürünü
+            seçin.<br />Yorumlardan dinamik olarak aspect'ler çıkarılacak ve puanlanacaktır.</div>
+        </div>
+
+        <div id="product-panel" style="display:none"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- MODAL -->
+  <div class="modal-overlay" id="modal">
+    <div class="modal">
+      <div class="modal-hdr">
+        <div class="modal-ttl" id="modal-ttl"></div>
+        <div class="modal-close" onclick="closeModal()">✕</div>
+      </div>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script>
+    const CATS = {
+      airfryer: { label: "Airfryer", icon: "🍳" },
+      akilli_saat: { label: "Akıllı Saat", icon: "⌚" },
+      erkek_kot: { label: "Erkek Kot", icon: "👖" },
+      kadin_canta: { label: "Kadın Çanta", icon: "👜" },
+      kadin_tayt: { label: "Kadın Tayt", icon: "🩱" },
+      "kulaklık": { label: "Kulaklık", icon: "🎧" },
+      mouse: { label: "Mouse", icon: "🖱️" },
+      nevresim: { label: "Nevresim", icon: "🛏️" },
+      sandalye: { label: "Sandalye", icon: "🪑" },
+      spor_ayakkabi: { label: "Spor Ayakkabı", icon: "👟" },
+    };
+
+    const COLORS = [
+      { bg: "rgba(124,109,248,.16)", c: "#7c6df8" },
+      { bg: "rgba(56,189,248,.16)", c: "#38bdf8" },
+      { bg: "rgba(52,211,153,.16)", c: "#34d399" },
+      { bg: "rgba(251,191,36,.16)", c: "#fbbf24" },
+      { bg: "rgba(248,113,113,.16)", c: "#f87171" },
+      { bg: "rgba(167,139,250,.16)", c: "#a78bfa" },
+      { bg: "rgba(251,146,60,.16)", c: "#fb923c" },
+      { bg: "rgba(34,197,94,.16)", c: "#22c55e" },
+    ];
+
+    let currentCat = null;
+    let allProducts = [];
+    let currentProduct = null;
+
+    /* ── INIT ─────────────────────────────────────────── */
+    (async function init() {
+      const tabs = document.getElementById("cat-tabs");
+      Object.entries(CATS).forEach(([key, val]) => {
+        const btn = document.createElement("button");
+        btn.className = "cat-tab";
+        btn.id = `ctab-${key}`;
+        btn.innerHTML = `<span class="ci">${val.icon}</span>${val.label}`;
+        btn.addEventListener("click", () => loadCat(key));
+        tabs.appendChild(btn);
+      });
+    })();
+
+    /* ── LOAD CATEGORY ────────────────────────────────── */
+    async function loadCat(cat) {
+      if (currentCat === cat) return;
+      currentCat = cat;
+
+      document.querySelectorAll(".cat-tab").forEach(b => b.classList.remove("active"));
+      document.getElementById(`ctab-${cat}`)?.classList.add("active");
+      document.getElementById("search-input").value = "";
+
+      const list = document.getElementById("prod-list");
+      list.innerHTML = `<div style="padding:16px 8px;color:var(--t2);font-size:.8rem">Yükleniyor...</div>`;
+
+      try {
+        const res = await fetch(`data/products/${cat}/index.json`);
+        const data = await res.json();
+        allProducts = data.products || [];
+        renderProductList(allProducts);
+      } catch (e) {
+        list.innerHTML = `<div style="padding:16px 8px;color:var(--red);font-size:.8rem">Veri yüklenemedi</div>`;
+      }
+    }
+
+    /* ── PRODUCT LIST ─────────────────────────────────── */
+    function renderProductList(products) {
+      const list = document.getElementById("prod-list");
+      list.innerHTML = "";
+
+      if (!products.length) {
+        list.innerHTML = `<div style="padding:16px 8px;color:var(--t3);font-size:.8rem">Ürün bulunamadı</div>`;
+        return;
+      }
+
+      products.forEach(p => {
+        const s = p.overall_score;
+        const scoreColor = s >= 4.5 ? "#34d399" : s >= 3.5 ? "#fbbf24" : "#f87171";
+        const div = document.createElement("div");
+        div.className = "prod-item";
+        div.id = `pitem-${p.product_id}`;
+        div.innerHTML = `
+      <div class="prod-score" style="background:rgba(${scoreColor.includes('34d') ? "52,211,153" : scoreColor.includes('fbb') ? "251,191,36" : "248,113,113"},.14);color:${scoreColor}">
+        ${s.toFixed(1)}
+      </div>
+      <div class="prod-info">
+        <div class="prod-name" title="${escapeHtml(p.product_name)}">${escapeHtml(truncate(p.product_name, 60))}</div>
+        <div class="prod-meta">${p.total_reviews} yorum · ${p.aspect_count} aspect</div>
+      </div>`;
+        div.addEventListener("click", () => loadProduct(p.product_id));
+        list.appendChild(div);
+      });
+    }
+
+    function filterProducts(q) {
+      const filtered = q.trim()
+        ? allProducts.filter(p => p.product_name.toLowerCase().includes(q.toLowerCase()))
+        : allProducts;
+      renderProductList(filtered);
+    }
+
+    /* ── LOAD PRODUCT ─────────────────────────────────── */
+    async function loadProduct(pid) {
+      document.querySelectorAll(".prod-item").forEach(i => i.classList.remove("active"));
+      document.getElementById(`pitem-${pid}`)?.classList.add("active");
+
+      document.getElementById("empty-state").style.display = "none";
+      document.getElementById("product-panel").style.display = "none";
+      document.getElementById("loading").style.display = "block";
+
+      try {
+        const res = await fetch(`data/products/${currentCat}/${pid}.json`);
+        const data = await res.json();
+        currentProduct = data;
+        renderProduct(data);
+      } catch (e) {
+        document.getElementById("loading").innerHTML = `<p style="color:var(--red)">⚠️ Veri yüklenemedi</p>`;
+      }
+    }
+
+    /* ── RENDER PRODUCT ───────────────────────────────── */
+    function renderProduct(d) {
+      document.getElementById("loading").style.display = "none";
+      const panel = document.getElementById("product-panel");
+      panel.style.display = "block";
+
+      const s = d.overall_score;
+      const scoreColor = s >= 4.5 ? "var(--green)" : s >= 3.5 ? "var(--yellow)" : "var(--red)";
+
+      // Score distribution
+      const dist = d.score_distribution || {};
+      const maxD = Math.max(...Object.values(dist).map(Number));
+      const distHTML = [5, 4, 3, 2, 1].map(n => {
+        const cnt = dist[n] ?? 0;
+        const pct = maxD > 0 ? (cnt / maxD * 100) : 0;
+        const col = n >= 4 ? "var(--green)" : n === 3 ? "var(--yellow)" : "var(--red)";
+        return `<div class="sd-item">
+      <div class="sd-label" style="color:${col}">${n}★</div>
+      <div class="sd-bar-wrap"><div class="sd-bar" style="width:${pct}%;background:${col}"></div></div>
+      <div class="sd-count">${cnt}</div>
+    </div>`;
+      }).join("");
+
+      // Summary html
+      const sumHTML = (d.summary || "")
+        .split("\n")
+        .map(line => {
+          const escaped = line.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+          return line.startsWith("•")
+            ? `<div style="display:flex;gap:8px;margin-top:7px"><span style="color:var(--accent2);flex-shrink:0">•</span><span>${escaped.slice(1).trim()}</span></div>`
+            : `<div style="margin-bottom:6px">${escaped}</div>`;
+        })
+        .join("");
+
+      // URL badge
+      const urlShort = d.product_url ? d.product_url.replace("https://www.trendyol.com/", "trendyol.com/") : "";
+      const urlLink = d.product_url ? `<a href="${d.product_url}" target="_blank" rel="noopener">${urlShort.slice(0, 70)}${urlShort.length > 70 ? "..." : ""}</a>` : "";
+
+      // Aspects
+      const aspectsHTML = (d.aspects || []).map((a, i) => {
+        const col = COLORS[i % COLORS.length];
+        const sc = a.avg_score;
+        const rc = sc >= 4.5 ? "var(--green)" : sc >= 3.5 ? "var(--yellow)" : "var(--red)";
+        const pilgClass = sc >= 4.2 ? "pill-pos" : sc >= 3.2 ? "pill-neu" : "pill-neg";
+
+        const radius = 18;
+        const circ = 2 * Math.PI * radius;
+        const offset = circ - (sc / 5) * circ;
+
+        const kwHTML = (a.top_terms || []).slice(0, 6).map(k => `<span class="kw">${escapeHtml(k)}</span>`).join("");
+
+        return `
+    <div class="aspect-card" onclick="openModal(${i})">
+      <div class="ac-top">
+        <div class="ac-icon" style="background:${col.bg};color:${col.c}">${a.icon}</div>
+        <div class="ac-info">
+          <div class="ac-name">${escapeHtml(a.name)}</div>
+          <div class="ac-count">${a.review_count} yorum</div>
+        </div>
+        <div class="ac-pill ${pilgClass}">${a.sentiment_label}</div>
+      </div>
+      <div class="ring-row">
+        <div class="ring">
+          <svg width="48" height="48" viewBox="0 0 48 48">
+            <circle cx="24" cy="24" r="${radius}" fill="none" stroke="rgba(255,255,255,.06)" stroke-width="4"/>
+            <circle cx="24" cy="24" r="${radius}" fill="none" stroke="${rc}" stroke-width="4"
+              stroke-dasharray="${circ.toFixed(1)}" stroke-dashoffset="${offset.toFixed(1)}" stroke-linecap="round"/>
+          </svg>
+          <div class="ring-txt" style="color:${rc}">${sc.toFixed(1)}</div>
+        </div>
+        <div class="ring-info">
+          <div class="ring-val">${sc.toFixed(2)} / 5.00</div>
+          <div class="ring-sub">Ortalama müşteri puanı</div>
+        </div>
+      </div>
+      <div class="sent-bar">
+        <div class="sb-p" style="width:${a.positive_pct}%"></div>
+        <div class="sb-n-bar" style="width:${a.neutral_pct}%"></div>
+        <div class="sb-neg" style="width:${a.negative_pct}%"></div>
+      </div>
+      <div class="sent-legend">
+        <span><span class="dot" style="background:var(--green)"></span>Olumlu ${a.positive_pct}%</span>
+        <span><span class="dot" style="background:var(--yellow)"></span>Nötr ${a.neutral_pct}%</span>
+        <span><span class="dot" style="background:var(--red)"></span>Olumsuz ${a.negative_pct}%</span>
+      </div>
+      <div class="kws">${kwHTML}</div>
+    </div>`;
+      }).join("");
+
+      panel.innerHTML = `
+    <!-- PRODUCT HEADER -->
+    <div class="product-header">
+      <div class="ph-top">
+        <div class="ph-left">
+          <div class="ph-cat">${escapeHtml(d.category_label)} · ${d.total_reviews} Yorum Analiz Edildi</div>
+          <div class="ph-name">${escapeHtml(d.product_name)}</div>
+          ${urlLink ? `<div class="ph-url">🔗 ${urlLink}</div>` : ""}
+        </div>
+        <div class="score-bubble">
+          <div class="sb-num" style="color:${scoreColor}">${s.toFixed(1)}</div>
+          <div class="sb-stars" style="color:${scoreColor}">${starsStr(s)}</div>
+          <div class="sb-label">Genel Skor</div>
+        </div>
+      </div>
+
+      <!-- SUMMARY -->
+      <div class="summary-box">${sumHTML}</div>
+
+      <!-- DIST -->
+      <div class="score-dist">${distHTML}</div>
+    </div>
+
+    <!-- ASPECTS -->
+    <div class="section-hd">
+      <h2>Dinamik Aspect Analizi</h2>
+      <span class="badge">${d.aspects?.length ?? 0} konu keşfedildi</span>
+    </div>
+    <div class="aspect-grid">${aspectsHTML}</div>
+  `;
+    }
+
+    /* ── MODAL ────────────────────────────────────────── */
+    function openModal(idx) {
+      if (!currentProduct) return;
+      const a = currentProduct.aspects[idx];
+      const col = COLORS[idx % COLORS.length];
+      const scoreColor = a.avg_score >= 4.5 ? "var(--green)" : a.avg_score >= 3.5 ? "var(--yellow)" : "var(--red)";
+
+      document.getElementById("modal-ttl").innerHTML =
+        `<span style="margin-right:8px">${a.icon}</span>${escapeHtml(a.name)}`;
+
+      const reviews = (a.sample_reviews || []).map(r =>
+        `<div class="review-card">${escapeHtml(r)}</div>`
+      ).join("") || `<div class="review-card" style="color:var(--t2)">Örnek yorum bulunamadı.</div>`;
+
+      const allReviews = (a.all_reviews || []);
+      const sampleTexts = new Set(a.sample_reviews || []);
+      const remainingReviews = allReviews.filter(r => !sampleTexts.has(r.text));
+
+      const sentColor = s => s >= 4.5 ? "var(--green)" : s >= 3.0 ? "var(--yellow)" : "var(--red)";
+      const allReviewsHTML = remainingReviews.length > 0
+        ? `<p style="font-size:.7rem;color:var(--t3);text-transform:uppercase;letter-spacing:1px;margin:18px 0 10px">Bu Aspecte Ait Tüm Yorumlar <span style="color:var(--t2);text-transform:none;font-size:.75rem">(${remainingReviews.length} yorum)</span></p>
+           <div style="display:flex;flex-direction:column;gap:8px">
+           ${remainingReviews.map(r => `
+             <div class="review-card" style="display:flex;gap:10px;align-items:flex-start">
+               <span style="font-size:.85rem;font-weight:700;color:${sentColor(r.score)};white-space:nowrap;margin-top:2px">${"★".repeat(Math.round(r.score))}</span>
+               <span>${escapeHtml(r.text)}</span>
+             </div>`).join("")}
+           </div>`
+        : "";
+
+      const kws = (a.top_terms || []).map(k => `<span class="kw">${escapeHtml(k)}</span>`).join("");
+
+      document.getElementById("modal-body").innerHTML = `
+    <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:20px">
+      ${stat(a.avg_score.toFixed(2), "Ort. Puan", col.c)}
+      ${stat(a.positive_pct + "%", "Olumlu", "var(--green)")}
+      ${stat(a.negative_pct + "%", "Olumsuz", "var(--red)")}
+      ${stat(a.review_count, "Yorum", "var(--t1)")}
+    </div>
+    <div class="kws" style="margin-bottom:18px">${kws}</div>
+    <p style="font-size:.7rem;color:var(--t3);text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">Temsili Yorumlar</p>
+    ${reviews}
+    ${allReviewsHTML}
+  `;
+
+      document.getElementById("modal").classList.add("open");
+    }
+
+    function stat(val, label, color) {
+      return `<div style="background:var(--bg-2);border:1px solid var(--border);border-radius:12px;padding:12px;text-align:center">
+    <div style="font-size:1.4rem;font-weight:800;color:${color}">${val}</div>
+    <div style="font-size:.68rem;color:var(--t2);margin-top:3px">${label}</div>
+  </div>`;
+    }
+
+    function closeModal() {
+      document.getElementById("modal").classList.remove("open");
+    }
+    document.getElementById("modal").addEventListener("click", e => {
+      if (e.target === document.getElementById("modal")) closeModal();
+    });
+
+    /* ── HELPERS ──────────────────────────────────────── */
+    function starsStr(s) {
+      const f = Math.floor(s);
+      const h = (s - f) >= 0.4 ? "½" : "";
+      return "★".repeat(f) + h + "☆".repeat(5 - f - (h ? 1 : 0));
+    }
+    function truncate(s, n) { return s.length > n ? s.slice(0, n) + "…" : s; }
+    function escapeHtml(s) {
+      return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    }
+  </script>
+</body>
+
+</html>

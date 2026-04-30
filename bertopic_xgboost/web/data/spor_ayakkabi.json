@@ -1,0 +1,223 @@
+{
+  "category": "spor_ayakkabi",
+  "category_label": "Spor Ayakkabı",
+  "total_reviews": 1425,
+  "overall_score": 4.79,
+  "overall_sentiment": "positive",
+  "summary": "Spor Ayakkabı kategorisi, 1425 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Rahat Kullanım**, **Numaranızı**, **Fiyat & Değer** konularında yüksek memnuniyet bildirmektedir. Genel olarak Spor Ayakkabı ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 17,
+    "2": 7,
+    "3": 21,
+    "4": 168,
+    "5": 1212
+  },
+  "aspects": [
+    {
+      "name": "Rahat Kullanım",
+      "review_count": 437,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "rahat",
+        "tavsiye ederim",
+        "ayakkabı",
+        "çok rahat",
+        "bir ayakkabı",
+        "teşekkür ederim"
+      ],
+      "positive_pct": 87.0,
+      "negative_pct": 3.4,
+      "neutral_pct": 9.6,
+      "sample_reviews": [
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim"
+      ],
+      "icon": "😌"
+    },
+    {
+      "name": "Numaranızı",
+      "review_count": 173,
+      "avg_score": 4.88,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "numaranızı",
+        "kendi numaranızı",
+        "numaranızı alabilirsiniz",
+        "tam numaranızı",
+        "numaranızı alın",
+        "kendi",
+        "rahat",
+        "çok rahat"
+      ],
+      "positive_pct": 89.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.0,
+      "sample_reviews": [
+        "arkadaşlar verdiğiniz paraya değer gerçekrwn çok rahat kullanışlı bir ürün bayılarak kullanıyorum tam numaranızı alabilirsiniz ben 37 giyiyorum 37 aldım tam kalıp",
+        "arkadaşlar verdiğiniz paraya değer gerçekrwn çok rahat kullanışlı bir ürün bayılarak kullanıyorum tam numaranızı alabilirsiniz ben 37 giyiyorum 37 aldım tam kalıp",
+        "arkadaşlar verdiğiniz paraya değer gerçekrwn çok rahat kullanışlı bir ürün bayılarak kullanıyorum tam numaranızı alabilirsiniz ben 37 giyiyorum 37 aldım tam kalıp"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Değer",
+      "review_count": 169,
+      "avg_score": 4.66,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürün",
+        "çok iyi",
+        "tam beden",
+        "fiyatına göre",
+        "fiyatına",
+        "hızlı",
+        "alınabilir"
+      ],
+      "positive_pct": 72.8,
+      "negative_pct": 0.6,
+      "neutral_pct": 26.6,
+      "sample_reviews": [
+        "kalitesi çok güzel bu kadar beklemiyordum fiyatına göre çok iyi ve rahat 39 numara giyiyorum 39 aldım tam istediğim gibi oldu ayrıca 2 günde elime ulaştı hızlı kargo ve kaliteli satışınız için teşekkürler beklentimi gayet güzel karşıladı güvenle alabilirsiniz",
+        "kalitesi çok güzel bu kadar beklemiyordum fiyatına göre çok iyi ve rahat 39 numara giyiyorum 39 aldım tam istediğim gibi oldu ayrıca 2 günde elime ulaştı hızlı kargo ve kaliteli satışınız için teşekkürler beklentimi gayet güzel karşıladı güvenle alabilirsiniz",
+        "fiyatına göre çok iyi hem girisini hem siyahını aldım çokta memnun kaldım benim ayaklarım taraklı olduğu halde çok rahat bir ayakkabı tavsiye ederim kendi numaranızı alabilirsiniz satıcıya ve trentyola çok teşekürler"
+      ],
+      "icon": "💰"
+    },
+    {
+      "name": "Tam oldu",
+      "review_count": 163,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "tam oldu",
+        "aldım tam",
+        "numaramı",
+        "giyiyorum",
+        "numaramı aldım",
+        "numara",
+        "kendi numaramı",
+        "küçük"
+      ],
+      "positive_pct": 84.0,
+      "negative_pct": 3.1,
+      "neutral_pct": 12.9,
+      "sample_reviews": [
+        "çok rahat bir ayakkabı ancak numaralarda bir sorun var normalde 37 5 giyiyorum olmadığından 38 aldım o bile 37 numara gibi küçük parmağım dayandı 38 giyen biri 39 alsa bu sefer de büyük gelecek bence tam numaranızı almayın 1 numara büyük alın ve içine keçe falan koyun daha denemeden bu 37 dedim ama altında 38 yazıyor üretim hatası olduğunu düşünüyorum",
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çok güzel",
+      "review_count": 140,
+      "avg_score": 4.79,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok güzel",
+        "güzel tam",
+        "rahat",
+        "güzel çok",
+        "güzel rahat",
+        "bedeninizi",
+        "çok rahat",
+        "ayakkabı"
+      ],
+      "positive_pct": 79.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.7,
+      "sample_reviews": [
+        "çok güzel çok rahat tam bedeninizi alabilirsiniz ben normalde 37.5 giyiyorum ama buçuklu numara olmadığı için 38 verdim biraz büyük oldu ayağıma ama duruşu görünüşü çok güzel fiyat performans ürünü",
+        "çok güzel çok rahat tam bedeninizi alabilirsiniz ben normalde 37.5 giyiyorum ama buçuklu numara olmadığı için 38 verdim biraz büyük oldu ayağıma ama duruşu görünüşü çok güzel fiyat performans ürünü",
+        "çok uygun fiyata aldım severek kullanıyorum kendi numaranızı tercih edebilirsiniz duruşu çok güzel"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numara",
+      "review_count": 138,
+      "avg_score": 4.86,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "numara",
+        "kalıp",
+        "tam kalıp",
+        "tam numara",
+        "kalıp alabilirsiniz",
+        "numara alabilirsiniz",
+        "beğendim tam",
+        "numara büyük"
+      ],
+      "positive_pct": 86.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 13.8,
+      "sample_reviews": [
+        "resimde göründüğü gibi geldi ayağımda çok hoş durdu 37 numara almıştım yanlardan biraz sıkıyor ama iade etmicem açılır diye düşünüyorum alacak olanlar bir numara büyük alabilir",
+        "resimde göründüğü gibi geldi ayağımda çok hoş durdu 37 numara almıştım yanlardan biraz sıkıyor ama iade etmicem açılır diye düşünüyorum alacak olanlar bir numara büyük alabilir",
+        "beğendim çok güzel duruyor ayağım tam ara numara 36 dar 37 geniş oluyor genelde ama 37 almama rağmen ayağımı sıktı diyebilirim bir numara büyük alınmalı onun dışında beğendim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Aldım çok",
+      "review_count": 131,
+      "avg_score": 4.84,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldım çok",
+        "beğendi",
+        "çok beğendi",
+        "kızım",
+        "kızıma",
+        "için aldım",
+        "kızıma aldım",
+        "kardeşime"
+      ],
+      "positive_pct": 88.5,
+      "negative_pct": 2.3,
+      "neutral_pct": 9.2,
+      "sample_reviews": [
+        "kızım için almıştım çok beğendi fiyatına göre oldukça iyi indirimde iken aldım 38 numara giyiyor ayağına tam oldu teslimat hızlı idi satıcıya hediyesi için teşekkür ederim kahve de güzeldi",
+        "kızım için almıştım çok beğendi fiyatına göre oldukça iyi indirimde iken aldım 38 numara giyiyor ayağına tam oldu teslimat hızlı idi satıcıya hediyesi için teşekkür ederim kahve de güzeldi",
+        "kızım için almıştım çok beğendi fiyatına göre oldukça iyi indirimde iken aldım 38 numara giyiyor ayağına tam oldu teslimat hızlı idi satıcıya hediyesi için teşekkür ederim kahve de güzeldi"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Beden & Kalıp",
+      "review_count": 74,
+      "avg_score": 4.97,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kaliteli",
+        "bedeninizi",
+        "bedeninizi alın",
+        "rahat",
+        "cok rahat",
+        "neyse",
+        "numaranız",
+        "kalip"
+      ],
+      "positive_pct": 97.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 2.7,
+      "sample_reviews": [
+        "alırken tereddüt ettim ama muhteşem kaliteli sağlam ürün ve sağlam kaliteli sayfa bulmak zor artık sürekli burdan alırım helal olsun aldığınız her kuruş teşekkür ederim kargoda paketleme de süper di",
+        "alırken tereddüt ettim ama muhteşem kaliteli sağlam ürün ve sağlam kaliteli sayfa bulmak zor artık sürekli burdan alırım helal olsun aldığınız her kuruş teşekkür ederim kargoda paketleme de süper di",
+        "yorumlara bakarak 1 numara buyuk aldim buyuk geldi tam bedeninizi aldin yanilma oluyor ayakkabi cok kaliteli ama"
+      ],
+      "icon": "📏"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

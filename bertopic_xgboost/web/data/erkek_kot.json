@@ -1,0 +1,224 @@
+{
+  "category": "erkek_kot",
+  "category_label": "Erkek Kot Pantolon",
+  "total_reviews": 1054,
+  "overall_score": 4.76,
+  "overall_sentiment": "positive",
+  "summary": "Erkek Kot Pantolon kategorisi, 1054 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Rahat**, **Kalite & Dayanıklılık**, **Tam oldu** konularında yüksek memnuniyet bildirmektedir. Genel olarak Erkek Kot Pantolon ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 28,
+    "2": 8,
+    "3": 17,
+    "4": 78,
+    "5": 923
+  },
+  "aspects": [
+    {
+      "name": "Rahat",
+      "review_count": 263,
+      "avg_score": 4.28,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "rahat",
+        "ürün",
+        "fiyatına",
+        "kalite",
+        "fiyatına göre",
+        "çok iyi",
+        "mükemmel"
+      ],
+      "positive_pct": 68.1,
+      "negative_pct": 12.2,
+      "neutral_pct": 19.8,
+      "sample_reviews": [
+        "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
+        "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
+        "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz"
+      ],
+      "icon": "😌"
+    },
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 188,
+      "avg_score": 4.93,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok güzel",
+        "kaliteli",
+        "kendi",
+        "çok beğendim",
+        "çok kaliteli",
+        "ürün",
+        "kendi bedeninizi",
+        "harika"
+      ],
+      "positive_pct": 93.1,
+      "negative_pct": 0.0,
+      "neutral_pct": 6.9,
+      "sample_reviews": [
+        "32 beden olarak aldım hafiften göbekte var daha önce bir ürün daha almıştım yine bu tarz çok güzel çok kaliteli çık beğendim indirime girdiğinde kaçırmayın derim yorumum fake değildir",
+        "32 beden olarak aldım hafiften göbekte var daha önce bir ürün daha almıştım yine bu tarz çok güzel çok kaliteli çık beğendim indirime girdiğinde kaçırmayın derim yorumum fake değildir",
+        "çok kaliteli daha önce aynısının farklı rengini de almıştık o da çok güzeldi tam slim fit durmasını istiyorsanız bedeninizi alın eşim 185 boyunda 85 kilo 31 beden tam sardı"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Tam oldu",
+      "review_count": 133,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "tam oldu",
+        "beden tam",
+        "bir ürün",
+        "kilo",
+        "ürün",
+        "boy kilo",
+        "kilo beden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "yorumlardan hareket ederek aldım gerçekten çok kaliteli geldi eşim 100 kilo 1.8 7 boyunda 36 32 beden aldım tam oldu bundan sonra da adresim burası olacak her rengini aldım hepsi çok güzel oldu",
+        "yorumlardan hareket ederek aldım gerçekten çok kaliteli geldi eşim 100 kilo 1.8 7 boyunda 36 32 beden aldım tam oldu bundan sonra da adresim burası olacak her rengini aldım hepsi çok güzel oldu",
+        "eşim için aldım likralı ve yumuşak bir dokusu var çok beğendik 175 boy 88 kilo tam oldu teşekkürler hlt jeans alacak olanlar tereddüt etmeden alabilirler tavsiye ederim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Beğendi",
+      "review_count": 126,
+      "avg_score": 4.98,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beğendi",
+        "aldım çok",
+        "eşime",
+        "eşime aldım",
+        "çok beğendi",
+        "çok güzel",
+        "tam kalıp",
+        "kalıp"
+      ],
+      "positive_pct": 97.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 2.4,
+      "sample_reviews": [
+        "ürünü eşim çok beğendi kottan nefret eden biri olarak dolabını yeniliyorum yorumlara bakarak yumuşak kot olduğunu görünce aldım tavsiye ederim fiyat yükselmesi yapılmazsa daha uzun süreçte de alacağım",
+        "ürünü eşim çok beğendi kottan nefret eden biri olarak dolabını yeniliyorum yorumlara bakarak yumuşak kot olduğunu görünce aldım tavsiye ederim fiyat yükselmesi yapılmazsa daha uzun süreçte de alacağım",
+        "ürünü eşim çok beğendi kottan nefret eden biri olarak dolabını yeniliyorum yorumlara bakarak yumuşak kot olduğunu görünce aldım tavsiye ederim fiyat yükselmesi yapılmazsa daha uzun süreçte de alacağım"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Tam beden",
+      "review_count": 125,
+      "avg_score": 4.85,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "tam beden",
+        "güzel tam",
+        "kaliteli",
+        "beden alın",
+        "çok güzel",
+        "beden alabilirsiniz",
+        "beden geldi",
+        "kaliteli tam"
+      ],
+      "positive_pct": 89.6,
+      "negative_pct": 1.6,
+      "neutral_pct": 8.8,
+      "sample_reviews": [
+        "ürün elime hızlı ve sorunsuz bir şekilde yetişti tam beden uyumlu aldım ve öyle geldi teşekkürler",
+        "ürün elime hızlı ve sorunsuz bir şekilde yetişti tam beden uyumlu aldım ve öyle geldi teşekkürler",
+        "mükemmel güzel bir kumaşı var tam beden alınmalı rengide görseldekiyle aynı şekilde geldi"
+      ],
+      "icon": "📏"
+    },
+    {
+      "name": "Satıcı & Hizmet",
+      "review_count": 86,
+      "avg_score": 4.98,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teşekkür ederim",
+        "hediye",
+        "kaliteli",
+        "için teşekkür",
+        "ürün",
+        "teşekkür ediyorum",
+        "hediye için",
+        "ayrıca teşekkür"
+      ],
+      "positive_pct": 97.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 2.3,
+      "sample_reviews": [
+        "kalitesine ve sağlamlığına güvenin çok beğendim dört tane aldım firmaya ve satıcıya ayrı ayrı teşekkür ederim hızlı ve sorunsuz teslimat için için kargo firmasına ve kurye ye ayrıca teşekkür ederim başarılarınızın devamını dilerim hediye ve iyi dilekleriniz için ayrıca teşekkür ederim 182 boy 80 kilo 42 beden tam oldu",
+        "kalitesine ve sağlamlığına güvenin çok beğendim dört tane aldım firmaya ve satıcıya ayrı ayrı teşekkür ederim hızlı ve sorunsuz teslimat için için kargo firmasına ve kurye ye ayrıca teşekkür ederim başarılarınızın devamını dilerim hediye ve iyi dilekleriniz için ayrıca teşekkür ederim 182 boy 80 kilo 42 beden tam oldu",
+        "kalitesine ve sağlamlığına güvenin çok beğendim dört tane aldım firmaya ve satıcıya ayrı ayrı teşekkür ederim hızlı ve sorunsuz teslimat için için kargo firmasına ve kurye ye ayrıca teşekkür ederim başarılarınızın devamını dilerim hediye ve iyi dilekleriniz için ayrıca teşekkür ederim 182 boy 80 kilo 42 beden tam oldu"
+      ],
+      "icon": "🏪"
+    },
+    {
+      "name": "Bedeninizi",
+      "review_count": 74,
+      "avg_score": 4.97,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "bedeninizi",
+        "bedeninizi alın",
+        "tam bedeninizi",
+        "ürün",
+        "kaliteli",
+        "güzel ürün",
+        "bedeninizi alabilirsiniz",
+        "rahat"
+      ],
+      "positive_pct": 97.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 2.7,
+      "sample_reviews": [
+        "oğluma aldım çok beğendi kaliteli güzel tam bedeninizi alın fiyatısa iyi ben küçük beden aldım iaede ettim 5am bedenini birazda büyük aldım rahat giyer düşünmeden alın",
+        "oğluma aldım çok beğendi kaliteli güzel tam bedeninizi alın fiyatısa iyi ben küçük beden aldım iaede ettim 5am bedenini birazda büyük aldım rahat giyer düşünmeden alın",
+        "mükemmel çok rahat tam bedeninizi alın şimdi diğer ürünün renginide sipariş ettim başarılı"
+      ],
+      "icon": "📏"
+    },
+    {
+      "name": "Beden & Kalıp",
+      "review_count": 59,
+      "avg_score": 4.66,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "bir beden",
+        "beden büyük",
+        "büyük",
+        "büyük alın",
+        "küçük",
+        "beden küçük",
+        "büyük almanızı",
+        "alınmalı"
+      ],
+      "positive_pct": 76.3,
+      "negative_pct": 3.4,
+      "neutral_pct": 20.3,
+      "sample_reviews": [
+        "çok güzel bir ürünler sağlam ve hızlı kargo bir beden büyük aldık iyi oldu 2 renk aldım eşime bayıldı herkese tavsiye ediyorum emeği geçen herkese çok teşekkür ederim",
+        "çok güzel bir ürünler sağlam ve hızlı kargo bir beden büyük aldık iyi oldu 2 renk aldım eşime bayıldı herkese tavsiye ediyorum emeği geçen herkese çok teşekkür ederim",
+        "çok güzel bir ürünler sağlam ve hızlı kargo bir beden büyük aldık iyi oldu 2 renk aldım eşime bayıldı herkese tavsiye ediyorum emeği geçen herkese çok teşekkür ederim"
+      ],
+      "icon": "📏"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

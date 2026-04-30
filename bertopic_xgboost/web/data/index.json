@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "category": "airfryer",
+      "category_label": "Airfryer",
+      "total_reviews": 1143,
+      "overall_score": 4.87,
+      "aspect_count": 8
+    },
+    {
+      "category": "akilli_saat",
+      "category_label": "Akıllı Saat",
+      "total_reviews": 1110,
+      "overall_score": 4.75,
+      "aspect_count": 8
+    },
+    {
+      "category": "erkek_kot",
+      "category_label": "Erkek Kot Pantolon",
+      "total_reviews": 1054,
+      "overall_score": 4.76,
+      "aspect_count": 8
+    },
+    {
+      "category": "kadin_canta",
+      "category_label": "Kadın Çanta",
+      "total_reviews": 1280,
+      "overall_score": 4.77,
+      "aspect_count": 8
+    },
+    {
+      "category": "kadin_tayt",
+      "category_label": "Kadın Tayt",
+      "total_reviews": 1150,
+      "overall_score": 4.85,
+      "aspect_count": 8
+    },
+    {
+      "category": "kulaklık",
+      "category_label": "Kablosuz Kulaklık",
+      "total_reviews": 1403,
+      "overall_score": 4.92,
+      "aspect_count": 8
+    },
+    {
+      "category": "mouse",
+      "category_label": "Mouse",
+      "total_reviews": 1220,
+      "overall_score": 4.9,
+      "aspect_count": 8
+    },
+    {
+      "category": "nevresim",
+      "category_label": "Nevresim Takımı",
+      "total_reviews": 1219,
+      "overall_score": 4.7,
+      "aspect_count": 8
+    },
+    {
+      "category": "sandalye",
+      "category_label": "Sandalye",
+      "total_reviews": 1076,
+      "overall_score": 4.76,
+      "aspect_count": 8
+    },
+    {
+      "category": "spor_ayakkabi",
+      "category_label": "Spor Ayakkabı",
+      "total_reviews": 1425,
+      "overall_score": 4.79,
+      "aspect_count": 8
+    }
+  ]
+}

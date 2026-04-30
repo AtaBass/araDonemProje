@@ -1,0 +1,18 @@
+Girdi: kulaklık_preprocessed.csv
+Toplam yorum: 1403
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: bir, güzel, ses, çok güzel, ve, iyi, ürün, kalitesi, aldım, de | mapped aspects: kalite, ses, tasarım
+- topic 1: ederim, teşekkür, ürün, teşekkür ederim, geldi, ve, ses, güzel, iyi, kalitesi | mapped aspects: kalite, ses, tasarım
+- topic 2: aldım, için, bir, güzel, ürün, ederim, memnun, iyi, hediye, fiyat | mapped aspects: fiyat, tasarım
+- topic 3: ses, iyi, bu, kalitesi, ses kalitesi, ve, ürün, güzel, çok iyi, bir | mapped aspects: kalite, ses, tasarım
+- topic 4: ses, güzel, iyi, ederim, tavsiye, de, aldım, kalitesi, ve, tavsiye ederim | mapped aspects: kalite, ses, tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=480 | ilgili_yorum=480
+- ses: frekans=373 | ilgili_yorum=373
+- kalite: frekans=290 | ilgili_yorum=290
+- fiyat: frekans=112 | ilgili_yorum=112

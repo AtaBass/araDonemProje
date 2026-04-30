@@ -1,0 +1,16 @@
+Girdi: kadin_canta_preprocessed.csv
+Toplam yorum: 1280
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: bir, güzel, teşekkür, ederim, geldi, ve, teşekkür ederim, gibi, çanta, kaliteli | mapped aspects: kalite, tasarım
+- topic 1: güzel, çok güzel, bir, çanta, küçük, ve, ama, ederim, bir çanta, aldım | mapped aspects: tasarım
+- topic 2: bir, çanta, ve, güzel, aldım, bir çanta, beğendim, kaliteli, için, hediye | mapped aspects: kalite, tasarım
+- topic 3: güzel, çok güzel, beğendim, çanta, çok beğendim, iyi, ve, bir, kaliteli, da | mapped aspects: kalite, tasarım
+- topic 4: için, aldım, şık, güzel, bir, ve, harika, çanta, kullanışlı, hem | mapped aspects: tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=533 | ilgili_yorum=533
+- kalite: frekans=161 | ilgili_yorum=161

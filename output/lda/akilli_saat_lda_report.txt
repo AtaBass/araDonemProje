@@ -1,0 +1,15 @@
+Girdi: akilli_saat_preprocessed.csv
+Toplam yorum: 1110
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: ve, güzel, ürün, bir, beğendim, tavsiye, çok beğendim, ederim, teşekkürler, tavsiye ederim | mapped aspects: tasarım
+- topic 1: güzel, bir, saat, iyi, ürün, bu, çok güzel, ve, de, cok | mapped aspects: tasarım
+- topic 2: aldım, güzel, ederim, teşekkür, için, çok güzel, aldım çok, teşekkür ederim, beğendi, çok beğendi | mapped aspects: tasarım
+- topic 3: aldım, güzel, ve, gayet, ürün, bir, için, hediye, gayet güzel, aldım çok | mapped aspects: tasarım
+- topic 4: ürün, ve, bir, bu, yok, güzel, var, ama, daha, geldi | mapped aspects: tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=430 | ilgili_yorum=430

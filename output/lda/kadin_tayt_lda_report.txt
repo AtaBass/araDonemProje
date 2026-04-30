@@ -1,0 +1,16 @@
+Girdi: kadin_tayt_preprocessed.csv
+Toplam yorum: 1150
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: çok, beden, bir, alın, aldım, güzel, tam, küçük, ürün, iyi | mapped aspects: beden, tasarım
+- topic 1: çok, güzel, beğendim, tam, beden, çok güzel, rahat, ve, aldım, ederim | mapped aspects: beden, tasarım
+- topic 2: beden, tam, aldım, rahat, oldu, bir, cok, büyük, güzel, gayet | mapped aspects: beden, tasarım
+- topic 3: çok, güzel, beden, aldım, oldu, tam, çok güzel, tam oldu, ve, kilo | mapped aspects: beden, tasarım
+- topic 4: güzel, çok, tam, beden, cok, bu, bir, rahat, ve, iyi | mapped aspects: beden, tasarım
+
+Aspect dağılımı:
+- beden: frekans=481 | ilgili_yorum=481
+- tasarım: frekans=470 | ilgili_yorum=470

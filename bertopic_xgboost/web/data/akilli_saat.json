@@ -1,0 +1,225 @@
+{
+  "category": "akilli_saat",
+  "category_label": "Akıllı Saat",
+  "total_reviews": 1110,
+  "overall_score": 4.75,
+  "overall_sentiment": "positive",
+  "summary": "Akıllı Saat kategorisi, 1110 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Ürün**, **Için aldım**, **Satıcı & Hizmet** konularında yüksek memnuniyet bildirmektedir. Genel olarak Akıllı Saat ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 28,
+    "2": 3,
+    "3": 26,
+    "4": 102,
+    "5": 951
+  },
+  "aspects": [
+    {
+      "name": "Ürün",
+      "review_count": 315,
+      "avg_score": 4.69,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürün",
+        "kaliteli",
+        "gayet",
+        "tavsiye ederim",
+        "çok güzel",
+        "harika",
+        "güzel kaliteli"
+      ],
+      "positive_pct": 86.3,
+      "negative_pct": 4.8,
+      "neutral_pct": 8.9,
+      "sample_reviews": [
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+        "ürün mükemmel şarjı bana 5 gün gidiyor telefona gelen tüm bildirimleri görüyorsunuz hızlı mesajla cevap verme özelliği harika rehbere 10 kişi kaydedip arayabiliyorsunuz harici numaraları tuşlarla çevirip arayabilirsiniz adımsayarı doğru sayıyor kalp ritmi uyku takibi ve daha fazlası sesli görüşmede kalite harika karşıdaki kişi saatle konuştuğunuzu anlamıyor daha yazamadığım bir çok özellik var tavsiye ederim kesinlikle bu fiyata alınacak bir ürün pahalı markalara o kadar para vermeye gerek yok"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Için aldım",
+      "review_count": 152,
+      "avg_score": 4.86,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "için aldım",
+        "kızım",
+        "kızım için",
+        "güzeldi",
+        "ederiz",
+        "paketleme",
+        "oğlum",
+        "teşekkür ederiz"
+      ],
+      "positive_pct": 85.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 14.5,
+      "sample_reviews": [
+        "gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zaten bildirim alabilme ve arama özellikleri çok kullanışlı oluyor günlük hayatta bu bile yeterli olur bizim için teşekkür ederiz",
+        "gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zaten bildirim alabilme ve arama özellikleri çok kullanışlı oluyor günlük hayatta bu bile yeterli olur bizim için teşekkür ederiz",
+        "orijinal modeli almak istiyordum ama fiyatı yüksek geldi bu modeli denemek için aldım görünüş olarak çok benziyor bilekte duruşu şık günlük kullanım için fazlasıyla yeterli özellik olarak da gayet tatmin edici"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Satıcı & Hizmet",
+      "review_count": 147,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldım çok",
+        "beğendi",
+        "çok beğendi",
+        "oğluma",
+        "oğluma aldım",
+        "kızıma",
+        "hediye",
+        "kızıma aldım"
+      ],
+      "positive_pct": 84.4,
+      "negative_pct": 1.4,
+      "neutral_pct": 14.3,
+      "sample_reviews": [
+        "ürün çok hızlı elimize ulaşti eşime hediye aldım çok beğendi bir çok özelliği var bu fiyata çok güzel ürün bu genç girişimci arkadaşlarımızada başarılar diliyorum ilgili ve güvenilir satıcılar buda çok önemli",
+        "ürün çok hızlı elimize ulaşti eşime hediye aldım çok beğendi bir çok özelliği var bu fiyata çok güzel ürün bu genç girişimci arkadaşlarımızada başarılar diliyorum ilgili ve güvenilir satıcılar buda çok önemli",
+        "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum"
+      ],
+      "icon": "🏪"
+    },
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 118,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "saat",
+        "mükemmel",
+        "bir saat",
+        "hediye",
+        "mükemmel ürün",
+        "ediyorum",
+        "ürün",
+        "teşekkür ediyorum"
+      ],
+      "positive_pct": 84.7,
+      "negative_pct": 5.1,
+      "neutral_pct": 10.2,
+      "sample_reviews": [
+        "iphone ile kullanmaya başladım ekran hızı gayet tatmini edici kolda duruşu mükemmel en sevdiğim özelliğide benim gibi günlük 8 saat araç kullanan biri için saat üzerinden konuşma yapmaya bayıldım telefonu çıkarmadan dikkat dağılmadan tek dokunuşla iletişim",
+        "iphone ile kullanmaya başladım ekran hızı gayet tatmini edici kolda duruşu mükemmel en sevdiğim özelliğide benim gibi günlük 8 saat araç kullanan biri için saat üzerinden konuşma yapmaya bayıldım telefonu çıkarmadan dikkat dağılmadan tek dokunuşla iletişim",
+        "iphone ile kullanmaya başladım ekran hızı gayet tatmini edici kolda duruşu mükemmel en sevdiğim özelliğide benim gibi günlük 8 saat araç kullanan biri için saat üzerinden konuşma yapmaya bayıldım telefonu çıkarmadan dikkat dağılmadan tek dokunuşla iletişim"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Teşekkür ederim",
+      "review_count": 100,
+      "avg_score": 4.95,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teşekkür ederim",
+        "çok güzel",
+        "sağlam",
+        "paketleme",
+        "ürün",
+        "çok teşekkür",
+        "güzel teşekkür",
+        "satıcıya teşekkür"
+      ],
+      "positive_pct": 95.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 5.0,
+      "sample_reviews": [
+        "harika bir ürün beklentimin çok çok üstünde çıktı tüm özellikleri tamamen çalışıyor muadil değil kendisi gibi ilk deneyim olduğundan o kadar kurcalamama rağmen şarjı 3 gün gitti fazla kurcalamazsaniz iki haftayı çıkarıyor ölçümleri hatasız yapıyor alacak olan arkadaşlara kesinlikle tavsiye ederim mükemmel paketleme ve kargolama iki günde elime ulaştı bunun için de satıcıya ayrıca teşekkür ederim hiç düşünmeden alın derim",
+        "harika bir ürün beklentimin çok çok üstünde çıktı tüm özellikleri tamamen çalışıyor muadil değil kendisi gibi ilk deneyim olduğundan o kadar kurcalamama rağmen şarjı 3 gün gitti fazla kurcalamazsaniz iki haftayı çıkarıyor ölçümleri hatasız yapıyor alacak olan arkadaşlara kesinlikle tavsiye ederim mükemmel paketleme ve kargolama iki günde elime ulaştı bunun için de satıcıya ayrıca teşekkür ederim hiç düşünmeden alın derim",
+        "saatiniz elime ulaştı gerçekten elinize emeğinize sağlık müthiş yaptığınız hediye kutusu çok güzel yani gönül rahatlığıyla burada insanları tavsiye edebilirim gerçekten çok güzel çok kullanışlı çok kaliteli tekrar diyorum elinize emeğinize sağlık çok teşekkür ederim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kargo & Teslimat",
+      "review_count": 95,
+      "avg_score": 4.61,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ulaştı",
+        "elime",
+        "elime ulaştı",
+        "kargo",
+        "hızlı",
+        "teşekkürler",
+        "hızlı kargo",
+        "ürün"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 5.3,
+      "neutral_pct": 14.7,
+      "sample_reviews": [
+        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım"
+      ],
+      "icon": "📦"
+    },
+    {
+      "name": "Memnun kaldım",
+      "review_count": 94,
+      "avg_score": 4.77,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "memnun kaldım",
+        "kaldım",
+        "çok memnun",
+        "sağlam geldi",
+        "paketlemesi",
+        "sağlam",
+        "çok güzel",
+        "beklediğimden"
+      ],
+      "positive_pct": 86.2,
+      "negative_pct": 3.2,
+      "neutral_pct": 10.6,
+      "sample_reviews": [
+        "kız arkadaşıma aldım çok memnun kaldı çok hızlı şarj oluyor haftalarca şarjı gidiyor derisi kaliteli soyulma yok uygulamalar hatasız çalışıyor terletme yapmadı görüntü kalitesi çok iyi iphonela hata vermedi",
+        "kullanımı aşırı kolay kaliteli ve şık duruyor içinden yedek kordon da çıktı ekranın büyüklüğüne görüntüsüne bayıldım akıllı saatten tüm beklentimi karşıladı fiyatı da gayet makul",
+        "kullanımı aşırı kolay kaliteli ve şık duruyor içinden yedek kordon da çıktı ekranın büyüklüğüne görüntüsüne bayıldım akıllı saatten tüm beklentimi karşıladı fiyatı da gayet makul"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Değer",
+      "review_count": 89,
+      "avg_score": 4.73,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok beğendim",
+        "ürünü",
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "performans ürünü",
+        "kardeşime",
+        "kardeşime aldım"
+      ],
+      "positive_pct": 82.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 18.0,
+      "sample_reviews": [
+        "bayıldımmmm tam fiyat performans her istenilen var özellikle sağlam ve güzel geldi şükür daha önce başka markadan ucuza aldım hem kusurlu geldi hemde iadede ücretimi vermediler iyiki almışım çok beğendim hafif kolaylıkla kurdum iphone 11 sadece kişilerin aktarımı yapamadım onuda çözerim sanırım biraz kurcalamam gerek düşünmeden alın gayet yeterli",
+        "bayıldımmmm tam fiyat performans her istenilen var özellikle sağlam ve güzel geldi şükür daha önce başka markadan ucuza aldım hem kusurlu geldi hemde iadede ücretimi vermediler iyiki almışım çok beğendim hafif kolaylıkla kurdum iphone 11 sadece kişilerin aktarımı yapamadım onuda çözerim sanırım biraz kurcalamam gerek düşünmeden alın gayet yeterli",
+        "ürünü aldığım gün hiç şarja takmadan 100 dü kullanmaya başladım tam 10 gün boyunca kullandım 10 gün sabah 25 şarj vardı işe gittim şarj öğle 12 olmadan 5 e düştü anladığım kadarıyla 25 şarjdan sonra çok hızlı bir düşüş oluyor alacak olanlar 10 gün boyunca şarj bitmiyor bilginize kullanılı güzel beğendim"
+      ],
+      "icon": "💰"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

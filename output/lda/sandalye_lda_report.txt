@@ -1,0 +1,17 @@
+Girdi: sandalye_preprocessed.csv
+Toplam yorum: 1076
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: çok, bu, ve, güzel, bir, ederim, fiyata, ürün, tavsiye, gayet | mapped aspects: fiyat, tasarım
+- topic 1: çok, ederim, ve, tavsiye, rahat, ürün, geldi, güzel, cok, tavsiye ederim | mapped aspects: tasarım
+- topic 2: çok, ve, için, cok, ürünü, sağlam, bir, kaliteli, de, aldım | mapped aspects: kalite
+- topic 3: çok, ve, ürün, güzel, iyi, çok güzel, kaliteli, geldi, bir, rahat | mapped aspects: kalite, tasarım
+- topic 4: çok, güzel, ve, bir, ederim, teşekkür, teşekkür ederim, ürün, geldi, gayet | mapped aspects: tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=316 | ilgili_yorum=316
+- kalite: frekans=119 | ilgili_yorum=119
+- fiyat: frekans=38 | ilgili_yorum=38

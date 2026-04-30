@@ -1,0 +1,223 @@
+{
+  "category": "nevresim",
+  "category_label": "Nevresim Takımı",
+  "total_reviews": 1219,
+  "overall_score": 4.7,
+  "overall_sentiment": "positive",
+  "summary": "Nevresim Takımı kategorisi, 1219 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Ürün**, **Kumaş & Malzeme**, **Kargo & Teslimat** konularında yüksek memnuniyet bildirmektedir. Genel olarak Nevresim Takımı ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 45,
+    "2": 11,
+    "3": 35,
+    "4": 84,
+    "5": 1044
+  },
+  "aspects": [
+    {
+      "name": "Ürün",
+      "review_count": 379,
+      "avg_score": 4.39,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "ürün",
+        "gayet",
+        "mükemmel",
+        "nevresim",
+        "gayet güzel",
+        "kaliteli",
+        "harika"
+      ],
+      "positive_pct": 75.2,
+      "negative_pct": 10.8,
+      "neutral_pct": 14.0,
+      "sample_reviews": [
+        "farkli gelir diye korkmustum ama harika geldi muslin kumas oldugu icin biraz ince ama beyaz yorgan kullanacagim icin abes kalacak bir swy yok onun disinda uyarisi yazilmis ilk yikama deterjansiz ve ters vaziyette oluyormus gordugum iyi oldu dalginligima gleebilirdi simdi dikkat edicem onun haricinde tek eksik bir kutuda beklerdim cunku ceyizime koyacaktim yine de tesekkur ederim",
+        "farkli gelir diye korkmustum ama harika geldi muslin kumas oldugu icin biraz ince ama beyaz yorgan kullanacagim icin abes kalacak bir swy yok onun disinda uyarisi yazilmis ilk yikama deterjansiz ve ters vaziyette oluyormus gordugum iyi oldu dalginligima gleebilirdi simdi dikkat edicem onun haricinde tek eksik bir kutuda beklerdim cunku ceyizime koyacaktim yine de tesekkur ederim",
+        "farkli gelir diye korkmustum ama harika geldi muslin kumas oldugu icin biraz ince ama beyaz yorgan kullanacagim icin abes kalacak bir swy yok onun disinda uyarisi yazilmis ilk yikama deterjansiz ve ters vaziyette oluyormus gordugum iyi oldu dalginligima gleebilirdi simdi dikkat edicem onun haricinde tek eksik bir kutuda beklerdim cunku ceyizime koyacaktim yine de tesekkur ederim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş & Malzeme",
+      "review_count": 220,
+      "avg_score": 4.86,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok güzel",
+        "kumaşı",
+        "rengi",
+        "kaliteli",
+        "kumaşı çok",
+        "tavsiye ederim",
+        "yıkadım",
+        "güzel kaliteli"
+      ],
+      "positive_pct": 93.2,
+      "negative_pct": 1.8,
+      "neutral_pct": 5.0,
+      "sample_reviews": [
+        "çok güzel bu fiyata kampanyadan aldım hatta yazlıkdaydım hemen öteki evime geldi kargodan memnunuz kumaşıda rengi dokusu mükemmel satıcıya teşekkür ediyorum bol kazançlar diliyorum",
+        "çok güzel bu fiyata kampanyadan aldım hatta yazlıkdaydım hemen öteki evime geldi kargodan memnunuz kumaşıda rengi dokusu mükemmel satıcıya teşekkür ediyorum bol kazançlar diliyorum",
+        "severek kullanıyorum 3-4 kez yıkadım yine de renk vs atmadı çok iyiler yorumu güncellıyorum yaklaşık beş aydır kullanıyorum tamamen tıftıklendı rengı gıttı çöp"
+      ],
+      "icon": "🧵"
+    },
+    {
+      "name": "Kargo & Teslimat",
+      "review_count": 122,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "anneme aldım",
+        "anneme",
+        "aldım çok",
+        "teşekkürler",
+        "beğendi",
+        "kargo",
+        "hızlı",
+        "aldım güzel"
+      ],
+      "positive_pct": 90.2,
+      "negative_pct": 2.5,
+      "neutral_pct": 7.4,
+      "sample_reviews": [
+        "çok beğendim muhteşem kaynanama aldım oda çok beğendi alırsam kendime alıcam kalitesi normal ne çok kalın ne çok ince ama sonuç tabikide harika paketleme özenliydi kargomda erken geldi teşekkürler",
+        "çok beğendim muhteşem kaynanama aldım oda çok beğendi alırsam kendime alıcam kalitesi normal ne çok kalın ne çok ince ama sonuç tabikide harika paketleme özenliydi kargomda erken geldi teşekkürler",
+        "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim"
+      ],
+      "icon": "📦"
+    },
+    {
+      "name": "Satıcı & Hizmet",
+      "review_count": 112,
+      "avg_score": 4.87,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "hediye",
+        "hediye aldım",
+        "beğenildi",
+        "çok beğenildi",
+        "aldım çok",
+        "almıştım",
+        "hediye almıştım",
+        "almıştım çok"
+      ],
+      "positive_pct": 86.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 13.4,
+      "sample_reviews": [
+        "düzgün yorum yapanlara teşekkür etmek lazim sonuçta bir urun alirken referans oluyor bu fiyata çarşaflı ve lastiksiz olusu benim favorim oldu çok beğendim ve annemede aldim satıcı ve kargo çok hızlı ayrica cok ozenli paketlenmiş alacaklara tavsiye ederim",
+        "düzgün yorum yapanlara teşekkür etmek lazim sonuçta bir urun alirken referans oluyor bu fiyata çarşaflı ve lastiksiz olusu benim favorim oldu çok beğendim ve annemede aldim satıcı ve kargo çok hızlı ayrica cok ozenli paketlenmiş alacaklara tavsiye ederim",
+        "düzgün yorum yapanlara teşekkür etmek lazim sonuçta bir urun alirken referans oluyor bu fiyata çarşaflı ve lastiksiz olusu benim favorim oldu çok beğendim ve annemede aldim satıcı ve kargo çok hızlı ayrica cok ozenli paketlenmiş alacaklara tavsiye ederim"
+      ],
+      "icon": "🏪"
+    },
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 106,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok beğendim",
+        "güzel çok",
+        "çok kaliteli",
+        "beğendim çeyizime",
+        "çeyizime",
+        "kaliteli",
+        "beğendim çok",
+        "çeyizime aldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+        "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+        "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Renk & Görünüm",
+      "review_count": 105,
+      "avg_score": 4.54,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "renkleri",
+        "canlı",
+        "renkleri canlı",
+        "süper",
+        "çok güzel",
+        "kumaşı",
+        "renkleri çok",
+        "rengi"
+      ],
+      "positive_pct": 77.1,
+      "negative_pct": 7.6,
+      "neutral_pct": 15.2,
+      "sample_reviews": [
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara"
+      ],
+      "icon": "🎨"
+    },
+    {
+      "name": "Teşekkür ederim",
+      "review_count": 103,
+      "avg_score": 4.93,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teşekkür ederim",
+        "çok teşekkür",
+        "güzel teşekkür",
+        "çok beğendim",
+        "çok güzel",
+        "beğendim teşekkür"
+      ],
+      "positive_pct": 96.1,
+      "negative_pct": 0.0,
+      "neutral_pct": 3.9,
+      "sample_reviews": [
+        "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
+        "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
+        "bu kadar hızlı kargo ve böyle kaliteli bir şey beklemiyordum gerçekten çok memnun kaldım tereddütlerim vardı çünkü yatağım çok yüksek olmamasından endişe etmiştim alırken ama tam oturdu yatağıma tam istediğim gibi oldu ayrıca minik hediyeniz icinde çok teşekkür ederim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Için aldım",
+      "review_count": 72,
+      "avg_score": 4.82,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "için aldım",
+        "çeyizim",
+        "çeyizim için",
+        "çeyiz için",
+        "çeyiz",
+        "aldım güzel",
+        "aldım çok",
+        "kızım için"
+      ],
+      "positive_pct": 84.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 15.3,
+      "sample_reviews": [
+        "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
+        "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
+        "çok güzel çift kişilik olanı kendim için aldım tek kişilik olanları çocuklarımın çeyizi için misafir nevresimi olarak aldım"
+      ],
+      "icon": "💬"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

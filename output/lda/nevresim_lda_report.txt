@@ -1,0 +1,16 @@
+Girdi: nevresim_preprocessed.csv
+Toplam yorum: 1219
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: bir, aldım, güzel, ürün, çok, nevresim, hediye, harika, bir ürün, geldi | mapped aspects: tasarım
+- topic 1: güzel, çok, aldım, gayet, gayet güzel, ama, ederim, için, geldi, iyi | mapped aspects: tasarım
+- topic 2: çok, beğendim, çok beğendim, güzel, çok güzel, ederim, ve, ürün, kaliteli, teşekkür | mapped aspects: kalite, tasarım
+- topic 3: çok, güzel, çok güzel, aldım, için, ederim, için aldım, iyi, kumaşı, beğendi | mapped aspects: kalite, tasarım
+- topic 4: çok, güzel, ve, aldım, geldi, gibi, ederim, da, çok güzel, bir | mapped aspects: tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=538 | ilgili_yorum=538
+- kalite: frekans=118 | ilgili_yorum=118

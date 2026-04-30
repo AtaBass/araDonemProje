@@ -1,0 +1,104 @@
+{
+  "product_id": "35e951752f6d",
+  "product_name": "KUMTEL Mini Pizza Fırını Ve Hava Fritözü Hpo-01 - Fiyatı, Yorumları",
+  "product_url": "https://www.trendyol.com/kumtel/mini-pizza-firini-ve-hava-fritozu-hpo-01-p-864340978",
+  "category": "airfryer",
+  "category_label": "Airfryer",
+  "total_reviews": 8,
+  "overall_score": 3.62,
+  "overall_sentiment": "neutral",
+  "stars": "★★★½☆",
+  "summary": "**KUMTEL Mini Pizza Fırını Ve Hava Fritözü Hpo-01** için 8 müşteri yorumu değerlendirilmiştir. Kullanıcı görüşleri karma bir tablo ortaya koymakta, hem olumlu hem eleştirel değerlendirmeler bulunmaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **çeyiz** ve **fakat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok teşekkürler hızlı teslimat daha açmadım açınca yine yorum yapıcam\"\n• **Patates & Tavuk** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **vardı** ve **karaca** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çalışmasında ve pişirmesinde bir sorun yok ama soru-cevaplarda her şey pişirilebilir…\"",
+  "score_distribution": {
+    "1": 2,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 4
+  },
+  "aspects": [
+    {
+      "name": "Fiyatı Uygun",
+      "review_count": 3,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "görüntüsü",
+        "hacmi",
+        "beğenerek",
+        "fiyatı uygun"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "çok teşekkürler hızlı teslimat daha açmadım açınca yine yorum yapıcam",
+        "aldıktan sonra fiyatın düşmesi üzücü",
+        "fırıınım cok guzel yerde kapalmıyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "fırıınım cok guzel yerde kapalmıyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok teşekkürler hızlı teslimat daha açmadım açınca yine yorum yapıcam",
+          "score": 5.0
+        },
+        {
+          "text": "aldıktan sonra fiyatın düşmesi üzücü",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Patates & Tavuk",
+      "review_count": 2,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "pişiriyor",
+        "yaptım",
+        "patates",
+        "denedim",
+        "tavuk",
+        "vardı",
+        "karaca",
+        "lezzetli"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "çok güzel pişiriyor sağlam bir şekilde elime ulaştı",
+        "çalışmasında ve pişirmesinde bir sorun yok ama soru-cevaplarda her şey pişirilebilir mi sorusuna evet denmiş yüksekliği o kadar az ki kabaran şeyler pişirilemez kabaran herhangi bir şey üstüne değer çünkü yemek pizza vs için uygun görünüşü güzel ben yerim olmadığı ve buzdolabının üzerine sığısın diye tercih ettim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel pişiriyor sağlam bir şekilde elime ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "çalışmasında ve pişirmesinde bir sorun yok ama soru-cevaplarda her şey pişirilebilir mi sorusuna evet denmiş yüksekliği o kadar az ki kabaran şeyler pişirilemez kabaran herhangi bir şey üstüne değer çünkü yemek pizza vs için uygun görünüşü güzel ben yerim olmadığı ve buzdolabının üzerine sığısın diye tercih ettim",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
+  "top_reviews": [
+    "çalışmasında ve pişirmesinde bir sorun yok ama soru-cevaplarda her şey pişirilebilir mi sorusuna evet denmiş yüksekliği o kadar az ki kabaran şeyler pişirilemez kabaran herhangi bir şey üstüne değer çünkü yemek pizza vs için uygun görünüşü güzel ben yerim olmadığı ve buzdolabının üzerine sığısın diye tercih ettim",
+    "ürün bozuk geldi zaman ayarı biraz geç de olsa çalışti ama fırin asla ısınmıyor iade sisteminiz çalışmiyor o kadar para ödedim bana bozuk fırın geldi sorunumu kime anlatacağım",
+    "çok sağlam bir paketleme ile elime ulaştı börek yaptım kısa sürede harika pişti gerçekten çok beğendim teşekkür ediyorum",
+    "çok teşekkürler hızlı teslimat daha açmadım açınca yine yorum yapıcam",
+    "çok güzel pişiriyor sağlam bir şekilde elime ulaştı"
+  ],
+  "generated_at": "2026-04-06"
+}

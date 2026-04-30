@@ -1,0 +1,225 @@
+{
+  "category": "airfryer",
+  "category_label": "Airfryer",
+  "total_reviews": 1143,
+  "overall_score": 4.87,
+  "overall_sentiment": "positive",
+  "summary": "Airfryer kategorisi, 1143 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Kargo & Teslimat**, **Satıcı & Hizmet**, **Renk & Görünüm** konularında yüksek memnuniyet bildirmektedir. Genel olarak Airfryer ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 9,
+    "2": 6,
+    "3": 8,
+    "4": 74,
+    "5": 1046
+  },
+  "aspects": [
+    {
+      "name": "Kargo & Teslimat",
+      "review_count": 222,
+      "avg_score": 4.82,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teşekkür ederim",
+        "çok güzel",
+        "ürün",
+        "çok teşekkür",
+        "hızlı",
+        "kullanışlı",
+        "teşekkürler",
+        "büyük"
+      ],
+      "positive_pct": 89.6,
+      "negative_pct": 2.3,
+      "neutral_pct": 8.1,
+      "sample_reviews": [
+        "öncelikte dün verdiği sipariş bugün elime geldi jet hızıyla çok teşekkür ederim ürün öyle güzel öyle sağlam paketlemişler ki anlatamam 2 tane ayrı kutuya koymuşlar alt üst ayrı karton bariyer gerçekten bu kadar beklemiyordum neyse gelelim sadete çok estetik kullanımı kolay uygulaması anlaşılır wi-fi özleliği var dijital göstergeye temas etmeden telefondan açma kapama yapabiliyorsunuz çok konforlu hele ki çocukluysanız ben tam 3 tane aldım 1 tanesi 5.5 litre keşke onuda da 7.3 alsaydım yemek pişirmeden önce küçük bir fırın kabına su doldurup limon sıktım 10 dakika çalışırdım koku filan kalmadı ilk işim patates kızartması denemek oldu 20 dakikada çok güzel piçte 10 dakika sonra uyarı verdi bir karıştırdım 20 dakikaya o şekşlde tamamladım şimdilik memnunum ilerde güncelleme yapabilirim deneyimlediğim kadarıyla",
+        "öncelikte dün verdiği sipariş bugün elime geldi jet hızıyla çok teşekkür ederim ürün öyle güzel öyle sağlam paketlemişler ki anlatamam 2 tane ayrı kutuya koymuşlar alt üst ayrı karton bariyer gerçekten bu kadar beklemiyordum neyse gelelim sadete çok estetik kullanımı kolay uygulaması anlaşılır wi-fi özleliği var dijital göstergeye temas etmeden telefondan açma kapama yapabiliyorsunuz çok konforlu hele ki çocukluysanız ben tam 3 tane aldım 1 tanesi 5.5 litre keşke onuda da 7.3 alsaydım yemek pişirmeden önce küçük bir fırın kabına su doldurup limon sıktım 10 dakika çalışırdım koku filan kalmadı ilk işim patates kızartması denemek oldu 20 dakikada çok güzel piçte 10 dakika sonra uyarı verdi bir karıştırdım 20 dakikaya o şekşlde tamamladım şimdilik memnunum ilerde güncelleme yapabilirim deneyimlediğim kadarıyla",
+        "ürün harika calisiyor kumtel yaaa çok çok teşekkür ederim normal firinini da kullaniyorum hem uygun fiyatli hem kaliteli ve uzun yıllar dayanıklı çıkmıştı fırın çıkmıştı derken hala aynı fırını kullaniyorum ona istinaden airfryerını da aldim harika çok güzel ne diyeyim bilmiyorum çok teşekkür ederim dünyalar kadar para vermeyin o ünlü pahalı markalara akıllı olun reklamlarin tuzağına düşmeyin sayın vatandaslarim reklam bütçelerini ürünlerin fiyatini normalden çok daha yükseklere çıkararak karşılıyor o markalar patates kızartma et tavuk balık hamur işi sebze ve meyveleri kurutma vs hepsini yaptım sadece kalamar karides yapmadım sevmiyorum çünkü çok güzel pişiriyor teşekkürler bez değil 100"
+      ],
+      "icon": "📦"
+    },
+    {
+      "name": "Satıcı & Hizmet",
+      "review_count": 175,
+      "avg_score": 4.93,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "anneme",
+        "aldım çok",
+        "çok iyi",
+        "beğendi",
+        "anneme aldım",
+        "hediye",
+        "anneme hediye",
+        "çok beğendi"
+      ],
+      "positive_pct": 93.1,
+      "negative_pct": 0.0,
+      "neutral_pct": 6.9,
+      "sample_reviews": [
+        "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın",
+        "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın",
+        "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın"
+      ],
+      "icon": "🏪"
+    },
+    {
+      "name": "Renk & Görünüm",
+      "review_count": 174,
+      "avg_score": 4.79,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok beğendim",
+        "harika",
+        "çok güzel",
+        "çok şık",
+        "güzel çok",
+        "ben çok",
+        "bayıldım"
+      ],
+      "positive_pct": 89.7,
+      "negative_pct": 3.4,
+      "neutral_pct": 6.9,
+      "sample_reviews": [
+        "ürünü çok beğendim 2 gün içinde hemen teslim edildi gayet güzel paketlemişler hemen denedim ve tavuğu çok güzel pişirdi sebzeleri ayrı denedim onları da güzel pişirdi lezzet kaybı olduğunu söylüyorlardı ondan çok korkuyordum ama çok şükür hiç bir lezzet kaybı yok rahat yıkanıyor kolayca uygulamaya bağlanıp yemeğin pişmesine kaç dk kalmış öğreniyor gerekirse uygulama üzerinden durdurabiliyorsun",
+        "ürünü çok beğendim 2 gün içinde hemen teslim edildi gayet güzel paketlemişler hemen denedim ve tavuğu çok güzel pişirdi sebzeleri ayrı denedim onları da güzel pişirdi lezzet kaybı olduğunu söylüyorlardı ondan çok korkuyordum ama çok şükür hiç bir lezzet kaybı yok rahat yıkanıyor kolayca uygulamaya bağlanıp yemeğin pişmesine kaç dk kalmış öğreniyor gerekirse uygulama üzerinden durdurabiliyorsun",
+        "arkadaşlar uzun uzadıya yazmıycam ürün gerçekten görünümüyle kalitesiyle ve pişirmesiyle on numara benim tek takıldığım kumtel yılların iyi bir türk markası ama niye menü dilini ingilizce yaparsın kendi dilimizi yapmazsın onu anlamadım az çok ingilizcesi olan bile anlar o sorun değil ama ben kendi markamızda kendi dilimizi kullanmalarını tercih ederdim yinede emeği geçen herkese teşekkürler"
+      ],
+      "icon": "🎨"
+    },
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 152,
+      "avg_score": 4.93,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürün",
+        "tavsiye ederim",
+        "bir ürün",
+        "harika",
+        "mükemmel",
+        "harika bir",
+        "ürün tavsiye",
+        "güzel bir"
+      ],
+      "positive_pct": 94.7,
+      "negative_pct": 0.7,
+      "neutral_pct": 4.6,
+      "sample_reviews": [
+        "ürün resmen mutfaktaki elim ayağım oldu büyük fırını kaldırdım bununla 4 kişilik bir aile çok rahat işini görür hızlı güzel kararında pişiriyor ben içine küçük tepside aldım alüminyum her çeşit hamur işi türlü mangal beyaz ve kırmızı eti pişirip denedim tavsiye ediyorum iyi günlerinizde olsun inşallah arkadaşlar",
+        "ürün resmen mutfaktaki elim ayağım oldu büyük fırını kaldırdım bununla 4 kişilik bir aile çok rahat işini görür hızlı güzel kararında pişiriyor ben içine küçük tepside aldım alüminyum her çeşit hamur işi türlü mangal beyaz ve kırmızı eti pişirip denedim tavsiye ediyorum iyi günlerinizde olsun inşallah arkadaşlar",
+        "ürün resmen mutfaktaki elim ayağım oldu büyük fırını kaldırdım bununla 4 kişilik bir aile çok rahat işini görür hızlı güzel kararında pişiriyor ben içine küçük tepside aldım alüminyum her çeşit hamur işi türlü mangal beyaz ve kırmızı eti pişirip denedim tavsiye ediyorum iyi günlerinizde olsun inşallah arkadaşlar"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Gayet",
+      "review_count": 135,
+      "avg_score": 4.89,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "gayet",
+        "gayet güzel",
+        "gayet iyi",
+        "teşekkürler",
+        "bence",
+        "memnunum",
+        "kullanıyorum",
+        "patates"
+      ],
+      "positive_pct": 91.1,
+      "negative_pct": 0.7,
+      "neutral_pct": 8.1,
+      "sample_reviews": [
+        "patates kızartmak için aldım ilk kullanımımda patatesleri doğrayıp yıkadım uzun süre kuruması için beklemedim sonuç patatesler çöpe gitti ikinci seferinde patatesleri yıkadım fakat 15 saat bir süzgecin içinde kurumaya bıraktı sonuç yine çöp oldu bu iki kullanımda da kullanma klavuzuna uyarak yağ kullanmadım fakat üçüncü kullanımda patatesin kabuğunu soyup yıkadım kuruladım ve kuruladıktan sonra dilimledim dilimlenen patatesleri çok az bir yağ ile karıştırdım ve sonuç yaptığım en iyi patates kızartması oldu kullanım klavuzunda yağsız dediğine bakmayın 1-2 yemek kaşığı kullanabilirsiniz tepeleme doldurmadım hazneyi onu da siz deneyin",
+        "patates kızartmak için aldım ilk kullanımımda patatesleri doğrayıp yıkadım uzun süre kuruması için beklemedim sonuç patatesler çöpe gitti ikinci seferinde patatesleri yıkadım fakat 15 saat bir süzgecin içinde kurumaya bıraktı sonuç yine çöp oldu bu iki kullanımda da kullanma klavuzuna uyarak yağ kullanmadım fakat üçüncü kullanımda patatesin kabuğunu soyup yıkadım kuruladım ve kuruladıktan sonra dilimledim dilimlenen patatesleri çok az bir yağ ile karıştırdım ve sonuç yaptığım en iyi patates kızartması oldu kullanım klavuzunda yağsız dediğine bakmayın 1-2 yemek kaşığı kullanabilirsiniz tepeleme doldurmadım hazneyi onu da siz deneyin",
+        "bekar tek yaşadığım için kolaylık olsun diye aldım çoğu kişi gerek yok vs dese de gene de aldım ve iyi ki almışım sık sık patates kızartması yapardım evim yağ kokardı ayrıca mecburen bol yağlı patates yemiş olurdum ama şimdi süper lezzetli patates kızartması yiyorum azıcık yağ ile çok lezzetli oldu aşırı memnunum iş arkadaşıma da aldırdım herkese tavsiye ederim tavukta pişirdim onu da çok beğendim at içine belli sürede tersini çevir bitti gitti bulaşık derdi de yok bi kapı ve aparatını yıkıyorsun büyük kolaylık valla"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Değer",
+      "review_count": 109,
+      "avg_score": 4.82,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürünü",
+        "fiyat",
+        "fiyat performans",
+        "paketleme",
+        "performans",
+        "güzel kaliteli",
+        "daha kullanmadım",
+        "kullanmadım"
+      ],
+      "positive_pct": 87.2,
+      "negative_pct": 1.8,
+      "neutral_pct": 11.0,
+      "sample_reviews": [
+        "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
+        "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
+        "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem"
+      ],
+      "icon": "💰"
+    },
+    {
+      "name": "Sağlam",
+      "review_count": 93,
+      "avg_score": 4.89,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sağlam",
+        "için aldım",
+        "cok guzel",
+        "defa",
+        "defa aldım",
+        "aldım çok",
+        "sağlam geldi",
+        "beğenildi"
+      ],
+      "positive_pct": 89.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 10.8,
+      "sample_reviews": [
+        "daha once farkli bir makine kullanmistin tas firin gercekten cok guzelmis olculeri makul tepsisi cok kullanisli tasi karariyor ama sorun degil guzel pisiriyor lahmacun yaptim cok basariliydi tesekkurler",
+        "daha once farkli bir makine kullanmistin tas firin gercekten cok guzelmis olculeri makul tepsisi cok kullanisli tasi karariyor ama sorun degil guzel pisiriyor lahmacun yaptim cok basariliydi tesekkurler",
+        "daha once farkli bir makine kullanmistin tas firin gercekten cok guzelmis olculeri makul tepsisi cok kullanisli tasi karariyor ama sorun degil guzel pisiriyor lahmacun yaptim cok basariliydi tesekkurler"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çok memnun",
+      "review_count": 83,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok memnun",
+        "memnun kaldım",
+        "kaldım",
+        "aldım çok",
+        "anneme",
+        "kaldık",
+        "memnun kaldık",
+        "kendim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "acayip güzel bir ürün çok memnun kaldım gayet kaliteli ve başarılı kargolama da çok güzeldi sapa sağlam ulaştı elime satıcıya çok teşekkür ederim gönül rahatlığıyla alabilirsiniz",
+        "acayip güzel bir ürün çok memnun kaldım gayet kaliteli ve başarılı kargolama da çok güzeldi sapa sağlam ulaştı elime satıcıya çok teşekkür ederim gönül rahatlığıyla alabilirsiniz",
+        "acayip güzel bir ürün çok memnun kaldım gayet kaliteli ve başarılı kargolama da çok güzeldi sapa sağlam ulaştı elime satıcıya çok teşekkür ederim gönül rahatlığıyla alabilirsiniz"
+      ],
+      "icon": "💬"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

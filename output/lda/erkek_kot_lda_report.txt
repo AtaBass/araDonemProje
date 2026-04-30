@@ -1,0 +1,17 @@
+Girdi: erkek_kot_preprocessed.csv
+Toplam yorum: 1054
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: tam, beden, oldu, tam beden, çok, tam oldu, bu, boy, beden tam, geldi | mapped aspects: beden
+- topic 1: çok, kaliteli, tam, bir, ve, güzel, ürün, beden, oldu, boy | mapped aspects: beden, kalite, tasarım
+- topic 2: çok, güzel, tam, aldım, çok güzel, beden, kaliteli, ederim, alın, tam beden | mapped aspects: beden, kalite, tasarım
+- topic 3: çok, beden, tam, güzel, için, aldım, ederim, oldu, bir, büyük | mapped aspects: beden, tasarım
+- topic 4: çok, ürün, güzel, kaliteli, ve, tam, oldu, ederim, için, iyi | mapped aspects: kalite, tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=376 | ilgili_yorum=376
+- beden: frekans=342 | ilgili_yorum=342
+- kalite: frekans=202 | ilgili_yorum=202

@@ -1,0 +1,224 @@
+{
+  "category": "mouse",
+  "category_label": "Mouse",
+  "total_reviews": 1220,
+  "overall_score": 4.9,
+  "overall_sentiment": "positive",
+  "summary": "Mouse kategorisi, 1220 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Kalite & Dayanıklılık**, **Çok iyi**, **Kargo & Teslimat** konularında yüksek memnuniyet bildirmektedir. Genel olarak Mouse ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 15,
+    "2": 3,
+    "3": 7,
+    "4": 40,
+    "5": 1155
+  },
+  "aspects": [
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 414,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kaliteli",
+        "rahat",
+        "teşekkürler",
+        "bayıldım",
+        "ürün",
+        "kullanıyorum"
+      ],
+      "positive_pct": 91.8,
+      "negative_pct": 3.6,
+      "neutral_pct": 4.6,
+      "sample_reviews": [
+        "e sporcuların kullandığını öğrendikten sonra bir şans vermek istedim ve gözümü kara çıkarmadı çok kaliteli bir fare olduğunu söyleyebilirim internet sitelerinde kendine ait bir yazılım var bu yazılımdan ayar yapabiliyorsunuz ışık konusunda çok abartıya kaçılmamış bu da hoşuma giden yönlerden biri üç bağlantı seçeneği var özellikle bu beni cezbetti kablolu kullanarak sıfır gecikmeye çok yakın bir değerde kullanabiliyorsunuz bundan harici kendi usb bağlantısı ve kablosuz bağlantısı ile de harici bir yerde kullanabilirsiniz ele çok güzel oturuyor ve rahat bir hissiyatı var çok başarılı herkese tavsiye ederim",
+        "e sporcuların kullandığını öğrendikten sonra bir şans vermek istedim ve gözümü kara çıkarmadı çok kaliteli bir fare olduğunu söyleyebilirim internet sitelerinde kendine ait bir yazılım var bu yazılımdan ayar yapabiliyorsunuz ışık konusunda çok abartıya kaçılmamış bu da hoşuma giden yönlerden biri üç bağlantı seçeneği var özellikle bu beni cezbetti kablolu kullanarak sıfır gecikmeye çok yakın bir değerde kullanabiliyorsunuz bundan harici kendi usb bağlantısı ve kablosuz bağlantısı ile de harici bir yerde kullanabilirsiniz ele çok güzel oturuyor ve rahat bir hissiyatı var çok başarılı herkese tavsiye ederim",
+        "ürünü aldıktan yaklaşık 3 ay sonra bu yorumu yazıyorum kullanım süresi ilerledikçe mouse'ta ciddi takılmalar ve anlık donmalar yaşanmaya başladı bu durum özellikle fps oyunlarında performansı olumsuz etkiliyor ve oynanışı zorlaştırıyor ilk aldığımda beklentim yüksekti ancak zamanla yaşanan bu sorunlar nedeniyle memnun kalmadım iade süresi geçtiği için geri gönderemedim daha stabil ve akıcı bir kullanım arayanlara bu ürünü önermiyorum"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Çok iyi",
+      "review_count": 201,
+      "avg_score": 4.95,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok iyi",
+        "gayet",
+        "ürün",
+        "gayet iyi",
+        "tavsiye ederim",
+        "sessiz",
+        "baya",
+        "mouse"
+      ],
+      "positive_pct": 95.5,
+      "negative_pct": 0.5,
+      "neutral_pct": 4.0,
+      "sample_reviews": [
+        "ürünümü alalı 2 gün oldu ürünümü kullanmadan yorum yapıp almak isteyen arkadaşları yanlış yönlendirmek istemedim iki günlük yoğun kullanımdan sonraki bende bıraktığı izlenimlerim mause yi kablolu bt ve 2.4g olmak üzere hepsiyle kullandım her üçünde de cok memlun kaldım sarzı çok çok iyi gidiyor geldiğinde 91 di sarzı iki gün yoğun kullanım sonunda 82 oldu mükemmel kablolu kullanımda da şarzı çok hızlı doldu burada sadece eleştirim type c girişi mause sıfırına girmiyor ama sıkıntı çıkartacak şekilde değil keyfe keder getiriyor sadece genel olarak beklentilerimin çok çok üzerinde blutooth de çok hızlı uyanıyor onun için ben bt ile kullanmayı tercih ettim ek olarak kutusunun içine hediye olarak bıraktığınız mause grip tape ve hediye çeki için north ailesine teşekkür ederim",
+        "ürünümü alalı 2 gün oldu ürünümü kullanmadan yorum yapıp almak isteyen arkadaşları yanlış yönlendirmek istemedim iki günlük yoğun kullanımdan sonraki bende bıraktığı izlenimlerim mause yi kablolu bt ve 2.4g olmak üzere hepsiyle kullandım her üçünde de cok memlun kaldım sarzı çok çok iyi gidiyor geldiğinde 91 di sarzı iki gün yoğun kullanım sonunda 82 oldu mükemmel kablolu kullanımda da şarzı çok hızlı doldu burada sadece eleştirim type c girişi mause sıfırına girmiyor ama sıkıntı çıkartacak şekilde değil keyfe keder getiriyor sadece genel olarak beklentilerimin çok çok üzerinde blutooth de çok hızlı uyanıyor onun için ben bt ile kullanmayı tercih ettim ek olarak kutusunun içine hediye olarak bıraktığınız mause grip tape ve hediye çeki için north ailesine teşekkür ederim",
+        "mouse yazılımıyla e-sporcu moduna aldıktan sonra mouse oyun içinde fark yaratıyor mouse'un tümsek kısmı güzel ayarlanmış ve eli gerçekten iyi kavrıyor fps oyuncuları bunu iyi anlar gaming mouse arayanlara öneririm fazla para bayılmaya gerek yok işinizi rahatlıkla görür kablosuz olması zaten büyük artı ayrıca rgb aydınlatmaya söylenebilecek hiçbir şey yok type-c şarj olayı da iyi yani f p üst düzeyde"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kargo & Teslimat",
+      "review_count": 154,
+      "avg_score": 4.95,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok güzel",
+        "ürün",
+        "güzel ürün",
+        "ürün çok",
+        "güzel bir",
+        "güzel paketlenmiş",
+        "teşekkürler",
+        "paketlenmiş"
+      ],
+      "positive_pct": 95.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 4.5,
+      "sample_reviews": [
+        "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
+        "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
+        "ürün aşırı güzel çok kaliteli bir ürün ışık kandırması sesi çok güzel ve ağırlıkları güzel 100 puan olsa 100 puan veririm"
+      ],
+      "icon": "📦"
+    },
+    {
+      "name": "Fiyat & Değer",
+      "review_count": 142,
+      "avg_score": 4.98,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teşekkür ederim",
+        "hızlı",
+        "hızlı geldi",
+        "fiyatına göre",
+        "fiyatına",
+        "için teşekkür",
+        "çok teşekkür",
+        "çok güzel"
+      ],
+      "positive_pct": 97.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 2.1,
+      "sample_reviews": [
+        "efsane ötesi ürünü ışıklı ışıksız iki türlü de kullanabilirsiniz kurulumu çok basit dpi ayarları ve ağırlığıyla mouse pad üzerinde sekmez zaten bu yüzden ağır yaptıklarını düşünüyorum ben beğendim tavsiye ederim hediye için de ayrıca teşekkür ederim",
+        "efsane ötesi ürünü ışıklı ışıksız iki türlü de kullanabilirsiniz kurulumu çok basit dpi ayarları ve ağırlığıyla mouse pad üzerinde sekmez zaten bu yüzden ağır yaptıklarını düşünüyorum ben beğendim tavsiye ederim hediye için de ayrıca teşekkür ederim",
+        "sürekli oyun oynayan biri olarak gamer arkadaşlara vereceğim tek tavsiye bu ürünü satın almaları olacaktır gerek kullanışı olsun gerek tasarımı olsun çok başarılı sipariş verdikten 1 gün sonra elime ulaştı hızlı kargo için satıcıya teşekkür ederim"
+      ],
+      "icon": "💰"
+    },
+    {
+      "name": "Kumaş & Malzeme",
+      "review_count": 119,
+      "avg_score": 4.96,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "mükemmel",
+        "çok memnun",
+        "sessiz",
+        "memnun kaldım",
+        "kaldım",
+        "almıştım",
+        "çok sessiz",
+        "çalışıyor"
+      ],
+      "positive_pct": 95.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 4.2,
+      "sample_reviews": [
+        "gerçekten beklediğimden çok daha iyi bir ürün çıktı mouse hafif ve elde çok rahat skatezleri sayesinde yüzeyde adeta kayıyor dock'un şık tasarımı ve küçük ekranı masada çok güzel duruyor şarj durumunu da net gösteriyor kablosuz şarjı hızlı iki bağlantı seçeneğiyle kullanım çok pratik hem performans hem görünüm olarak fazlasıyla memnun kaldım kesinlikle tavsiye ederim",
+        "gerçekten beklediğimden çok daha iyi bir ürün çıktı mouse hafif ve elde çok rahat skatezleri sayesinde yüzeyde adeta kayıyor dock'un şık tasarımı ve küçük ekranı masada çok güzel duruyor şarj durumunu da net gösteriyor kablosuz şarjı hızlı iki bağlantı seçeneğiyle kullanım çok pratik hem performans hem görünüm olarak fazlasıyla memnun kaldım kesinlikle tavsiye ederim",
+        "çok uğraştım bunu buana kadar 7 adet mouse sipariş verdim bi tek bunu beğendim hem sessizliği hem şarjlı olması ele tam geliyor ister tahtada ister mermerde ister padda gayet memnun kaldım eyvallah"
+      ],
+      "icon": "🧵"
+    },
+    {
+      "name": "Satıcı & Hizmet",
+      "review_count": 84,
+      "avg_score": 4.9,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok beğendi",
+        "beğendi",
+        "aldım çok",
+        "oğlum",
+        "için aldım",
+        "oğlum için",
+        "beğendi teşekkürler",
+        "beğendi kullanışlı"
+      ],
+      "positive_pct": 97.6,
+      "negative_pct": 2.4,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün hızlı ve sorunsuz elime ulaştı yeğenime hediye almıştım çok beğendi fakat yanında gönderilen oyun hediye kartı tamamem hayal kırıklığı içinde 100 tl ilk bir bakiye var ama sitede hiç bu rakama ürün yok yeğenim çok üzüldü",
+        "ürün hızlı ve sorunsuz elime ulaştı yeğenime hediye almıştım çok beğendi fakat yanında gönderilen oyun hediye kartı tamamem hayal kırıklığı içinde 100 tl ilk bir bakiye var ama sitede hiç bu rakama ürün yok yeğenim çok üzüldü",
+        "oğluma aldım çok beğendi bluetooth özelliği çok güzel çok hafif el yormuyor paketleme ve kargolama çok güzel hızlı hediyeniz için teşekkür ederiz kesinlikle tavsiye"
+      ],
+      "icon": "🏪"
+    },
+    {
+      "name": "Fiyat performans",
+      "review_count": 57,
+      "avg_score": 4.91,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
+        "fiyat",
+        "performans ürünü",
+        "ürünü",
+        "tam fiyat",
+        "bir fiyat",
+        "güzel fiyat"
+      ],
+      "positive_pct": 91.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 8.8,
+      "sample_reviews": [
+        "fiyat performans olarak gayet özellikli bir mouse bence 3 farklı şekilde pcye bağlama olayı güzel olmuş dpı ayarlamasıda gayet tatmin edici yapılmış ele oturması güzel oyun oynarken bir sıkıntı yaşamadım sadece eleştirilecek bir bölüm var o da yandaki makro tuşları sanki biraz daha sert bassanız içindeki yay kırılcak gibi güven veren bi basma hissi yok 9 10 puanım",
+        "fiyat performans olarak gayet özellikli bir mouse bence 3 farklı şekilde pcye bağlama olayı güzel olmuş dpı ayarlamasıda gayet tatmin edici yapılmış ele oturması güzel oyun oynarken bir sıkıntı yaşamadım sadece eleştirilecek bir bölüm var o da yandaki makro tuşları sanki biraz daha sert bassanız içindeki yay kırılcak gibi güven veren bi basma hissi yok 9 10 puanım",
+        "ilk izlenim baya iyi ele oturuşu rahat sensör tepkisi hızlı ve akıcı dpı geçişleri stabil 10bin dpia kadar destekleniyor 1000 hz sayesinde gecikme hissettirmiyor rgb'si de masada çok şık duruyor ama biraz daha geliştirilebilirdi tam bir fiyat performans ürünü gayet iyi tatmin etti"
+      ],
+      "icon": "💰"
+    },
+    {
+      "name": "Için aldım",
+      "review_count": 49,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "için aldım",
+        "oğlum",
+        "oğlum için",
+        "ürün",
+        "aldım memnun",
+        "ürün tavsiye",
+        "gayet güzel",
+        "güzel ürün"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "oğlum için aldım sorunsuz elimize ulaştı çok rahat oynuyor çokda sevdi ışıklarını memnuniyetle alabilirsiniz biz çok sevdik",
+        "oğlum için aldım sorunsuz elimize ulaştı çok rahat oynuyor çokda sevdi ışıklarını memnuniyetle alabilirsiniz biz çok sevdik",
+        "oğlum için aldım sorunsuz elimize ulaştı çok rahat oynuyor çokda sevdi ışıklarını memnuniyetle alabilirsiniz biz çok sevdik"
+      ],
+      "icon": "💬"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

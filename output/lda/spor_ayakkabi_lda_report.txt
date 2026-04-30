@@ -1,0 +1,17 @@
+Girdi: spor_ayakkabi_preprocessed.csv
+Toplam yorum: 1425
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: rahat, ayakkabı, ve, bir, çok rahat, ederim, tam, güzel, kendi, bir ayakkabı | mapped aspects: tasarım
+- topic 1: tam, güzel, rahat, ve, ederim, numaranızı, çok güzel, tavsiye, ayakkabı, teşekkür | mapped aspects: beden, tasarım
+- topic 2: aldım, tam, rahat, güzel, bir, çok rahat, kalıp, beğendi, aldım çok, tam kalıp | mapped aspects: beden, tasarım
+- topic 3: güzel, bir, tam, çok güzel, kaliteli, ayakkabı, alabilirsiniz, bu, ürün, ama | mapped aspects: kalite, tasarım
+- topic 4: güzel, numara, çok güzel, büyük, aldım, numara büyük, ve, bir, tam, alın | mapped aspects: beden, tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=564 | ilgili_yorum=564
+- beden: frekans=295 | ilgili_yorum=295
+- kalite: frekans=44 | ilgili_yorum=44

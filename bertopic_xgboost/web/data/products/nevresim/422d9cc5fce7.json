@@ -1,0 +1,328 @@
+{
+  "product_id": "422d9cc5fce7",
+  "product_name": "conzaliza Pamuklu Çift Kişilik Nevresim Seti |nevresim Ve Yastık Kılıfı | Çarşafsız - Fiyatı, Yorumları",
+  "product_url": "https://www.trendyol.com/conzaliza/pamuklu-cift-kisilik-nevresim-seti-nevresim-ve-yastik-kilifi-carsafsiz-p-791193058",
+  "category": "nevresim",
+  "category_label": "Nevresim Takımı",
+  "total_reviews": 50,
+  "overall_score": 4.72,
+  "overall_sentiment": "positive",
+  "stars": "★★★★½",
+  "summary": "**conzaliza Pamuklu Çift Kişilik Nevresim Seti |nevresim ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kumaşı Kaliteli** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kumaş** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çeyizim için aldım yumuşaklığını kumaşını çok beğendim çok şık da duruyor çok teşekkü…\"\n• **Kişilik**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **rahat** ve **almayı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kaynanama aldım çok beğendi çok kaliteli bende kendime sipariş verecem\"\n• Kullanıcılar **Çekme Solma** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **takımı** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Severek kullandığım bir nevresim takımı konuşuyor yumuşacık asla çekme ve solma yapma…\"\n• **Fiyata Kalite** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Tam yatağıma göre oldu tüylenme renklerinde solma hiçbir şekilde yaşamadım gayet kali…\"\n• Müşteri yorumlarında **Fiyat & Lastikli Çarşafı** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fiyata** ve **renkler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel bu fiyata kampanyadan aldım hatta yazlıkdaydım hemen öteki evime geldi karg…\"",
+  "score_distribution": {
+    "1": 2,
+    "2": 2,
+    "3": 0,
+    "4": 0,
+    "5": 46
+  },
+  "aspects": [
+    {
+      "name": "Kumaşı Kaliteli",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kumaş",
+        "rengi",
+        "pamuklu",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çeyizim için aldım yumuşaklığını kumaşını çok beğendim çok şık da duruyor çok teşekkür ederim",
+        "çok güzel bir set kumaşı kaliteli yumuşacık çok güzel kılıflar çok beğendim",
+        "ürün o kadar güzel ki çok şık yatak odama çok güzel oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel bir set kumaşı kaliteli yumuşacık çok güzel kılıflar çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için aldım yumuşaklığını kumaşını çok beğendim çok şık da duruyor çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün o kadar güzel ki çok şık yatak odama çok güzel oldu",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çeyizime",
+        "rahat",
+        "çift kişilik",
+        "kişilik",
+        "almayı",
+        "almayı düşünüyorum",
+        "çift",
+        "düşünüyorum"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kaynanama aldım çok beğendi çok kaliteli bende kendime sipariş verecem",
+        "ürün güzel indimdeyken aldım 263 tl çok güzel",
+        "çok güzel anneme aldım çok beğeni"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel anneme aldım çok beğeni",
+          "score": 5.0
+        },
+        {
+          "text": "kaynanama aldım çok beğendi çok kaliteli bende kendime sipariş verecem",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel indimdeyken aldım 263 tl çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "alın aldırınn",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Solma",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "takımı",
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "severek kullandığım bir nevresim takımı konuşuyor yumuşacık asla çekme ve solma yapmadı bir tane de kardeşime hediye aldım",
+        "çok güzel hediye olarak gönderdim çok beğenildi",
+        "hediye aldım çok beğenildi"
+      ],
+      "all_reviews": [
+        {
+          "text": "severek kullandığım bir nevresim takımı konuşuyor yumuşacık asla çekme ve solma yapmadı bir tane de kardeşime hediye aldım",
+          "score": 5.0
+        },
+        {
+          "text": "hediye aldım çok beğenildi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel hediye olarak gönderdim çok beğenildi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyata Kalite",
+      "review_count": 8,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "fiyata",
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "fiyata kalite",
+        "çeyiz",
+        "beklemiyordum"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "o kadar güzel kiii paketlemesi falan alın çeyizime aldım",
+        "tam yatağıma göre oldu tüylenme renklerinde solma hiçbir şekilde yaşamadım gayet kaliteli bir ürün beğenerek kullanıyorum hatta yenisini de sipariş vereceğim",
+        "ürün çok kötü beklediğim gibi gelmedi ve üstelik geldiğinde pakette tüylenmişti 2 fotoğraftaki tüylenmeleri görebiliyorsunuz zaten"
+      ],
+      "all_reviews": [
+        {
+          "text": "o kadar güzel kiii paketlemesi falan alın çeyizime aldım",
+          "score": 5.0
+        },
+        {
+          "text": "tam yatağıma göre oldu tüylenme renklerinde solma hiçbir şekilde yaşamadım gayet kaliteli bir ürün beğenerek kullanıyorum hatta yenisini de sipariş vereceğim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kötü beklediğim gibi gelmedi ve üstelik geldiğinde pakette tüylenmişti 2 fotoğraftaki tüylenmeleri görebiliyorsunuz zaten",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Lastikli Çarşafı",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "fiyata",
+        "renkler",
+        "aldık",
+        "takımı",
+        "sağlam",
+        "fermuarlı",
+        "takım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tam bir fiyat performans ürünü ablam için 5 takım aldık ve gerçekten çok güzel",
+        "çok güzel bu fiyata kampanyadan aldım hatta yazlıkdaydım hemen öteki evime geldi kargodan memnunuz kumaşıda rengi dokusu mükemmel satıcıya teşekkür ediyorum bol kazançlar diliyorum",
+        "çok çok beğendim bu fiyata kalitesi harika kargo da hızlıydı bu mağazadan 4 alışverişim hepsinden memnun kaldım tavsiyemdir"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok çok beğendim bu fiyata kalitesi harika kargo da hızlıydı bu mağazadan 4 alışverişim hepsinden memnun kaldım tavsiyemdir",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü ablam için 5 takım aldık ve gerçekten çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bu fiyata kampanyadan aldım hatta yazlıkdaydım hemen öteki evime geldi kargodan memnunuz kumaşıda rengi dokusu mükemmel satıcıya teşekkür ediyorum bol kazançlar diliyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Bende & Paketlenmesi",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "bende",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "kullanıyor",
+        "çeyizime",
+        "beğenerek"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "anneme hediye aldım ürün çok güzel iyi ki almışım",
+        "ürünü anneme aldım güzel beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "anneme hediye aldım ürün çok güzel iyi ki almışım",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü anneme aldım güzel beğendim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmadı",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "görseldeki",
+        "alıcam",
+        "solma",
+        "çekme"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "resimdekinin aynısı geldi paketlemesi güzeldi kargo hızlı 2 günde geldi renkleri cok canlı cok güzel yıkadım 30 derecede hicbirsey olmadı gayet hoş alınabilir kaliteli incecik değil ben bej rengi lastikli çarşafla birlikte aldım çok güzel uyumlu oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "resimdekinin aynısı geldi paketlemesi güzeldi kargo hızlı 2 günde geldi renkleri cok canlı cok güzel yıkadım 30 derecede hicbirsey olmadı gayet hoş alınabilir kaliteli incecik değil ben bej rengi lastikli çarşafla birlikte aldım çok güzel uyumlu oldu",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rengi & Renkleri Canlı",
+      "review_count": 2,
+      "avg_score": 2.0,
+      "sentiment": "negative",
+      "sentiment_label": "Olumsuz",
+      "top_terms": [
+        "rengi",
+        "canlı",
+        "renkleri",
+        "yıkadım",
+        "renkleri canlı",
+        "renkler",
+        "dokusu",
+        "aynı"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çabuk rengi soldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "çabuk rengi soldu",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
+  "top_reviews": [
+    "resimdekinin aynısı geldi paketlemesi güzeldi kargo hızlı 2 günde geldi renkleri cok canlı cok güzel yıkadım 30 derecede hicbirsey olmadı gayet hoş alınabilir kaliteli incecik değil ben bej rengi lastikli çarşafla birlikte aldım çok güzel uyumlu oldu",
+    "resimdekinin aynısı geldi paketlemesi güzeldi kargo hızlı 2 günde geldi renkleri cok canlı cok güzel yıkadım 30 derecede hicbirsey olmadı gayet hoş alınabilir kaliteli incecik değil ben bej rengi lastikli çarşafla birlikte aldım çok güzel uyumlu oldu",
+    "çok güzel bu fiyata kampanyadan aldım hatta yazlıkdaydım hemen öteki evime geldi kargodan memnunuz kumaşıda rengi dokusu mükemmel satıcıya teşekkür ediyorum bol kazançlar diliyorum",
+    "çok güzel bu fiyata kampanyadan aldım hatta yazlıkdaydım hemen öteki evime geldi kargodan memnunuz kumaşıda rengi dokusu mükemmel satıcıya teşekkür ediyorum bol kazançlar diliyorum",
+    "tam yatağıma göre oldu tüylenme renklerinde solma hiçbir şekilde yaşamadım gayet kaliteli bir ürün beğenerek kullanıyorum hatta yenisini de sipariş vereceğim"
+  ],
+  "generated_at": "2026-04-06"
+}

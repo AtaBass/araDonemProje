@@ -1,0 +1,225 @@
+{
+  "category": "sandalye",
+  "category_label": "Sandalye",
+  "total_reviews": 1076,
+  "overall_score": 4.76,
+  "overall_sentiment": "positive",
+  "summary": "Sandalye kategorisi, 1076 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Ürün**, **Kalite & Dayanıklılık**, **Rahat Kullanım** konularında yüksek memnuniyet bildirmektedir. Genel olarak Sandalye ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 26,
+    "2": 5,
+    "3": 29,
+    "4": 80,
+    "5": 936
+  },
+  "aspects": [
+    {
+      "name": "Ürün",
+      "review_count": 296,
+      "avg_score": 4.46,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "ürün",
+        "kaliteli",
+        "bir ürün",
+        "harika",
+        "fiyat",
+        "çok beğendim",
+        "hızlı",
+        "ürünü"
+      ],
+      "positive_pct": 75.7,
+      "negative_pct": 8.8,
+      "neutral_pct": 15.5,
+      "sample_reviews": [
+        "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+        "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+        "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 200,
+      "avg_score": 4.92,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok güzel",
+        "teşekkürler",
+        "sağlam",
+        "kullanışlı",
+        "çok beğendik",
+        "çok şık",
+        "ürün",
+        "kaliteli"
+      ],
+      "positive_pct": 93.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 7.0,
+      "sample_reviews": [
+        "sandalyeler sağlam geldi dış görünüş olarak şık duruyor ve kumaşları güzel yalnızca monte ederken ahşaplarında zımbaların özensiz olduğu vida girişlerinin yamuk olduğu ve kırpıkların olduğunu gördük o kısımları özensiz olmuş sandalye ayaklarında da koruyucu olmasını beklerdim onların dışında güzel ve satıcı ulaşılabilir ilgiliydi",
+        "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın",
+        "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Rahat Kullanım",
+      "review_count": 185,
+      "avg_score": 4.89,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "gayet",
+        "tavsiye ederim",
+        "gayet güzel",
+        "rahat",
+        "için aldım",
+        "ürün",
+        "kullanışlı",
+        "kurulumu"
+      ],
+      "positive_pct": 90.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 9.7,
+      "sample_reviews": [
+        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
+        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
+        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim"
+      ],
+      "icon": "😌"
+    },
+    {
+      "name": "Kargo & Teslimat",
+      "review_count": 129,
+      "avg_score": 4.73,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teşekkür ederim",
+        "çok teşekkür",
+        "satıcıya",
+        "teşekkür ediyorum",
+        "ediyorum",
+        "hızlı",
+        "beğendi",
+        "geldi çok"
+      ],
+      "positive_pct": 86.8,
+      "negative_pct": 3.9,
+      "neutral_pct": 9.3,
+      "sample_reviews": [
+        "çok beğendim çok kaliteliler ben 12no kumaş numarasını sipariş ettim fotoda göründüğünden daha açık renk bu arada 2şer tane sipariş ettim ilk gelenlerden bi tanesinin sırt yaslama yerinde kumaşın bitimi düzgün birleştirilmemişti sökülmeye meyilliydi orayı dikip kendim hallettim sonrakiler daha özenliydi sandalyelerin uçlarına bile sünger sarılmıştı kargoda zarar görmesin diye kargodan da çok memnun kaldım gelmeden arayıp daire kapısına kadar getirdiler kısacası mükemmele yakın hersey 6ya tamamlamayı düşünüyorum satıcıya çok teşekkür ederim emekleri için",
+        "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese",
+        "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese"
+      ],
+      "icon": "📦"
+    },
+    {
+      "name": "Çok iyi",
+      "review_count": 120,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok iyi",
+        "tavsiye ediyorum",
+        "ediyorum",
+        "ürün",
+        "göre çok",
+        "fiyatına",
+        "fiyatına göre"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
+        "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
+        "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Cok guzel",
+      "review_count": 63,
+      "avg_score": 4.83,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "cok guzel",
+        "icin",
+        "cok memnun",
+        "kolay",
+        "saglam",
+        "cok begendim",
+        "rahat şık",
+        "kullanisli"
+      ],
+      "positive_pct": 88.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.1,
+      "sample_reviews": [
+        "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+        "sandalyelerden 4er tane aldik gorumcem ve ben ikimizde cok memnun kaldik cok guzeller cok kaliteli ve saglam duruyor demonte geldi kurulumunu evde tek basima kendim yaptim cokta guzel ve cabuk kuruldu oturmasi rahatligi cok iyi tam istediğim gibi parasina gore cok cok uygun ikimizde cok begendik hatta 6 tane almadigima pisman oldum sadece kargoya verilmesi biraz uzun sürdü ama teslimat ve siparis sorunsuz teslim edildi sagolsun aras kargo kapiya kadar cikarip teslim etti memnun kaldigim bi alisveris oldu teşekkürler",
+        "sandalyelerden 4er tane aldik gorumcem ve ben ikimizde cok memnun kaldik cok guzeller cok kaliteli ve saglam duruyor demonte geldi kurulumunu evde tek basima kendim yaptim cokta guzel ve cabuk kuruldu oturmasi rahatligi cok iyi tam istediğim gibi parasina gore cok cok uygun ikimizde cok begendik hatta 6 tane almadigima pisman oldum sadece kargoya verilmesi biraz uzun sürdü ama teslimat ve siparis sorunsuz teslim edildi sagolsun aras kargo kapiya kadar cikarip teslim etti memnun kaldigim bi alisveris oldu teşekkürler"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz",
+      "review_count": 46,
+      "avg_score": 4.87,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sorunsuz",
+        "sorunsuz geldi",
+        "teşekkürler",
+        "göründüğü",
+        "göründüğü gibi",
+        "geldi teşekkürler",
+        "gibi geldi",
+        "ulaştı"
+      ],
+      "positive_pct": 91.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 8.7,
+      "sample_reviews": [
+        "ürün çok başarılı kaliteli ve sorunsuz kargolama çok hızlıydı ertesi gün ulaştı ürün çabuk geldi başarılı satıcı teşekkür ederim cok kaliteli ve rahat iyimi almisim dedirtti",
+        "ürün çok başarılı kaliteli ve sorunsuz kargolama çok hızlıydı ertesi gün ulaştı ürün çabuk geldi başarılı satıcı teşekkür ederim cok kaliteli ve rahat iyimi almisim dedirtti",
+        "ürün çok başarılı kaliteli ve sorunsuz kargolama çok hızlıydı ertesi gün ulaştı ürün çabuk geldi başarılı satıcı teşekkür ederim cok kaliteli ve rahat iyimi almisim dedirtti"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Değer",
+      "review_count": 37,
+      "avg_score": 4.78,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "gayet",
+        "gayet iyi",
+        "memnun kaldık",
+        "kaldık",
+        "memnun kaldım",
+        "kaldım",
+        "gayet uygun",
+        "beğendim gayet"
+      ],
+      "positive_pct": 78.4,
+      "negative_pct": 0.0,
+      "neutral_pct": 21.6,
+      "sample_reviews": [
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık"
+      ],
+      "icon": "💰"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

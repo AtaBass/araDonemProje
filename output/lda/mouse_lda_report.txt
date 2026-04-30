@@ -1,0 +1,17 @@
+Girdi: mouse_preprocessed.csv
+Toplam yorum: 1220
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: çok, ve, güzel, bir, iyi, ürün, aldım, çok güzel, için, çok iyi | mapped aspects: tasarım
+- topic 1: çok, için, ve, hediye, iyi, ürün, bir, aldım, ederim, güzel | mapped aspects: tasarım
+- topic 2: ürün, güzel, çok, bir, gibi, iyi, yok, gayet, daha, güzel ürün | mapped aspects: tasarım
+- topic 3: çok, ederim, güzel, teşekkür ederim, teşekkür, geldi, ürün, bir, için, ve | mapped aspects: tasarım
+- topic 4: güzel, iyi, gayet, bir, çok, ürün, de, sessiz, yok, pil | mapped aspects: batarya, ses, tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=403 | ilgili_yorum=403
+- ses: frekans=24 | ilgili_yorum=24
+- batarya: frekans=22 | ilgili_yorum=22

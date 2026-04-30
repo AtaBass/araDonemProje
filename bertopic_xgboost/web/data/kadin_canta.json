@@ -1,0 +1,225 @@
+{
+  "category": "kadin_canta",
+  "category_label": "Kadın Çanta",
+  "total_reviews": 1280,
+  "overall_score": 4.77,
+  "overall_sentiment": "positive",
+  "summary": "Kadın Çanta kategorisi, 1280 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Kargo & Teslimat**, **Kalite & Dayanıklılık**, **Kullanışlı** konularında yüksek memnuniyet bildirmektedir. Genel olarak Kadın Çanta ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 17,
+    "2": 9,
+    "3": 40,
+    "4": 121,
+    "5": 1093
+  },
+  "aspects": [
+    {
+      "name": "Kargo & Teslimat",
+      "review_count": 355,
+      "avg_score": 4.5,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "küçük",
+        "teşekkürler",
+        "çanta",
+        "gibi geldi",
+        "göründüğü",
+        "göründüğü gibi",
+        "duruyor",
+        "büyük"
+      ],
+      "positive_pct": 74.1,
+      "negative_pct": 5.9,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "büyük çanta severler için aşırı ideal bi çanta ve kalitesi muhteşem benim için bir çantada iç kısmında yani ekstra bir cep bir bölme olması önemli ve bu tam beklentimin karşılığı kullanımı rahat ve fiyatı çok uygun bu kaliteye oranla almayı düşünenler direkt sepete ekleyin ben bundan öncede bir çanta sipariş etmiştim ama iç detayına dikkat etmemişim içinde cep olmadığı için kızıma hediye ettim oda çok iyi bir kalite de idi yine aynı yerden sipariş etmiştim özetle alın aldırın tavsiyedir not kargo ve ulaşımda gayet hızlı idi bir gün içinde teslimat yapıldı emeği geçen herkese teşekkürler",
+        "büyük çanta severler için aşırı ideal bi çanta ve kalitesi muhteşem benim için bir çantada iç kısmında yani ekstra bir cep bir bölme olması önemli ve bu tam beklentimin karşılığı kullanımı rahat ve fiyatı çok uygun bu kaliteye oranla almayı düşünenler direkt sepete ekleyin ben bundan öncede bir çanta sipariş etmiştim ama iç detayına dikkat etmemişim içinde cep olmadığı için kızıma hediye ettim oda çok iyi bir kalite de idi yine aynı yerden sipariş etmiştim özetle alın aldırın tavsiyedir not kargo ve ulaşımda gayet hızlı idi bir gün içinde teslimat yapıldı emeği geçen herkese teşekkürler",
+        "büyük çanta severler için aşırı ideal bi çanta ve kalitesi muhteşem benim için bir çantada iç kısmında yani ekstra bir cep bir bölme olması önemli ve bu tam beklentimin karşılığı kullanımı rahat ve fiyatı çok uygun bu kaliteye oranla almayı düşünenler direkt sepete ekleyin ben bundan öncede bir çanta sipariş etmiştim ama iç detayına dikkat etmemişim içinde cep olmadığı için kızıma hediye ettim oda çok iyi bir kalite de idi yine aynı yerden sipariş etmiştim özetle alın aldırın tavsiyedir not kargo ve ulaşımda gayet hızlı idi bir gün içinde teslimat yapıldı emeği geçen herkese teşekkürler"
+      ],
+      "icon": "📦"
+    },
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 258,
+      "avg_score": 4.9,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok güzel",
+        "aldım çok",
+        "çanta",
+        "çok iyi",
+        "güzel bir",
+        "güzel çok",
+        "güzel geldi",
+        "kaliteli"
+      ],
+      "positive_pct": 91.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 8.5,
+      "sample_reviews": [
+        "çok güzel ve çok büyük bi çanta iş yerinde büyük çanta kullanmayı sevenler kesinlikle almalı rengide çok hoş beyaz rengi olsa onu da alıcaktım 2 siyah 1 kahverengi çanta aldım burdan aynı model aldığım arkadaşım da çok beğendi parasını sonuna kadar hak eden bi çanta ve çok hızlı geliyor 2 gün içinde elime ulaştı satıcı da çok tatlı biri mesajlar geç bakıyorlar ama olsun",
+        "çok güzel ve çok büyük bi çanta iş yerinde büyük çanta kullanmayı sevenler kesinlikle almalı rengide çok hoş beyaz rengi olsa onu da alıcaktım 2 siyah 1 kahverengi çanta aldım burdan aynı model aldığım arkadaşım da çok beğendi parasını sonuna kadar hak eden bi çanta ve çok hızlı geliyor 2 gün içinde elime ulaştı satıcı da çok tatlı biri mesajlar geç bakıyorlar ama olsun",
+        "dün sipariş verdim bu gün geldi hızlı kargolama ürün çok tatlı içide gayet yeterli büyüklükte fiyat olarak çok güzel bir rakama aldım teşekkürler ben beğendim kurtarıcı bir çanta her ortama uyar"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Kullanışlı",
+      "review_count": 137,
+      "avg_score": 4.76,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanışlı",
+        "ürün",
+        "gayet",
+        "çok kullanışlı",
+        "mükemmel ürün",
+        "gayet güzel",
+        "çanta",
+        "bir ürün"
+      ],
+      "positive_pct": 83.2,
+      "negative_pct": 2.2,
+      "neutral_pct": 14.6,
+      "sample_reviews": [
+        "ürün hem çapraz takmalık hem de elde tutmak için harika kombini birden şıklaştırıyor ben sipariş ederken sert bir kalıbı olacağını düşünmüştüm ama aksine yumuşak bir kumaşı var bu da kullanımı daha da kolaylaştırıyor anahtar cüzdan telefon sığar güneş gözlüğünün kılıfı hafif dışarda kaldı ben çok beğendimmmmm",
+        "ürün hem çapraz takmalık hem de elde tutmak için harika kombini birden şıklaştırıyor ben sipariş ederken sert bir kalıbı olacağını düşünmüştüm ama aksine yumuşak bir kumaşı var bu da kullanımı daha da kolaylaştırıyor anahtar cüzdan telefon sığar güneş gözlüğünün kılıfı hafif dışarda kaldı ben çok beğendimmmmm",
+        "geçen yıl aynısını aldım severek neredeyse hergün kullandım artık yıprandığı için aynısından sipariş ettim aynı kalitede çok kullanışlı severek kullanmaya devam edeceğim umarım 2 günde elime ulaştı satıcıya teşekkürler"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çok beğendim",
+      "review_count": 134,
+      "avg_score": 4.92,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok beğendim",
+        "derisi",
+        "kaliteli",
+        "çok güzel",
+        "ben çok",
+        "yumuşacık",
+        "güzel çok",
+        "kullanışlı"
+      ],
+      "positive_pct": 91.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 8.2,
+      "sample_reviews": [
+        "beklentimin çok çok üzerinde kaliteli olarak geldi çok beğendim bu kadar güzel olacağını hiç düşünmüyordum satıcının paketlemesi de gayet özenliydi ve çantanın iç astarı da fiyatına göre çok kaliteli",
+        "beklentimin çok çok üzerinde kaliteli olarak geldi çok beğendim bu kadar güzel olacağını hiç düşünmüyordum satıcının paketlemesi de gayet özenliydi ve çantanın iç astarı da fiyatına göre çok kaliteli",
+        "beğendiğim bir model çaprazda kullanıyorum çocuklu anne için gayet derin bulması zor oluyor ama bizede ondan lazım fiyatta gayet iyi kalitesi yumuşacık ben çok beğendim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Bir çanta",
+      "review_count": 128,
+      "avg_score": 4.91,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "bir çanta",
+        "çanta",
+        "bayıldım",
+        "harika",
+        "tatlı bir",
+        "alın aldırın",
+        "aldırın",
+        "tatlı"
+      ],
+      "positive_pct": 93.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 6.2,
+      "sample_reviews": [
+        "tek kelimeyle bayıldım paketlemesi çok özenliydi çantanın kumaşı rengi duruşu harika gören herkes çok beğendi kızım ile yeğnim el koymak istediler hemen onlara da birer tane sipariş verdim yaşlarına uygun renkte",
+        "tek kelimeyle bayıldım paketlemesi çok özenliydi çantanın kumaşı rengi duruşu harika gören herkes çok beğendi kızım ile yeğnim el koymak istediler hemen onlara da birer tane sipariş verdim yaşlarına uygun renkte",
+        "fiyatına göre okadar güzel bir çantaki bayıldım rengine dokusuna çok severek kullanıyorum bence alın aldırın bana güvenin bende bir şeyler alırken tereddütte kalıyorum ama bunda kalmayınn"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kaliteli",
+      "review_count": 121,
+      "avg_score": 4.81,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kaliteli",
+        "güzel kaliteli",
+        "cok guzel",
+        "çok şık",
+        "hediye",
+        "duruyor",
+        "kaliteli şık",
+        "çok kaliteli"
+      ],
+      "positive_pct": 84.3,
+      "negative_pct": 1.7,
+      "neutral_pct": 14.0,
+      "sample_reviews": [
+        "çanta tek kelimeyle harikaaa bu fiyata göre gayet kaliteli ve şık bundan sonra kesinlikle fav çantalarımdan birisii gönül rahatlığıyla alabilirsiniz",
+        "çanta tek kelimeyle harikaaa bu fiyata göre gayet kaliteli ve şık bundan sonra kesinlikle fav çantalarımdan birisii gönül rahatlığıyla alabilirsiniz",
+        "çanta tek kelimeyle harikaaa bu fiyata göre gayet kaliteli ve şık bundan sonra kesinlikle fav çantalarımdan birisii gönül rahatlığıyla alabilirsiniz"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Satıcı & Hizmet",
+      "review_count": 89,
+      "avg_score": 4.94,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teşekkür ederim",
+        "çok teşekkür",
+        "gibi geldi",
+        "hediye için",
+        "satıcıya",
+        "göründüğü",
+        "göründüğü gibi"
+      ],
+      "positive_pct": 94.4,
+      "negative_pct": 0.0,
+      "neutral_pct": 5.6,
+      "sample_reviews": [
+        "4 ürün sipariş etmiştim yanına hediye çanta da koymuşlar işini bu derece hakkıyla yapan bu firmaya çok teşekkür ederim çantalar tahminimden daha kaliteli kumaşları ve derileri çok güzel kesinlikle almanızı tavsiye ederim dokununca daha iyi anlaşılıyor ne kadar kaliteli oldukları bol kazançlar diliyorum",
+        "4 ürün sipariş etmiştim yanına hediye çanta da koymuşlar işini bu derece hakkıyla yapan bu firmaya çok teşekkür ederim çantalar tahminimden daha kaliteli kumaşları ve derileri çok güzel kesinlikle almanızı tavsiye ederim dokununca daha iyi anlaşılıyor ne kadar kaliteli oldukları bol kazançlar diliyorum",
+        "ürün bugün elime ulaştı gerçekten çok ama çok beğendim kesinlikle tereddüt etmeyin almakta ayrıca minik hediyeniz için de ayrıca teşekkür ederim"
+      ],
+      "icon": "🏪"
+    },
+    {
+      "name": "Aldım çok",
+      "review_count": 58,
+      "avg_score": 4.88,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldım çok",
+        "hediye",
+        "çok beğendi",
+        "beğendi",
+        "hediye olarak",
+        "olarak",
+        "arkadaşıma",
+        "olarak aldım"
+      ],
+      "positive_pct": 87.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 12.1,
+      "sample_reviews": [
+        "bence harika bir satıcı paketleme de güzel geliyor kendime barşka bir modelini almıştım çok memnun kaldım sonrasında bunu görümceme hediye olarak aldım o da çok beğendi çok teşekkürler",
+        "bence harika bir satıcı paketleme de güzel geliyor kendime barşka bir modelini almıştım çok memnun kaldım sonrasında bunu görümceme hediye olarak aldım o da çok beğendi çok teşekkürler",
+        "bence harika bir satıcı paketleme de güzel geliyor kendime barşka bir modelini almıştım çok memnun kaldım sonrasında bunu görümceme hediye olarak aldım o da çok beğendi çok teşekkürler"
+      ],
+      "icon": "💬"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

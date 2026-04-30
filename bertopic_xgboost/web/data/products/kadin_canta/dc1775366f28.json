@@ -1,0 +1,353 @@
+{
+  "product_id": "dc1775366f28",
+  "product_name": "Çınar Bez Çanta Kanvas Huzurlu Kedi Baskılı Bez Çanta - Fiyatı, Yorumları",
+  "product_url": "https://www.trendyol.com/cinar-bez-canta/kanvas-huzurlu-kedi-baskili-bez-canta-p-939736291",
+  "category": "kadin_canta",
+  "category_label": "Kadın Çanta",
+  "total_reviews": 50,
+  "overall_score": 5.0,
+  "overall_sentiment": "positive",
+  "stars": "★★★★★",
+  "summary": "**Çınar Bez Çanta Kanvas Huzurlu Kedi Baskılı Bez Çanta** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Yumuşacık Derisi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kullanışlı** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kızım müzik kursu için kitaplarını koyuyor çok işine yaradı güzel kaliteli kumaştan d…\"\n• **Kaliteli & Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **geniş** ve **boyutu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel çok minnoşşş bır çanta ve yanında gelen hediye içinde çok teşekkür ediyorum…\"\n• Kullanıcılar **Yumuşacık Derisi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **okulda** ve **hayatta** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Cok guzel sirin bir omuz cantasi kizima hediye aldim\"\n• **Resimdeki & Canta** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **göründüğü** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Tam göründüğü gibi geldi kaliteli ve sevimli duruyor teşekkür ederim hediye için de\"\n• Müşteri yorumlarında **Uygun** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **giderken** ve **derisi yumuşak** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Harika çok begendim ince degil kullanıma uygun basit degil asla\"",
+  "score_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 50
+  },
+  "aspects": [
+    {
+      "name": "Kaliteli & Yumuşacık Derisi",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kaliteli",
+        "kullanışlı",
+        "severek",
+        "sığıyor",
+        "yumuşacık",
+        "baya",
+        "derisi",
+        "anneler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kızım müzik kursu için kitaplarını koyuyor çok işine yaradı güzel kaliteli kumaştan dikilmiş görselle birebir aynı canlı renkler kargo da hızlıydı",
+        "çok güzel kumaşı kalın kullanışlı",
+        "kumaşı kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "parka çıkarken çok işime yarıyor ihtiyaçlarımı koyuyorum devamlı kullanıyorum ideal boyutta",
+          "score": 5.0
+        },
+        {
+          "text": "kızım müzik kursu için kitaplarını koyuyor çok işine yaradı güzel kaliteli kumaştan dikilmiş görselle birebir aynı canlı renkler kargo da hızlıydı",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kumaşı kalın kullanışlı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kaliteli & Rahat",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kaliteli",
+        "spor",
+        "rahat",
+        "geniş",
+        "boyutu",
+        "bayıldım",
+        "kullanışlı",
+        "çantası"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "deseni o kadar sevimli o kadar güzelki çok beğendim tam benim tarzıma göre bir çanta kullanışlıda iyiki almışım",
+        "çok güzel çok minnoşşş bır çanta ve yanında gelen hediye içinde çok teşekkür ediyorum bol kazançlar",
+        "çok çok tatlı bir çanta"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel çok minnoşşş bır çanta ve yanında gelen hediye içinde çok teşekkür ediyorum bol kazançlar",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok tatlı bir çanta",
+          "score": 5.0
+        },
+        {
+          "text": "deseni o kadar sevimli o kadar güzelki çok beğendim tam benim tarzıma göre bir çanta kullanışlıda iyiki almışım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Yumuşacık Derisi",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aynı",
+        "tane",
+        "okulda",
+        "yumuşacık derisi",
+        "bayildim",
+        "hayatta",
+        "paketleme",
+        "kelimeyle"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel hediye için 10 tane aldım",
+        "cok guzel sirin bir omuz cantasi kizima hediye aldim",
+        "çok güzel arkadaşıma hediye olarak aldım çok begendi"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel hediye için 10 tane aldım",
+          "score": 5.0
+        },
+        {
+          "text": "cok guzel sirin bir omuz cantasi kizima hediye aldim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel arkadaşıma hediye olarak aldım çok begendi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Resimdeki & Canta",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "adet",
+        "resimdeki",
+        "istediğim",
+        "canta",
+        "göründüğü",
+        "sağlam",
+        "kaliteli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tam göründüğü gibi geldi kaliteli ve sevimli duruyor teşekkür ederim hediye için de",
+        "tam istediğim gibi beğendim teşekkür ederim",
+        "çok güzel teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "tam istediğim gibi beğendim teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "tam göründüğü gibi geldi kaliteli ve sevimli duruyor teşekkür ederim hediye için de",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Uygun",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "giderken",
+        "kullanıma uygun",
+        "kullanıma",
+        "alınmalı",
+        "derisi yumuşak",
+        "asla",
+        "fena",
+        "göründüğünden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "harika çok begendim ince degil kullanıma uygun basit degil asla",
+        "cok guzel kuması kalın"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika çok begendim ince degil kullanıma uygun basit degil asla",
+          "score": 5.0
+        },
+        {
+          "text": "cok guzel kuması kalın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Zarif & Kelimeyle",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "zarif",
+        "harikaaa",
+        "yumuşacık",
+        "kelimeyle",
+        "kalite",
+        "baya",
+        "kelimeyle bayıldım",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel çok cici",
+        "çok tatlış"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel çok cici",
+          "score": 5.0
+        },
+        {
+          "text": "çok tatlış",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Cüzdan Telefon",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alır",
+        "bayıldım",
+        "alıyor",
+        "cüzdan telefon",
+        "cüzdan",
+        "rahatlıkla",
+        "sert",
+        "şeyi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kediye bayilam kizima aldim doku baski gayet guzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "kediye bayilam kizima aldim doku baski gayet guzel",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "performans",
+        "fiyat performans",
+        "fiyat",
+        "ideal",
+        "fiyata",
+        "buyuk",
+        "kaliteli",
+        "uygun"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün çok güzel aşırı tatlı bu fiyata daha iyisi olamaz kaliteli ve uygun"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün çok güzel aşırı tatlı bu fiyata daha iyisi olamaz kaliteli ve uygun",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rengi & Boyutu Ideal",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "rengi",
+        "icin",
+        "gözüküyor",
+        "boyutta",
+        "sert",
+        "ideal",
+        "başka",
+        "boyutu"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "baskı kalitesi beklediğimden çok daha iyi renkler canlı ve çok tatlı duruyor kanvas kumaşı oldukça sağlam ve günlük kullanım için boyutu ideal"
+      ],
+      "all_reviews": [
+        {
+          "text": "baskı kalitesi beklediğimden çok daha iyi renkler canlı ve çok tatlı duruyor kanvas kumaşı oldukça sağlam ve günlük kullanım için boyutu ideal",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
+  "top_reviews": [
+    "kızım müzik kursu için kitaplarını koyuyor çok işine yaradı güzel kaliteli kumaştan dikilmiş görselle birebir aynı canlı renkler kargo da hızlıydı",
+    "kızım müzik kursu için kitaplarını koyuyor çok işine yaradı güzel kaliteli kumaştan dikilmiş görselle birebir aynı canlı renkler kargo da hızlıydı",
+    "kızım müzik kursu için kitaplarını koyuyor çok işine yaradı güzel kaliteli kumaştan dikilmiş görselle birebir aynı canlı renkler kargo da hızlıydı",
+    "baskı kalitesi beklediğimden çok daha iyi renkler canlı ve çok tatlı duruyor kanvas kumaşı oldukça sağlam ve günlük kullanım için boyutu ideal",
+    "baskı kalitesi beklediğimden çok daha iyi renkler canlı ve çok tatlı duruyor kanvas kumaşı oldukça sağlam ve günlük kullanım için boyutu ideal"
+  ],
+  "generated_at": "2026-04-06"
+}

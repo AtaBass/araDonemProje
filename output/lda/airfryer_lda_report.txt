@@ -1,0 +1,15 @@
+Girdi: airfryer_preprocessed.csv
+Toplam yorum: 1143
+Topic sayısı (effective): 5
+Topic seçimi: prob>=0.1 veya topk=3
+
+Topic -> top terms (baseline) + aspect adayları:
+
+- topic 0: güzel, aldım, için, memnun, geldi, tavsiye, memnun kaldım, kaldım, ve, ederim | mapped aspects: tasarım
+- topic 1: ürün, bir, güzel, bir ürün, ve, harika, çok güzel, ederim, iyi, tavsiye | mapped aspects: tasarım
+- topic 2: aldım, ve, güzel, anneme, hediye, için, aldım çok, çok güzel, de, memnun | mapped aspects: tasarım
+- topic 3: bir, aldım, güzel, ve, ederim, teşekkür, ürün, teşekkür ederim, çok güzel, da | mapped aspects: tasarım
+- topic 4: güzel, beğendim, ederim, ve, çok güzel, çok beğendim, gayet, bir, tavsiye, aldim | mapped aspects: tasarım
+
+Aspect dağılımı:
+- tasarım: frekans=399 | ilgili_yorum=399

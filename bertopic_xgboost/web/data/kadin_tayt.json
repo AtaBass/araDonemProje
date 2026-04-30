@@ -1,0 +1,223 @@
+{
+  "category": "kadin_tayt",
+  "category_label": "Kadın Tayt",
+  "total_reviews": 1150,
+  "overall_score": 4.85,
+  "overall_sentiment": "positive",
+  "summary": "Kadın Tayt kategorisi, 1150 müşteri yorumu analiz edilerek değerlendirilmiştir. Genel memnuniyet düzeyi oldukça yüksektir. Müşteriler özellikle **Tam oldu**, **Kalite & Dayanıklılık**, **Kumaş & Malzeme** konularında yüksek memnuniyet bildirmektedir. Genel olarak Kadın Tayt ürünleri müşteri beklentilerini karşılamakta ve yüksek oranda tavsiye edilmektedir.",
+  "score_distribution": {
+    "1": 10,
+    "2": 10,
+    "3": 14,
+    "4": 71,
+    "5": 1045
+  },
+  "aspects": [
+    {
+      "name": "Tam oldu",
+      "review_count": 268,
+      "avg_score": 4.86,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "tam oldu",
+        "bir beden",
+        "beden aldım",
+        "küçük",
+        "beden küçük",
+        "aldım tam",
+        "kilo",
+        "çok güzel"
+      ],
+      "positive_pct": 88.8,
+      "negative_pct": 0.4,
+      "neutral_pct": 10.8,
+      "sample_reviews": [
+        "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+        "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+        "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim"
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Dayanıklılık",
+      "review_count": 249,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kaliteli",
+        "harika",
+        "çok kaliteli",
+        "ürün",
+        "güzel kaliteli",
+        "büyük",
+        "tayt"
+      ],
+      "positive_pct": 85.9,
+      "negative_pct": 6.4,
+      "neutral_pct": 7.6,
+      "sample_reviews": [
+        "satıcıya çok teşekkür ederim sorularımda içtenlikle yardımcı olduğu için ve dediği gibi de ürünü çok beğendim gerçekten bu fiyata harika bir tayt hiç tereddütsüz alabilirsiniz ben çok beğenmedim 59 kiloyum çok sımsıkı olsun istemedim l beden aldım ve tam istediğim gibi oldu duruşu kumaşı efsaaannnneeee teşekkürlerrr",
+        "satıcıya çok teşekkür ederim sorularımda içtenlikle yardımcı olduğu için ve dediği gibi de ürünü çok beğendim gerçekten bu fiyata harika bir tayt hiç tereddütsüz alabilirsiniz ben çok beğenmedim 59 kiloyum çok sımsıkı olsun istemedim l beden aldım ve tam istediğim gibi oldu duruşu kumaşı efsaaannnneeee teşekkürlerrr",
+        "satıcıya çok teşekkür ederim sorularımda içtenlikle yardımcı olduğu için ve dediği gibi de ürünü çok beğendim gerçekten bu fiyata harika bir tayt hiç tereddütsüz alabilirsiniz ben çok beğenmedim 59 kiloyum çok sımsıkı olsun istemedim l beden aldım ve tam istediğim gibi oldu duruşu kumaşı efsaaannnneeee teşekkürlerrr"
+      ],
+      "icon": "⭐"
+    },
+    {
+      "name": "Kumaş & Malzeme",
+      "review_count": 204,
+      "avg_score": 4.96,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok rahat",
+        "rahat",
+        "çok beğendim",
+        "çok iyi",
+        "kumaşı",
+        "kumaşı çok",
+        "kalitesi"
+      ],
+      "positive_pct": 96.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 3.4,
+      "sample_reviews": [
+        "ilk elime alınca kumaşı çok hoşuma gitti çok ince taytlardan değil giyince farkettim ki alabileceğim em güzel taytı almışım benzer modelini 550 tl'ye almıştım başka markadan kullanışlı old için alternatif olsun diye bunu istemiştim neredeyse diğeri değil favorim bu keşke en başta bunu alsaydım bayıldım fiyatına göre çok çok güzel popoyu çok güzel gösteriyor",
+        "ilk elime alınca kumaşı çok hoşuma gitti çok ince taytlardan değil giyince farkettim ki alabileceğim em güzel taytı almışım benzer modelini 550 tl'ye almıştım başka markadan kullanışlı old için alternatif olsun diye bunu istemiştim neredeyse diğeri değil favorim bu keşke en başta bunu alsaydım bayıldım fiyatına göre çok çok güzel popoyu çok güzel gösteriyor",
+        "ilk elime alınca kumaşı çok hoşuma gitti çok ince taytlardan değil giyince farkettim ki alabileceğim em güzel taytı almışım benzer modelini 550 tl'ye almıştım başka markadan kullanışlı old için alternatif olsun diye bunu istemiştim neredeyse diğeri değil favorim bu keşke en başta bunu alsaydım bayıldım fiyatına göre çok çok güzel popoyu çok güzel gösteriyor"
+      ],
+      "icon": "🧵"
+    },
+    {
+      "name": "Kargo & Teslimat",
+      "review_count": 111,
+      "avg_score": 4.85,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çok güzel",
+        "kargo",
+        "hızlı",
+        "teşekkürler",
+        "güzel çok",
+        "aldım çok",
+        "kargo çok",
+        "hızlıydı"
+      ],
+      "positive_pct": 90.1,
+      "negative_pct": 2.7,
+      "neutral_pct": 7.2,
+      "sample_reviews": [
+        "2 tane aldım biri anneme biri bana 1.73 boyunda 76 kiloyum l beden aldım çok güzel oldu annem de 1.63 boylarında 86 kilo xl beden aldık ona da çok güzel oldu kaliteli gözüküyor daha uzun vadeli kullanamadık ama sonuçların iyi olacağından eminim ve kargo çok hızlı geldi 2 günde elimizdeydi teşekkürler",
+        "2 tane aldım biri anneme biri bana 1.73 boyunda 76 kiloyum l beden aldım çok güzel oldu annem de 1.63 boylarında 86 kilo xl beden aldık ona da çok güzel oldu kaliteli gözüküyor daha uzun vadeli kullanamadık ama sonuçların iyi olacağından eminim ve kargo çok hızlı geldi 2 günde elimizdeydi teşekkürler",
+        "ya çok güzel bayildimm böyle güzel olacağını bilseydim 2 tane alirdim 78 kiloyum xl beden aldim biraz büyük bile geldi şimdiye kadar aldığım taytlardan en güzeli bu bence çok rahat esniyor kızlar alın aldırın ayrıca hediye için de teşekkürler"
+      ],
+      "icon": "📦"
+    },
+    {
+      "name": "Tam beden",
+      "review_count": 98,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "tam beden",
+        "beden alın",
+        "ürün",
+        "beden alabilirsiniz",
+        "mükemmel ürün",
+        "güzel tam",
+        "mükemmel",
+        "çok güzel"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gerçekten süper bir ürün bir tane aldım çok beğendim iki tane daha sipariş ettim bugün elime ulaştı giyince çok şık duruyor renk parlaklık süper esneklik duruş mükemmel alacaklara şimdiden hayırlı olsun tam beden alın derim bir beden küçükte olabilir kargo süper hızlı",
+        "gerçekten süper bir ürün bir tane aldım çok beğendim iki tane daha sipariş ettim bugün elime ulaştı giyince çok şık duruyor renk parlaklık süper esneklik duruş mükemmel alacaklara şimdiden hayırlı olsun tam beden alın derim bir beden küçükte olabilir kargo süper hızlı",
+        "kesinlikle herkese tavsiye ediyorum renkleri esnekliği birtık ince olmasına rağmen tam yazlık o kadar rahatki tam beden alınmalı üstünde duruş da çok iyi"
+      ],
+      "icon": "📏"
+    },
+    {
+      "name": "Satıcı & Hizmet",
+      "review_count": 98,
+      "avg_score": 4.9,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "tavsiye ederim",
+        "teşekkür ederim",
+        "çok güzel",
+        "gayet",
+        "ürün",
+        "gayet güzel",
+        "hediyeniz için",
+        "hediyeniz"
+      ],
+      "positive_pct": 90.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 9.2,
+      "sample_reviews": [
+        "ürün çok güzel beklediğimden iyiydi ben spor için aldım çok memnun kaldım üç tane aldım annemle yengeme de aynı şekilde yedek de almayı düşünüyorum tam bedeninizi almanızı tavsiye ederim 57 kilo m aldım tam istediğim gibi gayet rahat hareket edebiliyorsunuz ürünü tavsiye ederim",
+        "ürün çok güzel beklediğimden iyiydi ben spor için aldım çok memnun kaldım üç tane aldım annemle yengeme de aynı şekilde yedek de almayı düşünüyorum tam bedeninizi almanızı tavsiye ederim 57 kilo m aldım tam istediğim gibi gayet rahat hareket edebiliyorsunuz ürünü tavsiye ederim",
+        "ürün çok güzel beklediğimden iyiydi ben spor için aldım çok memnun kaldım üç tane aldım annemle yengeme de aynı şekilde yedek de almayı düşünüyorum tam bedeninizi almanızı tavsiye ederim 57 kilo m aldım tam istediğim gibi gayet rahat hareket edebiliyorsunuz ürünü tavsiye ederim"
+      ],
+      "icon": "🏪"
+    },
+    {
+      "name": "Beden & Kalıp",
+      "review_count": 66,
+      "avg_score": 4.86,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "bedeninizi",
+        "kendi bedeninizi",
+        "kendi",
+        "bedeninizi alın",
+        "bedeninizi alabilirsiniz",
+        "tam bedeninizi",
+        "toparlayıcı",
+        "güzel kendi"
+      ],
+      "positive_pct": 86.4,
+      "negative_pct": 0.0,
+      "neutral_pct": 13.6,
+      "sample_reviews": [
+        "kesinlikle aradığım tayt kumaşı ve rahatlığı diyebilirim ben yanlışıkla kendi bedenimden bir büyük almışım kızlar o yuzden bir toparlama olmadı kendi bedeninizi veya bir küçüğünü tercih edin aşırı rahat asla iç göstermiyor parlak olmasını istemiyordum zaten tam da istediğim gibi mat bir tayt bu kadar yüksel bel olmayanını da mutlaka alacağım teşekkürler",
+        "kesinlikle aradığım tayt kumaşı ve rahatlığı diyebilirim ben yanlışıkla kendi bedenimden bir büyük almışım kızlar o yuzden bir toparlama olmadı kendi bedeninizi veya bir küçüğünü tercih edin aşırı rahat asla iç göstermiyor parlak olmasını istemiyordum zaten tam da istediğim gibi mat bir tayt bu kadar yüksel bel olmayanını da mutlaka alacağım teşekkürler",
+        "güzel bir ürün ben biraz küçük almışım bol olmasın diye siz tam bedeninizi alın bana dar oldu ama ürün ve kargodan memnun kaldım l almıştım"
+      ],
+      "icon": "📏"
+    },
+    {
+      "name": "Rahat Kullanım",
+      "review_count": 56,
+      "avg_score": 4.89,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "cok guzel",
+        "cok rahat",
+        "rahat",
+        "cok güzel",
+        "cok iyi",
+        "rahat oldu",
+        "begendım"
+      ],
+      "positive_pct": 92.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 7.1,
+      "sample_reviews": [
+        "hayatimda giydigim en iyi tayt 174 boyum var boyu kisa kalir diye korktum l aldim bedenini cok begendim uzun boylu kizlarim alabilirsiniz asiri rahat yok gibi ic gostermiyor hem spor kombini hem gunluk kombin yapilir tavsiyedir",
+        "hayatimda giydigim en iyi tayt 174 boyum var boyu kisa kalir diye korktum l aldim bedenini cok begendim uzun boylu kizlarim alabilirsiniz asiri rahat yok gibi ic gostermiyor hem spor kombini hem gunluk kombin yapilir tavsiyedir",
+        "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz"
+      ],
+      "icon": "😌"
+    }
+  ],
+  "generated_at": "2026-04-06"
+}

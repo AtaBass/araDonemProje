@@ -1,0 +1,175 @@
+{
+  "product_id": "a39bead05a8d",
+  "product_name": "Bella Maison %100 Pamuk Daisy Çift Kişilik Nevresim Seti Sarı (200x220 cm) - Fiyatı, Yorumları",
+  "product_url": "https://www.trendyol.com/bella-maison/100-pamuk-daisy-cift-kisilik-nevresim-seti-sari-200x220-cm-p-1038029881",
+  "category": "nevresim",
+  "category_label": "Nevresim Takımı",
+  "total_reviews": 10,
+  "overall_score": 4.4,
+  "overall_sentiment": "neutral",
+  "stars": "★★★★½",
+  "summary": "**Bella Maison %100 Pamuk Daisy Çift Kişilik Nevresim Set** için 10 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Kişilik** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakaca…\"\n• **Rengi & Renkleri Canlı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **renkler** ve **dokusu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alın…\"\n• Kullanıcılar **Canlı Kumaşı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **takım** ve **sağlam** konusu özellikle vurgulanmaktadır.\n• **Fiyata Kalite** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün güzel fiyatı biraz şişirme sadece ben kampanyaya ve kuponla 800 tl civarı bir fi…\"",
+  "score_distribution": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 7
+  },
+  "aspects": [
+    {
+      "name": "Kişilik",
+      "review_count": 4,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "çeyizime",
+        "rahat",
+        "çift kişilik",
+        "kişilik",
+        "almayı",
+        "almayı düşünüyorum",
+        "çift",
+        "düşünüyorum"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
+        "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel",
+        "ürün harika dostlar almak isteyen hiiiccc düşünmeden alsin"
+      ],
+      "all_reviews": [
+        {
+          "text": "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika dostlar almak isteyen hiiiccc düşünmeden alsin",
+          "score": 5.0
+        },
+        {
+          "text": "içinden çarşaf çıkmadı şaka mı",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rengi & Renkleri Canlı",
+      "review_count": 2,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "rengi",
+        "canlı",
+        "renkleri",
+        "yıkadım",
+        "renkleri canlı",
+        "renkler",
+        "dokusu",
+        "aynı"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alınmalı 10 numara",
+        "rengi biraz soğuk geldi ama deseni güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alınmalı 10 numara",
+          "score": 5.0
+        },
+        {
+          "text": "rengi biraz soğuk geldi ama deseni güzel",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaşı",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "sağlam",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel tavsiye ederim",
+        "teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyata Kalite",
+      "review_count": 2,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyata",
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "fiyata kalite",
+        "çeyiz",
+        "beklemiyordum"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "ürün güzel fiyatı biraz şişirme sadece ben kampanyaya ve kuponla 800 tl civarı bir fiyata aldim",
+        "korunakli geldi paketinde teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "korunakli geldi paketinde teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel fiyatı biraz şişirme sadece ben kampanyaya ve kuponla 800 tl civarı bir fiyata aldim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
+  "top_reviews": [
+    "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
+    "renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alınmalı 10 numara",
+    "ürün güzel fiyatı biraz şişirme sadece ben kampanyaya ve kuponla 800 tl civarı bir fiyata aldim",
+    "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel",
+    "ürün harika dostlar almak isteyen hiiiccc düşünmeden alsin"
+  ],
+  "generated_at": "2026-04-06"
+}

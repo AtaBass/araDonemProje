@@ -1,0 +1,378 @@
+{
+  "product_id": "975e191b9ff4",
+  "product_name": "MissKATRE Kadın Tüllü Uzun Siyah Spor Tayt - Fiyatı, Yorumları",
+  "product_url": "https://www.trendyol.com/misskatre/kadin-tullu-uzun-siyah-spor-tayt-p-831832649",
+  "category": "kadin_tayt",
+  "category_label": "Kadın Tayt",
+  "total_reviews": 50,
+  "overall_score": 4.86,
+  "overall_sentiment": "positive",
+  "stars": "★★★★½",
+  "summary": "**MissKATRE Kadın Tüllü Uzun Siyah Spor Tayt** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kalıp Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **esnek** konusu özellikle vurgulanmaktadır.\n• **Kaliteli Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **toparlayıcı** ve **bedeni** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bayıldım hiç beklemiyordum bu kadar güzel plcağını 1-2 beden büyük aldım tavsiye eder…\"\n• Kullanıcılar **Rahat Kullanışlı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **ürünler** ve **teslimat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel ve kullanışlı çokta hızlı geldi teşekkürler\"\n• **Duruşu & Kalitesi** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **göründüğü** ve **sardı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Göründüğü gibi şık kaliteli eğer bacaklarınız kalın kalçalı biri işeniz bi beden büyü…\"\n• Müşteri yorumlarında **Kumaşı & Farklı Renkleri** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **bedeni** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim çok iyi kumaşı tülü güzel satıcıya teşekkür ederim\"",
+  "score_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 7,
+    "5": 43
+  },
+  "aspects": [
+    {
+      "name": "Kalıp Rahat",
+      "review_count": 10,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlıyor",
+        "kalıp",
+        "beyendim",
+        "severek",
+        "baya",
+        "esnek",
+        "kalıp rahat",
+        "bayıldım"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "çok güzel tam kalıp rahat",
+        "çok güzel bayıldım",
+        "güzel beyendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel tam kalıp rahat",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim üzerimde çok şık durdu",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "güzel beyendim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kaliteli Rahat",
+      "review_count": 8,
+      "avg_score": 4.38,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "kaliteli rahat",
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "rahat kaliteli",
+        "yumuşak",
+        "kalitesi"
+      ],
+      "positive_pct": 37.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 62.5,
+      "sample_reviews": [
+        "bayıldım hiç beklemiyordum bu kadar güzel plcağını 1-2 beden büyük aldım tavsiye ederim çorap gibi",
+        "ürün çok güzel çok beğendim ama büyük oldu küçük alsaydım daha iyi olurmuş",
+        "spor salonda gıymek için aldım hoş tayt beğendım"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldım hiç beklemiyordum bu kadar güzel plcağını 1-2 beden büyük aldım tavsiye ederim çorap gibi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel çok beğendim ama büyük oldu küçük alsaydım daha iyi olurmuş",
+          "score": 4.0
+        },
+        {
+          "text": "spor salonda gıymek için aldım hoş tayt beğendım",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rahat Kullanışlı",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürünler",
+        "teslimat",
+        "kullanışlı",
+        "özellikle",
+        "rahat kullanışlı",
+        "oldum",
+        "aldık",
+        "göründüğü"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel ve kullanışlı çokta hızlı geldi teşekkürler",
+        "çok güzel ve kaliteli geldi tavsiye ederim",
+        "çok iyi geldi teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel ve kaliteli geldi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve kullanışlı çokta hızlı geldi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi geldi teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruşu & Kalitesi",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "duruşu",
+        "kalitesi",
+        "göründüğü",
+        "sardı",
+        "bedeninizden",
+        "alin",
+        "bayıldım",
+        "almalısınız"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "göründüğü gibi şık kaliteli eğer bacaklarınız kalın kalçalı biri işeniz bi beden büyük alın",
+        "çok kaliteli tam bedenızı alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok kaliteli tam bedenızı alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "göründüğü gibi şık kaliteli eğer bacaklarınız kalın kalçalı biri işeniz bi beden büyük alın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaşı & Farklı Renkleri",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "yaptım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok beğendim kumaşı çok rahat tam bedeninizi alabilirsiniz",
+        "çok beğendim çok iyi kumaşı tülü güzel satıcıya teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok beğendim çok iyi kumaşı tülü güzel satıcıya teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim kumaşı çok rahat tam bedeninizi alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rahat",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kilo",
+        "kilo rahat",
+        "asla",
+        "olmasına",
+        "rağmen",
+        "fiyat performans",
+        "performans",
+        "rahat rahat"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel kumaşına bayıldım bir beden büyük aldım",
+        "güzel gayet 161 boy 71 kg xl tam oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel kumaşına bayıldım bir beden büyük aldım",
+          "score": 5.0
+        },
+        {
+          "text": "güzel gayet 161 boy 71 kg xl tam oldu",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyata & Kaliteli Ürünler",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyata",
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
+        "baya"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bu fiyata bu kadar güzel ve kaliteli beklemiyordum mükemmel tekrar alacağım"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu fiyata bu kadar güzel ve kaliteli beklemiyordum mükemmel tekrar alacağım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyata",
+        "fiyat",
+        "efsane",
+        "paketleme",
+        "aldığım",
+        "edebilirsiniz",
+        "diyebilirim",
+        "fiyat performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hem alır almaz kargoya verildi hem de son zamanlarda aldığım en iyi tayt diyebilirim 177cm 90kg 2xl tam oldu sanırım bikaç tane daha alıcam tereddütsüz alın aldırın"
+      ],
+      "all_reviews": [
+        {
+          "text": "hem alır almaz kargoya verildi hem de son zamanlarda aldığım en iyi tayt diyebilirim 177cm 90kg 2xl tam oldu sanırım bikaç tane daha alıcam tereddütsüz alın aldırın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaşı",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "diye",
+        "kumaş",
+        "kalıbı",
+        "iade",
+        "esnek",
+        "bayıldım",
+        "baya"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bayıldım kumaşı dokusu duruşu hersiyiyle on numara beş yıldız çokta seksi duruyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldım kumaşı dokusu duruşu hersiyiyle on numara beş yıldız çokta seksi duruyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıcacık",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kaliteli kaliteli",
+        "rahat rahat",
+        "sıcacık tutuyor",
+        "sıcacık",
+        "bedenınızı",
+        "derim",
+        "tutuyor",
+        "yumuşacık"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "harika ürün tam istediğim gibi geldi tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika ürün tam istediğim gibi geldi tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
+  "top_reviews": [
+    "hem alır almaz kargoya verildi hem de son zamanlarda aldığım en iyi tayt diyebilirim 177cm 90kg 2xl tam oldu sanırım bikaç tane daha alıcam tereddütsüz alın aldırın",
+    "hem alır almaz kargoya verildi hem de son zamanlarda aldığım en iyi tayt diyebilirim 177cm 90kg 2xl tam oldu sanırım bikaç tane daha alıcam tereddütsüz alın aldırın",
+    "hem alır almaz kargoya verildi hem de son zamanlarda aldığım en iyi tayt diyebilirim 177cm 90kg 2xl tam oldu sanırım bikaç tane daha alıcam tereddütsüz alın aldırın",
+    "bayıldım hiç beklemiyordum bu kadar güzel plcağını 1-2 beden büyük aldım tavsiye ederim çorap gibi",
+    "bayıldım hiç beklemiyordum bu kadar güzel plcağını 1-2 beden büyük aldım tavsiye ederim çorap gibi"
+  ],
+  "generated_at": "2026-04-06"
+}
