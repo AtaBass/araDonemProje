@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Karaca Air Pro Cook Köz Xl Airfryer Space Gray Black 4 ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **ideal** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ben değil eşim resmen kendine almış ve gerçekten çok güzel ve hızlı bir şekilde geldi…\"\n• **Fiyatı Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **fiyat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Karaca kalitesi paketleme güzel kendime önce almıştım bunu arkadaşıma aldık tavsiye e…\"\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kaliteli** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Böylesine pratik bir ürün yoktur yaptığı herşey çok güzel oluyor tavsiye ediyorum şid…\"\n• **Ideal** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **diyebilirim** ve **sorunsuz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Tüm sevdiklerime de hediye aldığım harika ürün çok işlevsel severek kullanıyoruz\"\n• Müşteri yorumlarında **Patates & Tavuk** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **vardı** ve **karaca** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane a…\"",
+  "summary": "\"Karaca Air Pro Cook Köz Xl Airfryer Space Gray Black 4, müşterilerin neredeyse tam onayına sahip bir ürün olarak değerlendiriliyor. Ürünün özellikle performansını yüksek puanlarla övmekte olan 16 yorumun ortalama puanı 4.81/5.0'dur. Fiyat performansı, kişilik ve sıkıntılarının tamamında benzer derecede olumlu yorumlar alırken, diyebilirim özelliğinde de tam onaylı olunuyor.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 19,
-      "avg_score": 4.84,
+      "name": "Özellikle",
+      "review_count": 16,
+      "avg_score": 4.81,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
+        "özellikle",
+        "evde",
         "anneler",
-        "kaliteli"
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
       ],
-      "positive_pct": 84.2,
+      "positive_pct": 81.2,
       "negative_pct": 0.0,
-      "neutral_pct": 15.8,
+      "neutral_pct": 18.8,
       "sample_reviews": [
-        "ben değil eşim resmen kendine almış ve gerçekten çok güzel ve hızlı bir şekilde geldi iyiki almışım dediğim ürünlerden ben çok memnunum severek te kullanıyorum",
-        "çok iyi çok beğendim kendim aldıktan sonra arkadaşıma ve kardeşimede aldım çok memnun kaldım harika bişet",
-        "anneme hediye aldık gayet kullanışlı iyi paketlenmişti"
+        "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
+        "anneme hediye aldım çok araştırmıştım hem fiyat hem performans açısından çok beğendim",
+        "mağazadan kendime aldım kullanınca memnun kaldım bırdanda anneme aldım oda çok memnun"
       ],
       "all_reviews": [
         {
@@ -51,11 +51,7 @@
           "score": 5.0
         },
         {
-          "text": "ben değil eşim resmen kendine almış ve gerçekten çok güzel ve hızlı bir şekilde geldi iyiki almışım dediğim ürünlerden ben çok memnunum severek te kullanıyorum",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel be pratik aynısından anneme de aldım annem de beğenerek kullanıyor",
+          "text": "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
           "score": 5.0
         },
         {
@@ -63,7 +59,7 @@
           "score": 5.0
         },
         {
-          "text": "çok iyi çok beğendim kendim aldıktan sonra arkadaşıma ve kardeşimede aldım çok memnun kaldım harika bişet",
+          "text": "çok güzel be pratik aynısından anneme de aldım annem de beğenerek kullanıyor",
           "score": 5.0
         },
         {
@@ -74,36 +70,36 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyatı Uygun",
+      "name": "Kişilik / Fiyat Performans",
       "review_count": 11,
-      "avg_score": 5.0,
+      "avg_score": 4.73,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
-        "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
+        "aile",
+        "aldık",
+        "kişilik",
+        "ideal",
+        "kişilik aile",
+        "anneler",
+        "aydır",
+        "sorunsuz"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 72.7,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 27.3,
       "sample_reviews": [
-        "harika bi ürün aşırı kullanışlı fiyatı da çok iyi alın aldırın",
-        "karaca kalitesi paketleme güzel kendime önce almıştım bunu arkadaşıma aldık tavsiye ederim",
-        "çeyizim için almıştım çok memnunum paketlemesi süper tavsiye ederim"
+        "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
+        "çok iyi çok beğendim kendim aldıktan sonra arkadaşıma ve kardeşimede aldım çok memnun kaldım harika bişet",
+        "karaca kalitesi paketleme güzel kendime önce almıştım bunu arkadaşıma aldık tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "ürün cok güzel paketlenmesıde okadar guzldı cok memnunum herkese tavsiye ederım",
+          "text": "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
           "score": 5.0
         },
         {
-          "text": "çeyizim için almıştım çok memnunum paketlemesi süper tavsiye ederim",
+          "text": "çok iyi çok beğendim kendim aldıktan sonra arkadaşıma ve kardeşimede aldım çok memnun kaldım harika bişet",
           "score": 5.0
         },
         {
@@ -111,7 +107,43 @@
           "score": 5.0
         },
         {
-          "text": "hediye aldım çok kullanışlı bir ürün sapasağlam 2 gün teslim edildi",
+          "text": "anneme hediye aldık gayet kullanışlı iyi paketlenmişti",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
+        "fiyat",
+        "rahatlığıyla",
+        "çıtır",
+        "pratik",
+        "yağsız",
+        "çıtır çıtır"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "anneme hediye aldım çok araştırmıştım hem fiyat hem performans açısından çok beğendim",
+        "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
+        "harika bi ürün aşırı kullanışlı fiyatı da çok iyi alın aldırın"
+      ],
+      "all_reviews": [
+        {
+          "text": "anneme hediye aldım çok araştırmıştım hem fiyat hem performans açısından çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
           "score": 5.0
         },
         {
@@ -122,66 +154,36 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 5,
+      "name": "Sıkınt",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyat performans",
-        "performans",
-        "fiyat",
-        "kaliteli",
-        "rahatlığıyla",
-        "çıtır",
-        "pratik",
-        "yağsız"
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "böylesine pratik bir ürün yoktur yaptığı herşey çok güzel oluyor tavsiye ediyorum şiddetle",
-        "uzun süredir araştırarak aldım çok güzel çok memnun kaldım harika herkese tavsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "uzun süredir araştırarak aldım çok güzel çok memnun kaldım harika herkese tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "böylesine pratik bir ürün yoktur yaptığı herşey çok güzel oluyor tavsiye ediyorum şiddetle",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Ideal",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "diyebilirim",
-        "yorum",
-        "sorunsuz",
-        "şimdilik",
-        "severek",
-        "sağlam",
-        "kolay",
-        "paketlemesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "tüm sevdiklerime de hediye aldığım harika ürün çok işlevsel severek kullanıyoruz",
+        "uzun süredir araştırarak aldım çok güzel çok memnun kaldım harika herkese tavsiye ederim",
+        "cok memnunuz en pahali markalardan almaya hic gerek yok erkek arkadasima aldim gayet isimizi goruyor",
         "ürünü çok beğendim kısa sürede çok iş yaptı ve zamanimi çok almıyor bu çok iyi"
       ],
       "all_reviews": [
         {
-          "text": "tüm sevdiklerime de hediye aldığım harika ürün çok işlevsel severek kullanıyoruz",
+          "text": "cok memnunuz en pahali markalardan almaya hic gerek yok erkek arkadasima aldim gayet isimizi goruyor",
+          "score": 5.0
+        },
+        {
+          "text": "uzun süredir araştırarak aldım çok güzel çok memnun kaldım harika herkese tavsiye ederim",
           "score": 5.0
         },
         {
@@ -192,16 +194,131 @@
       "icon": "💬"
     },
     {
+      "name": "Diyebilirim",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ben değil eşim resmen kendine almış ve gerçekten çok güzel ve hızlı bir şekilde geldi iyiki almışım dediğim ürünlerden ben çok memnunum severek te kullanıyorum",
+        "böylesine pratik bir ürün yoktur yaptığı herşey çok güzel oluyor tavsiye ediyorum şiddetle",
+        "kendim kullanıyorum birkaç aydır çok memnun kaldığım için anneme de aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "ben değil eşim resmen kendine almış ve gerçekten çok güzel ve hızlı bir şekilde geldi iyiki almışım dediğim ürünlerden ben çok memnunum severek te kullanıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "kendim kullanıyorum birkaç aydır çok memnun kaldığım için anneme de aldım",
+          "score": 5.0
+        },
+        {
+          "text": "böylesine pratik bir ürün yoktur yaptığı herşey çok güzel oluyor tavsiye ediyorum şiddetle",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "defa",
+        "görünüyor",
+        "denemedim",
+        "kullanıyoruz",
+        "paketlemesi",
+        "hasarsız",
+        "sorunsuz",
+        "çeyiz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çeyizim için almıştım çok memnunum paketlemesi süper tavsiye ederim",
+        "tüm sevdiklerime de hediye aldığım harika ürün çok işlevsel severek kullanıyoruz",
+        "karaca kalitesi paketleme güzel kendime önce almıştım bunu arkadaşıma aldık tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "tüm sevdiklerime de hediye aldığım harika ürün çok işlevsel severek kullanıyoruz",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için almıştım çok memnunum paketlemesi süper tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "karaca kalitesi paketleme güzel kendime önce almıştım bunu arkadaşıma aldık tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Köfte",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "elim",
+        "köfte",
+        "kullanmak",
+        "börek",
+        "para gerek",
+        "tavuk",
+        "markalara",
+        "yemekler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok memnun kaldım elim ayağım oldu resmen",
+        "cok memnunuz en pahali markalardan almaya hic gerek yok erkek arkadasima aldim gayet isimizi goruyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok memnun kaldım elim ayağım oldu resmen",
+          "score": 5.0
+        },
+        {
+          "text": "cok memnunuz en pahali markalardan almaya hic gerek yok erkek arkadasima aldim gayet isimizi goruyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Patates & Tavuk",
-      "review_count": 3,
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "pişiriyor",
         "yaptım",
-        "patates",
         "denedim",
+        "patates",
         "tavuk",
         "vardı",
         "karaca",
@@ -211,71 +328,16 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz"
+        "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
+        "ceyizime aldım patates denedim gayet güzel oldu 2769 a aldim"
       ],
       "all_reviews": [
         {
           "text": "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Köfte & Patates Kızartması",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "elim",
-        "köfte",
-        "tavuk",
-        "börek",
-        "para gerek",
-        "kullanmak",
-        "markalara",
-        "yemekler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok memnun kaldım elim ayağım oldu resmen"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "çok memnun kaldım elim ayağım oldu resmen",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sıkıntı & Deneme",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "gerek",
-        "sıkıntı",
-        "uzun süre",
-        "süre",
-        "yaptık",
-        "deneme",
-        "aydır",
-        "kızartma"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "cok memnunuz en pahali markalardan almaya hic gerek yok erkek arkadasima aldim gayet isimizi goruyor"
-      ],
-      "all_reviews": [
-        {
-          "text": "cok memnunuz en pahali markalardan almaya hic gerek yok erkek arkadasima aldim gayet isimizi goruyor",
+          "text": "ceyizime aldım patates denedim gayet güzel oldu 2769 a aldim",
           "score": 5.0
         }
       ],
@@ -283,7 +345,7 @@
     },
     {
       "name": "Patates",
-      "review_count": 2,
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -301,9 +363,14 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ceyizime aldım patates denedim gayet güzel oldu 2769 a aldim"
+        "ceyizime aldım patates denedim gayet güzel oldu 2769 a aldim",
+        "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz"
       ],
       "all_reviews": [
+        {
+          "text": "ürünü anneme almıştım bizde cosori vardı ancak karaca nın közleme fonksiyonu efsane airfry da yapılan tavukların dışı çıtır içi yumuşak patates kızartması harika kendimize de aldık çok memnunuz",
+          "score": 5.0
+        },
         {
           "text": "ceyizime aldım patates denedim gayet güzel oldu 2769 a aldim",
           "score": 5.0

@@ -8,7 +8,7 @@
   "overall_score": 4.8,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Logitech G G102 Lightsync Gaming Mouse Siyah RGB Kablol** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Sorunsuz & Rengi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır. Örnek kullanıcı ifadesi: \"Oğluma aldık 2 sene önce falamda almıştık aynısını bozulunca tekrar aldık memnun\"\n• **Fiyatı Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **fiyata** ve **performans** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok rahat ele oturuyor gercekten güzel bir ürün ben beğendim gönül rahatlıgıyla alabi…\"\n• **Kullanımı Rahat** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **kalite** ve **hoşuma** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim hassasiyeti güzel elime tam oturuyor oyunlarda gayet iyi\"\n• **North & Sağlam** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **farklı** başta olmak üzere. Örnek kullanıcı ifadesi: \"600 civarına alıp alabilecek en iyi mouse bence bu 2 hafta oldu gayet stabil ve net m…\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **uygun** ve **efsane** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün efsane hızlı geldi yazılım efsane tutuş hissi hafiflik tam yerinde çok iyi kayıy…\"",
+  "summary": "\"Logitech G G102 Lightsync Gaming Mouse Siyah RGB Kablol, genel olarak yüksek memnuniyet seviyesine sahiptir. Ürünün sorunsuz çalışması, North'a uygunluğu ve kullanım kalitesi gibi özellikler, büyük bir kısmı tarafından onaylanmıştır. Ayrıca, kablol ve fiyat performans ratio'su da aynı ölçüde beğenmiştir. Genel olarak, bu ürünün satın alınması için yeterli garantisi sunar.\"",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,20 +18,20 @@
   },
   "aspects": [
     {
-      "name": "Sorunsuz & Rengi",
-      "review_count": 17,
+      "name": "Sorunsuz",
+      "review_count": 11,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "aldık",
-        "kullanıyor",
-        "severek",
         "sorunsuz",
         "paketleme",
         "bunu",
         "rengi",
-        "baya"
+        "baya",
+        "sıkıntı",
+        "kalite"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -43,11 +43,7 @@
       ],
       "all_reviews": [
         {
-          "text": "oğlum için aldım beğendi güzel bir ürün tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "kardeşime aldım gayet güzel duruyor çok beğendi ve kullanışlı",
+          "text": "indirimli aldık oglum begendi güzel ürün",
           "score": 5.0
         },
         {
@@ -55,55 +51,91 @@
           "score": 5.0
         },
         {
-          "text": "oğlum a aldım çok beğendi teşekkürler",
+          "text": "oğlum için aldım çok beğendi sorunsuz ve hızlı teslimat yapıldı teşekkürler",
           "score": 5.0
         },
         {
           "text": "oğluma aldık 2 sene önce falamda almıştık aynısını bozulunca tekrar aldık memnun",
-          "score": 5.0
-        },
-        {
-          "text": "oğlum için aldım çok beğendi sorunsuz ve hızlı teslimat yapıldı teşekkürler",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyatı Uygun",
+      "name": "North",
       "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
-        "uygun",
-        "performans",
-        "paketlemesi",
-        "kaliteli"
+        "north",
+        "oldum",
+        "şarj",
+        "biri",
+        "oturuyor",
+        "istedim",
+        "farklı",
+        "makro"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "zaten kullanıyordum hala kaliteli ve mükemmel",
+        "çok iyi bir ürün iç mimar olarak sürekli bilgisayar başında biri olarak çok beğendim tavsiye ederim",
         "çok rahat ele oturuyor gercekten güzel bir ürün ben beğendim gönül rahatlıgıyla alabilirsiniz",
-        "çooook güzel yaklaşık 1 senedir kullanıyorum boyutu gayet iyi çok güzel baya baya iyi yani"
+        "çok beğendim hassasiyeti güzel elime tam oturuyor oyunlarda gayet iyi"
       ],
       "all_reviews": [
-        {
-          "text": "oglum icin almistim çok memnun kaldi çok begendi",
-          "score": 5.0
-        },
         {
           "text": "çok rahat ele oturuyor gercekten güzel bir ürün ben beğendim gönül rahatlıgıyla alabilirsiniz",
           "score": 5.0
         },
         {
+          "text": "sapasağlam geldi ürün de çok güzel çok rahat ele tam oturuyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi bir ürün iç mimar olarak sürekli bilgisayar başında biri olarak çok beğendim tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim hassasiyeti güzel elime tam oturuyor oyunlarda gayet iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kullanım & Kalite",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanımı",
+        "kalite",
+        "paketleme",
+        "baya",
+        "kalitesi",
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gayet güzel mouse fiyatina göre baya kaliteli kargolama güzeldi",
+        "çooook güzel yaklaşık 1 senedir kullanıyorum boyutu gayet iyi çok güzel baya baya iyi yani",
+        "zaten kullanıyordum hala kaliteli ve mükemmel"
+      ],
+      "all_reviews": [
+        {
           "text": "çooook güzel yaklaşık 1 senedir kullanıyorum boyutu gayet iyi çok güzel baya baya iyi yani",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel mouse fiyatina göre baya kaliteli kargolama güzeldi",
           "score": 5.0
         },
         {
@@ -114,84 +146,35 @@
       "icon": "💬"
     },
     {
-      "name": "Kullanımı Rahat",
-      "review_count": 9,
-      "avg_score": 3.89,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kullanımı",
-        "kalite",
-        "paketleme",
-        "kaliteli",
-        "kullanımı rahat",
-        "baya",
-        "kalitesi",
-        "hoşuma"
-      ],
-      "positive_pct": 55.6,
-      "negative_pct": 22.2,
-      "neutral_pct": 22.2,
-      "sample_reviews": [
-        "çok beğendim hassasiyeti güzel elime tam oturuyor oyunlarda gayet iyi",
-        "sapasağlam geldi ürün de çok güzel çok rahat ele tam oturuyor",
-        "ürün gayet kullanışlı tavsiye ederim güzel paketlenmiş"
-      ],
-      "all_reviews": [
-        {
-          "text": "sapasağlam geldi ürün de çok güzel çok rahat ele tam oturuyor",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim hassasiyeti güzel elime tam oturuyor oyunlarda gayet iyi",
-          "score": 5.0
-        },
-        {
-          "text": "ürün gayet kullanışlı tavsiye ederim güzel paketlenmiş",
-          "score": 4.0
-        },
-        {
-          "text": "garanti belgesi yok iadeye üşendiğim için kullanıyorum",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "North & Sağlam",
-      "review_count": 6,
+      "name": "Kablol & Özellikle",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "north",
-        "oldum",
-        "şarj",
-        "biri",
-        "sağlam",
-        "oturuyor",
-        "farklı",
-        "istedim"
+        "bunu",
+        "kablolu",
+        "özellikle",
+        "oyun",
+        "kullanım",
+        "rahatlıkla",
+        "sıkıntı",
+        "oyunlarda"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok iyi bir ürün iç mimar olarak sürekli bilgisayar başında biri olarak çok beğendim tavsiye ederim",
-        "600 civarına alıp alabilecek en iyi mouse bence bu 2 hafta oldu gayet stabil ve net memnunum",
-        "gayet güzel mouse fiyatina göre baya kaliteli kargolama güzeldi"
+        "çok beğendim hassasiyeti güzel elime tam oturuyor oyunlarda gayet iyi",
+        "oyun aşığı eşime aldım bayıldı teşekkür ederiz"
       ],
       "all_reviews": [
         {
-          "text": "600 civarına alıp alabilecek en iyi mouse bence bu 2 hafta oldu gayet stabil ve net memnunum",
+          "text": "oyun aşığı eşime aldım bayıldı teşekkür ederiz",
           "score": 5.0
         },
         {
-          "text": "gayet güzel mouse fiyatina göre baya kaliteli kargolama güzeldi",
-          "score": 5.0
-        },
-        {
-          "text": "çok iyi bir ürün iç mimar olarak sürekli bilgisayar başında biri olarak çok beğendim tavsiye ederim",
+          "text": "çok beğendim hassasiyeti güzel elime tam oturuyor oyunlarda gayet iyi",
           "score": 5.0
         }
       ],
@@ -199,7 +182,7 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 5,
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -209,20 +192,20 @@
         "fiyat performans",
         "performans",
         "efsane",
-        "fiyata",
-        "fiyatı",
-        "aldık"
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "ürün efsane hızlı geldi yazılım efsane tutuş hissi hafiflik tam yerinde çok iyi kayıyor satıcıda iyi",
-        "indirimli aldık oglum begendi güzel ürün"
+        "gayet güzel mouse fiyatina göre baya kaliteli kargolama güzeldi"
       ],
       "all_reviews": [
         {
-          "text": "indirimli aldık oglum begendi güzel ürün",
+          "text": "gayet güzel mouse fiyatina göre baya kaliteli kargolama güzeldi",
           "score": 5.0
         },
         {
@@ -233,30 +216,30 @@
       "icon": "💬"
     },
     {
-      "name": "Donma & Rahatlıkla",
+      "name": "Saglam & Sorun",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "alacak",
-        "kullanıyor",
-        "ediyor",
-        "donma",
-        "rahatlıkla",
-        "şimdilik",
-        "kelimeyle",
-        "tuşları"
+        "yormuyor",
+        "çıkarmıyor",
+        "saglam",
+        "sorun",
+        "bayıldım",
+        "efsane",
+        "diye",
+        "beklemiyordum"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "oyun aşığı eşime aldım bayıldı teşekkür ederiz"
+        "oğlum için aldım çok beğendi sorunsuz ve hızlı teslimat yapıldı teşekkürler"
       ],
       "all_reviews": [
         {
-          "text": "oyun aşığı eşime aldım bayıldı teşekkür ederiz",
+          "text": "oğlum için aldım çok beğendi sorunsuz ve hızlı teslimat yapıldı teşekkürler",
           "score": 5.0
         }
       ],

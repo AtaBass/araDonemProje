@@ -8,7 +8,7 @@
   "overall_score": 4.92,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**VIANEM Elma Mutfak Sandalyesi Yemek Odası Bahçe Balkon ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi deği…\"\n• **Kolay & Rahatlığıyla**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **tesekkurler** ve **kurulumuda** başta olmak üzere. Örnek kullanıcı ifadesi: \"Internetten gördüğüm kadarıyla almama rağmen çok beğendik gayet sağlam ve dengeli uzu…\"\n• Kullanıcılar **Sorunsuz & Sağlam Kaliteli** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kalitesi** ve **oldular** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok kaliteli geldi rahat yumuşak çok teşekkürler\"\n• **Rahat Koltuk** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Sandalyeleri çok beğendik sağlamm ve kaliteli gerçekten tavsiye ederim almak isteyen…\"\n• Müşteri yorumlarında **Yıldız & Fiyat Kalite** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **alırken** ve **tesekkurler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ede…\"",
+  "summary": "**VIANEM Elma Mutfak Sandalyesi Yemek Odası Bahçe Balkon ** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Takım / Kurulum Kolay**: Kullanıcılar takım / kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Yoktu & Sıkınt**: Kullanıcılar yoktu & sıkınt konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,32 +18,44 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 26,
+      "name": "Fiyat Kalite",
+      "review_count": 24,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok beğendim kurulumu çok rahat çok güzel oldu",
         "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
-        "ürün harika çok sağlam kargolaması mükemmel güvenebileceiğim firma oldu artık"
+        "sandalyeleri çok beğendik sağlamm ve kaliteli gerçekten tavsiye ederim almak isteyen herkese",
+        "harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "ürünüm geldi çok güzel korgolanmisti paketlenmesi de gayet güzel ve ozenliydi çok teşekkür ederim",
+          "text": "harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli geldi rahat yumuşak çok teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme güzel ve kaliteli malzeme teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
           "score": 5.0
         },
         {
@@ -51,7 +63,55 @@
           "score": 5.0
         },
         {
-          "text": "modelini çok beğendiğim için siparişini geçtim kötü yorumlar da vardı şansıma dedim ama mükemmel bir ürün tavsiye ediyorum ve çok naif duruyor satıcıya teşekkür ederim",
+          "text": "misssler gibi geldi kargom elinize emeğinize sağlık çok beğendim çok kibar duruyor 3 kişi montajladık sandalyeleri anacığımla ben tuttuk abim matkapla monte etti sırt kısmı zahmetli biraz tek seferde delmek gerekiyor kadife kumaş kaplı çünkü çok çok teşekkür ediyorum hem fiyatı için hem de titizliğiniz için bollll kazançlar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "sandalyeleri çok beğendik sağlamm ve kaliteli gerçekten tavsiye ederim almak isteyen herkese",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre çok iyi sadece vidalar eksik geldi oda sorun değil eşim ayreten alıp takacak",
+          "score": 5.0
+        },
+        {
+          "text": "ürün cok güzel kumasıda kadifemsi satıcıda iyi paketlemiş onun için 5 yıldız",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz",
+      "review_count": 23,
+      "avg_score": 4.83,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
+      ],
+      "positive_pct": 91.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 8.7,
+      "sample_reviews": [
+        "sorunsuz geldi",
+        "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
+        "anneme almistm aldigima bin pişmanım 1yilda mahvoldu demirleri sürekli vidalardan ayrılıp yamuluyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli geldi rahat yumuşak çok teşekkürler",
           "score": 5.0
         },
         {
@@ -67,7 +127,7 @@
           "score": 5.0
         },
         {
-          "text": "hediye olark aldım güzel kullanışlı rahat",
+          "text": "sandalyeleri çok beğendik sağlamm ve kaliteli gerçekten tavsiye ederim almak isteyen herkese",
           "score": 5.0
         },
         {
@@ -75,11 +135,247 @@
           "score": 5.0
         },
         {
+          "text": "sorunsuz geldi",
+          "score": 5.0
+        },
+        {
+          "text": "anneme almistm aldigima bin pişmanım 1yilda mahvoldu demirleri sürekli vidalardan ayrılıp yamuluyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 17,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "kolay",
+        "kurulumu",
+        "kurulumu kolay",
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+        "cok saglam eksıksız elime ulastı kurulumu kolay",
+        "elime bugün ulaştı ancak fırsat bulabildim kurulumunu yapmak için tek kelime ile harika bayıldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme güzel ve kaliteli malzeme teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "elime bugün ulaştı ancak fırsat bulabildim kurulumunu yapmak için tek kelime ile harika bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "cok saglam eksıksız elime ulastı kurulumu kolay",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim kurulumu çok rahat çok güzel oldu",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "takım",
+        "paketleme",
+        "teşekürler",
+        "yaptım",
+        "olsaydı",
+        "istediğim",
+        "sürekli",
+        "kazançlar"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+        "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
+        "harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme güzel ve kaliteli malzeme teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Yoktu & Sıkınt",
+      "review_count": 11,
+      "avg_score": 4.64,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yoktu",
+        "sıkıntı",
+        "vida",
+        "dikkat",
+        "montaj",
+        "iade",
+        "siparişim",
+        "konusunda"
+      ],
+      "positive_pct": 81.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 18.2,
+      "sample_reviews": [
+        "misssler gibi geldi kargom elinize emeğinize sağlık çok beğendim çok kibar duruyor 3 kişi montajladık sandalyeleri anacığımla ben tuttuk abim matkapla monte etti sırt kısmı zahmetli biraz tek seferde delmek gerekiyor kadife kumaş kaplı çünkü çok çok teşekkür ediyorum hem fiyatı için hem de titizliğiniz için bollll kazançlar dilerim",
+        "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+        "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "internet üzerinden ürün alırım devamlı yorum yapmayacaktım ama yapılmayacak gibi değil 7 tane aldım ürün beklediğimden çok iyi kaliteli ayaklar profil bu paraya bu ürün gerçekten çok iyi paketleme iyi çizik dahi yoktu tesekkür ederim",
+          "score": 5.0
+        },
+        {
           "text": "fiyatına göre çok iyi sadece vidalar eksik geldi oda sorun değil eşim ayreten alıp takacak",
           "score": 5.0
         },
         {
-          "text": "ürün cok güzel kumasıda kadifemsi satıcıda iyi paketlemiş onun için 5 yıldız",
+          "text": "misssler gibi geldi kargom elinize emeğinize sağlık çok beğendim çok kibar duruyor 3 kişi montajladık sandalyeleri anacığımla ben tuttuk abim matkapla monte etti sırt kısmı zahmetli biraz tek seferde delmek gerekiyor kadife kumaş kaplı çünkü çok çok teşekkür ediyorum hem fiyatı için hem de titizliğiniz için bollll kazançlar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "anneme almistm aldigima bin pişmanım 1yilda mahvoldu demirleri sürekli vidalardan ayrılıp yamuluyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk",
+      "review_count": 10,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "koltuk",
+        "çalışma",
+        "kurulumu",
+        "kumaşı",
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "elime bugün ulaştı ancak fırsat bulabildim kurulumunu yapmak için tek kelime ile harika bayıldım",
+        "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+        "cok saglam eksıksız elime ulastı kurulumu kolay"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok beğendim kurulumu çok rahat çok güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "misssler gibi geldi kargom elinize emeğinize sağlık çok beğendim çok kibar duruyor 3 kişi montajladık sandalyeleri anacığımla ben tuttuk abim matkapla monte etti sırt kısmı zahmetli biraz tek seferde delmek gerekiyor kadife kumaş kaplı çünkü çok çok teşekkür ediyorum hem fiyatı için hem de titizliğiniz için bollll kazançlar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "cok saglam eksıksız elime ulastı kurulumu kolay",
+          "score": 5.0
+        },
+        {
+          "text": "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "elime bugün ulaştı ancak fırsat bulabildim kurulumunu yapmak için tek kelime ile harika bayıldım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "misssler gibi geldi kargom elinize emeğinize sağlık çok beğendim çok kibar duruyor 3 kişi montajladık sandalyeleri anacığımla ben tuttuk abim matkapla monte etti sırt kısmı zahmetli biraz tek seferde delmek gerekiyor kadife kumaş kaplı çünkü çok çok teşekkür ediyorum hem fiyatı için hem de titizliğiniz için bollll kazançlar dilerim",
+        "fiyatına göre çok iyi sadece vidalar eksik geldi oda sorun değil eşim ayreten alıp takacak",
+        "çok tatlı çok şık ve rahat fiyatına göre gerçekten güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok tatlı çok şık ve rahat fiyatına göre gerçekten güzel",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre çok iyi sadece vidalar eksik geldi oda sorun değil eşim ayreten alıp takacak",
+          "score": 5.0
+        },
+        {
+          "text": "misssler gibi geldi kargom elinize emeğinize sağlık çok beğendim çok kibar duruyor 3 kişi montajladık sandalyeleri anacığımla ben tuttuk abim matkapla monte etti sırt kısmı zahmetli biraz tek seferde delmek gerekiyor kadife kumaş kaplı çünkü çok çok teşekkür ediyorum hem fiyatı için hem de titizliğiniz için bollll kazançlar dilerim",
           "score": 5.0
         }
       ],
@@ -99,15 +395,15 @@
         "kurulumuda",
         "yaptım",
         "rağmen",
-        "çıktı"
+        "icin"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "internetten gördüğüm kadarıyla almama rağmen çok beğendik gayet sağlam ve dengeli uzun yıllar hiçbirşey olmaz gönül rahatlığıyla alabilirler",
-        "cok saglam eksıksız elime ulastı kurulumu kolay",
-        "elime bugün ulaştı ancak fırsat bulabildim kurulumunu yapmak için tek kelime ile harika bayıldım"
+        "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+        "cok saglam eksıksız elime ulastı kurulumu kolay"
       ],
       "all_reviews": [
         {
@@ -119,165 +415,40 @@
           "score": 5.0
         },
         {
-          "text": "elime bugün ulaştı ancak fırsat bulabildim kurulumunu yapmak için tek kelime ile harika bayıldım",
+          "text": "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Sağlam Kaliteli",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "sorunsuz",
-        "sağlam kaliteli",
-        "kalitesi",
-        "severek",
-        "oldular",
-        "evime",
-        "sağlam",
-        "hava"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "sorunsuz geldi",
-        "çok kaliteli geldi rahat yumuşak çok teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok kaliteli geldi rahat yumuşak çok teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "sorunsuz geldi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat Koltuk",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "rahat",
-        "koltuk",
-        "sağlam",
-        "çalışma",
-        "kurulumu",
-        "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "sandalyeleri çok beğendik sağlamm ve kaliteli gerçekten tavsiye ederim almak isteyen herkese",
-        "misssler gibi geldi kargom elinize emeğinize sağlık çok beğendim çok kibar duruyor 3 kişi montajladık sandalyeleri anacığımla ben tuttuk abim matkapla monte etti sırt kısmı zahmetli biraz tek seferde delmek gerekiyor kadife kumaş kaplı çünkü çok çok teşekkür ediyorum hem fiyatı için hem de titizliğiniz için bollll kazançlar dilerim"
-      ],
-      "all_reviews": [
-        {
-          "text": "sandalyeleri çok beğendik sağlamm ve kaliteli gerçekten tavsiye ederim almak isteyen herkese",
-          "score": 5.0
-        },
-        {
-          "text": "misssler gibi geldi kargom elinize emeğinize sağlık çok beğendim çok kibar duruyor 3 kişi montajladık sandalyeleri anacığımla ben tuttuk abim matkapla monte etti sırt kısmı zahmetli biraz tek seferde delmek gerekiyor kadife kumaş kaplı çünkü çok çok teşekkür ediyorum hem fiyatı için hem de titizliğiniz için bollll kazançlar dilerim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Yıldız & Fiyat Kalite",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "yıldız",
-        "kalite",
-        "fiyat kalite",
-        "bakarak",
-        "olsa",
-        "alırken",
-        "tesekkurler",
-        "dikkat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "harika bir ürün gerçekten çok kaliteli paketlemesi mükemmel satıcıya çok teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Takım & Kurulumu Kolay",
-      "review_count": 2,
-      "avg_score": 3.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
-      "top_terms": [
-        "takım",
-        "paketleme",
-        "teşekürler",
-        "yaptım",
-        "olsaydı",
-        "istediğim",
-        "sürekli",
-        "kazançlar"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
-        "anneme almistm aldigima bin pişmanım 1yilda mahvoldu demirleri sürekli vidalardan ayrılıp yamuluyor"
-      ],
-      "all_reviews": [
-        {
-          "text": "anneme almistm aldigima bin pişmanım 1yilda mahvoldu demirleri sürekli vidalardan ayrılıp yamuluyor",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Koltuk & Zarar",
-      "review_count": 2,
+      "name": "Koltuk & Ergonomik",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "uzun",
         "koltuk",
-        "zarar",
         "ergonomik",
+        "zarar",
         "görünüyor",
-        "rahat",
         "vida",
+        "sandalyenin",
         "monte"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum"
+        "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
+        "internetten gördüğüm kadarıyla almama rağmen çok beğendik gayet sağlam ve dengeli uzun yıllar hiçbirşey olmaz gönül rahatlığıyla alabilirler"
       ],
       "all_reviews": [
+        {
+          "text": "internetten gördüğüm kadarıyla almama rağmen çok beğendik gayet sağlam ve dengeli uzun yıllar hiçbirşey olmaz gönül rahatlığıyla alabilirler",
+          "score": 5.0
+        },
         {
           "text": "açıkcası ilk başta tereddüt ettim ama çok sağlam çıktı korgoya verilme süresi uzundu ama verildikten sonra 1 günde elime ulaştı sandalyenin kurulumu kolaydı 1 tane vida eksikti hallettik memnun kaldım kullandıkça yorumumu güncellerim masasını da alıp takım yapmayı düşünüyorum",
           "score": 5.0

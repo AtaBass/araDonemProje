@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Philips 3000 Serisi L Airfryer, 0.8kg, 4.1L Kapasiteli ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **sağlam** ve **fiyat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşam…\"\n• **Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kaliteli** ve **rahatlığıyla** başta olmak üzere. Örnek kullanıcı ifadesi: \"Trendyola çok teşekkür ederim ürünüm çok korumalı ve çok hızlı geldi ürün çok güzel v…\"\n• Kullanıcılar **Özellikle & Kullanışlı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **anneler** ve **yemekler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Arkadaşımda görüp almıştım pişirdiği yemeğide yemiştim harika gerçekten her evde olma…\"\n• **Kişilik** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **ideal** ve **anneler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Anneme anneler günü hediyesi olarak aldım gerçekten çok güzel bir ürün fiyat olarakta…\"\n• Müşteri yorumlarında **Paketlemesi & Hasarsız** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sorunsuz** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Mükemmel paketlemesi için ayriyeten teşekkür ederim çok başarılı\"",
+  "summary": "Philips 3000 Serisi L Airfryer, ürün memnuniyet oranına göre oldukça yüksek puan alıyor. Fiyat performansına dair yorumlar, ortalama olarak 5/5 olarak değerlendiriliyor. Ayrıca, ürünün çeyiz, köfte ve diyebilirim gibi çeşitli kullanım alanlarında da aynı olumlu yorumları almaya devam ediyor. Paketleme de dahil, ürününün genel performansı mükemmel bir görünüm çiziyor. Overall, Philips 3000 Serisi L Airfryer, satın alma kararında şüphe yok.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,27 +18,27 @@
   },
   "aspects": [
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 23,
+      "name": "Fiyat Performans",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
+        "fiyat performans",
+        "performans",
         "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
+        "rahatlığıyla",
+        "çıtır",
+        "pratik",
+        "yağsız",
+        "çıtır çıtır"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "gayet güzel fiyat performans ürünü çok beğendim ayrıca çok küçük değil 2-3 kişi için gayet iyi",
         "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
-        "paketleme çok güzel fiyatına göre çok iyi ürün çeyizime aldım",
         "acayip güzel bir ürün çok memnun kaldım gayet kaliteli ve başarılı kargolama da çok güzeldi sapa sağlam ulaştı elime satıcıya çok teşekkür ederim gönül rahatlığıyla alabilirsiniz"
       ],
       "all_reviews": [
@@ -47,15 +47,55 @@
           "score": 5.0
         },
         {
-          "text": "teaadufen indirimden aldim ve okadar memnunum ki kesinlikle tavsiye ediyorum mukemmel bir urun",
+          "text": "arkadaşıma ev hediyesi aldım çok beğenildi fiyatı da çok iyiye geldi",
           "score": 5.0
         },
         {
-          "text": "gerçekten çok kurtarıcı bu ürünü aldığımdan beri asla paket nane ve hindistan cevizi almıyorum airfreyde kendim kurutup yapıyorum",
+          "text": "paketleme çok güzel fiyatına göre çok iyi ürün çeyizime aldım",
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel paketlenmiş bir şekilde geldi çok beğendim ürünü tşk ederim gönderici firmaya",
+          "text": "anneme anneler günü hediyesi olarak aldım gerçekten çok güzel bir ürün fiyat olarakta boyut olarakta baya uygun tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel fiyat performans ürünü çok beğendim ayrıca çok küçük değil 2-3 kişi için gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çeyiz",
+      "review_count": 13,
+      "avg_score": 4.77,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
+      ],
+      "positive_pct": 76.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 23.1,
+      "sample_reviews": [
+        "çeyizi için aldım bayıldım harika birşey ve kocaman almak istenyen varsa tereddüt etmeden alabilir",
+        "aynı gün kargolandı arkadaşıma çeyiz için aldım orjinal kutusunda teşekkür ederim",
+        "paketleme çok güzel fiyatına göre çok iyi ürün çeyizime aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "aşırı hızlı kargo sağlam çeyizime aldım hiçbir sorun yok",
           "score": 5.0
         },
         {
@@ -63,94 +103,11 @@
           "score": 5.0
         },
         {
-          "text": "aşırı hızlı kargo sağlam çeyizime aldım hiçbir sorun yok",
-          "score": 5.0
-        },
-        {
-          "text": "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "iyi ki almışım yemek yapmayı kolaylaştıran bir alet herkes almalı bence",
-          "score": 5.0
-        },
-        {
-          "text": "paketleme çok güzel fiyatına göre çok iyi ürün çeyizime aldım",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat performans",
-        "performans",
-        "fiyat",
-        "kaliteli",
-        "rahatlığıyla",
-        "çıtır",
-        "pratik",
-        "yağsız"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "gayet güzel fiyat performans ürünü çok beğendim ayrıca çok küçük değil 2-3 kişi için gayet iyi",
-        "trendyola çok teşekkür ederim ürünüm çok korumalı ve çok hızlı geldi ürün çok güzel ve kullanışlı çok teşekkür ederim iyiki varsın trendyol",
-        "çok güzel bir ürün herkese tavsiye ederim artı 2 adet aldım 1 adet eve bir adet iş yerine herkese tavsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel bir ürün herkese tavsiye ederim artı 2 adet aldım 1 adet eve bir adet iş yerine herkese tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "trendyola çok teşekkür ederim ürünüm çok korumalı ve çok hızlı geldi ürün çok güzel ve kullanışlı çok teşekkür ederim iyiki varsın trendyol",
-          "score": 5.0
-        },
-        {
           "text": "harika bir ürün tavsiye ederim çeyizim için aldım mükemmel",
           "score": 5.0
         },
         {
-          "text": "gayet güzel fiyat performans ürünü çok beğendim ayrıca çok küçük değil 2-3 kişi için gayet iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Özellikle & Kullanışlı",
-      "review_count": 5,
-      "avg_score": 4.4,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "özellikle",
-        "evde",
-        "anneler",
-        "biri",
-        "yemekler",
-        "yurtta",
-        "bayıldım",
-        "görünüyor"
-      ],
-      "positive_pct": 40.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 60.0,
-      "sample_reviews": [
-        "arkadaşımda görüp almıştım pişirdiği yemeğide yemiştim harika gerçekten her evde olması gereken bir ürün",
-        "aynı gün kargolandı arkadaşıma çeyiz için aldım orjinal kutusunda teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "arkadaşımda görüp almıştım pişirdiği yemeğide yemiştim harika gerçekten her evde olması gereken bir ürün",
+          "text": "paketleme çok güzel fiyatına göre çok iyi ürün çeyizime aldım",
           "score": 5.0
         },
         {
@@ -161,43 +118,96 @@
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 5,
+      "name": "Köfte",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
-        "anneler",
-        "kaliteli"
+        "elim",
+        "köfte",
+        "kullanmak",
+        "börek",
+        "para gerek",
+        "tavuk",
+        "markalara",
+        "yemekler"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "anneme anneler günü hediyesi olarak aldım gerçekten çok güzel bir ürün fiyat olarakta boyut olarakta baya uygun tavsiye ederim",
-        "arkadaşıma ev hediyesi aldım çok beğenildi fiyatı da çok iyiye geldi"
+        "salı akşamı sipariş verdim çarşamba akşamı elime ulaştı patates tavuk ve köfte yaptım inanılmaz lezzetliydi gerçekten son zamanlarda almış olduğum en iyi ürün bu herkese tavsiye ederim çok iyi",
+        "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
+        "acayip güzel bir ürün çok memnun kaldım gayet kaliteli ve başarılı kargolama da çok güzeldi sapa sağlam ulaştı elime satıcıya çok teşekkür ederim gönül rahatlığıyla alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "arkadaşıma ev hediyesi aldım çok beğenildi fiyatı da çok iyiye geldi",
+          "text": "acayip güzel bir ürün çok memnun kaldım gayet kaliteli ve başarılı kargolama da çok güzeldi sapa sağlam ulaştı elime satıcıya çok teşekkür ederim gönül rahatlığıyla alabilirsiniz",
           "score": 5.0
         },
         {
-          "text": "anneme anneler günü hediyesi olarak aldım gerçekten çok güzel bir ürün fiyat olarakta boyut olarakta baya uygun tavsiye ederim",
+          "text": "salı akşamı sipariş verdim çarşamba akşamı elime ulaştı patates tavuk ve köfte yaptım inanılmaz lezzetliydi gerçekten son zamanlarda almış olduğum en iyi ürün bu herkese tavsiye ederim çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "arkadaşımda görüp almıştım pişirdiği yemeğide yemiştim harika gerçekten her evde olması gereken bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Paketlemesi & Hasarsız",
-      "review_count": 5,
+      "name": "Diyebilirim",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
+        "gerçekten çok kurtarıcı bu ürünü aldığımdan beri asla paket nane ve hindistan cevizi almıyorum airfreyde kendim kurutup yapıyorum",
+        "teaadufen indirimden aldim ve okadar memnunum ki kesinlikle tavsiye ediyorum mukemmel bir urun"
+      ],
+      "all_reviews": [
+        {
+          "text": "teaadufen indirimden aldim ve okadar memnunum ki kesinlikle tavsiye ediyorum mukemmel bir urun",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten çok kurtarıcı bu ürünü aldığımdan beri asla paket nane ve hindistan cevizi almıyorum airfreyde kendim kurutup yapıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "iyi ki almışım yemek yapmayı kolaylaştıran bir alet herkes almalı bence",
+          "score": 5.0
+        },
+        {
+          "text": "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -209,14 +219,15 @@
         "paketlemesi",
         "hasarsız",
         "sorunsuz",
-        "sağlam"
+        "çeyiz"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "iki defa aldım çok kullanışlı sağlam",
-        "mükemmel paketlemesi için ayriyeten teşekkür ederim çok başarılı"
+        "mükemmel paketlemesi için ayriyeten teşekkür ederim çok başarılı",
+        "paketleme çok güzel fiyatına göre çok iyi ürün çeyizime aldım",
+        "iki defa aldım çok kullanışlı sağlam"
       ],
       "all_reviews": [
         {
@@ -225,6 +236,85 @@
         },
         {
           "text": "iki defa aldım çok kullanışlı sağlam",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok güzel fiyatına göre çok iyi ürün çeyizime aldım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellikle",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "özellikle",
+        "evde",
+        "anneler",
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "anneme anneler günü hediyesi olarak aldım gerçekten çok güzel bir ürün fiyat olarakta boyut olarakta baya uygun tavsiye ederim",
+        "arkadaşımda görüp almıştım pişirdiği yemeğide yemiştim harika gerçekten her evde olması gereken bir ürün",
+        "iyi ki almışım yemek yapmayı kolaylaştıran bir alet herkes almalı bence"
+      ],
+      "all_reviews": [
+        {
+          "text": "arkadaşımda görüp almıştım pişirdiği yemeğide yemiştim harika gerçekten her evde olması gereken bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "anneme anneler günü hediyesi olarak aldım gerçekten çok güzel bir ürün fiyat olarakta boyut olarakta baya uygun tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "iyi ki almışım yemek yapmayı kolaylaştıran bir alet herkes almalı bence",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıkınt",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
+        "arkadaşımda görüp almıştım pişirdiği yemeğide yemiştim harika gerçekten her evde olması gereken bir ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "arkadaşımda görüp almıştım pişirdiği yemeğide yemiştim harika gerçekten her evde olması gereken bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "kullanımı kolay ve bence fiyatına göre çok iyi performans ürünü hiç bir sıkıntı yaşamadık paketlenmesi çok iyiydi hasar görmeden elime ulaştı ve hızlı kargolandı iki iş günü içinde elime ulaştı teşekkür ederim",
           "score": 5.0
         }
       ],
@@ -239,12 +329,42 @@
       "top_terms": [
         "pişiriyor",
         "yaptım",
-        "patates",
         "denedim",
+        "patates",
         "tavuk",
         "vardı",
         "karaca",
         "lezzetli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "salı akşamı sipariş verdim çarşamba akşamı elime ulaştı patates tavuk ve köfte yaptım inanılmaz lezzetliydi gerçekten son zamanlarda almış olduğum en iyi ürün bu herkese tavsiye ederim çok iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "salı akşamı sipariş verdim çarşamba akşamı elime ulaştı patates tavuk ve köfte yaptım inanılmaz lezzetliydi gerçekten son zamanlarda almış olduğum en iyi ürün bu herkese tavsiye ederim çok iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Patates",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "patates",
+        "fakat",
+        "denedim",
+        "hacmi",
+        "yaptık",
+        "almışım",
+        "rengi",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,

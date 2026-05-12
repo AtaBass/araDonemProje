@@ -8,7 +8,7 @@
   "overall_score": 4.17,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "**Madame Coco Tiny Tek Kişilik %100 Pamuk Ranforce Baskıl** için 6 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Kişilik** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün deseni çok güzel fakat daha önceki aldığım madam coco nevresimleri kadar kalitel…\"",
+  "summary": "Madame Coco Tiny Tek Kişilik %100 Pamuk Ranforce Baskıl, genel olarak yüksek memnuniyet oranı alırken, kalite, paketlenme ve dokuya ilişkin yorumlar karışık olsa da ortalama puan 3.5/5.0'dur. Ürün, müşterilerin beğenmediği yönlerinde gelişim gösterirken, yine de majority of users' satisfaction is evident in their overall positive reviews and high rating of 4.2/5.0.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,38 +18,29 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 5,
-      "avg_score": 4.0,
+      "name": "Kalite",
+      "review_count": 2,
+      "avg_score": 3.5,
       "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
-      "positive_pct": 40.0,
+      "positive_pct": 0.0,
       "negative_pct": 0.0,
-      "neutral_pct": 60.0,
+      "neutral_pct": 100.0,
       "sample_reviews": [
         "ürün deseni çok güzel fakat daha önceki aldığım madam coco nevresimleri kadar kaliteli değil daha ince yine de beğendim",
-        "100 pamuk yazmasına rağmen naylonumsu ve ince hayal kırıklığı",
         "madamcoco şaşırttı beni daha kaliteli bekliyordum"
       ],
       "all_reviews": [
-        {
-          "text": "ba yıl dım",
-          "score": 5.0
-        },
-        {
-          "text": "gayet beğendim gördüğünüz gibi",
-          "score": 5.0
-        },
         {
           "text": "ürün deseni çok güzel fakat daha önceki aldığım madam coco nevresimleri kadar kaliteli değil daha ince yine de beğendim",
           "score": 4.0
@@ -57,9 +48,69 @@
         {
           "text": "madamcoco şaşırttı beni daha kaliteli bekliyordum",
           "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 2,
+      "avg_score": 3.5,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "sample_reviews": [
+        "ürün deseni çok güzel fakat daha önceki aldığım madam coco nevresimleri kadar kaliteli değil daha ince yine de beğendim",
+        "madamcoco şaşırttı beni daha kaliteli bekliyordum"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün deseni çok güzel fakat daha önceki aldığım madam coco nevresimleri kadar kaliteli değil daha ince yine de beğendim",
+          "score": 4.0
         },
         {
-          "text": "100 pamuk yazmasına rağmen naylonumsu ve ince hayal kırıklığı",
+          "text": "madamcoco şaşırttı beni daha kaliteli bekliyordum",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Kalite",
+      "review_count": 2,
+      "avg_score": 3.5,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "sample_reviews": [
+        "ürün deseni çok güzel fakat daha önceki aldığım madam coco nevresimleri kadar kaliteli değil daha ince yine de beğendim",
+        "madamcoco şaşırttı beni daha kaliteli bekliyordum"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün deseni çok güzel fakat daha önceki aldığım madam coco nevresimleri kadar kaliteli değil daha ince yine de beğendim",
+          "score": 4.0
+        },
+        {
+          "text": "madamcoco şaşırttı beni daha kaliteli bekliyordum",
           "score": 3.0
         }
       ],

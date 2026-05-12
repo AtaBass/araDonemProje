@@ -8,7 +8,7 @@
   "overall_score": 4.7,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Bella Maison %100 Pamuk Amora Çift Kişilik Nevresim Set** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kumaşı Kaliteli** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kumaş** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli…\"\n• **Kişilik**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **rahat** ve **almayı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel çok beğendim paketleme çok güzeldi sadece kalpler kahve rengi ama sorun değ…\"\n• Kullanıcılar **Çekme Yapmadı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **lastikli** ve **pamuk** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Mükemmel dokusu defalarca yıkadım hiçbir yıpranma olmadı\"\n• **Fiyata Kalite** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürünün içinde çarşaf yokmuş açıklama kısmını detaylı okumadığım için almış bulundum\"\n• Müşteri yorumlarında **Dokusu & Kalitesi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir. Örnek kullanıcı ifadesi: \"Tereddüt etmeden alınabılır çok şık ve guzel\"",
+  "summary": "**Bella Maison %100 Pamuk Amora Çift Kişilik Nevresim Set** için 40 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kumaş / Rengi Canlı**: Kullanıcılar kumaş / rengi canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kumaş / Çarşaf Lastikl**: Kullanıcılar kumaş / çarşaf lastikl konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Canlı Kumaş**: Kullanıcılar genel olarak canlı kumaş açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Doku & Kalite**: Kullanıcılar doku & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,144 @@
   },
   "aspects": [
     {
-      "name": "Kumaşı Kaliteli",
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 16,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
+      ],
+      "positive_pct": 62.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 37.5,
+      "sample_reviews": [
+        "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+        "ürünü bayıldim kumaşı dokusu rengi bekledigimden de guzel geldi",
+        "yaa çok güzel alın aldırın kumaşı pamuklu mis"
+      ],
+      "all_reviews": [
+        {
+          "text": "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü bayıldim kumaşı dokusu rengi bekledigimden de guzel geldi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim paketleme çok güzeldi sadece kalpler kahve rengi ama sorun değil beğendim teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+          "score": 5.0
+        },
+        {
+          "text": "yaa çok güzel alın aldırın kumaşı pamuklu mis",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel ve renkleri canlı",
+          "score": 4.0
+        },
+        {
+          "text": "içinden yatağın üstüne sermek için örtü çıkmıyor sadece yastık ve yorgan için bi tık pahalı ama kumaşı yumuşak ve güzel teşekkürler",
+          "score": 4.0
+        },
+        {
+          "text": "ürünün kumaşı çok ince zaten 54 tel yazıyormuş iade",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 16,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 62.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 37.5,
+      "sample_reviews": [
+        "içinden yatağın üstüne sermek için örtü çıkmıyor sadece yastık ve yorgan için bi tık pahalı ama kumaşı yumuşak ve güzel teşekkürler",
+        "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
+        "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım"
+      ],
+      "all_reviews": [
+        {
+          "text": "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü bayıldim kumaşı dokusu rengi bekledigimden de guzel geldi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+          "score": 5.0
+        },
+        {
+          "text": "yaa çok güzel alın aldırın kumaşı pamuklu mis",
+          "score": 5.0
+        },
+        {
+          "text": "modelini beğenerek çeyizim için aldım tek eksiği çarşafsız olması",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel ve renkleri canlı",
+          "score": 4.0
+        },
+        {
+          "text": "içinden yatağın üstüne sermek için örtü çıkmıyor sadece yastık ve yorgan için bi tık pahalı ama kumaşı yumuşak ve güzel teşekkürler",
+          "score": 4.0
+        },
+        {
+          "text": "ürünün kumaşı çok ince zaten 54 tel yazıyormuş iade",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
       "review_count": 14,
       "avg_score": 4.43,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "kumaşı",
-        "kumaş",
-        "rengi",
-        "pamuklu",
-        "lastikli",
+        "canlı kumaşı",
         "takım",
-        "dokusu",
-        "ayrı"
+        "canlı",
+        "kumaşı"
       ],
       "positive_pct": 57.1,
       "negative_pct": 0.0,
       "neutral_pct": 42.9,
       "sample_reviews": [
         "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
-        "ürünü bayıldim kumaşı dokusu rengi bekledigimden de guzel geldi",
-        "yaa çok güzel alın aldırın kumaşı pamuklu mis"
+        "kumaşı güzel ve renkleri canlı",
+        "içinden yatağın üstüne sermek için örtü çıkmıyor sadece yastık ve yorgan için bi tık pahalı ama kumaşı yumuşak ve güzel teşekkürler"
       ],
       "all_reviews": [
         {
@@ -74,134 +190,56 @@
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 14,
-      "avg_score": 4.86,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
-      ],
-      "positive_pct": 85.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 14.3,
-      "sample_reviews": [
-        "çok güzel çok beğendim paketleme çok güzeldi sadece kalpler kahve rengi ama sorun değil beğendim teşekkürler",
-        "modelini beğenerek çeyizim için aldım tek eksiği çarşafsız olması",
-        "çok güzel gözüküyor çok beğendiim"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel çok beğendim paketleme çok güzeldi sadece kalpler kahve rengi ama sorun değil beğendim teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel gözüküyor çok beğendiim",
-          "score": 5.0
-        },
-        {
-          "text": "mükemmel alım aldırın",
-          "score": 5.0
-        },
-        {
-          "text": "güzellll bayaa gğzel hemde",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "modelini beğenerek çeyizim için aldım tek eksiği çarşafsız olması",
-          "score": 5.0
-        },
-        {
-          "text": "severek kullanıyor",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Çekme Yapmadı",
-      "review_count": 4,
+      "name": "Kalite",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "yıkadım",
-        "lastikli",
-        "yapmadı",
-        "pamuk",
-        "görseldeki",
-        "alıcam",
-        "solma",
-        "çekme"
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "mükemmel dokusu defalarca yıkadım hiçbir yıpranma olmadı",
-        "mükemmel kurutmaya bile attım çekmedi"
+        "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
+        "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+        "çok güzel çok beğendim paketleme çok güzeldi sadece kalpler kahve rengi ama sorun değil beğendim teşekkürler"
       ],
       "all_reviews": [
         {
-          "text": "mükemmel dokusu defalarca yıkadım hiçbir yıpranma olmadı",
+          "text": "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
           "score": 5.0
         },
         {
-          "text": "mükemmel kurutmaya bile attım çekmedi",
+          "text": "çok güzel çok beğendim paketleme çok güzeldi sadece kalpler kahve rengi ama sorun değil beğendim teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım kalitesi dokusu muhteşem",
+          "score": 5.0
+        },
+        {
+          "text": "modelini beğenerek çeyizim için aldım tek eksiği çarşafsız olması",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata Kalite",
-      "review_count": 4,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "ürünün içinde çarşaf yokmuş açıklama kısmını detaylı okumadığım için almış bulundum",
-        "çok güzel beklediğim gibi satıcıya teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel beklediğim gibi satıcıya teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "ürünün içinde çarşaf yokmuş açıklama kısmını detaylı okumadığım için almış bulundum",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Dokusu & Kalitesi",
-      "review_count": 4,
+      "name": "Doku & Kalite",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -214,16 +252,232 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "bayıldım kalitesi dokusu muhteşem",
-        "tereddüt etmeden alınabılır çok şık ve guzel"
+        "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
+        "ürünü bayıldim kumaşı dokusu rengi bekledigimden de guzel geldi"
       ],
       "all_reviews": [
         {
-          "text": "bayıldım kalitesi dokusu muhteşem",
+          "text": "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
           "score": 5.0
         },
         {
-          "text": "tereddüt etmeden alınabılır çok şık ve guzel",
+          "text": "mükemmel dokusu defalarca yıkadım hiçbir yıpranma olmadı",
           "score": 5.0
+        },
+        {
+          "text": "ürünü bayıldim kumaşı dokusu rengi bekledigimden de guzel geldi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım kalitesi dokusu muhteşem",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Renk Canlı",
+      "review_count": 8,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "rengi",
+        "canlı",
+        "renkleri",
+        "yıkadım",
+        "renkleri canlı",
+        "renkler",
+        "dokusu",
+        "aynı"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "sample_reviews": [
+        "kumaşı güzel ve renkleri canlı",
+        "ürünü bayıldim kumaşı dokusu rengi bekledigimden de guzel geldi",
+        "mükemmel dokusu defalarca yıkadım hiçbir yıpranma olmadı"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel dokusu defalarca yıkadım hiçbir yıpranma olmadı",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü bayıldim kumaşı dokusu rengi bekledigimden de guzel geldi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim paketleme çok güzeldi sadece kalpler kahve rengi ama sorun değil beğendim teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel ve renkleri canlı",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Solma",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "takımı",
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "modelini beğenerek çeyizim için aldım tek eksiği çarşafsız olması",
+        "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+        "çok güzel beklediğim gibi satıcıya teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel kurutmaya bile attım çekmedi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel beklediğim gibi satıcıya teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "modelini beğenerek çeyizim için aldım tek eksiği çarşafsız olması",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+        "mükemmel dokusu defalarca yıkadım hiçbir yıpranma olmadı",
+        "yaa çok güzel alın aldırın kumaşı pamuklu mis"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel dokusu defalarca yıkadım hiçbir yıpranma olmadı",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+          "score": 5.0
+        },
+        {
+          "text": "yaa çok güzel alın aldırın kumaşı pamuklu mis",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
+        "bayıldım kalitesi dokusu muhteşem",
+        "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım"
+      ],
+      "all_reviews": [
+        {
+          "text": "paketlenmesi çok iyiydi kumaşın kalitesi de çok iyi tavsiye ediyorum artık bundan sonra burdan alırım ben nevresimlerimi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım kalitesi dokusu muhteşem",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 4,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+        "kumaşı güzel ve renkleri canlı"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel çok beğendim kumaşı kaliteli setin içinde çarşaf yok ekstra olarak lastikli olanlardan alıp takım yapacağım",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel ve renkleri canlı",
+          "score": 4.0
         }
       ],
       "icon": "💬"

@@ -8,7 +8,7 @@
   "overall_score": 4.74,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**İAMBTŞY Kutu Üç Gözlü El Ve Omuz Çantası** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **geniş** ve **boyutu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çanta boyutu tam da istediğim boyutta çok beğendim ürün kaliteli ve hızlı kargoyla el…\"\n• **Kaliteli & Yumuşacık Derisi**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kullanışlı** ve **anneler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çokk güzel bi ürün arkadaşıma hediye olarak almıştım çok beğendi ve çok kullanışlı\"\n• Kullanıcılar **Derisi Yumuşak** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **buyuk** ve **derisi kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Beklediğimden daha güzel geldi küçük ama kullanışlı paketlemede gayet güzeldi teşekkü…\"\n• **Rahatlıkla** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **kokusu** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Biraz büyük sanıyordum yorumlara bakmadan aldım ama küçük gibi günlük kullanmak için…\"\n• Müşteri yorumlarında **Cüzdan Telefon** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **rahatlıkla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel halam kediye aldım çok beğendi\"",
+  "summary": "\"İAMBTŞY Kutu Üç Gözlü El Ve Omuz Çantası, müşterilerin beğendiği özelliyclerini sunuyor. Ürün, geniş ve boyutta 18 yorumda ortalama 4.67/5.0 puan alarak olumlu yönde değerlendirilirken, yumuşacık deri özelliği 18 yorumda ortalama 5.0/5.0 puan alırarak mükemmel olarak onaylanıyor. Ayrıca, rengi-boyut idealitesi 15 yorumda ortalama 4.6/5.0 puan alınırken, deri yumuşaklığı ve zarif tasarımı da müşterilerin tam onayına mazhar oluyor.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,44 +18,40 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Rahat",
-      "review_count": 21,
-      "avg_score": 4.71,
+      "name": "Geniş & Boyut",
+      "review_count": 18,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
         "spor",
-        "rahat",
         "geniş",
         "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
         "bayıldım",
-        "kullanışlı",
-        "çantası"
+        "kalitesi"
       ],
-      "positive_pct": 85.7,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 14.3,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "çanta boyutu tam da istediğim boyutta çok beğendim ürün kaliteli ve hızlı kargoyla elime ulaştı",
         "gerçekten yumuşacık dokusu olan bir çanta geldi boyutu tam istedigim gibi ne çok küçük ne çok büyük bence beğenen herkes direk almalı tereddüt etmeyin bile rengi falan çok güzel canlı",
+        "çanta boyutu tam da istediğim boyutta çok beğendim ürün kaliteli ve hızlı kargoyla elime ulaştı",
         "cok tatlı bi çanta rengi efsane fotoğrafta neyse o geldi sadece kulplari biraz ince ama çanta mükemmel ve kaliteli"
       ],
       "all_reviews": [
-        {
-          "text": "ürünün dokusu birtık resimdekiinden farklı ama yine de beğendim",
-          "score": 5.0
-        },
         {
           "text": "gerçekten yumuşacık dokusu olan bir çanta geldi boyutu tam istedigim gibi ne çok küçük ne çok büyük bence beğenen herkes direk almalı tereddüt etmeyin bile rengi falan çok güzel canlı",
           "score": 5.0
         },
         {
-          "text": "çok güzel bi çanta yumuşacık kaliteli severek kullanıyorum bordosunu da alıcam",
+          "text": "süper anneler günü için aldım çok güzel bir deriye sahip çanta modeli",
           "score": 5.0
         },
         {
-          "text": "süper anneler günü için aldım çok güzel bir deriye sahip çanta modeli",
+          "text": "çok güzel bi çanta yumuşacık kaliteli severek kullanıyorum bordosunu da alıcam",
           "score": 5.0
         },
         {
@@ -78,36 +74,40 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 10,
-      "avg_score": 4.7,
+      "name": "Yumuşacık Deri",
+      "review_count": 18,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
+        "aynı",
+        "tane",
+        "okulda",
+        "yumuşacık derisi",
+        "bayildim",
+        "hayatta",
+        "paketleme",
+        "kelimeyle"
       ],
-      "positive_pct": 70.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 30.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "arkadaşıma aldım çok güzel ve kullanışlı dedi derisi çok güzel dedi",
-        "çokk güzel bi ürün arkadaşıma hediye olarak almıştım çok beğendi ve çok kullanışlı",
-        "çok beğendim ablama aldim çok beğendik"
+        "gerçekten yumuşacık dokusu olan bir çanta geldi boyutu tam istedigim gibi ne çok küçük ne çok büyük bence beğenen herkes direk almalı tereddüt etmeyin bile rengi falan çok güzel canlı",
+        "ürünün rengi gerçekten görseldeki gibi çok beğendim tavsiye ederim alırken hiç değerlendirmesi yoktu tereddüt ettim ama gerçekten iyi çıktı",
+        "çok güzel bi çanta yumuşacık kaliteli severek kullanıyorum bordosunu da alıcam"
       ],
       "all_reviews": [
         {
-          "text": "çokk güzel bi ürün arkadaşıma hediye olarak almıştım çok beğendi ve çok kullanışlı",
+          "text": "gerçekten yumuşacık dokusu olan bir çanta geldi boyutu tam istedigim gibi ne çok küçük ne çok büyük bence beğenen herkes direk almalı tereddüt etmeyin bile rengi falan çok güzel canlı",
           "score": 5.0
         },
         {
-          "text": "çok güzel kalitesi var tavsiye ederim",
+          "text": "süper anneler günü için aldım çok güzel bir deriye sahip çanta modeli",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bi çanta yumuşacık kaliteli severek kullanıyorum bordosunu da alıcam",
           "score": 5.0
         },
         {
@@ -115,78 +115,210 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendim ablama aldim çok beğendik",
-          "score": 4.0
+          "text": "tam resimdeki gibi çok tatlı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kalitesi var tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün rengi gerçekten görseldeki gibi çok beğendim tavsiye ederim alırken hiç değerlendirmesi yoktu tereddüt ettim ama gerçekten iyi çıktı",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Derisi Yumuşak",
-      "review_count": 5,
+      "name": "Rengi / Boyut Ideal",
+      "review_count": 15,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "rengi",
+        "icin",
+        "gözüküyor",
+        "boyutta",
+        "sert",
+        "başka",
+        "ideal",
+        "beklediğim"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "gerçekten yumuşacık dokusu olan bir çanta geldi boyutu tam istedigim gibi ne çok küçük ne çok büyük bence beğenen herkes direk almalı tereddüt etmeyin bile rengi falan çok güzel canlı",
+        "ürünün rengi gerçekten görseldeki gibi çok beğendim tavsiye ederim alırken hiç değerlendirmesi yoktu tereddüt ettim ama gerçekten iyi çıktı",
+        "cok tatlı bi çanta rengi efsane fotoğrafta neyse o geldi sadece kulplari biraz ince ama çanta mükemmel ve kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten yumuşacık dokusu olan bir çanta geldi boyutu tam istedigim gibi ne çok küçük ne çok büyük bence beğenen herkes direk almalı tereddüt etmeyin bile rengi falan çok güzel canlı",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün rengi gerçekten görseldeki gibi çok beğendim tavsiye ederim alırken hiç değerlendirmesi yoktu tereddüt ettim ama gerçekten iyi çıktı",
+          "score": 5.0
+        },
+        {
+          "text": "çanta boyutu tam da istediğim boyutta çok beğendim ürün kaliteli ve hızlı kargoyla elime ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "sert kalıp bekliyodum ama çok yumuşak ben çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "cok tatlı bi çanta rengi efsane fotoğrafta neyse o geldi sadece kulplari biraz ince ama çanta mükemmel ve kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "çok hoş bir çanta kesinlikle rengi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Deri Yumuşak",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "derisi",
-        "buyuk",
-        "yumuşak",
+        "giderken",
+        "kullanıma uygun",
+        "kullanıma",
+        "alınmalı",
         "derisi yumuşak",
-        "spor",
-        "beklediğimden",
-        "sürü",
-        "derisi kaliteli"
+        "asla",
+        "fena",
+        "göründüğünden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünün rengi gerçekten görseldeki gibi çok beğendim tavsiye ederim alırken hiç değerlendirmesi yoktu tereddüt ettim ama gerçekten iyi çıktı",
+        "süper anneler günü için aldım çok güzel bir deriye sahip çanta modeli",
+        "arkadaşıma aldım çok güzel ve kullanışlı dedi derisi çok güzel dedi"
+      ],
+      "all_reviews": [
+        {
+          "text": "süper anneler günü için aldım çok güzel bir deriye sahip çanta modeli",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün rengi gerçekten görseldeki gibi çok beğendim tavsiye ederim alırken hiç değerlendirmesi yoktu tereddüt ettim ama gerçekten iyi çıktı",
+          "score": 5.0
+        },
+        {
+          "text": "sert kalıp bekliyodum ama çok yumuşak ben çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kalitesi var tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tam resimdeki gibi çok tatlı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "arkadaşıma aldım çok güzel ve kullanışlı dedi derisi çok güzel dedi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Zarif",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "zarif",
+        "harikaaa",
+        "yumuşacık",
+        "kelimeyle",
+        "kalite",
+        "baya",
+        "kelimeyle bayıldım",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel bi çanta yumuşacık kaliteli severek kullanıyorum bordosunu da alıcam",
+        "gerçekten yumuşacık dokusu olan bir çanta geldi boyutu tam istedigim gibi ne çok küçük ne çok büyük bence beğenen herkes direk almalı tereddüt etmeyin bile rengi falan çok güzel canlı",
+        "cok tatlı bi çanta rengi efsane fotoğrafta neyse o geldi sadece kulplari biraz ince ama çanta mükemmel ve kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten yumuşacık dokusu olan bir çanta geldi boyutu tam istedigim gibi ne çok küçük ne çok büyük bence beğenen herkes direk almalı tereddüt etmeyin bile rengi falan çok güzel canlı",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bi çanta yumuşacık kaliteli severek kullanıyorum bordosunu da alıcam",
+          "score": 5.0
+        },
+        {
+          "text": "çanta boyutu tam da istediğim boyutta çok beğendim ürün kaliteli ve hızlı kargoyla elime ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "cok tatlı bi çanta rengi efsane fotoğrafta neyse o geldi sadece kulplari biraz ince ama çanta mükemmel ve kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kalitesi var tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Resimdek",
+      "review_count": 10,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "adet",
+        "resimdeki",
+        "istediğim",
+        "canta",
+        "göründüğü"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "beklediğimden daha güzel geldi küçük ama kullanışlı paketlemede gayet güzeldi teşekkür ediyorum emegıneze saglık",
-        "sert kalıp bekliyodum ama çok yumuşak ben çok beğendim"
+        "çanta boyutu tam da istediğim boyutta çok beğendim ürün kaliteli ve hızlı kargoyla elime ulaştı",
+        "ürünün dokusu birtık resimdekiinden farklı ama yine de beğendim"
       ],
       "all_reviews": [
+        {
+          "text": "ürünün dokusu birtık resimdekiinden farklı ama yine de beğendim",
+          "score": 5.0
+        },
         {
           "text": "beklediğimden daha güzel geldi küçük ama kullanışlı paketlemede gayet güzeldi teşekkür ediyorum emegıneze saglık",
           "score": 5.0
         },
         {
-          "text": "sert kalıp bekliyodum ama çok yumuşak ben çok beğendim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahatlıkla",
-      "review_count": 4,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kokusu",
-        "fiyata",
-        "adet",
-        "fiyatı",
-        "minik",
-        "olacağını",
-        "rahatlıkla sığıyor",
-        "okulda"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "biraz büyük sanıyordum yorumlara bakmadan aldım ama küçük gibi günlük kullanmak için gayet güzel",
-        "indirimde aldım çok kalıtelı duruyor"
-      ],
-      "all_reviews": [
-        {
-          "text": "indirimde aldım çok kalıtelı duruyor",
+          "text": "çanta boyutu tam da istediğim boyutta çok beğendim ürün kaliteli ve hızlı kargoyla elime ulaştı",
           "score": 5.0
         },
         {
-          "text": "biraz büyük sanıyordum yorumlara bakmadan aldım ama küçük gibi günlük kullanmak için gayet güzel",
-          "score": 3.0
+          "text": "tam resimdeki gibi çok tatlı teşekkür ederim",
+          "score": 5.0
         }
       ],
       "icon": "💬"
@@ -211,101 +343,11 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel halam kediye aldım çok beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel halam kediye aldım çok beğendi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rengi & Boyutu Ideal",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "rengi",
-        "icin",
-        "gözüküyor",
-        "boyutta",
-        "sert",
-        "ideal",
-        "başka",
-        "boyutu"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
         "ürünün rengi gerçekten görseldeki gibi çok beğendim tavsiye ederim alırken hiç değerlendirmesi yoktu tereddüt ettim ama gerçekten iyi çıktı"
       ],
       "all_reviews": [
         {
           "text": "ürünün rengi gerçekten görseldeki gibi çok beğendim tavsiye ederim alırken hiç değerlendirmesi yoktu tereddüt ettim ama gerçekten iyi çıktı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "performans",
-        "fiyat performans",
-        "fiyat",
-        "ideal",
-        "fiyata",
-        "buyuk",
-        "kaliteli",
-        "uygun"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok sevimli çok beğendim fiyatına göre aşırı iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok sevimli çok beğendim fiyatına göre aşırı iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Resimdeki & Canta",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "adet",
-        "resimdeki",
-        "istediğim",
-        "canta",
-        "göründüğü",
-        "sağlam",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "tam resimdeki gibi çok tatlı teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "tam resimdeki gibi çok tatlı teşekkür ederim",
           "score": 5.0
         }
       ],

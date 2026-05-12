@@ -8,7 +8,7 @@
   "overall_score": 4.83,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**U.S. Polo Assn. REXHA 5PR Bej Kadın Sneaker** için 18 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata & Numaranıza** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **taraklı** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kargom 2 gün içinde geldi ve ilk defa internet üzerinden ayakkabı sipariş ettim çok m…\"\n• **Rahat Kaliteli**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **alınır** ve **duruşu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Tam kalip cok rahat ve sik duruyor umarim uzun kullanimda da ayni sekilde devam eder\"\n• Kullanıcılar **Numaramı & Kalıbı Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **derim** ve **kalip** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"O kadar güzel ve rahat ki çok beğendim kargo da çok hızlıydı 1 günde geldi bayıldımmm…\"",
+  "summary": "U.S. Polo Assn. REXHA 5PR Bej Kadın Sneaker, genel memnuniyet puanı 4.8/5.0 olan bir üründür. Ürün, pozitif yorumların çoğunluğunda numaranıza ve tarakl olarak değerlendirilmiştir. Alınır ve duruyo özelliklerine de olumlu yorumlar verilmiştir. Ortalama puanları incelendiğinde, ürünün tüm yönlerinin olumlu yönde değerlendirildiği anlaşılmaktadır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,7 +18,7 @@
   },
   "aspects": [
     {
-      "name": "Fiyata & Numaranıza",
+      "name": "Numaranıza & Tarakl",
       "review_count": 8,
       "avg_score": 4.62,
       "sentiment": "positive",
@@ -26,12 +26,12 @@
       "top_terms": [
         "ayak",
         "almışım",
-        "fiyata",
         "numaranıza",
         "taraklı",
         "rahatlığıyla",
+        "geniş",
         "paketleme",
-        "geniş"
+        "numaranizi"
       ],
       "positive_pct": 62.5,
       "negative_pct": 0.0,
@@ -47,11 +47,11 @@
           "score": 5.0
         },
         {
-          "text": "polodan aldığım en güzel ayakkabı çok da kaliteli rahatlığını zamanla görürüm tam kalıp",
+          "text": "iyi ki almışımm çok rahat ve hafif ayrıca çok güzel görünüyor",
           "score": 5.0
         },
         {
-          "text": "indirimden mağazanın yarı fiyatına aldım görselin aynısı rahat tabanı var biraz modelinden dolayı kava duruyor ben beğendim",
+          "text": "polodan aldığım en güzel ayakkabı çok da kaliteli rahatlığını zamanla görürüm tam kalıp",
           "score": 5.0
         },
         {
@@ -78,48 +78,68 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat Kaliteli",
-      "review_count": 3,
-      "avg_score": 5.0,
+      "name": "Numaranıza",
+      "review_count": 8,
+      "avg_score": 4.62,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat kaliteli",
-        "alınır",
-        "duruşu",
-        "bayıldım rahat",
-        "rahat bayıldım",
-        "hafif",
-        "sağlam",
-        "bayıldım"
+        "ayak",
+        "numaranıza",
+        "kibar",
+        "biri",
+        "numaramı",
+        "tarakli",
+        "sıktı",
+        "ayağımı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 62.5,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 37.5,
       "sample_reviews": [
-        "iyi ki almışımm çok rahat ve hafif ayrıca çok güzel görünüyor",
-        "tam kalip cok rahat ve sik duruyor umarim uzun kullanimda da ayni sekilde devam eder",
-        "çok güzel görünüyor"
+        "36 numara giyen biriyim görünüşü çok güzel fakat ayakkabı bıraz bol kalıp",
+        "kargom 2 gün içinde geldi ve ilk defa internet üzerinden ayakkabı sipariş ettim çok memnun kaldım kendi numaram 39 denemişte almışım gibi çok rahat oldu",
+        "tabanı kauçuk kaymiyor rengi muhteşem kalıp olarak 24 cm 38 numaraya denk geliyor 38 giyen birisi olarak kalıbı bir tık büyük kalin corap ile tam oluyor"
       ],
       "all_reviews": [
         {
-          "text": "iyi ki almışımm çok rahat ve hafif ayrıca çok güzel görünüyor",
+          "text": "kargom 2 gün içinde geldi ve ilk defa internet üzerinden ayakkabı sipariş ettim çok memnun kaldım kendi numaram 39 denemişte almışım gibi çok rahat oldu",
           "score": 5.0
         },
         {
-          "text": "tam kalip cok rahat ve sik duruyor umarim uzun kullanimda da ayni sekilde devam eder",
+          "text": "tabanı kauçuk kaymiyor rengi muhteşem kalıp olarak 24 cm 38 numaraya denk geliyor 38 giyen birisi olarak kalıbı bir tık büyük kalin corap ile tam oluyor",
           "score": 5.0
         },
         {
-          "text": "çok güzel görünüyor",
+          "text": "polodan aldığım en güzel ayakkabı çok da kaliteli rahatlığını zamanla görürüm tam kalıp",
           "score": 5.0
+        },
+        {
+          "text": "eğer kısa sürede yırtılmazsa görünüş olarak güzel bir ayakkabı aynı zamanda rahat giydikçe güncellerim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı güzel tam kalıbımızı aldık 38 sorunsuz oldu",
+          "score": 5.0
+        },
+        {
+          "text": "36 numara giyen biriyim görünüşü çok güzel fakat ayakkabı bıraz bol kalıp",
+          "score": 4.0
+        },
+        {
+          "text": "güzel rahat bi tık kaba duruyor ayakta onun dışında alınır güzel ayakkabı",
+          "score": 4.0
+        },
+        {
+          "text": "ayakkabı güzel ama iç yan kısımlari pot duruyor 39giyiyorym 38aldim numasi iyi oldu",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Numaramı & Kalıbı Rahat",
-      "review_count": 3,
+      "name": "Numaram",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -128,30 +148,209 @@
         "tane",
         "kalıbı",
         "derim",
-        "bayıldım",
         "almışım",
+        "bayıldım",
         "kalip",
-        "sağlam"
+        "paketleme"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "o kadar güzel ve rahat ki çok beğendim kargo da çok hızlıydı 1 günde geldi bayıldımmmm",
-        "sorunsuz geldi ve çok güzel teşekkür ederiz",
-        "cokk rahat ben cok sevdim"
+        "kargom 2 gün içinde geldi ve ilk defa internet üzerinden ayakkabı sipariş ettim çok memnun kaldım kendi numaram 39 denemişte almışım gibi çok rahat oldu",
+        "tabanı kauçuk kaymiyor rengi muhteşem kalıp olarak 24 cm 38 numaraya denk geliyor 38 giyen birisi olarak kalıbı bir tık büyük kalin corap ile tam oluyor",
+        "iyi ki almışımm çok rahat ve hafif ayrıca çok güzel görünüyor"
       ],
       "all_reviews": [
         {
-          "text": "cokk rahat ben cok sevdim",
+          "text": "kargom 2 gün içinde geldi ve ilk defa internet üzerinden ayakkabı sipariş ettim çok memnun kaldım kendi numaram 39 denemişte almışım gibi çok rahat oldu",
           "score": 5.0
         },
         {
-          "text": "sorunsuz geldi ve çok güzel teşekkür ederiz",
+          "text": "tabanı kauçuk kaymiyor rengi muhteşem kalıp olarak 24 cm 38 numaraya denk geliyor 38 giyen birisi olarak kalıbı bir tık büyük kalin corap ile tam oluyor",
+          "score": 5.0
+        },
+        {
+          "text": "iyi ki almışımm çok rahat ve hafif ayrıca çok güzel görünüyor",
+          "score": 5.0
+        },
+        {
+          "text": "kendi numaranızı alabilirsiniz çok rahat tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı güzel tam kalıbımızı aldık 38 sorunsuz oldu",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınır",
+      "review_count": 5,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınır",
+        "duruşu",
+        "hafif",
+        "bayıldım",
+        "aynı zamanda",
+        "çokta",
+        "zamanda",
+        "rengi"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "eğer kısa sürede yırtılmazsa görünüş olarak güzel bir ayakkabı aynı zamanda rahat giydikçe güncellerim",
+        "o kadar güzel ve rahat ki çok beğendim kargo da çok hızlıydı 1 günde geldi bayıldımmmm",
+        "güzel rahat bi tık kaba duruyor ayakta onun dışında alınır güzel ayakkabı"
+      ],
+      "all_reviews": [
+        {
+          "text": "iyi ki almışımm çok rahat ve hafif ayrıca çok güzel görünüyor",
+          "score": 5.0
+        },
+        {
+          "text": "indirimden mağazanın yarı fiyatına aldım görselin aynısı rahat tabanı var biraz modelinden dolayı kava duruyor ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "eğer kısa sürede yırtılmazsa görünüş olarak güzel bir ayakkabı aynı zamanda rahat giydikçe güncellerim",
           "score": 5.0
         },
         {
           "text": "o kadar güzel ve rahat ki çok beğendim kargo da çok hızlıydı 1 günde geldi bayıldımmmm",
+          "score": 5.0
+        },
+        {
+          "text": "güzel rahat bi tık kaba duruyor ayakta onun dışında alınır güzel ayakkabı",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruyo",
+      "review_count": 5,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınmalı",
+        "duruyo",
+        "asla",
+        "alin",
+        "yumuşak",
+        "istediğim",
+        "kalıp kalıp",
+        "bayıldım"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 40.0,
+      "sample_reviews": [
+        "tabanı kauçuk kaymiyor rengi muhteşem kalıp olarak 24 cm 38 numaraya denk geliyor 38 giyen birisi olarak kalıbı bir tık büyük kalin corap ile tam oluyor",
+        "indirimden mağazanın yarı fiyatına aldım görselin aynısı rahat tabanı var biraz modelinden dolayı kava duruyor ben beğendim",
+        "tam kalip cok rahat ve sik duruyor umarim uzun kullanimda da ayni sekilde devam eder"
+      ],
+      "all_reviews": [
+        {
+          "text": "tabanı kauçuk kaymiyor rengi muhteşem kalıp olarak 24 cm 38 numaraya denk geliyor 38 giyen birisi olarak kalıbı bir tık büyük kalin corap ile tam oluyor",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalip cok rahat ve sik duruyor umarim uzun kullanimda da ayni sekilde devam eder",
+          "score": 5.0
+        },
+        {
+          "text": "indirimden mağazanın yarı fiyatına aldım görselin aynısı rahat tabanı var biraz modelinden dolayı kava duruyor ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel rahat bi tık kaba duruyor ayakta onun dışında alınır güzel ayakkabı",
+          "score": 4.0
+        },
+        {
+          "text": "ayakkabı güzel ama iç yan kısımlari pot duruyor 39giyiyorym 38aldim numasi iyi oldu",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaraniz",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "numaranizi",
+        "alin",
+        "alınmalı",
+        "aldık",
+        "zamanla",
+        "aynı zamanda",
+        "öncede",
+        "kalıbı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tabanı kauçuk kaymiyor rengi muhteşem kalıp olarak 24 cm 38 numaraya denk geliyor 38 giyen birisi olarak kalıbı bir tık büyük kalin corap ile tam oluyor",
+        "ayakkabı güzel tam kalıbımızı aldık 38 sorunsuz oldu",
+        "polodan aldığım en güzel ayakkabı çok da kaliteli rahatlığını zamanla görürüm tam kalıp"
+      ],
+      "all_reviews": [
+        {
+          "text": "tabanı kauçuk kaymiyor rengi muhteşem kalıp olarak 24 cm 38 numaraya denk geliyor 38 giyen birisi olarak kalıbı bir tık büyük kalin corap ile tam oluyor",
+          "score": 5.0
+        },
+        {
+          "text": "polodan aldığım en güzel ayakkabı çok da kaliteli rahatlığını zamanla görürüm tam kalıp",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı güzel tam kalıbımızı aldık 38 sorunsuz oldu",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Geniş",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "geniş",
+        "kalitesi",
+        "olduğunu",
+        "zamanla",
+        "çokk",
+        "numaram",
+        "yumuşak",
+        "fakat"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "anneme hediye almıştım çok beğendi ve rahat olduğunu söyledi sadece ayağı birazcık büyük gösteriyor",
+        "polodan aldığım en güzel ayakkabı çok da kaliteli rahatlığını zamanla görürüm tam kalıp"
+      ],
+      "all_reviews": [
+        {
+          "text": "polodan aldığım en güzel ayakkabı çok da kaliteli rahatlığını zamanla görürüm tam kalıp",
+          "score": 5.0
+        },
+        {
+          "text": "anneme hediye almıştım çok beğendi ve rahat olduğunu söyledi sadece ayağı birazcık büyük gösteriyor",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 4.46,
   "overall_sentiment": "neutral",
   "stars": "★★★★½",
-  "summary": "**Genel Markalar Koyu Kahve Mini El & Omuz Çantası – Altı** için 50 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Kaliteli & Rahat** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **geniş** ve **boyutu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çanta çok güzle kaliteli ve çok tatlı hızlı bir şekilde elime ulaştı hediye için çok…\"\n• **Kaliteli & Yumuşacık Derisi**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kullanışlı** ve **anneler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kul…\"\n• Kullanıcılar **Resimdeki & Canta** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **göründüğü** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Göründüğü gibi geldi hediye için teşekkürler\"\n• **Zarif & Kelimeyle** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **harikaaa** ve **yumuşacık** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok tatlı minnoş çok zarif ve hızlı kargoydu teşekkürler\"\n• Müşteri yorumlarında **Rengi & Boyutu Ideal** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **boyutta** ve **ideal** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Beklediğim boyutta ve renkte gelmesi harika çok beğendim\"",
+  "summary": "Genel Markalar Koyu Kahve Mini El & Omuz Çantası, orta ölçekli bir ürün olarak kendini kanıtlamaktadır. Ürün, geniş ve boyutuna fazlasıyla memnun olan 25 yorumdan aldığı ortalama puanını 4,56/5,0 olarak belirlemektedir. Yumuşacık derisi ve zarif tasarımı da ürünün olumlu yönlerini oluşturmaktadır. Rengi ve boyuta ideal olarak değerlendirilen 8 yorumda alınan ortalama puanın da 5,0/5,0 olması, ürünün genel memnuniyetini artırmaktadır.",
   "score_distribution": {
     "1": 4,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Rahat",
-      "review_count": 28,
-      "avg_score": 4.04,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Geniş & Boyut",
+      "review_count": 25,
+      "avg_score": 4.56,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
         "spor",
-        "rahat",
         "geniş",
         "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
         "bayıldım",
-        "kullanışlı",
-        "çantası"
+        "kalitesi"
       ],
-      "positive_pct": 60.7,
-      "negative_pct": 14.3,
-      "neutral_pct": 25.0,
+      "positive_pct": 80.0,
+      "negative_pct": 8.0,
+      "neutral_pct": 12.0,
       "sample_reviews": [
-        "çanta çok güzle kaliteli ve çok tatlı hızlı bir şekilde elime ulaştı hediye için çok teşekkür ederim",
         "çok güzel tam bir acı kahve boyutu biraz küçük gelebilir ama ben çok seviyorum küçük çantaları",
-        "hediye için de teşekkür ederim bayıldım çok güzel çanta"
+        "hediye için de teşekkür ederim bayıldım çok güzel çanta",
+        "çanta çok güzle kaliteli ve çok tatlı hızlı bir şekilde elime ulaştı hediye için çok teşekkür ederim"
       ],
       "all_reviews": [
         {
@@ -48,6 +48,10 @@
         },
         {
           "text": "çok güzel tam bir acı kahve boyutu biraz küçük gelebilir ama ben çok seviyorum küçük çantaları",
+          "score": 5.0
+        },
+        {
+          "text": "beklediğim boyutta ve renkte gelmesi harika çok beğendim",
           "score": 5.0
         },
         {
@@ -71,18 +75,6 @@
           "score": 4.0
         },
         {
-          "text": "biraz kumaşı ince ama güzel duruyor",
-          "score": 3.0
-        },
-        {
-          "text": "güzel ama küçük geldi",
-          "score": 3.0
-        },
-        {
-          "text": "ürünün fotoğrafta ki ile alakası yok alakasının olmadığı gibi kusurlu ürün gönderilmiş ne kadar bilinçsizsiniz",
-          "score": 1.0
-        },
-        {
           "text": "farklı renk göndermişler ve çanta fotoğrafta göründüğünden küçük",
           "score": 1.0
         }
@@ -90,28 +82,28 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 7,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Yumuşacık Deri",
+      "review_count": 15,
+      "avg_score": 4.47,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
+        "aynı",
+        "tane",
+        "okulda",
+        "yumuşacık derisi",
+        "bayildim",
+        "hayatta",
+        "paketleme",
+        "kelimeyle"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
+      "positive_pct": 86.7,
+      "negative_pct": 13.3,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
         "tam istediğim gibi geldi fotoğraftaki ile aynı",
-        "çok iyi beğendim"
+        "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
+        "ürünün fotoğrafta ki ile alakası yok alakasının olmadığı gibi kusurlu ürün gönderilmiş ne kadar bilinçsizsiniz"
       ],
       "all_reviews": [
         {
@@ -119,54 +111,79 @@
           "score": 5.0
         },
         {
-          "text": "çok iyi beğendim",
+          "text": "hediye için de teşekkür ederim bayıldım çok güzel çanta",
           "score": 5.0
         },
         {
-          "text": "tam istediğim gibi geldi fotoğraftaki ile aynı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Resimdeki & Canta",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "adet",
-        "resimdeki",
-        "istediğim",
-        "canta",
-        "göründüğü",
-        "sağlam",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "göründüğü gibi geldi hediye için teşekkürler",
-        "çok teşekkür ederim beğendim"
-      ],
-      "all_reviews": [
-        {
-          "text": "göründüğü gibi geldi hediye için teşekkürler",
+          "text": "çanta çok güzle kaliteli ve çok tatlı hızlı bir şekilde elime ulaştı hediye için çok teşekkür ederim",
           "score": 5.0
         },
         {
           "text": "çok teşekkür ederim beğendim",
           "score": 5.0
+        },
+        {
+          "text": "tam istediğim gibi geldi fotoğraftaki ile aynı",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün fotoğrafta ki ile alakası yok alakasının olmadığı gibi kusurlu ürün gönderilmiş ne kadar bilinçsizsiniz",
+          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Zarif & Kelimeyle",
-      "review_count": 5,
+      "name": "Deri Yumuşak",
+      "review_count": 13,
+      "avg_score": 4.38,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "giderken",
+        "kullanıma uygun",
+        "kullanıma",
+        "alınmalı",
+        "derisi yumuşak",
+        "asla",
+        "fena",
+        "göründüğünden"
+      ],
+      "positive_pct": 84.6,
+      "negative_pct": 15.4,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
+        "ürünün fotoğrafta ki ile alakası yok alakasının olmadığı gibi kusurlu ürün gönderilmiş ne kadar bilinçsizsiniz",
+        "çanta çok güzle kaliteli ve çok tatlı hızlı bir şekilde elime ulaştı hediye için çok teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "hediye için de teşekkür ederim bayıldım çok güzel çanta",
+          "score": 5.0
+        },
+        {
+          "text": "çanta çok güzle kaliteli ve çok tatlı hızlı bir şekilde elime ulaştı hediye için çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok teşekkür ederim beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün fotoğrafta ki ile alakası yok alakasının olmadığı gibi kusurlu ürün gönderilmiş ne kadar bilinçsizsiniz",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Zarif",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -184,24 +201,29 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok tatlı minnoş çok zarif ve hızlı kargoydu teşekkürler",
-        "mükkkkk çok iyi"
+        "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
+        "çanta çok güzle kaliteli ve çok tatlı hızlı bir şekilde elime ulaştı hediye için çok teşekkür ederim",
+        "çok tatlı minnoş çok zarif ve hızlı kargoydu teşekkürler"
       ],
       "all_reviews": [
+        {
+          "text": "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
         {
           "text": "çok tatlı minnoş çok zarif ve hızlı kargoydu teşekkürler",
           "score": 5.0
         },
         {
-          "text": "mükkkkk çok iyi",
+          "text": "çanta çok güzle kaliteli ve çok tatlı hızlı bir şekilde elime ulaştı hediye için çok teşekkür ederim",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rengi & Boyutu Ideal",
-      "review_count": 5,
+      "name": "Rengi / Boyut Ideal",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -211,24 +233,92 @@
         "gözüküyor",
         "boyutta",
         "sert",
-        "ideal",
         "başka",
-        "boyutu"
+        "ideal",
+        "beklediğim"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "beklediğim boyutta ve renkte gelmesi harika çok beğendim",
+        "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
         "iki rengini de aldım çok hoş"
       ],
       "all_reviews": [
+        {
+          "text": "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
         {
           "text": "beklediğim boyutta ve renkte gelmesi harika çok beğendim",
           "score": 5.0
         },
         {
           "text": "iki rengini de aldım çok hoş",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Resimdek",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "adet",
+        "resimdeki",
+        "istediğim",
+        "canta",
+        "göründüğü"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
+        "tam istediğim gibi geldi fotoğraftaki ile aynı"
+      ],
+      "all_reviews": [
+        {
+          "text": "deri kalitesi yumuşak rengi tam istediğim gibi koyu kahve tonunda iç hacmi günlük kullanım için yeterli fular detayı da çok zarif bir dokunuş olmuş kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tam istediğim gibi geldi fotoğraftaki ile aynı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Cüzdan Telefon",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alır",
+        "bayıldım",
+        "alıyor",
+        "cüzdan telefon",
+        "cüzdan",
+        "rahatlıkla",
+        "sert",
+        "şeyi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hediye için de teşekkür ederim bayıldım çok güzel çanta"
+      ],
+      "all_reviews": [
+        {
+          "text": "hediye için de teşekkür ederim bayıldım çok güzel çanta",
           "score": 5.0
         }
       ],

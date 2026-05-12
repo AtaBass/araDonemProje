@@ -8,7 +8,7 @@
   "overall_score": 4.92,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Genel Markalar Natural ahşap TARZ sandelye ( gürgen san** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Rahat Koltuk** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **sağlam** ve **çalışma** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen h…\"\n• **Kurulumu Kolay**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **rahat** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürünün kalitesine bayıldım sapasağlam geldi gönül rahatlığıyla alabilirsiniz teşekkür…\"\n• Kullanıcılar **Takım & Kurulumu Kolay** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **teşekürler** ve **sürekli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Sekizli takım yaptım ben kurulumu bi tık zor oldu ama sağlamlığı falan efsane bayıldı…\"\n• **Alınabilir & Çocuk** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **uygun** ve **göründüğü** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ütün çok kalıteli geldi çok beğendim\"\n• Müşteri yorumlarında **Kullanışlı Rahat** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **hafif** ve **kaliteli rahat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok kullanışlı iyiki almışım evimin havasını değiştirdi\"",
+  "summary": "**Genel Markalar Natural ahşap TARZ sandelye ( gürgen san** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Takım / Kurulum Kolay**: Kullanıcılar takım / kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Koltuk**: Kullanıcılar koltuk konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Rahat Koltuk",
-      "review_count": 17,
+      "name": "Sorunsuz",
+      "review_count": 28,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat",
-        "koltuk",
-        "sağlam",
-        "çalışma",
-        "kurulumu",
-        "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın",
-        "siparişim kargo firması yüzünden gecikmiş firma ile irtibata geçtim hızla geri dönüş yaptılar ve sorunu çözdüler sandalyeleri çok beğendim kurulumu paketlemesi güzeldi çok teşekkürler",
-        "çok güzel işler sandalye harika çok ağır ve sağlam geldi mö"
+        "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese",
+        "paketleme o kadar özenliydi ki açmak 20 dakikamı aldı malzeme kalitesi çok iyi satıcı çok ilgiliydi gözünüz kapalı alabilirsiniz bir süredir kullanıyorum çok memnunum",
+        "ürünün kalitesine bayıldım sapasağlam geldi gönül rahatlığıyla alabilirsiniz teşekkürler"
       ],
       "all_reviews": [
         {
@@ -47,11 +47,19 @@
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel ve kullanışlı sandalye ebatları büyük olduğu için küçük mutfaklar için tavsife etmem",
+          "text": "paketleme o kadar özenliydi ki açmak 20 dakikamı aldı malzeme kalitesi çok iyi satıcı çok ilgiliydi gözünüz kapalı alabilirsiniz bir süredir kullanıyorum çok memnunum",
           "score": 5.0
         },
         {
-          "text": "siparişim kargo firması yüzünden gecikmiş firma ile irtibata geçtim hızla geri dönüş yaptılar ve sorunu çözdüler sandalyeleri çok beğendim kurulumu paketlemesi güzeldi çok teşekkürler",
+          "text": "sekizli takım yaptım ben kurulumu bi tık zor oldu ama sağlamlığı falan efsane bayıldık biz",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkürler isteklerime ellerinden geldiğince yapmaya çalıştılar kaliteli bir ürün tavsiye ederim kumaşı puffy üstten 4 cü alacaklara fikir olur belki",
+          "score": 5.0
+        },
+        {
+          "text": "çok kullanışlı iyiki almışım evimin havasını değiştirdi",
           "score": 5.0
         },
         {
@@ -59,41 +67,49 @@
           "score": 5.0
         },
         {
-          "text": "çok güzel işler sandalye harika çok ağır ve sağlam geldi mö",
-          "score": 5.0
-        },
-        {
           "text": "ürünlere yorum yapmam genelde üşenirim parası helal olsun bu fiyata bu kadar güzel bir ürün bulunamaz eski sandalyeleri mi dosemeciye verecektim tanesini 2.500 den döşeme için para istediler bu sandalye bu kalite bu fiyat inanılmaz teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın",
+          "text": "ürün çok kaliteli geldi fiyat çok uygun tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesine bayıldım sapasağlam geldi gönül rahatlığıyla alabilirsiniz teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "aldığımız günden beri sorunsuz kullanıyoruz teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kullanışlı sandalye ebatları büyük olduğu için küçük mutfaklar için tavsife etmem",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 11,
+      "name": "Fiyat Kalite",
+      "review_count": 17,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürünün kalitesine bayıldım sapasağlam geldi gönül rahatlığıyla alabilirsiniz teşekkürler",
+        "ürünlere yorum yapmam genelde üşenirim parası helal olsun bu fiyata bu kadar güzel bir ürün bulunamaz eski sandalyeleri mi dosemeciye verecektim tanesini 2.500 den döşeme için para istediler bu sandalye bu kalite bu fiyat inanılmaz teşekkür ederim",
         "paketleme o kadar özenliydi ki açmak 20 dakikamı aldı malzeme kalitesi çok iyi satıcı çok ilgiliydi gözünüz kapalı alabilirsiniz bir süredir kullanıyorum çok memnunum",
         "teşekkürler isteklerime ellerinden geldiğince yapmaya çalıştılar kaliteli bir ürün tavsiye ederim kumaşı puffy üstten 4 cü alacaklara fikir olur belki"
       ],
@@ -103,11 +119,23 @@
           "score": 5.0
         },
         {
+          "text": "teşekkürler isteklerime ellerinden geldiğince yapmaya çalıştılar kaliteli bir ürün tavsiye ederim kumaşı puffy üstten 4 cü alacaklara fikir olur belki",
+          "score": 5.0
+        },
+        {
           "text": "kargomuz geldi her şeyle mükemmel yorumlara bakaraktan almıştım zaten harika ürün müthiş",
           "score": 5.0
         },
         {
-          "text": "teşekkürler isteklerime ellerinden geldiğince yapmaya çalıştılar kaliteli bir ürün tavsiye ederim kumaşı puffy üstten 4 cü alacaklara fikir olur belki",
+          "text": "sandalyem geldi gercekten cok guzel ve kaliteli cok beyendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünlere yorum yapmam genelde üşenirim parası helal olsun bu fiyata bu kadar güzel bir ürün bulunamaz eski sandalyeleri mi dosemeciye verecektim tanesini 2.500 den döşeme için para istediler bu sandalye bu kalite bu fiyat inanılmaz teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli geldi fiyat çok uygun tereddüt etmeden alabilirsiniz",
           "score": 5.0
         },
         {
@@ -118,8 +146,56 @@
       "icon": "💬"
     },
     {
-      "name": "Takım & Kurulumu Kolay",
-      "review_count": 11,
+      "name": "Kurulum Kolay",
+      "review_count": 14,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "kolay",
+        "kurulumu",
+        "kurulumu kolay",
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "siparişim kargo firması yüzünden gecikmiş firma ile irtibata geçtim hızla geri dönüş yaptılar ve sorunu çözdüler sandalyeleri çok beğendim kurulumu paketlemesi güzeldi çok teşekkürler",
+        "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese",
+        "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın"
+      ],
+      "all_reviews": [
+        {
+          "text": "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme o kadar özenliydi ki açmak 20 dakikamı aldı malzeme kalitesi çok iyi satıcı çok ilgiliydi gözünüz kapalı alabilirsiniz bir süredir kullanıyorum çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "siparişim kargo firması yüzünden gecikmiş firma ile irtibata geçtim hızla geri dönüş yaptılar ve sorunu çözdüler sandalyeleri çok beğendim kurulumu paketlemesi güzeldi çok teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "sekizli takım yaptım ben kurulumu bi tık zor oldu ama sağlamlığı falan efsane bayıldık biz",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -138,12 +214,60 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "sekizli takım yaptım ben kurulumu bi tık zor oldu ama sağlamlığı falan efsane bayıldık biz",
-        "⁹istediğim gibi geldi emeğinize sağlık",
-        "ailece çok beğendik ellerinize emeğinize sağlık"
+        "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese",
+        "siparişim kargo firması yüzünden gecikmiş firma ile irtibata geçtim hızla geri dönüş yaptılar ve sorunu çözdüler sandalyeleri çok beğendim kurulumu paketlemesi güzeldi çok teşekkürler"
       ],
       "all_reviews": [
         {
-          "text": "ailece çok beğendik ellerinize emeğinize sağlık",
+          "text": "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme o kadar özenliydi ki açmak 20 dakikamı aldı malzeme kalitesi çok iyi satıcı çok ilgiliydi gözünüz kapalı alabilirsiniz bir süredir kullanıyorum çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "siparişim kargo firması yüzünden gecikmiş firma ile irtibata geçtim hızla geri dönüş yaptılar ve sorunu çözdüler sandalyeleri çok beğendim kurulumu paketlemesi güzeldi çok teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "sekizli takım yaptım ben kurulumu bi tık zor oldu ama sağlamlığı falan efsane bayıldık biz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "koltuk",
+        "çalışma",
+        "kurulumu",
+        "kumaşı",
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın",
+        "siparişim kargo firması yüzünden gecikmiş firma ile irtibata geçtim hızla geri dönüş yaptılar ve sorunu çözdüler sandalyeleri çok beğendim kurulumu paketlemesi güzeldi çok teşekkürler",
+        "teşekkürler isteklerime ellerinden geldiğince yapmaya çalıştılar kaliteli bir ürün tavsiye ederim kumaşı puffy üstten 4 cü alacaklara fikir olur belki"
+      ],
+      "all_reviews": [
+        {
+          "text": "siparişim kargo firması yüzünden gecikmiş firma ile irtibata geçtim hızla geri dönüş yaptılar ve sorunu çözdüler sandalyeleri çok beğendim kurulumu paketlemesi güzeldi çok teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkürler isteklerime ellerinden geldiğince yapmaya çalıştılar kaliteli bir ürün tavsiye ederim kumaşı puffy üstten 4 cü alacaklara fikir olur belki",
           "score": 5.0
         },
         {
@@ -151,106 +275,7 @@
           "score": 5.0
         },
         {
-          "text": "beklediğinden daha iyi tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "⁹istediğim gibi geldi emeğinize sağlık",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Alınabilir & Çocuk",
-      "review_count": 4,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "alınabilir",
-        "çocuk",
-        "halı",
-        "uygun",
-        "göründüğü",
-        "bayıldım",
-        "aldık",
-        "sorun"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
-        "beğendim güzel göründüğü gibi geldi",
-        "ütün çok kalıteli geldi çok beğendim"
-      ],
-      "all_reviews": [
-        {
-          "text": "ütün çok kalıteli geldi çok beğendim",
-          "score": 4.0
-        },
-        {
-          "text": "beğendim güzel göründüğü gibi geldi",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı Rahat",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "rahat",
-        "kullanışlı rahat",
-        "hafif",
-        "almışım",
-        "kaliteli rahat",
-        "icin",
-        "göründüğü"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok kullanışlı iyiki almışım evimin havasını değiştirdi"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok kullanışlı iyiki almışım evimin havasını değiştirdi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sorunsuz & Sağlam Kaliteli",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "sorunsuz",
-        "sağlam kaliteli",
-        "kalitesi",
-        "severek",
-        "oldular",
-        "evime",
-        "sağlam",
-        "hava"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "aldığımız günden beri sorunsuz kullanıyoruz teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "aldığımız günden beri sorunsuz kullanıyoruz teşekkürler",
+          "text": "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın",
           "score": 5.0
         }
       ],
@@ -258,7 +283,7 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 2,
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -269,19 +294,138 @@
         "uygun",
         "ilgili",
         "kalite",
-        "rahatlığı",
-        "kusursuz"
+        "kusursuz",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün çok kaliteli geldi fiyat çok uygun tereddüt etmeden alabilirsiniz"
+        "paketleme o kadar özenliydi ki açmak 20 dakikamı aldı malzeme kalitesi çok iyi satıcı çok ilgiliydi gözünüz kapalı alabilirsiniz bir süredir kullanıyorum çok memnunum",
+        "ürün çok kaliteli geldi fiyat çok uygun tereddüt etmeden alabilirsiniz",
+        "ürünlere yorum yapmam genelde üşenirim parası helal olsun bu fiyata bu kadar güzel bir ürün bulunamaz eski sandalyeleri mi dosemeciye verecektim tanesini 2.500 den döşeme için para istediler bu sandalye bu kalite bu fiyat inanılmaz teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "paketleme o kadar özenliydi ki açmak 20 dakikamı aldı malzeme kalitesi çok iyi satıcı çok ilgiliydi gözünüz kapalı alabilirsiniz bir süredir kullanıyorum çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle kumaş seçimimden imalatına ve gönderimine kadar geçen süreçte emeği geçen herkese teşekkür ederim satıcı çok ilgili ufak tedek çizikler vardı cila gönderimi yapacak rötuş için minnettarım sandalyelerime gelince efsaneeee hem sağlam hem şık hem rahat kurulumu da çok basit bence kaçırmayın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli geldi fiyat çok uygun tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürünlere yorum yapmam genelde üşenirim parası helal olsun bu fiyata bu kadar güzel bir ürün bulunamaz eski sandalyeleri mi dosemeciye verecektim tanesini 2.500 den döşeme için para istediler bu sandalye bu kalite bu fiyat inanılmaz teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kolay & Rahatlığıyla",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kolay",
+        "rahatlığıyla",
+        "tesekkurler",
+        "kaldik",
+        "kurulumuda",
+        "yaptım",
+        "rağmen",
+        "icin"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese",
+        "ürünün kalitesine bayıldım sapasağlam geldi gönül rahatlığıyla alabilirsiniz teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "herkese merhaba kızımın ofisi için almış olduğumuz bu iki sandalye tek kelimeyle harika çıktı başta hasar görmeden nasıl gelir endişesi taşıdığım bu siparişimi mükemmel paketleme ile hiç bir ezik çizik olmadan sorunsuz teslim aldık öyle ki paketi 3 kişi 20 dakika da anca açabildik şiddetle herkese tavsiye ediyorum satıcı kılınç mobilya sahibi fadıl bey e çok teşekkür ediyorum ilgi alaka ve özenli paketleme için piyasa da ticari ahlak a sahip sizin gibi satıcılar bulmak çok kolay değil tekrar teşekkür ederim emeği geçen herkese",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesine bayıldım sapasağlam geldi gönül rahatlığıyla alabilirsiniz teşekkürler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Hafif",
+      "review_count": 5,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "hafif",
+        "almışım",
+        "icin",
+        "göründüğü",
+        "görünüyor",
+        "rahatlığıyla",
+        "konforlu",
+        "kolay"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 40.0,
+      "sample_reviews": [
+        "çok kullanışlı iyiki almışım evimin havasını değiştirdi",
+        "beğendim güzel göründüğü gibi geldi"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok kullanışlı iyiki almışım evimin havasını değiştirdi",
+          "score": 5.0
+        },
+        {
+          "text": "beğendim güzel göründüğü gibi geldi",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınabilir",
+      "review_count": 4,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınabilir",
+        "çocuk",
+        "halı",
+        "uygun",
+        "göründüğü",
+        "bayıldım",
+        "aldık",
+        "sorun"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "ürün çok kaliteli geldi fiyat çok uygun tereddüt etmeden alabilirsiniz",
+        "beğendim güzel göründüğü gibi geldi"
       ],
       "all_reviews": [
         {
           "text": "ürün çok kaliteli geldi fiyat çok uygun tereddüt etmeden alabilirsiniz",
           "score": 5.0
+        },
+        {
+          "text": "beğendim güzel göründüğü gibi geldi",
+          "score": 4.0
         }
       ],
       "icon": "💬"

@@ -8,7 +8,7 @@
   "overall_score": 4.79,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Ricco Lifes Fırfırlı %100 Pamuk Fiyonk Çift Kişilik Nev** için 38 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata Kalite** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **indirimde** ve **çeyiz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşek…\"\n• **Kişilik**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **rahat** ve **almayı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ben çok beğendim kalitesi muazzam gerçekten 100 pamuk\"\n• Kullanıcılar **Kumaşı Kaliteli** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **odası** ve **modeli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün elime ulastı okadar guzelkı kalıtesıde cok guzel fıyatıda çok uygun tam pınteres…\"\n• **Canlı Kumaşı** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **takım** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür edi…\"\n• Müşteri yorumlarında **Çekme Yapmadı** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **lastikli** ve **pamuk** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel kumaşı kaliteli yıkadım çekmedi\"",
+  "summary": "**Ricco Lifes Fırfırlı %100 Pamuk Fiyonk Çift Kişilik Nev** için 38 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketlenme & Kalite**: Kullanıcılar paketlenme & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Doku & Kalite**: Kullanıcılar doku & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Renk Canlı**: Kullanıcılar renk canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Çekme Solma**: Kullanıcılar çekme solma konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,36 +18,36 @@
   },
   "aspects": [
     {
-      "name": "Fiyata Kalite",
-      "review_count": 14,
-      "avg_score": 4.71,
+      "name": "Kalite",
+      "review_count": 10,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
         "kalite",
         "tane",
         "paketleme",
         "indirimde",
-        "fiyata kalite",
         "çeyiz",
-        "beklemiyordum"
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
-      "positive_pct": 85.7,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 14.3,
+      "neutral_pct": 0.0,
       "sample_reviews": [
         "ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşekkür ederim bir tane daha nevresim alacağım inşallah ona da aynı renk bi yastık kılıfı koyarsınız",
         "indirimden 900 liraya almıştım kargolaması hızlıca geldi onda sorun yok sadece işleme sanıyordum kurdelelerini baskıymış orda bi hayal kırıklığı oldu onun dışında sıkıntı yok güzel ürün",
-        "ürünüm geldi ve çok beğendim satıcıya çok teşekkürler kesinlikle tavsiye ederim alın aldırın hediyeniz için çok teşekkürler"
+        "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk"
       ],
       "all_reviews": [
         {
-          "text": "ürünüm geldi ve çok beğendim satıcıya çok teşekkürler kesinlikle tavsiye ederim alın aldırın hediyeniz için çok teşekkürler",
+          "text": "çok güzel kumaşı kaliteli yıkadım çekmedi",
           "score": 5.0
         },
         {
-          "text": "mükemmel bir ürün çok beğendim çok çok güzel satıcıya teşekkür ederim",
+          "text": "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
           "score": 5.0
         },
         {
@@ -55,94 +55,38 @@
           "score": 5.0
         },
         {
-          "text": "çok güzel geldi satıcıya teşekkür ederim beklediğin gibi",
-          "score": 5.0
-        },
-        {
-          "text": "harika bir ürün hediye için çok teşekkür ederim",
+          "text": "gayet güzel kumaş kaliteside çok iyi",
           "score": 5.0
         },
         {
           "text": "indirimden 900 liraya almıştım kargolaması hızlıca geldi onda sorun yok sadece işleme sanıyordum kurdelelerini baskıymış orda bi hayal kırıklığı oldu onun dışında sıkıntı yok güzel ürün",
           "score": 5.0
-        },
-        {
-          "text": "ceyizime aldım sadece neden çarşaf ayrı satılıyor",
-          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
+      "name": "Paketlenme & Kalite",
       "review_count": 10,
-      "avg_score": 4.6,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
-      ],
-      "positive_pct": 60.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 40.0,
-      "sample_reviews": [
-        "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
-        "çok beğendik kızıma adım sorunsuz ulaştı",
-        "çok beğendim çok şık"
-      ],
-      "all_reviews": [
-        {
-          "text": "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim çok şık",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendik kızıma adım sorunsuz ulaştı",
-          "score": 4.0
-        },
-        {
-          "text": "tatlı gayet fp",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kumaşı",
-        "kullanacağım",
-        "odası",
-        "modeli",
-        "yatağıma",
-        "kumaşı kaliteli",
-        "deseni",
-        "bayıldım kumaşı"
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
         "kızımın odasına aldık çok beğendi teşekkür ederiz",
-        "ürün elime ulastı okadar guzelkı kalıtesıde cok guzel fıyatıda çok uygun tam pınterestlık",
         "gayet güzel kumaş kaliteside çok iyi"
       ],
       "all_reviews": [
@@ -151,7 +95,15 @@
           "score": 5.0
         },
         {
-          "text": "ürün elime ulastı okadar guzelkı kalıtesıde cok guzel fıyatıda çok uygun tam pınterestlık",
+          "text": "çok güzel kumaşı kaliteli yıkadım çekmedi",
+          "score": 5.0
+        },
+        {
+          "text": "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
+          "score": 5.0
+        },
+        {
+          "text": "ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşekkür ederim bir tane daha nevresim alacağım inşallah ona da aynı renk bi yastık kılıfı koyarsınız",
           "score": 5.0
         },
         {
@@ -162,57 +114,64 @@
       "icon": "💬"
     },
     {
-      "name": "Canlı Kumaşı",
-      "review_count": 4,
+      "name": "Doku & Kalite",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "canlı kumaşı",
-        "takım",
-        "sağlam",
-        "canlı",
-        "kumaşı"
+        "dokusu",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür ediyorum",
-        "bayıldım cook güzel tavsiye ederim çok cici"
+        "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
+        "gayet güzel kumaş kaliteside çok iyi",
+        "ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşekkür ederim bir tane daha nevresim alacağım inşallah ona da aynı renk bi yastık kılıfı koyarsınız"
       ],
       "all_reviews": [
         {
-          "text": "şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür ediyorum",
+          "text": "çok güzel kumaşı kaliteli yıkadım çekmedi",
           "score": 5.0
         },
         {
-          "text": "bayıldım cook güzel tavsiye ederim çok cici",
+          "text": "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
+          "score": 5.0
+        },
+        {
+          "text": "ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşekkür ederim bir tane daha nevresim alacağım inşallah ona da aynı renk bi yastık kılıfı koyarsınız",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel kumaş kaliteside çok iyi",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Çekme Yapmadı",
-      "review_count": 4,
+      "name": "Renk Canlı",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "rengi",
+        "canlı",
+        "renkleri",
         "yıkadım",
-        "lastikli",
-        "yapmadı",
-        "pamuk",
-        "görseldeki",
-        "alıcam",
-        "solma",
-        "çekme"
+        "renkleri canlı",
+        "renkler",
+        "dokusu",
+        "aynı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşekkür ederim bir tane daha nevresim alacağım inşallah ona da aynı renk bi yastık kılıfı koyarsınız",
         "çok güzel kumaşı kaliteli yıkadım çekmedi",
         "beğendim yıkadım çokta buruşmadı"
       ],
@@ -222,7 +181,242 @@
           "score": 5.0
         },
         {
+          "text": "ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşekkür ederim bir tane daha nevresim alacağım inşallah ona da aynı renk bi yastık kılıfı koyarsınız",
+          "score": 5.0
+        },
+        {
           "text": "beğendim yıkadım çokta buruşmadı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Solma",
+      "review_count": 6,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "takımı",
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "çok beğendik kızıma adım sorunsuz ulaştı",
+        "şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür ediyorum",
+        "çok güzel kumaşı kaliteli yıkadım çekmedi"
+      ],
+      "all_reviews": [
+        {
+          "text": "şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kumaşı kaliteli yıkadım çekmedi",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kızıma adım sorunsuz ulaştı",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür ediyorum",
+        "kızımın odasına aldık çok beğendi teşekkür ederiz",
+        "ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşekkür ederim bir tane daha nevresim alacağım inşallah ona da aynı renk bi yastık kılıfı koyarsınız"
+      ],
+      "all_reviews": [
+        {
+          "text": "kızımın odasına aldık çok beğendi teşekkür ederiz",
+          "score": 5.0
+        },
+        {
+          "text": "şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün o kadar güzel o kadar kaliteli ki bayıldım yastık kılıfı hediyeniz için de teşekkür ederim bir tane daha nevresim alacağım inşallah ona da aynı renk bi yastık kılıfı koyarsınız",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kızımın odasına aldık çok beğendi teşekkür ederiz",
+        "çok güzel kumaşı kaliteli yıkadım çekmedi",
+        "gayet güzel kumaş kaliteside çok iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "kızımın odasına aldık çok beğendi teşekkür ederiz",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kumaşı kaliteli yıkadım çekmedi",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel kumaş kaliteside çok iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür ediyorum",
+        "çok güzel kumaşı kaliteli yıkadım çekmedi",
+        "gayet güzel kumaş kaliteside çok iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "şahane bir takım bir takım daha sipariş verdim ayrıca hediyeniz için çok teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kumaşı kaliteli yıkadım çekmedi",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel kumaş kaliteside çok iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel kumaşı kaliteli yıkadım çekmedi",
+        "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
+        "beğendim yıkadım çokta buruşmadı"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel kumaşı kaliteli yıkadım çekmedi",
+          "score": 5.0
+        },
+        {
+          "text": "ben çok beğendim kalitesi muazzam gerçekten 100 pamuk",
+          "score": 5.0
+        },
+        {
+          "text": "beğendim yıkadım çokta buruşmadı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel kumaşı kaliteli yıkadım çekmedi",
+        "gayet güzel kumaş kaliteside çok iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel kumaşı kaliteli yıkadım çekmedi",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel kumaş kaliteside çok iyi",
           "score": 5.0
         }
       ],

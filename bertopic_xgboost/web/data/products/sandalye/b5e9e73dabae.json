@@ -8,7 +8,7 @@
   "overall_score": 4.92,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**ABC Concept Paris Serisi A+ Kalite Kare Gold Sandalye** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yoru…\"\n• **Rahat Koltuk**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz k…\"\n• Kullanıcılar **Alınabilir & Çocuk** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **uygun** ve **göründüğü** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim herşey tam geldi tavsiye ediyorum\"\n• **Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **uygun** ve **ilgili** başta olmak üzere. Örnek kullanıcı ifadesi: \"Şık ve sağlam tam bir fiyat performans ürünü\"\n• Müşteri yorumlarında **Koltuk & Zarar** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **ergonomik** ve **rahat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Darbeli matkap gerekiyor kurulum için onun dışında ürünler ergonomik beğendik\"",
+  "summary": "ABC Concept Paris Serisi A+ Kalite Kare Gold Sandalyenin genel Değerlendirme Özeti şöyledir: Ürün, kurulum kolaylığını, konforlu koltuk tasarımını ve fiyat performansını göz önünde bulundurunca, müşterilerin %97'sinin memnun olduğu bir üründür. Fiyat kalitesini de göz önüne alarak, ürünün genel memnuniyet puanı 4.9/5.0 olarak gerçekleşmiştir. Bu nedenle, bu sandalyenin yüksek kaliteli, pratik ve konforlu kullanımını sağlayan ürünler arasında yer aldığını söyleyebiliriz.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,8 +18,8 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 19,
+      "name": "Kurulum Kolay",
+      "review_count": 27,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -27,27 +27,31 @@
         "paketleme",
         "kolay",
         "kurulumu",
-        "rahat",
-        "sağlam",
         "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kurulumu çok kolay gönül rahatlığıyla alabilirsiniz satıcıya teşekkür ediyorum",
         "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler",
-        "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler"
+        "kurulumu çok kolay gönül rahatlığıyla alabilirsiniz satıcıya teşekkür ediyorum",
+        "urunler harika alirken cok tereddut etmistim cok cok iyi cikti kurulumu biraz zorladi tek sikinti surat kargo dis kapiya birakip gitmisti cikarmak zorladi baya urunler cok kaliteli ama kesinlikle tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "resimdeki gibi montajı çok kolay teşekürler",
+          "text": "kurulumu basit çok rahat bir sandalye ben çalışma masam için aldım göründüğü gibi",
           "score": 5.0
         },
         {
           "text": "urun gorseldeki gibi kurulumu da oldukca basit ve saglam tesekkur ederim tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler",
           "score": 5.0
         },
         {
@@ -59,6 +63,14 @@
           "score": 5.0
         },
         {
+          "text": "resimdeki gibi montajı çok kolay teşekürler",
+          "score": 5.0
+        },
+        {
+          "text": "elime sağlam ulaştı kargolama güzeldi yapımı da çok kolay",
+          "score": 5.0
+        },
+        {
           "text": "urunler harika alirken cok tereddut etmistim cok cok iyi cikti kurulumu biraz zorladi tek sikinti surat kargo dis kapiya birakip gitmisti cikarmak zorladi baya urunler cok kaliteli ama kesinlikle tavsiye ederim",
           "score": 5.0
         },
@@ -67,35 +79,35 @@
           "score": 5.0
         },
         {
-          "text": "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler",
+          "text": "darbeli matkap gerekiyor kurulum için onun dışında ürünler ergonomik beğendik",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat Koltuk",
-      "review_count": 10,
-      "avg_score": 4.6,
+      "name": "Koltuk",
+      "review_count": 23,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat",
         "koltuk",
-        "sağlam",
         "çalışma",
         "kurulumu",
         "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
       ],
-      "positive_pct": 80.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 20.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
         "kurulumu basit çok rahat bir sandalye ben çalışma masam için aldım göründüğü gibi",
-        "fiyatı uygunken almıştım parasına göre sağlam kumaşı güzel tavsiye ederim",
-        "bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz küçük yan frofil demrleride az ince ama dikkatli kullanılırsa gayet iyi kargo da çok güzel geldi teşekkür ederim korunaklı bir şekilde sarmışlardı sağlam bir şekilde elime geldi"
+        "urun gorseldeki gibi kurulumu da oldukca basit ve saglam tesekkur ederim tavsiye ederim",
+        "çok yakıştı çok güzeller teşekkür ediyoruz kurulumu şarjlı matkap ile çok basit oldu"
       ],
       "all_reviews": [
         {
@@ -103,11 +115,83 @@
           "score": 5.0
         },
         {
+          "text": "urun gorseldeki gibi kurulumu da oldukca basit ve saglam tesekkur ederim tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "kurulumu çok kolay gönül rahatlığıyla alabilirsiniz satıcıya teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok yakıştı çok güzeller teşekkür ediyoruz kurulumu şarjlı matkap ile çok basit oldu",
+          "score": 5.0
+        },
+        {
           "text": "fiyatı uygunken almıştım parasına göre sağlam kumaşı güzel tavsiye ederim",
           "score": 5.0
         },
         {
-          "text": "elime sağlam ulaştı kargolama güzeldi yapımı da çok kolay",
+          "text": "urunler harika alirken cok tereddut etmistim cok cok iyi cikti kurulumu biraz zorladi tek sikinti surat kargo dis kapiya birakip gitmisti cikarmak zorladi baya urunler cok kaliteli ama kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "darbeli matkap gerekiyor kurulum için onun dışında ürünler ergonomik beğendik",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 16,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
+      ],
+      "positive_pct": 87.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 12.5,
+      "sample_reviews": [
+        "şık ve sağlam tam bir fiyat performans ürünü",
+        "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+        "bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz küçük yan frofil demrleride az ince ama dikkatli kullanılırsa gayet iyi kargo da çok güzel geldi teşekkür ederim korunaklı bir şekilde sarmışlardı sağlam bir şekilde elime geldi"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyatı uygunken almıştım parasına göre sağlam kumaşı güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim gayet de uygun",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "fiyata göre gayet sağlam ve düzgün ürün",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel anlatıldığı gibi fiyat uygun",
+          "score": 5.0
+        },
+        {
+          "text": "şık ve sağlam tam bir fiyat performans ürünü",
           "score": 5.0
         },
         {
@@ -118,8 +202,168 @@
       "icon": "💬"
     },
     {
-      "name": "Alınabilir & Çocuk",
-      "review_count": 6,
+      "name": "Kolay & Rahatlığıyla",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kolay",
+        "rahatlığıyla",
+        "tesekkurler",
+        "kaldik",
+        "kurulumuda",
+        "yaptım",
+        "rağmen",
+        "icin"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kurulumu çok kolay gönül rahatlığıyla alabilirsiniz satıcıya teşekkür ediyorum",
+        "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+        "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "resimdeki gibi montajı çok kolay teşekürler",
+          "score": 5.0
+        },
+        {
+          "text": "kurulumu çok kolay gönül rahatlığıyla alabilirsiniz satıcıya teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "urun gorseldeki gibi kurulumu da oldukca basit ve saglam tesekkur ederim tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "elime sağlam ulaştı kargolama güzeldi yapımı da çok kolay",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Kalite",
+      "review_count": 15,
+      "avg_score": 4.73,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
+      ],
+      "positive_pct": 86.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 13.3,
+      "sample_reviews": [
+        "bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz küçük yan frofil demrleride az ince ama dikkatli kullanılırsa gayet iyi kargo da çok güzel geldi teşekkür ederim korunaklı bir şekilde sarmışlardı sağlam bir şekilde elime geldi",
+        "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+        "urunler harika alirken cok tereddut etmistim cok cok iyi cikti kurulumu biraz zorladi tek sikinti surat kargo dis kapiya birakip gitmisti cikarmak zorladi baya urunler cok kaliteli ama kesinlikle tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyatı uygunken almıştım parasına göre sağlam kumaşı güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "urunler harika alirken cok tereddut etmistim cok cok iyi cikti kurulumu biraz zorladi tek sikinti surat kargo dis kapiya birakip gitmisti cikarmak zorladi baya urunler cok kaliteli ama kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "fiyata göre gayet sağlam ve düzgün ürün",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel anlatıldığı gibi fiyat uygun",
+          "score": 5.0
+        },
+        {
+          "text": "şık ve sağlam tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz küçük yan frofil demrleride az ince ama dikkatli kullanılırsa gayet iyi kargo da çok güzel geldi teşekkür ederim korunaklı bir şekilde sarmışlardı sağlam bir şekilde elime geldi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz",
+      "review_count": 14,
+      "avg_score": 4.71,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
+      ],
+      "positive_pct": 85.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 14.3,
+      "sample_reviews": [
+        "ürün elime sorunsuz bir şekilde ulaştı beyendik",
+        "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+        "bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz küçük yan frofil demrleride az ince ama dikkatli kullanılırsa gayet iyi kargo da çok güzel geldi teşekkür ederim korunaklı bir şekilde sarmışlardı sağlam bir şekilde elime geldi"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok yakıştı çok güzeller teşekkür ediyoruz kurulumu şarjlı matkap ile çok basit oldu",
+          "score": 5.0
+        },
+        {
+          "text": "urun gorseldeki gibi kurulumu da oldukca basit ve saglam tesekkur ederim tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "urunler harika alirken cok tereddut etmistim cok cok iyi cikti kurulumu biraz zorladi tek sikinti surat kargo dis kapiya birakip gitmisti cikarmak zorladi baya urunler cok kaliteli ama kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün elime sorunsuz bir şekilde ulaştı beyendik",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz küçük yan frofil demrleride az ince ama dikkatli kullanılırsa gayet iyi kargo da çok güzel geldi teşekkür ederim korunaklı bir şekilde sarmışlardı sağlam bir şekilde elime geldi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınabilir",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -137,124 +381,112 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok beğendim gayet de uygun",
-        "çok beğendim herşey tam geldi tavsiye ediyorum"
+        "kurulumu basit çok rahat bir sandalye ben çalışma masam için aldım göründüğü gibi",
+        "fiyatı uygunken almıştım parasına göre sağlam kumaşı güzel tavsiye ederim",
+        "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler"
       ],
       "all_reviews": [
         {
-          "text": "çok beğendim herşey tam geldi tavsiye ediyorum",
+          "text": "kurulumu basit çok rahat bir sandalye ben çalışma masam için aldım göründüğü gibi",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatı uygunken almıştım parasına göre sağlam kumaşı güzel tavsiye ederim",
           "score": 5.0
         },
         {
           "text": "çok beğendim gayet de uygun",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat",
-        "fiyat performans",
-        "performans",
-        "uygun",
-        "ilgili",
-        "kalite",
-        "rahatlığı",
-        "kusursuz"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "şık ve sağlam tam bir fiyat performans ürünü",
-        "gayet güzel anlatıldığı gibi fiyat uygun",
-        "fiyata göre gayet sağlam ve düzgün ürün"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "fiyata göre gayet sağlam ve düzgün ürün",
+          "text": "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler",
           "score": 5.0
         },
         {
           "text": "gayet güzel anlatıldığı gibi fiyat uygun",
           "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Yoktu & Sıkınt",
+      "review_count": 7,
+      "avg_score": 4.43,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "yoktu",
+        "sıkıntı",
+        "vida",
+        "dikkat",
+        "montaj",
+        "iade",
+        "siparişim",
+        "konusunda"
+      ],
+      "positive_pct": 71.4,
+      "negative_pct": 0.0,
+      "neutral_pct": 28.6,
+      "sample_reviews": [
+        "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
+        "bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz küçük yan frofil demrleride az ince ama dikkatli kullanılırsa gayet iyi kargo da çok güzel geldi teşekkür ederim korunaklı bir şekilde sarmışlardı sağlam bir şekilde elime geldi",
+        "resimdeki gibi montajı çok kolay teşekürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "resimdeki gibi montajı çok kolay teşekürler",
+          "score": 5.0
         },
         {
-          "text": "şık ve sağlam tam bir fiyat performans ürünü",
+          "text": "çok güzel sağlam kaliteli bir ürün bu fiyata inanılmaz gerçekten çok hızlı geldi yorumlarda eksik vida vs yazıyordu biraz korkmuştum ama aksine bir tane de fazla vida göndermişler çok güzel paketlenmişti çok özenliydi ayrıca bir bayan olarak 10 dakika içinde ikisini de kurdum çok kolaydı teşekkürler",
           "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kalite iyi bence ayaklar çok sağlam ahşapı çok güzel sandalyrler biraz küçük yan frofil demrleride az ince ama dikkatli kullanılırsa gayet iyi kargo da çok güzel geldi teşekkür ederim korunaklı bir şekilde sarmışlardı sağlam bir şekilde elime geldi",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Koltuk & Zarar",
-      "review_count": 3,
+      "name": "Hafif",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "uzun",
-        "koltuk",
-        "zarar",
-        "ergonomik",
+        "hafif",
+        "almışım",
+        "icin",
+        "göründüğü",
         "görünüyor",
-        "rahat",
-        "vida",
-        "monte"
+        "rahatlığıyla",
+        "konforlu",
+        "kolay"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "darbeli matkap gerekiyor kurulum için onun dışında ürünler ergonomik beğendik"
+        "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler",
+        "kurulumu basit çok rahat bir sandalye ben çalışma masam için aldım göründüğü gibi"
       ],
       "all_reviews": [
         {
-          "text": "darbeli matkap gerekiyor kurulum için onun dışında ürünler ergonomik beğendik",
+          "text": "kurulumu basit çok rahat bir sandalye ben çalışma masam için aldım göründüğü gibi",
+          "score": 5.0
+        },
+        {
+          "text": "tıpkı göründüğü gibi çok iyi paketlenmiş geldi kurulumu kolay teşekkürler",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Sağlam Kaliteli",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "sorunsuz",
-        "sağlam kaliteli",
-        "kalitesi",
-        "severek",
-        "oldular",
-        "evime",
-        "sağlam",
-        "hava"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün elime sorunsuz bir şekilde ulaştı beyendik"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün elime sorunsuz bir şekilde ulaştı beyendik",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Takım & Kurulumu Kolay",
-      "review_count": 2,
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -272,41 +504,11 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "mükemmel tavsiye ediyorum"
+        "resimdeki gibi montajı çok kolay teşekürler"
       ],
       "all_reviews": [
         {
-          "text": "mükemmel tavsiye ediyorum",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı Rahat",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "rahat",
-        "kullanışlı rahat",
-        "hafif",
-        "almışım",
-        "kaliteli rahat",
-        "icin",
-        "göründüğü"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "gerçekten cok rahat ve şık"
-      ],
-      "all_reviews": [
-        {
-          "text": "gerçekten cok rahat ve şık",
+          "text": "resimdeki gibi montajı çok kolay teşekürler",
           "score": 5.0
         }
       ],

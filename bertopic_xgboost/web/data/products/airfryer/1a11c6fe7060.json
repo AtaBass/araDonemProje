@@ -8,7 +8,7 @@
   "overall_score": 4.92,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Altus AL 2983 AF Airfryer , 6.5 Litre Kapasiteli , 4.8 ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **sağlam** ve **fiyat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güvenilir ve hızlı kargolama için teşekkürler fiyatına göre yüksek performans alın al…\"\n• **Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kaliteli** ve **rahatlığıyla** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün aşırı iyi ve gerçekten çok güzel pisiriyo hem yağsız hemde çıtır çıtır alın aldı…\"\n• Kullanıcılar **Patates & Tavuk** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **vardı** ve **karaca** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kad…\"\n• **Özellikle & Kullanışlı** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **anneler** ve **yemekler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Alın aldırın harika bir ürün bayıldım kısa sürede hemen pişirdi çocuklarım için aldım…\"\n• Müşteri yorumlarında **Kişilik** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **ideal** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Eşim uzun zamandır istiyordu pahalı markalar yerine iyiki almışım iç haznesi 6\"",
+  "summary": "\"Altus AL 2983 AF Airfryer, kullanıcı deneyiminde muazzam performansı sunar. Ürün, fiyat performansına rağmen hiçbir eksiktir ve olumlu yorumlar alır. Kullanıcılar, ürünün patates, tavuk, köfte ve özellikle çeşitli gıda ürünleri için de yüksek puanlar vermiştir. airfryer'in genel memnuniyeti yüzde 4.9'dur, indicating a high level of satisfaction among users.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,83 +18,27 @@
   },
   "aspects": [
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 17,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
-        "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güvenilir ve hızlı kargolama için teşekkürler fiyatına göre yüksek performans alın aldırın haznesi xl gayet güzel",
-        "tam bir fiyat performans ürünü airfry furyası bitince ürünler gerçek fiyatlarına döndü çok şükür ihtiyaca hitap eden yeteri kadar büyük ve pratik bir ürün düşünmeden alın",
-        "paketleme cok iyiydi hıcbır deforme yoktu o kadar ıyı paketlenmıstı kullanmaya basladım gayet guzel pısırıyo ve ısıgı olması cok ama cok ıyı kesinlikle tavsiye ederım altus kalıtesı"
-      ],
-      "all_reviews": [
-        {
-          "text": "güvenilir ve hızlı kargolama için teşekkürler fiyatına göre yüksek performans alın aldırın haznesi xl gayet güzel",
-          "score": 5.0
-        },
-        {
-          "text": "daha bakmadım ama çok güzel kücük zannediyordum büyükmüş gerçekten çok güel ilk kez aldım bu marka nasıl bilmiyorum",
-          "score": 5.0
-        },
-        {
-          "text": "en kısa zamanda elimize ulaştı ürün çok güzel kargo paketleme iyiydi iç haznesi oldukça güzel büyük alın aldırın tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "hediye aldım çok memnun kaldılar hızlı ve güvenilir kargo imkanı ile gönül rahatlığı ile tercih edebilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "ay çok beğendim çeyizime aldığım için çok deneyemedim ama kocaman kargolama harikaydı ağır bir ürün tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "tam bir fiyat performans ürünü airfry furyası bitince ürünler gerçek fiyatlarına döndü çok şükür ihtiyaca hitap eden yeteri kadar büyük ve pratik bir ürün düşünmeden alın",
-          "score": 5.0
-        },
-        {
-          "text": "paketleme cok iyiydi hıcbır deforme yoktu o kadar ıyı paketlenmıstı kullanmaya basladım gayet guzel pısırıyo ve ısıgı olması cok ama cok ıyı kesinlikle tavsiye ederım altus kalıtesı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Fiyat Performans",
-      "review_count": 9,
-      "avg_score": 4.78,
+      "review_count": 21,
+      "avg_score": 4.9,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "fiyat performans",
         "performans",
         "fiyat",
-        "kaliteli",
         "rahatlığıyla",
         "çıtır",
         "pratik",
-        "yağsız"
+        "yağsız",
+        "çıtır çıtır"
       ],
-      "positive_pct": 77.8,
+      "positive_pct": 90.5,
       "negative_pct": 0.0,
-      "neutral_pct": 22.2,
+      "neutral_pct": 9.5,
       "sample_reviews": [
-        "ürün gayet iyi tam bir fiyat performans ürünü bence bu fiyata alınacak en güzel ürün",
-        "fiyat performans ürünü tanıdığım kişilere 3 tane aldım memnun hepsi de",
+        "tam bir fiyat performans ürünü airfry furyası bitince ürünler gerçek fiyatlarına döndü çok şükür ihtiyaca hitap eden yeteri kadar büyük ve pratik bir ürün düşünmeden alın",
+        "ürün sorunsuz bir şekilde adresime ulaştı hemen deneme şansımız oldu şimdilik iyi pişiriyor fiyat performans gayet iyi almak isteyenlere tavsiye ederim eşime sürpriz oldu siparişten 5gün sonra sağlam bir şekilde aldım satıcıya teşekkürler",
         "ürün aşırı iyi ve gerçekten çok güzel pisiriyo hem yağsız hemde çıtır çıtır alın aldırın"
       ],
       "all_reviews": [
@@ -103,11 +47,27 @@
           "score": 5.0
         },
         {
+          "text": "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar",
+          "score": 5.0
+        },
+        {
+          "text": "gelir gelmez tavuk kanadı yaparak denedim 20 dk da süper pişirdi çıtır çıtır ve içi gayet iyi pişmişti ayrıca ışığını açınca içi pişerken gözüküyor bence mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "güvenilir ve hızlı kargolama için teşekkürler fiyatına göre yüksek performans alın aldırın haznesi xl gayet güzel",
+          "score": 5.0
+        },
+        {
           "text": "ürün aşırı iyi ve gerçekten çok güzel pisiriyo hem yağsız hemde çıtır çıtır alın aldırın",
           "score": 5.0
         },
         {
-          "text": "özenle hazırlanmış ve mükemmel bir ürün ve marka tavsiye ederim",
+          "text": "tam bir fiyat performans ürünü airfry furyası bitince ürünler gerçek fiyatlarına döndü çok şükür ihtiyaca hitap eden yeteri kadar büyük ve pratik bir ürün düşünmeden alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sorunsuz bir şekilde adresime ulaştı hemen deneme şansımız oldu şimdilik iyi pişiriyor fiyat performans gayet iyi almak isteyenlere tavsiye ederim eşime sürpriz oldu siparişten 5gün sonra sağlam bir şekilde aldım satıcıya teşekkürler",
           "score": 5.0
         },
         {
@@ -118,16 +78,64 @@
       "icon": "💬"
     },
     {
+      "name": "Diyebilirim",
+      "review_count": 15,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün sorunsuz bir şekilde adresime ulaştı hemen deneme şansımız oldu şimdilik iyi pişiriyor fiyat performans gayet iyi almak isteyenlere tavsiye ederim eşime sürpriz oldu siparişten 5gün sonra sağlam bir şekilde aldım satıcıya teşekkürler",
+        "daha bakmadım ama çok güzel kücük zannediyordum büyükmüş gerçekten çok güel ilk kez aldım bu marka nasıl bilmiyorum",
+        "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar"
+      ],
+      "all_reviews": [
+        {
+          "text": "alın aldırın harika bir ürün bayıldım kısa sürede hemen pişirdi çocuklarım için aldım özellikle beslenmelerinde en büyük yardımcım diyebilirim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar",
+          "score": 5.0
+        },
+        {
+          "text": "anneme anneler günü hediyesi olarak aldım çok memnun kaldı kargomuz sorunsuz elimize ulaştı çok teşekkür ederiz ayrıca ışıklı ve de önünün cam oluşu çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "daha bakmadım ama çok güzel kücük zannediyordum büyükmüş gerçekten çok güel ilk kez aldım bu marka nasıl bilmiyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sorunsuz bir şekilde adresime ulaştı hemen deneme şansımız oldu şimdilik iyi pişiriyor fiyat performans gayet iyi almak isteyenlere tavsiye ederim eşime sürpriz oldu siparişten 5gün sonra sağlam bir şekilde aldım satıcıya teşekkürler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Patates & Tavuk",
-      "review_count": 9,
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "pişiriyor",
         "yaptım",
-        "patates",
         "denedim",
+        "patates",
         "tavuk",
         "vardı",
         "karaca",
@@ -139,11 +147,15 @@
       "sample_reviews": [
         "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar",
         "gelir gelmez tavuk kanadı yaparak denedim 20 dk da süper pişirdi çıtır çıtır ve içi gayet iyi pişmişti ayrıca ışığını açınca içi pişerken gözüküyor bence mükemmel",
-        "ürün sorunsuz bir şekilde adresime ulaştı hemen deneme şansımız oldu şimdilik iyi pişiriyor fiyat performans gayet iyi almak isteyenlere tavsiye ederim eşime sürpriz oldu siparişten 5gün sonra sağlam bir şekilde aldım satıcıya teşekkürler"
+        "kargo ve paket gayet iyi rengi çok güzel patatesleri de denedim gayet güzeldi"
       ],
       "all_reviews": [
         {
           "text": "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar",
+          "score": 5.0
+        },
+        {
+          "text": "kargo ve paket gayet iyi rengi çok güzel patatesleri de denedim gayet güzeldi",
           "score": 5.0
         },
         {
@@ -158,8 +170,52 @@
       "icon": "💬"
     },
     {
-      "name": "Özellikle & Kullanışlı",
-      "review_count": 6,
+      "name": "Köfte",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "elim",
+        "köfte",
+        "kullanmak",
+        "börek",
+        "para gerek",
+        "tavuk",
+        "markalara",
+        "yemekler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar",
+        "gelir gelmez tavuk kanadı yaparak denedim 20 dk da süper pişirdi çıtır çıtır ve içi gayet iyi pişmişti ayrıca ışığını açınca içi pişerken gözüküyor bence mükemmel",
+        "anneme anneler günü hediyesi olarak aldım çok memnun kaldı kargomuz sorunsuz elimize ulaştı çok teşekkür ederiz ayrıca ışıklı ve de önünün cam oluşu çok güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar",
+          "score": 5.0
+        },
+        {
+          "text": "anneme anneler günü hediyesi olarak aldım çok memnun kaldı kargomuz sorunsuz elimize ulaştı çok teşekkür ederiz ayrıca ışıklı ve de önünün cam oluşu çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "en kısa zamanda elimize ulaştı ürün çok güzel kargo paketleme iyiydi iç haznesi oldukça güzel büyük alın aldırın tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "gelir gelmez tavuk kanadı yaparak denedim 20 dk da süper pişirdi çıtır çıtır ve içi gayet iyi pişmişti ayrıca ışığını açınca içi pişerken gözüküyor bence mükemmel",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellikle",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -178,7 +234,8 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "alın aldırın harika bir ürün bayıldım kısa sürede hemen pişirdi çocuklarım için aldım özellikle beslenmelerinde en büyük yardımcım diyebilirim",
-        "anneme anneler günü hediyesi olarak aldım çok memnun kaldı kargomuz sorunsuz elimize ulaştı çok teşekkür ederiz ayrıca ışıklı ve de önünün cam oluşu çok güzel"
+        "anneme anneler günü hediyesi olarak aldım çok memnun kaldı kargomuz sorunsuz elimize ulaştı çok teşekkür ederiz ayrıca ışıklı ve de önünün cam oluşu çok güzel",
+        "daha bakmadım ama çok güzel kücük zannediyordum büyükmüş gerçekten çok güel ilk kez aldım bu marka nasıl bilmiyorum"
       ],
       "all_reviews": [
         {
@@ -188,48 +245,17 @@
         {
           "text": "anneme anneler günü hediyesi olarak aldım çok memnun kaldı kargomuz sorunsuz elimize ulaştı çok teşekkür ederiz ayrıca ışıklı ve de önünün cam oluşu çok güzel",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kişilik",
-      "review_count": 4,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
-        "anneler",
-        "kaliteli"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "eşim uzun zamandır istiyordu pahalı markalar yerine iyiki almışım iç haznesi 6.5 litre aydınlatması ve içini gösteren cam kapağı muazzam",
-        "hediye olarak aldım çeyize beğenildi"
-      ],
-      "all_reviews": [
-        {
-          "text": "eşim uzun zamandır istiyordu pahalı markalar yerine iyiki almışım iç haznesi 6.5 litre aydınlatması ve içini gösteren cam kapağı muazzam",
-          "score": 5.0
         },
         {
-          "text": "hediye olarak aldım çeyize beğenildi",
-          "score": 4.0
+          "text": "daha bakmadım ama çok güzel kücük zannediyordum büyükmüş gerçekten çok güel ilk kez aldım bu marka nasıl bilmiyorum",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Patates",
-      "review_count": 3,
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -247,19 +273,29 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kargo ve paket gayet iyi rengi çok güzel patatesleri de denedim gayet güzeldi"
+        "kargo ve paket gayet iyi rengi çok güzel patatesleri de denedim gayet güzeldi",
+        "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar",
+        "gelir gelmez tavuk kanadı yaparak denedim 20 dk da süper pişirdi çıtır çıtır ve içi gayet iyi pişmişti ayrıca ışığını açınca içi pişerken gözüküyor bence mükemmel"
       ],
       "all_reviews": [
         {
+          "text": "ürünü sipariş ettikten sonra hemen elime ulaştı sağlam paketlenmişti bu fiyata bu kadar iyi ürün beklemiyordum açıkçası hemen denedim kruvasan kurabiye ve tavuk pişirdim çok lezzetli ve pratik oldu mutfağıma şık bir hava kattı yiyeceklerde koku vs oluşturmadı satıcıya teşekkür ediyorum bereketli satışlar",
+          "score": 5.0
+        },
+        {
           "text": "kargo ve paket gayet iyi rengi çok güzel patatesleri de denedim gayet güzeldi",
+          "score": 5.0
+        },
+        {
+          "text": "gelir gelmez tavuk kanadı yaparak denedim 20 dk da süper pişirdi çıtır çıtır ve içi gayet iyi pişmişti ayrıca ışığını açınca içi pişerken gözüküyor bence mükemmel",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sıkıntı & Deneme",
-      "review_count": 2,
+      "name": "Sıkınt",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -268,8 +304,8 @@
         "sıkıntı",
         "uzun süre",
         "süre",
-        "yaptık",
         "deneme",
+        "yaptık",
         "aydır",
         "kızartma"
       ],
@@ -277,12 +313,92 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel çok şık içide büyük"
+        "ürün sorunsuz bir şekilde adresime ulaştı hemen deneme şansımız oldu şimdilik iyi pişiriyor fiyat performans gayet iyi almak isteyenlere tavsiye ederim eşime sürpriz oldu siparişten 5gün sonra sağlam bir şekilde aldım satıcıya teşekkürler",
+        "alın aldırın harika bir ürün bayıldım kısa sürede hemen pişirdi çocuklarım için aldım özellikle beslenmelerinde en büyük yardımcım diyebilirim",
+        "eşim uzun zamandır istiyordu pahalı markalar yerine iyiki almışım iç haznesi 6.5 litre aydınlatması ve içini gösteren cam kapağı muazzam"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel çok şık içide büyük",
+          "text": "alın aldırın harika bir ürün bayıldım kısa sürede hemen pişirdi çocuklarım için aldım özellikle beslenmelerinde en büyük yardımcım diyebilirim",
           "score": 5.0
+        },
+        {
+          "text": "ürün sorunsuz bir şekilde adresime ulaştı hemen deneme şansımız oldu şimdilik iyi pişiriyor fiyat performans gayet iyi almak isteyenlere tavsiye ederim eşime sürpriz oldu siparişten 5gün sonra sağlam bir şekilde aldım satıcıya teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "eşim uzun zamandır istiyordu pahalı markalar yerine iyiki almışım iç haznesi 6.5 litre aydınlatması ve içini gösteren cam kapağı muazzam",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "defa",
+        "görünüyor",
+        "denemedim",
+        "kullanıyoruz",
+        "paketlemesi",
+        "hasarsız",
+        "sorunsuz",
+        "çeyiz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "paketleme cok iyiydi hıcbır deforme yoktu o kadar ıyı paketlenmıstı kullanmaya basladım gayet guzel pısırıyo ve ısıgı olması cok ama cok ıyı kesinlikle tavsiye ederım altus kalıtesı",
+        "en kısa zamanda elimize ulaştı ürün çok güzel kargo paketleme iyiydi iç haznesi oldukça güzel büyük alın aldırın tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "en kısa zamanda elimize ulaştı ürün çok güzel kargo paketleme iyiydi iç haznesi oldukça güzel büyük alın aldırın tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme cok iyiydi hıcbır deforme yoktu o kadar ıyı paketlenmıstı kullanmaya basladım gayet guzel pısırıyo ve ısıgı olması cok ama cok ıyı kesinlikle tavsiye ederım altus kalıtesı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çeyiz",
+      "review_count": 4,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "ay çok beğendim çeyizime aldığım için çok deneyemedim ama kocaman kargolama harikaydı ağır bir ürün tavsiye ederim",
+        "hediye olarak aldım çeyize beğenildi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ay çok beğendim çeyizime aldığım için çok deneyemedim ama kocaman kargolama harikaydı ağır bir ürün tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "hediye olarak aldım çeyize beğenildi",
+          "score": 4.0
         }
       ],
       "icon": "💬"

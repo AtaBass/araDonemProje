@@ -8,7 +8,7 @@
   "overall_score": 3.62,
   "overall_sentiment": "neutral",
   "stars": "★★★½☆",
-  "summary": "**KUMTEL Mini Pizza Fırını Ve Hava Fritözü Hpo-01** için 8 müşteri yorumu değerlendirilmiştir. Kullanıcı görüşleri karma bir tablo ortaya koymakta, hem olumlu hem eleştirel değerlendirmeler bulunmaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **çeyiz** ve **fakat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok teşekkürler hızlı teslimat daha açmadım açınca yine yorum yapıcam\"\n• **Patates & Tavuk** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **vardı** ve **karaca** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çalışmasında ve pişirmesinde bir sorun yok ama soru-cevaplarda her şey pişirilebilir…\"",
+  "summary": "Genel Değerlendirme Özeti:\n\nKUMTEL Mini Pizza Fırını Ve Hava Fritözü Hpo-01, ürün değerlendirmelerinde karışık geri bildirimler alıyor. Köfte özelliği için 3 yorumda ortalama 3.67 puan alındığına göre, bu konuda biraz hayal kırıklığı yaratırken; ise Diyebilirim ve Patates & Tavuk özellikleri için tam tersine 2 yorumda 5.0 puan aldığına göre, bunlar konusunda olumlu geri bildirimler alıyor. Bu ürün genel olarak orta derecede memnun edici görünüyor.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,41 +18,76 @@
   },
   "aspects": [
     {
-      "name": "Fiyatı Uygun",
+      "name": "Köfte",
       "review_count": 3,
-      "avg_score": 4.67,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "avg_score": 3.67,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "kullanmadım",
-        "çeyiz",
-        "fakat",
-        "telefon",
-        "görüntüsü",
-        "hacmi",
-        "beğenerek",
-        "fiyatı uygun"
+        "elim",
+        "köfte",
+        "kullanmak",
+        "börek",
+        "para gerek",
+        "tavuk",
+        "markalara",
+        "yemekler"
       ],
       "positive_pct": 66.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 33.3,
+      "negative_pct": 33.3,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok teşekkürler hızlı teslimat daha açmadım açınca yine yorum yapıcam",
-        "aldıktan sonra fiyatın düşmesi üzücü",
-        "fırıınım cok guzel yerde kapalmıyor"
+        "çok sağlam bir paketleme ile elime ulaştı börek yaptım kısa sürede harika pişti gerçekten çok beğendim teşekkür ediyorum",
+        "çok güzel pişiriyor sağlam bir şekilde elime ulaştı",
+        "ürün bozuk geldi zaman ayarı biraz geç de olsa çalışti ama fırin asla ısınmıyor iade sisteminiz çalışmiyor o kadar para ödedim bana bozuk fırın geldi sorunumu kime anlatacağım"
       ],
       "all_reviews": [
         {
-          "text": "fırıınım cok guzel yerde kapalmıyor",
+          "text": "çok sağlam bir paketleme ile elime ulaştı börek yaptım kısa sürede harika pişti gerçekten çok beğendim teşekkür ediyorum",
           "score": 5.0
         },
+        {
+          "text": "çok güzel pişiriyor sağlam bir şekilde elime ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "ürün bozuk geldi zaman ayarı biraz geç de olsa çalışti ama fırin asla ısınmıyor iade sisteminiz çalışmiyor o kadar para ödedim bana bozuk fırın geldi sorunumu kime anlatacağım",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Diyebilirim",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok sağlam bir paketleme ile elime ulaştı börek yaptım kısa sürede harika pişti gerçekten çok beğendim teşekkür ediyorum",
+        "çok teşekkürler hızlı teslimat daha açmadım açınca yine yorum yapıcam"
+      ],
+      "all_reviews": [
         {
           "text": "çok teşekkürler hızlı teslimat daha açmadım açınca yine yorum yapıcam",
           "score": 5.0
         },
         {
-          "text": "aldıktan sonra fiyatın düşmesi üzücü",
-          "score": 4.0
+          "text": "çok sağlam bir paketleme ile elime ulaştı börek yaptım kısa sürede harika pişti gerçekten çok beğendim teşekkür ediyorum",
+          "score": 5.0
         }
       ],
       "icon": "💬"
@@ -60,34 +95,34 @@
     {
       "name": "Patates & Tavuk",
       "review_count": 2,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
         "pişiriyor",
         "yaptım",
-        "patates",
         "denedim",
+        "patates",
         "tavuk",
         "vardı",
         "karaca",
         "lezzetli"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel pişiriyor sağlam bir şekilde elime ulaştı",
-        "çalışmasında ve pişirmesinde bir sorun yok ama soru-cevaplarda her şey pişirilebilir mi sorusuna evet denmiş yüksekliği o kadar az ki kabaran şeyler pişirilemez kabaran herhangi bir şey üstüne değer çünkü yemek pizza vs için uygun görünüşü güzel ben yerim olmadığı ve buzdolabının üzerine sığısın diye tercih ettim"
+        "çok sağlam bir paketleme ile elime ulaştı börek yaptım kısa sürede harika pişti gerçekten çok beğendim teşekkür ediyorum",
+        "çok güzel pişiriyor sağlam bir şekilde elime ulaştı"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel pişiriyor sağlam bir şekilde elime ulaştı",
+          "text": "çok sağlam bir paketleme ile elime ulaştı börek yaptım kısa sürede harika pişti gerçekten çok beğendim teşekkür ediyorum",
           "score": 5.0
         },
         {
-          "text": "çalışmasında ve pişirmesinde bir sorun yok ama soru-cevaplarda her şey pişirilebilir mi sorusuna evet denmiş yüksekliği o kadar az ki kabaran şeyler pişirilemez kabaran herhangi bir şey üstüne değer çünkü yemek pizza vs için uygun görünüşü güzel ben yerim olmadığı ve buzdolabının üzerine sığısın diye tercih ettim",
-          "score": 3.0
+          "text": "çok güzel pişiriyor sağlam bir şekilde elime ulaştı",
+          "score": 5.0
         }
       ],
       "icon": "💬"

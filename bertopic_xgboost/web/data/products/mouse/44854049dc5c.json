@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Studz M6 Playrab Tavşan Kablosuz Mouse** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **fiyata** ve **performans** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıl…\"\n• **Kullanımı Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kalite** ve **hoşuma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel ofis de masanıza şıklık katacak bir ürün kullanımı çok zarif ve güzel bayıl…\"\n• Kullanıcılar **Paketlemesi & Sessiz** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **saglam** ve **kelimeyle** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Tek kelimeyle harika cok ama cok tatli tesekkur ederim saglam ve hizli kargo icin ayt…\"\n• **Kablolu & Özellikle** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kullanım** ve **sıkıntı** başta olmak üzere. Örnek kullanıcı ifadesi: \"1senedir kullaniyorum hicbir sorun yasamadim cok memnunum ayrica cok sirinnn ve sessi…\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sessiz** ve **kablosuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel beğendik hızlı geldi macbook ile uymlu\"",
+  "summary": "Studz M6 Playrab Tavşan Kablosuz Mouse, kullanıcı memnuniyetinin yüksek oranına sahiptir. Ürün, kullanım ve kalite anlamında 5.0/5.0 puan alırken, sağlam ve sorun olarak 20 yorumda onaylanmıştır. Paketleme ve sağlam özellikleri de aynı derecede pozitif olarak değerlendirilmiştir. Fiyat performans olarak da mükemmel bir performans sergileyen ürün, kullanıcı memnuniyetini yüksek oranında tutmaya devam etmiştir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,60 +18,8 @@
   },
   "aspects": [
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 14,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
-        "uygun",
-        "performans",
-        "paketlemesi",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
-        "o kadar tatliki bayıldım ve çok kaliteli gerçekten fiyatını uygun bile yazmışsınız",
-        "dün aldım hemen kullandım çok kaliteli duruyor artı çok şirin bir şey görür görmez benim olmalı bundan dedim ve hemen aldım ayrıca satıcıya da çok teşekkür ederim çok şık bir kutuda sağlam bir şekilde paketlenmişti ertesi günü elimde oldu teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
-          "score": 5.0
-        },
-        {
-          "text": "kızım için almıştım çok beğendi gerçekten çok güzel kutusu da çok güzel",
-          "score": 5.0
-        },
-        {
-          "text": "o kadar tatliki bayıldım ve çok kaliteli gerçekten fiyatını uygun bile yazmışsınız",
-          "score": 5.0
-        },
-        {
-          "text": "dün aldım hemen kullandım çok kaliteli duruyor artı çok şirin bir şey görür görmez benim olmalı bundan dedim ve hemen aldım ayrıca satıcıya da çok teşekkür ederim çok şık bir kutuda sağlam bir şekilde paketlenmişti ertesi günü elimde oldu teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "kızım için aldım çok tatlı bir ürün",
-          "score": 5.0
-        },
-        {
-          "text": "ürünü herkese tavsiye ederim tuşları çok sessiz ve çok kaliteli hızlıda ayrıca çok şık bir kutuyla gönderildi çok memnun kaldım studz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanımı Rahat",
-      "review_count": 10,
+      "name": "Kullanım & Kalite",
+      "review_count": 20,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -79,19 +27,19 @@
         "kullanımı",
         "kalite",
         "paketleme",
-        "kaliteli",
-        "kullanımı rahat",
         "baya",
         "kalitesi",
-        "hoşuma"
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel ofis de masanıza şıklık katacak bir ürün kullanımı çok zarif ve güzel bayıldım",
-        "ya şunun minnoşluğuna bakın arkadaşlar mükemmel ya iyi ki almışım tam benlik",
-        "şahaneeee bayıldım kızıma aldım henüz denemedik ama çoktatlı"
+        "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
+        "dün aldım hemen kullandım çok kaliteli duruyor artı çok şirin bir şey görür görmez benim olmalı bundan dedim ve hemen aldım ayrıca satıcıya da çok teşekkür ederim çok şık bir kutuda sağlam bir şekilde paketlenmişti ertesi günü elimde oldu teşekkürler",
+        "ürünü herkese tavsiye ederim tuşları çok sessiz ve çok kaliteli hızlıda ayrıca çok şık bir kutuyla gönderildi çok memnun kaldım studz"
       ],
       "all_reviews": [
         {
@@ -99,23 +47,99 @@
           "score": 5.0
         },
         {
-          "text": "ya şunun minnoşluğuna bakın arkadaşlar mükemmel ya iyi ki almışım tam benlik",
+          "text": "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
           "score": 5.0
         },
         {
-          "text": "aşık oldum çok güzel göründüğü gibi",
+          "text": "ürünü herkese tavsiye ederim tuşları çok sessiz ve çok kaliteli hızlıda ayrıca çok şık bir kutuyla gönderildi çok memnun kaldım studz",
           "score": 5.0
         },
         {
-          "text": "şahaneeee bayıldım kızıma aldım henüz denemedik ama çoktatlı",
+          "text": "çok çok güzel paketlemesi de çok özenliydi teşekkür ederim hızlı geldi",
+          "score": 5.0
+        },
+        {
+          "text": "yaa cok tatli paketlenmesi cok ii kullanımı da cok guzel arkadaşım da görüp aldii",
+          "score": 5.0
+        },
+        {
+          "text": "dün aldım hemen kullandım çok kaliteli duruyor artı çok şirin bir şey görür görmez benim olmalı bundan dedim ve hemen aldım ayrıca satıcıya da çok teşekkür ederim çok şık bir kutuda sağlam bir şekilde paketlenmişti ertesi günü elimde oldu teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "kızıma aldım ve gelince ikimizde bayıldık kaliteli ve kullanışlı ihtiyacınız varsa düşünmeden alın derim teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "kalite ve sessiz bir ürün ele iyi oturuyor",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar tatliki bayıldım ve çok kaliteli gerçekten fiyatını uygun bile yazmışsınız",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Paketlemesi & Sessiz",
-      "review_count": 8,
+      "name": "Saglam & Sorun",
+      "review_count": 19,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yormuyor",
+        "çıkarmıyor",
+        "saglam",
+        "sorun",
+        "bayıldım",
+        "efsane",
+        "diye",
+        "beklemiyordum"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
+        "tek kelimeyle harika cok ama cok tatli tesekkur ederim saglam ve hizli kargo icin aytica cok mersi",
+        "1senedir kullaniyorum hicbir sorun yasamadim cok memnunum ayrica cok sirinnn ve sessiz bir mouse"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel ofis de masanıza şıklık katacak bir ürün kullanımı çok zarif ve güzel bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyle harika cok ama cok tatli tesekkur ederim saglam ve hizli kargo icin aytica cok mersi",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
+          "score": 5.0
+        },
+        {
+          "text": "çokkk tatlııııı ve cok kullanıslı bayıldımmm",
+          "score": 5.0
+        },
+        {
+          "text": "şahaneeee bayıldım kızıma aldım henüz denemedik ama çoktatlı",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar tatliki bayıldım ve çok kaliteli gerçekten fiyatını uygun bile yazmışsınız",
+          "score": 5.0
+        },
+        {
+          "text": "1senedir kullaniyorum hicbir sorun yasamadim cok memnunum ayrica cok sirinnn ve sessiz bir mouse",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme & Saglam",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -123,27 +147,35 @@
         "paketlemesi",
         "denedim",
         "saglam",
-        "gidiyor",
         "kelimeyle",
         "tatli",
         "icin",
-        "çokta"
+        "çokta",
+        "paketlenmesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "tek kelimeyle harika cok ama cok tatli tesekkur ederim saglam ve hizli kargo icin aytica cok mersi",
-        "çok çok güzel paketlemesi de çok özenliydi teşekkür ederim hızlı geldi",
-        "çokkk tatlııııı ve cok kullanıslı bayıldımmm"
+        "yaa cok tatli paketlenmesi cok ii kullanımı da cok guzel arkadaşım da görüp aldii",
+        "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım"
       ],
       "all_reviews": [
         {
-          "text": "çokkk tatlııııı ve cok kullanıslı bayıldımmm",
+          "text": "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
           "score": 5.0
         },
         {
           "text": "tek kelimeyle harika cok ama cok tatli tesekkur ederim saglam ve hizli kargo icin aytica cok mersi",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar tatliki bayıldım ve çok kaliteli gerçekten fiyatını uygun bile yazmışsınız",
+          "score": 5.0
+        },
+        {
+          "text": "yaa cok tatli paketlenmesi cok ii kullanımı da cok guzel arkadaşım da görüp aldii",
           "score": 5.0
         },
         {
@@ -154,35 +186,40 @@
       "icon": "💬"
     },
     {
-      "name": "Kablolu & Özellikle",
-      "review_count": 6,
+      "name": "North",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "bunu",
-        "kablolu",
-        "özellikle",
-        "oyun",
-        "kullanım",
-        "sıkıntı",
-        "oyunlarda",
-        "rahatlıkla"
+        "north",
+        "oldum",
+        "şarj",
+        "biri",
+        "oturuyor",
+        "istedim",
+        "farklı",
+        "makro"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "1senedir kullaniyorum hicbir sorun yasamadim cok memnunum ayrica cok sirinnn ve sessiz bir mouse",
-        "çok ergonomik ve işlevli bir mouse çok severek kullanıyorum 3 aydır"
+        "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
+        "kalite ve sessiz bir ürün ele iyi oturuyor",
+        "aşık oldum çok güzel göründüğü gibi"
       ],
       "all_reviews": [
         {
-          "text": "1senedir kullaniyorum hicbir sorun yasamadim cok memnunum ayrica cok sirinnn ve sessiz bir mouse",
+          "text": "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
           "score": 5.0
         },
         {
-          "text": "çok ergonomik ve işlevli bir mouse çok severek kullanıyorum 3 aydır",
+          "text": "kalite ve sessiz bir ürün ele iyi oturuyor",
+          "score": 5.0
+        },
+        {
+          "text": "aşık oldum çok güzel göründüğü gibi",
           "score": 5.0
         }
       ],
@@ -195,60 +232,95 @@
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "şarj",
-        "sessiz",
-        "çalışıyor",
-        "performans",
+        "uygun",
+        "fiyat",
         "fiyat performans",
-        "sessiz çalışıyor",
-        "kablosuz",
-        "fiyat"
+        "performans",
+        "efsane",
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kalite ve sessiz bir ürün ele iyi oturuyor",
-        "çok güzel beğendik hızlı geldi macbook ile uymlu"
+        "o kadar tatliki bayıldım ve çok kaliteli gerçekten fiyatını uygun bile yazmışsınız",
+        "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel beğendik hızlı geldi macbook ile uymlu",
+          "text": "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
           "score": 5.0
         },
         {
-          "text": "kalite ve sessiz bir ürün ele iyi oturuyor",
+          "text": "o kadar tatliki bayıldım ve çok kaliteli gerçekten fiyatını uygun bile yazmışsınız",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sessiz Rahat",
+      "name": "Sorunsuz",
       "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "teslimat",
-        "paketleme",
+        "aldık",
         "sorunsuz",
-        "kullanımı",
-        "çalışıyor",
-        "sessiz rahat",
-        "fiyat"
+        "paketleme",
+        "bunu",
+        "rengi",
+        "baya",
+        "sıkıntı",
+        "kalite"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "yaa cok tatli paketlenmesi cok ii kullanımı da cok guzel arkadaşım da görüp aldii",
-        "çok sevimli gerçekten kullanimi rahat bi de dünya tatlısı stickerler vardı kutuda paketi de süper"
+        "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
+        "çok çok güzel paketlemesi de çok özenliydi teşekkür ederim hızlı geldi"
       ],
       "all_reviews": [
         {
-          "text": "çok sevimli gerçekten kullanimi rahat bi de dünya tatlısı stickerler vardı kutuda paketi de süper",
+          "text": "mükemmelllll harika bir şeyyyyyy kutusu paketlemesi öyle güzel öyle özenli kiii bayıldım içine bir de çiçekli sticker koymuşlar gerçekten bu fiyata alınabilecek en güzel şeyyy ayrıca çok kullanışlıı ele de tam oturuyorrrr herkes almalıııı uzun zamandır hiçbir kargoda bu kadar mutlu olmamıştım",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok güzel paketlemesi de çok özenliydi teşekkür ederim hızlı geldi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kablol & Özellikle",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "bunu",
+        "kablolu",
+        "özellikle",
+        "oyun",
+        "kullanım",
+        "rahatlıkla",
+        "sıkıntı",
+        "oyunlarda"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel ofis de masanıza şıklık katacak bir ürün kullanımı çok zarif ve güzel bayıldım",
+        "yaa cok tatli paketlenmesi cok ii kullanımı da cok guzel arkadaşım da görüp aldii"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel ofis de masanıza şıklık katacak bir ürün kullanımı çok zarif ve güzel bayıldım",
           "score": 5.0
         },
         {
@@ -260,29 +332,29 @@
     },
     {
       "name": "Donma & Rahatlıkla",
-      "review_count": 2,
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "alacak",
-        "kullanıyor",
-        "ediyor",
         "donma",
         "rahatlıkla",
         "şimdilik",
         "kelimeyle",
-        "tuşları"
+        "tuşları",
+        "çıkarmıyor",
+        "sorunsuz"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kızıma aldım ve gelince ikimizde bayıldık kaliteli ve kullanışlı ihtiyacınız varsa düşünmeden alın derim teşekkürler"
+        "tek kelimeyle harika cok ama cok tatli tesekkur ederim saglam ve hizli kargo icin aytica cok mersi"
       ],
       "all_reviews": [
         {
-          "text": "kızıma aldım ve gelince ikimizde bayıldık kaliteli ve kullanışlı ihtiyacınız varsa düşünmeden alın derim teşekkürler",
+          "text": "tek kelimeyle harika cok ama cok tatli tesekkur ederim saglam ve hizli kargo icin aytica cok mersi",
           "score": 5.0
         }
       ],

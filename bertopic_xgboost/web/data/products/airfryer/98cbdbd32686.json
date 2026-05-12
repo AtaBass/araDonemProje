@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Karaca Gourmet 9 Litre Ekstra Büyük Hacim 8 Kişilik Air** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **ideal** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Anneme ve kendime aldim ceyize cok guzel ve kocaman\"\n• **Fiyatı Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **fiyat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Fiyat performans harika ben indirdimde almıştım ablam için iyi ki almışım şimdiye kad…\"\n• Kullanıcılar **Ideal** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **diyebilirim** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"20 dakikada mükemmel bir kek yaptım almayı düşünen gönül rahatlığıyla alabilir içi ol…\"\n• **Patates & Tavuk** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **vardı** ve **karaca** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzlu…\"\n• Müşteri yorumlarında **Sıkıntı & Deneme** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **aydır** ve **kızartma** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ekim 2025 te 3bine aldım şimdi 2 bine düşmüş kesinlikle kaçırmayın alın bir aydır kul…\"",
+  "summary": "Karaca Gourmet 9 Litre Ekstra Büyük Hacim 8 Kişilik Air, kullanıcılarının büyük bir çoğunluğu tarafından memnuniyetle karşılanmaktadır. Ürünün özellikle öne çıkan özelliklerinde yüksek puanlar gözüküyor: diyebilirim, patates & tavuk, especialmente ve çeyiz konularında tamamıyla olumlu yorumlar var. Fiyat performansına da hiç sıkılmayan kullanıcılar, 5.0/5.0 gibi mükemmel puanlar veriyorlar. Bu üründe yer alan özellikler, kullanıcılarının beğenmesini sağlamaktadır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,128 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 10,
+      "name": "Diyebilirim",
+      "review_count": 19,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
-        "anneler",
-        "kaliteli"
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "gelir gelmez hemen denemek istedim öyle çeyizime aldım çok memnun kaldım diyenlerden değilim kullanmadan yorum yapmak saçma neyse öncelikli olarak genişliği harika ben xiaomi kullanıcısıyım bunu babama aldım gerçekten genişliği garika bçrek yaptım ve tavuk yaptım ikisini de öok güzel pişirdi ben memnunum",
+        "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya",
+        "20 dakikada mükemmel bir kek yaptım almayı düşünen gönül rahatlığıyla alabilir içi oldukça geniş kullanımı kolay şu an çok memnunum kendisindennn"
+      ],
+      "all_reviews": [
+        {
+          "text": "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya",
+          "score": 5.0
+        },
+        {
+          "text": "gelir gelmez hemen denemek istedim öyle çeyizime aldım çok memnun kaldım diyenlerden değilim kullanmadan yorum yapmak saçma neyse öncelikli olarak genişliği harika ben xiaomi kullanıcısıyım bunu babama aldım gerçekten genişliği garika bçrek yaptım ve tavuk yaptım ikisini de öok güzel pişirdi ben memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "20 dakikada mükemmel bir kek yaptım almayı düşünen gönül rahatlığıyla alabilir içi oldukça geniş kullanımı kolay şu an çok memnunum kendisindennn",
+          "score": 5.0
+        },
+        {
+          "text": "ekim 2025 te 3bine aldım şimdi 2 bine düşmüş kesinlikle kaçırmayın alın bir aydır kullanıyorum çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "bayılarak kullanıyorum aşırı güzel bu fiyata bence bu ayfereyi gayet iyi bayılarak kullanıyorum sadece teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü kullanmadan yorum yapmak istemedim kullandım çok güzel çok beğendim iyikide almışım gerçekten her eve lazım",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm sorunsuz bir şekilde elime ulaştı çok memnun kaldım hepinize öneririm güvenlikle alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Patates & Tavuk",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "pişiriyor",
+        "yaptım",
+        "denedim",
+        "patates",
+        "tavuk",
+        "vardı",
+        "karaca",
+        "lezzetli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gelir gelmez hemen denemek istedim öyle çeyizime aldım çok memnun kaldım diyenlerden değilim kullanmadan yorum yapmak saçma neyse öncelikli olarak genişliği harika ben xiaomi kullanıcısıyım bunu babama aldım gerçekten genişliği garika bçrek yaptım ve tavuk yaptım ikisini de öok güzel pişirdi ben memnunum",
+        "ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzluktan börek çıkarıp denedim yağlı kağıt kullandım nar gibi kızardı şimdi fiyat artmadan bir tanede oğlum için sipariş verdim tesekürler karaca",
+        "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya"
+      ],
+      "all_reviews": [
+        {
+          "text": "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya",
+          "score": 5.0
+        },
+        {
+          "text": "20 dakikada mükemmel bir kek yaptım almayı düşünen gönül rahatlığıyla alabilir içi oldukça geniş kullanımı kolay şu an çok memnunum kendisindennn",
+          "score": 5.0
+        },
+        {
+          "text": "gelir gelmez hemen denemek istedim öyle çeyizime aldım çok memnun kaldım diyenlerden değilim kullanmadan yorum yapmak saçma neyse öncelikli olarak genişliği harika ben xiaomi kullanıcısıyım bunu babama aldım gerçekten genişliği garika bçrek yaptım ve tavuk yaptım ikisini de öok güzel pişirdi ben memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzluktan börek çıkarıp denedim yağlı kağıt kullandım nar gibi kızardı şimdi fiyat artmadan bir tanede oğlum için sipariş verdim tesekürler karaca",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellikle",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "özellikle",
+        "evde",
+        "anneler",
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "anneme hediye aldım gelir gelmez denedik çok güzel satıcıya da teşekkür ederim güzel paketlenmiş",
         "anneme ve kendime aldim ceyize cok guzel ve kocaman",
-        "teşekkürler karaca anneme hediye aldım çok beğendi",
-        "çok kullanışlı çeyizime ve anneme aldım"
+        "teşekkürler karaca anneme hediye aldım çok beğendi"
       ],
       "all_reviews": [
         {
@@ -48,6 +148,10 @@
         },
         {
           "text": "anneme ve kendime aldim ceyize cok guzel ve kocaman",
+          "score": 5.0
+        },
+        {
+          "text": "anneme hediye aldım gelir gelmez denedik çok güzel satıcıya da teşekkür ederim güzel paketlenmiş",
           "score": 5.0
         },
         {
@@ -62,28 +166,72 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 10,
+      "name": "Çeyiz",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gelir gelmez hemen denemek istedim öyle çeyizime aldım çok memnun kaldım diyenlerden değilim kullanmadan yorum yapmak saçma neyse öncelikli olarak genişliği harika ben xiaomi kullanıcısıyım bunu babama aldım gerçekten genişliği garika bçrek yaptım ve tavuk yaptım ikisini de öok güzel pişirdi ben memnunum",
+        "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya",
+        "çeyizim için aldım paket sağlam ve çok şık"
+      ],
+      "all_reviews": [
+        {
+          "text": "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya",
+          "score": 5.0
+        },
+        {
+          "text": "çok kullanışlı çeyizime ve anneme aldım",
+          "score": 5.0
+        },
+        {
+          "text": "gelir gelmez hemen denemek istedim öyle çeyizime aldım çok memnun kaldım diyenlerden değilim kullanmadan yorum yapmak saçma neyse öncelikli olarak genişliği harika ben xiaomi kullanıcısıyım bunu babama aldım gerçekten genişliği garika bçrek yaptım ve tavuk yaptım ikisini de öok güzel pişirdi ben memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için aldım paket sağlam ve çok şık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
         "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
+        "rahatlığıyla",
+        "çıtır",
+        "pratik",
+        "yağsız",
+        "çıtır çıtır"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "fiyat performans harika ben indirdimde almıştım ablam için iyi ki almışım şimdiye kadar neden almadım diyor gayet kullanışlı çok memnunuz",
-        "paketleme ve kargo hızlı artı özenli çok güzel indirimden aldım",
-        "bayılarak kullanıyorum aşırı güzel bu fiyata bence bu ayfereyi gayet iyi bayılarak kullanıyorum sadece teşekkürler"
+        "ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzluktan börek çıkarıp denedim yağlı kağıt kullandım nar gibi kızardı şimdi fiyat artmadan bir tanede oğlum için sipariş verdim tesekürler karaca",
+        "20 dakikada mükemmel bir kek yaptım almayı düşünen gönül rahatlığıyla alabilir içi oldukça geniş kullanımı kolay şu an çok memnunum kendisindennn"
       ],
       "all_reviews": [
         {
@@ -91,11 +239,11 @@
           "score": 5.0
         },
         {
-          "text": "paketleme ve kargo hızlı artı özenli çok güzel indirimden aldım",
+          "text": "20 dakikada mükemmel bir kek yaptım almayı düşünen gönül rahatlığıyla alabilir içi oldukça geniş kullanımı kolay şu an çok memnunum kendisindennn",
           "score": 5.0
         },
         {
-          "text": "çeyizim için aldım paket sağlam ve çok şık",
+          "text": "ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzluktan börek çıkarıp denedim yağlı kağıt kullandım nar gibi kızardı şimdi fiyat artmadan bir tanede oğlum için sipariş verdim tesekürler karaca",
           "score": 5.0
         },
         {
@@ -106,64 +254,20 @@
       "icon": "💬"
     },
     {
-      "name": "Ideal",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "diyebilirim",
-        "yorum",
-        "sorunsuz",
-        "şimdilik",
-        "severek",
-        "sağlam",
-        "kolay",
-        "paketlemesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "20 dakikada mükemmel bir kek yaptım almayı düşünen gönül rahatlığıyla alabilir içi oldukça geniş kullanımı kolay şu an çok memnunum kendisindennn",
-        "ürünü kullanmadan yorum yapmak istemedim kullandım çok güzel çok beğendim iyikide almışım gerçekten her eve lazım",
-        "ürünüm sorunsuz bir şekilde elime ulaştı çok memnun kaldım hepinize öneririm güvenlikle alabilirsiniz"
-      ],
-      "all_reviews": [
-        {
-          "text": "20 dakikada mükemmel bir kek yaptım almayı düşünen gönül rahatlığıyla alabilir içi oldukça geniş kullanımı kolay şu an çok memnunum kendisindennn",
-          "score": 5.0
-        },
-        {
-          "text": "ürünüm sorunsuz bir şekilde elime ulaştı çok memnun kaldım hepinize öneririm güvenlikle alabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "ürünü kullanmadan yorum yapmak istemedim kullandım çok güzel çok beğendim iyikide almışım gerçekten her eve lazım",
-          "score": 5.0
-        },
-        {
-          "text": "iç haznesi büyük çok beğendim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Patates & Tavuk",
+      "name": "Sıkınt",
       "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "pişiriyor",
-        "yaptım",
-        "patates",
-        "denedim",
-        "tavuk",
-        "vardı",
-        "karaca",
-        "lezzetli"
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -185,70 +289,35 @@
       "icon": "💬"
     },
     {
-      "name": "Sıkıntı & Deneme",
-      "review_count": 5,
+      "name": "Köfte",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "gerek",
-        "sıkıntı",
-        "uzun süre",
-        "süre",
-        "yaptık",
-        "deneme",
-        "aydır",
-        "kızartma"
+        "elim",
+        "köfte",
+        "kullanmak",
+        "börek",
+        "para gerek",
+        "tavuk",
+        "markalara",
+        "yemekler"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ekim 2025 te 3bine aldım şimdi 2 bine düşmüş kesinlikle kaçırmayın alın bir aydır kullanıyorum çok memnunum",
-        "iyiki almışım karaca ürünleri vazgeçilmezim oldu"
+        "ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzluktan börek çıkarıp denedim yağlı kağıt kullandım nar gibi kızardı şimdi fiyat artmadan bir tanede oğlum için sipariş verdim tesekürler karaca",
+        "ürünüm sorunsuz bir şekilde elime ulaştı çok memnun kaldım hepinize öneririm güvenlikle alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "ekim 2025 te 3bine aldım şimdi 2 bine düşmüş kesinlikle kaçırmayın alın bir aydır kullanıyorum çok memnunum",
+          "text": "ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzluktan börek çıkarıp denedim yağlı kağıt kullandım nar gibi kızardı şimdi fiyat artmadan bir tanede oğlum için sipariş verdim tesekürler karaca",
           "score": 5.0
         },
         {
-          "text": "iyiki almışım karaca ürünleri vazgeçilmezim oldu",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat performans",
-        "performans",
-        "fiyat",
-        "kaliteli",
-        "rahatlığıyla",
-        "çıtır",
-        "pratik",
-        "yağsız"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok teşekkür ederim çok güzel paketlenmiş güzel ürün tavsiye ederim",
-        "harika bir ürün çok tşk ederim emeğinize sağlık"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok teşekkür ederim çok güzel paketlenmiş güzel ürün tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "harika bir ürün çok tşk ederim emeğinize sağlık",
+          "text": "ürünüm sorunsuz bir şekilde elime ulaştı çok memnun kaldım hepinize öneririm güvenlikle alabilirsiniz",
           "score": 5.0
         }
       ],
@@ -256,7 +325,7 @@
     },
     {
       "name": "Patates",
-      "review_count": 3,
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -274,41 +343,16 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya"
+        "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya",
+        "ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzluktan börek çıkarıp denedim yağlı kağıt kullandım nar gibi kızardı şimdi fiyat artmadan bir tanede oğlum için sipariş verdim tesekürler karaca"
       ],
       "all_reviews": [
         {
           "text": "iyi ki diyorum iyi ki almışım o kadar rahat güzel ve kullanışlı ki gerçekten de hacmi çok büyük ve pişirme kalitesi çok güzel 15 dk da patates oldu ya",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Özellikle & Kullanışlı",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "özellikle",
-        "evde",
-        "anneler",
-        "biri",
-        "yemekler",
-        "yurtta",
-        "bayıldım",
-        "görünüyor"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "anneme hediye aldım gelir gelmez denedik çok güzel satıcıya da teşekkür ederim güzel paketlenmiş"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "anneme hediye aldım gelir gelmez denedik çok güzel satıcıya da teşekkür ederim güzel paketlenmiş",
+          "text": "ürün çok güzel paketlenmiş şekilde iki gün de elimize ulaştı hemen denemek için buzluktan börek çıkarıp denedim yağlı kağıt kullandım nar gibi kızardı şimdi fiyat artmadan bir tanede oğlum için sipariş verdim tesekürler karaca",
           "score": 5.0
         }
       ],

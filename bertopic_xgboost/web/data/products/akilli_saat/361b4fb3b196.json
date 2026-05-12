@@ -8,7 +8,7 @@
   "overall_score": 4.74,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**HARVOX Watch X2 Pro Akıllı Saat Iphone Ve Android Tüm T** için 38 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Sağlam** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlı…\"\n• **Şarjı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **telefon** ve **arama** başta olmak üzere. Örnek kullanıcı ifadesi: \"Cihazı çok beğendim paketleme güzel sağlam geldi ve şarj dayanıklılık muazzam 3 hafta…\"\n• **Ekran & Kordon** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **kaliteli** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Eksiklerini söyleyeceğim ürün bluetooth ile bağlantısı harika fakat telefonla oynarke…\"\n• **Kullanışlı & Isteyenlere** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sorunsuz** ve **kaliteli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Oğluma ve eşime aldım çok beğendiler\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kalite** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya…\"",
+  "summary": "HARVOX Watch X2 Pro, teknik olarak sorunsuz ve fiyat performansına değer olan akıllı saat. Ürünün kuruluma ilişkin yorumlar 4.7/5.0 ortalamasına sahiptir ve hemen hemen tüm müşteriler kuruluma ilişkin olumsuz bir deneyim yaşamadı. Şarjı konusundaki yorumlar da benzer olarak 4.67/5.0 ortalamasına sahip ve saatlerin uzun süreli şarj süresine değiniliyor. Özellikleri, marka-fiyat performans ilişkisi ve ürünün genel performansı da aynı olumlu trendi takip ediyor. Bu anlamda HARVOX Watch X2 Pro, müşterilerin genel memnuniyetini yüksek seviyede tutuyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Sağlam",
-      "review_count": 10,
-      "avg_score": 4.8,
+      "name": "Kurulum Kolay",
+      "review_count": 20,
+      "avg_score": 4.7,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "sesli",
+        "ürünler",
+        "aydır",
+        "kurulumu kolay",
+        "ogluma",
+        "kurulumu",
+        "şimdilik",
+        "fiyat"
       ],
-      "positive_pct": 80.0,
+      "positive_pct": 70.0,
       "negative_pct": 0.0,
-      "neutral_pct": 20.0,
+      "neutral_pct": 30.0,
       "sample_reviews": [
         "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
-        "kimse için değil kendim için aldım gayet ergonomik ve kullanışlı umarım ileride sıkıntı çıkartmaz şimdilik menunum",
-        "ürün çok güzel ve kaliteli sadece bluetooth bağlıyken facebook da video izlerken ses saatten geliyor"
+        "ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya yorumu güncelleyecem ama genel olarak güzel görünüyor",
+        "hızlı kargo ve harika ürün fiyatına göre gerçekten başarılı ben çok beğendim düşünenler alabilir"
       ],
       "all_reviews": [
         {
@@ -47,7 +47,19 @@
           "score": 5.0
         },
         {
-          "text": "kimse için değil kendim için aldım gayet ergonomik ve kullanışlı umarım ileride sıkıntı çıkartmaz şimdilik menunum",
+          "text": "ürün güzel begendim deneyimleri daha sonra paylaşacağım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün anlatıldığı gibi 9 gündür aktif olarak kullanıyorum şarjı 60 a düştü kargo hızlı rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ürün kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı kargo ve harika ürün fiyatına göre gerçekten başarılı ben çok beğendim düşünenler alabilir",
           "score": 5.0
         },
         {
@@ -55,7 +67,67 @@
           "score": 5.0
         },
         {
-          "text": "ürün güzel begendim deneyimleri daha sonra paylaşacağım",
+          "text": "ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya yorumu güncelleyecem ama genel olarak güzel görünüyor",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kaliteli sadece bluetooth bağlıyken facebook da video izlerken ses saatten geliyor",
+          "score": 4.0
+        },
+        {
+          "text": "eksiklerini söyleyeceğim ürün bluetooth ile bağlantısı harika fakat telefonla oynarken sürekli ses saate geçiyor bu yüzden biraz tilt olabilirsiniz aksi takdirde kullanışı güzel bir saat",
+          "score": 4.0
+        },
+        {
+          "text": "ürünü aldığım gün hiç şarja takmadan 100 dü kullanmaya başladım tam 10 gün boyunca kullandım 10 gün sabah 25 şarj vardı işe gittim şarj öğle 12 olmadan 5 e düştü anladığım kadarıyla 25 şarjdan sonra çok hızlı bir düşüş oluyor alacak olanlar 10 gün boyunca şarj bitmiyor bilginize kullanılı güzel beğendim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 12,
+      "avg_score": 4.83,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "fiyat",
+        "performans",
+        "kalite",
+        "bayıldı",
+        "teslimat",
+        "ideal",
+        "kargolama"
+      ],
+      "positive_pct": 83.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 16.7,
+      "sample_reviews": [
+        "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+        "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
+        "ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya yorumu güncelleyecem ama genel olarak güzel görünüyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
+          "score": 5.0
+        },
+        {
+          "text": "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya yorumu güncelleyecem ama genel olarak güzel görünüyor",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı kargo ve harika ürün fiyatına göre gerçekten başarılı ben çok beğendim düşünenler alabilir",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ürün kaliteli tavsiye ederim",
           "score": 5.0
         },
         {
@@ -67,27 +139,27 @@
     },
     {
       "name": "Şarjı",
-      "review_count": 10,
-      "avg_score": 4.8,
+      "review_count": 12,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "şarjı",
         "şarj",
-        "gidiyor",
         "uzun",
         "telefon",
         "arama",
-        "şarjı gidiyor",
-        "kullanisli"
+        "kullanisli",
+        "fazlasıyla",
+        "çıktı"
       ],
-      "positive_pct": 80.0,
+      "positive_pct": 66.7,
       "negative_pct": 0.0,
-      "neutral_pct": 20.0,
+      "neutral_pct": 33.3,
       "sample_reviews": [
         "harika saat çok beğendim şarjı çok uzun gidiyor 2 haftada 40 şarj var hala",
-        "cihazı çok beğendim paketleme güzel sağlam geldi ve şarj dayanıklılık muazzam 3 hafta oldu şarjı halen bitmedi",
-        "ürün anlatıldığı gibi 9 gündür aktif olarak kullanıyorum şarjı 60 a düştü kargo hızlı rahatlıkla alabilirsiniz"
+        "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+        "cihazı çok beğendim paketleme güzel sağlam geldi ve şarj dayanıklılık muazzam 3 hafta oldu şarjı halen bitmedi"
       ],
       "all_reviews": [
         {
@@ -107,6 +179,10 @@
           "score": 5.0
         },
         {
+          "text": "eksiklerini söyleyeceğim ürün bluetooth ile bağlantısı harika fakat telefonla oynarken sürekli ses saate geçiyor bu yüzden biraz tilt olabilirsiniz aksi takdirde kullanışı güzel bir saat",
+          "score": 4.0
+        },
+        {
           "text": "ürünü aldığım gün hiç şarja takmadan 100 dü kullanmaya başladım tam 10 gün boyunca kullandım 10 gün sabah 25 şarj vardı işe gittim şarj öğle 12 olmadan 5 e düştü anladığım kadarıyla 25 şarjdan sonra çok hızlı bir düşüş oluyor alacak olanlar 10 gün boyunca şarj bitmiyor bilginize kullanılı güzel beğendim",
           "score": 4.0
         }
@@ -114,112 +190,58 @@
       "icon": "💬"
     },
     {
-      "name": "Ekran & Kordon",
-      "review_count": 8,
-      "avg_score": 4.25,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "ekran",
-        "kordon",
-        "kaliteli",
-        "fiyata",
-        "kalitesi",
-        "kullanımı",
-        "akıcı",
-        "uzun"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "eksiklerini söyleyeceğim ürün bluetooth ile bağlantısı harika fakat telefonla oynarken sürekli ses saate geçiyor bu yüzden biraz tilt olabilirsiniz aksi takdirde kullanışı güzel bir saat",
-        "saat mükemmel bişey çok güzel çok kullanışlı ama çapı biraz büyükmüş yoksa süper",
-        "elime saglam ulastı cok memnun kaldım"
-      ],
-      "all_reviews": [
-        {
-          "text": "saat mükemmel bişey çok güzel çok kullanışlı ama çapı biraz büyükmüş yoksa süper",
-          "score": 5.0
-        },
-        {
-          "text": "elime saglam ulastı cok memnun kaldım",
-          "score": 5.0
-        },
-        {
-          "text": "eksiklerini söyleyeceğim ürün bluetooth ile bağlantısı harika fakat telefonla oynarken sürekli ses saate geçiyor bu yüzden biraz tilt olabilirsiniz aksi takdirde kullanışı güzel bir saat",
-          "score": 4.0
-        },
-        {
-          "text": "çok büyük saat",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı & Isteyenlere",
-      "review_count": 2,
-      "avg_score": 5.0,
+      "name": "Özellik",
+      "review_count": 12,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "kullanışlı",
-        "kısa",
-        "sorunsuz",
-        "kaliteli",
-        "paketlenmesi",
-        "isteyenlere"
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
+        "paketleme",
+        "bayıldım"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "oğluma ve eşime aldım çok beğendiler"
+        "cihazı çok beğendim paketleme güzel sağlam geldi ve şarj dayanıklılık muazzam 3 hafta oldu şarjı halen bitmedi",
+        "ürün anlatıldığı gibi 9 gündür aktif olarak kullanıyorum şarjı 60 a düştü kargo hızlı rahatlıkla alabilirsiniz",
+        "ürünü aldığım gün hiç şarja takmadan 100 dü kullanmaya başladım tam 10 gün boyunca kullandım 10 gün sabah 25 şarj vardı işe gittim şarj öğle 12 olmadan 5 e düştü anladığım kadarıyla 25 şarjdan sonra çok hızlı bir düşüş oluyor alacak olanlar 10 gün boyunca şarj bitmiyor bilginize kullanılı güzel beğendim"
       ],
       "all_reviews": [
         {
-          "text": "oğluma ve eşime aldım çok beğendiler",
+          "text": "cihazı çok beğendim paketleme güzel sağlam geldi ve şarj dayanıklılık muazzam 3 hafta oldu şarjı halen bitmedi",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat performans",
-        "fiyat",
-        "performans",
-        "kalite",
-        "fiyata",
-        "bayıldı",
-        "teslimat",
-        "ideal"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya yorumu güncelleyecem ama genel olarak güzel görünüyor"
-      ],
-      "all_reviews": [
+        },
+        {
+          "text": "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+          "score": 5.0
+        },
         {
           "text": "ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya yorumu güncelleyecem ama genel olarak güzel görünüyor",
           "score": 5.0
+        },
+        {
+          "text": "harika saat çok beğendim şarjı çok uzun gidiyor 2 haftada 40 şarj var hala",
+          "score": 5.0
+        },
+        {
+          "text": "ürün anlatıldığı gibi 9 gündür aktif olarak kullanıyorum şarjı 60 a düştü kargo hızlı rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü aldığım gün hiç şarja takmadan 100 dü kullanmaya başladım tam 10 gün boyunca kullandım 10 gün sabah 25 şarj vardı işe gittim şarj öğle 12 olmadan 5 e düştü anladığım kadarıyla 25 şarjdan sonra çok hızlı bir düşüş oluyor alacak olanlar 10 gün boyunca şarj bitmiyor bilginize kullanılı güzel beğendim",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Marka & Fiyat Performans",
-      "review_count": 2,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -237,39 +259,27 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "saat gerçekten mükemmel satıcıya teşekkürler sorunsuz ulaştı"
-      ],
-      "all_reviews": [
-        {
-          "text": "saat gerçekten mükemmel satıcıya teşekkürler sorunsuz ulaştı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kurulumu Kolay",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "sesli",
-        "ürünler",
-        "aydır",
-        "kurulumu kolay",
-        "ogluma",
-        "kurulumu",
-        "şimdilik",
-        "fiyat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
+        "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+        "ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya yorumu güncelleyecem ama genel olarak güzel görünüyor",
         "hızlı kargo ve harika ürün fiyatına göre gerçekten başarılı ben çok beğendim düşünenler alabilir"
       ],
       "all_reviews": [
+        {
+          "text": "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün 4 günde elime ulaştı kampanya fiyat 2440 liraya aldım henüz kullanmadım haftaya yorumu güncelleyecem ama genel olarak güzel görünüyor",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika sorunsuz elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "saat gerçekten mükemmel satıcıya teşekkürler sorunsuz ulaştı",
+          "score": 5.0
+        },
         {
           "text": "hızlı kargo ve harika ürün fiyatına göre gerçekten başarılı ben çok beğendim düşünenler alabilir",
           "score": 5.0
@@ -278,27 +288,152 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Rahatlıkla",
-      "review_count": 2,
+      "name": "Sorunsuz & Paketlenme",
+      "review_count": 8,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "kısa",
+        "sorunsuz",
+        "paketlenmesi",
+        "kullanmaya",
+        "almak isteyenlere",
+        "isteyenlere",
+        "bayıldı"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "sample_reviews": [
+        "ürünü aldığım gün hiç şarja takmadan 100 dü kullanmaya başladım tam 10 gün boyunca kullandım 10 gün sabah 25 şarj vardı işe gittim şarj öğle 12 olmadan 5 e düştü anladığım kadarıyla 25 şarjdan sonra çok hızlı bir düşüş oluyor alacak olanlar 10 gün boyunca şarj bitmiyor bilginize kullanılı güzel beğendim",
+        "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
+        "saat gerçekten mükemmel satıcıya teşekkürler sorunsuz ulaştı"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika sorunsuz elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "saat gerçekten mükemmel satıcıya teşekkürler sorunsuz ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü aldığım gün hiç şarja takmadan 100 dü kullanmaya başladım tam 10 gün boyunca kullandım 10 gün sabah 25 şarj vardı işe gittim şarj öğle 12 olmadan 5 e düştü anladığım kadarıyla 25 şarjdan sonra çok hızlı bir düşüş oluyor alacak olanlar 10 gün boyunca şarj bitmiyor bilginize kullanılı güzel beğendim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ekran & Kordon",
+      "review_count": 8,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ekran",
+        "kordon",
+        "kalitesi",
+        "kullanımı",
+        "akıcı",
+        "uzun",
+        "özelliği",
+        "bayıldım"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "sample_reviews": [
+        "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+        "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
+        "ürün çok güzel ve kaliteli sadece bluetooth bağlıyken facebook da video izlerken ses saatten geliyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
+          "score": 5.0
+        },
+        {
+          "text": "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ürün kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kaliteli sadece bluetooth bağlıyken facebook da video izlerken ses saatten geliyor",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "kaliteli kaliteli",
+        "paketleme",
+        "paketlemesi",
+        "ürünüm",
+        "kısa",
+        "paketlenmesi",
+        "özellikle",
+        "sürede",
+        "kısa sürede"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
+        "cihazı çok beğendim paketleme güzel sağlam geldi ve şarj dayanıklılık muazzam 3 hafta oldu şarjı halen bitmedi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünler çok kısa sürede elime ulaştı ürün arayüzleri çok akıcı kaliteli gönül rahatlığıyla alabilirsiniz ürün sonrası kurulum videoları hepsi mevcut",
+          "score": 5.0
+        },
+        {
+          "text": "cihazı çok beğendim paketleme güzel sağlam geldi ve şarj dayanıklılık muazzam 3 hafta oldu şarjı halen bitmedi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rahatlıkla",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
         "rahatlıkla",
-        "kullanışlı",
         "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel ürün kaliteli tavsiye ederim"
+        "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+        "ürün anlatıldığı gibi 9 gündür aktif olarak kullanıyorum şarjı 60 a düştü kargo hızlı rahatlıkla alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel ürün kaliteli tavsiye ederim",
+          "text": "şarj performansı gerçekten diğer pahalı markalara göre çok çok iyi ekran kalitesi olarak çok memnunum arayüz oldukça akıcı fiyatını fazlasıyla karşıladı kardeşim içinde sipariş vereceğim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün anlatıldığı gibi 9 gündür aktif olarak kullanıyorum şarjı 60 a düştü kargo hızlı rahatlıkla alabilirsiniz",
           "score": 5.0
         }
       ],

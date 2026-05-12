@@ -8,7 +8,7 @@
   "overall_score": 4.78,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**KUMTEL Lacivert Digital Fastfryer (YAĞSIZ FRİTÖZ AİRFRY** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **sağlam** ve **fiyat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı…\"\n• **Kişilik**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **ideal** ve **anneler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fi…\"\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kaliteli** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün özenle paketlenmiş çok güzel çok kullanışlı herkeze tavsiye ederim\"\n• **Patates & Tavuk** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **vardı** ve **karaca** başta olmak üzere. Örnek kullanıcı ifadesi: \"Indirimden aldım çok memnun kaldım hızlı kargo patates ve tavuk yaptım şimdilik gayet…\"\n• Müşteri yorumlarında **Patates** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fakat** ve **hacmi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Beğenerek aldım patates ve tavuk kizarttim bı harika oldu düşünmeden almalısınız\"",
+  "summary": "\"KUMTEL Lacivert Digital Fastfryer, kullanıcıların yüzde doksanını memnun bırakıyor. Fiyat performansına ve özellikle lezzetine ek olarak, ürünün kolay kullanımını ve yüksek kalitesini onaylayan yorumlar var. Ürün, kişiye göre fiyat performansına da onay veriyor. Genel memnuniyet puanı 4.8/5.0 olunca, KUMTEL Lacivert Digital Fastfryer, tarafsız bir asistan olarak değerlendirildiğinde, yüksek düzeyde memnuniyet sağlamaya aday.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,44 +18,36 @@
   },
   "aspects": [
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 22,
-      "avg_score": 4.86,
+      "name": "Fiyat Performans",
+      "review_count": 18,
+      "avg_score": 4.72,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
+        "fiyat performans",
+        "performans",
         "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
+        "rahatlığıyla",
+        "çıtır",
+        "pratik",
+        "yağsız",
+        "çıtır çıtır"
       ],
-      "positive_pct": 86.4,
+      "positive_pct": 72.2,
       "negative_pct": 0.0,
-      "neutral_pct": 13.6,
+      "neutral_pct": 27.8,
       "sample_reviews": [
-        "ürünü hediye aldım çok güzel çıktı hem sağlam hemde fiyatı çok uygun",
-        "harika bayıldım fiyatı çok uygun",
-        "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine"
+        "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+        "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
+        "ürün sorunsuz elime geçti kargo hızlıydı ve ürün gayet ğüzel iyiki almışım bu fiyata gayet iyi"
       ],
       "all_reviews": [
         {
-          "text": "ürün resimdeki gibi geldi kız kardeşim çeyizine aldı çok beğendi kargo hızlıydı paketleme başarılıydı ürünlerde sağlam ulaştı elimize teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "hasarsız geldi satıcıya çok teşekkür ederim bol kazançlar dilerim almak isteyenlere tavsiyemdir",
+          "text": "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
           "score": 5.0
         },
         {
           "text": "ürün sorunsuz elime geçti kargo hızlıydı ve ürün gayet ğüzel iyiki almışım bu fiyata gayet iyi",
-          "score": 5.0
-        },
-        {
-          "text": "kaynanama aldım çok güzel ve iki kişiye yetecek artacak bi ürün",
           "score": 5.0
         },
         {
@@ -73,33 +65,37 @@
         {
           "text": "ürünü hediye aldım çok güzel çıktı hem sağlam hemde fiyatı çok uygun",
           "score": 4.0
+        },
+        {
+          "text": "fiyatına göre çok iyi bir ürün ve sağlıklı yemek için tavsiye ederim",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 15,
-      "avg_score": 4.73,
+      "name": "Özellikle",
+      "review_count": 17,
+      "avg_score": 4.65,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
+        "özellikle",
+        "evde",
         "anneler",
-        "kaliteli"
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
       ],
-      "positive_pct": 86.7,
+      "positive_pct": 76.5,
       "negative_pct": 0.0,
-      "neutral_pct": 13.3,
+      "neutral_pct": 23.5,
       "sample_reviews": [
         "babanneme anneler gününde hediye aldık kendisi kolayca kullanmış",
         "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
-        "anneme doğum günü hediyesi olarak aldık çok memnun"
+        "annem icin aldım suanlık güzel umarım zamanla sorun olmaz inşallah tesekkur ederim bol kazançlar dilerim"
       ],
       "all_reviews": [
         {
@@ -110,6 +106,146 @@
           "text": "vallaha yorumlara bakarak aldım mükemmel kaçırmayın derim anneme ve kendime aldım",
           "score": 5.0
         },
+        {
+          "text": "annem için aldık ve çok begndi",
+          "score": 5.0
+        },
+        {
+          "text": "anneme doğum günü hediyesi olarak aldık çok memnun",
+          "score": 5.0
+        },
+        {
+          "text": "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre çok iyi bir ürün ve sağlıklı yemek için tavsiye ederim",
+          "score": 4.0
+        },
+        {
+          "text": "babanneme anneler gününde hediye aldık kendisi kolayca kullanmış",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Diyebilirim",
+      "review_count": 12,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
+      ],
+      "positive_pct": 83.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 16.7,
+      "sample_reviews": [
+        "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+        "indirimden aldım çok memnun kaldım hızlı kargo patates ve tavuk yaptım şimdilik gayet lezzetli oldu kullanimida çok pratik",
+        "ürün sorunsuz elime geçti kargo hızlıydı ve ürün gayet ğüzel iyiki almışım bu fiyata gayet iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "vallaha yorumlara bakarak aldım mükemmel kaçırmayın derim anneme ve kendime aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sorunsuz elime geçti kargo hızlıydı ve ürün gayet ğüzel iyiki almışım bu fiyata gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+          "score": 5.0
+        },
+        {
+          "text": "indirimden aldım çok memnun kaldım hızlı kargo patates ve tavuk yaptım şimdilik gayet lezzetli oldu kullanimida çok pratik",
+          "score": 5.0
+        },
+        {
+          "text": "babanneme anneler gününde hediye aldık kendisi kolayca kullanmış",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Köfte",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "elim",
+        "köfte",
+        "kullanmak",
+        "börek",
+        "para gerek",
+        "tavuk",
+        "markalara",
+        "yemekler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün resimdeki gibi geldi kız kardeşim çeyizine aldı çok beğendi kargo hızlıydı paketleme başarılıydı ürünlerde sağlam ulaştı elimize teşekkürler",
+        "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
+        "ürün sorunsuz elime geçti kargo hızlıydı ve ürün gayet ğüzel iyiki almışım bu fiyata gayet iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün resimdeki gibi geldi kız kardeşim çeyizine aldı çok beğendi kargo hızlıydı paketleme başarılıydı ürünlerde sağlam ulaştı elimize teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sorunsuz elime geçti kargo hızlıydı ve ürün gayet ğüzel iyiki almışım bu fiyata gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik / Fiyat Performans",
+      "review_count": 9,
+      "avg_score": 4.56,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aile",
+        "aldık",
+        "kişilik",
+        "ideal",
+        "kişilik aile",
+        "anneler",
+        "aydır",
+        "sorunsuz"
+      ],
+      "positive_pct": 77.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 22.2,
+      "sample_reviews": [
+        "babanneme anneler gününde hediye aldık kendisi kolayca kullanmış",
+        "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
+        "anneme doğum günü hediyesi olarak aldık çok memnun"
+      ],
+      "all_reviews": [
         {
           "text": "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
           "score": 5.0
@@ -130,56 +266,16 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 6,
-      "avg_score": 4.33,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "fiyat performans",
-        "performans",
-        "fiyat",
-        "kaliteli",
-        "rahatlığıyla",
-        "çıtır",
-        "pratik",
-        "yağsız"
-      ],
-      "positive_pct": 33.3,
-      "negative_pct": 0.0,
-      "neutral_pct": 66.7,
-      "sample_reviews": [
-        "fiyatına göre çok iyi bir ürün ve sağlıklı yemek için tavsiye ederim",
-        "ürün özenle paketlenmiş çok güzel çok kullanışlı herkeze tavsiye ederim",
-        "çok kullanışlı güzel bır ürün sağlam geldı tesekurler"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok kullanışlı güzel bır ürün sağlam geldı tesekurler",
-          "score": 5.0
-        },
-        {
-          "text": "ürün özenle paketlenmiş çok güzel çok kullanışlı herkeze tavsiye ederim",
-          "score": 4.0
-        },
-        {
-          "text": "fiyatına göre çok iyi bir ürün ve sağlıklı yemek için tavsiye ederim",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Patates & Tavuk",
-      "review_count": 5,
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "pişiriyor",
         "yaptım",
-        "patates",
         "denedim",
+        "patates",
         "tavuk",
         "vardı",
         "karaca",
@@ -190,6 +286,7 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "indirimden aldım çok memnun kaldım hızlı kargo patates ve tavuk yaptım şimdilik gayet lezzetli oldu kullanimida çok pratik",
+        "beğenerek aldım patates ve tavuk kizarttim bı harika oldu düşünmeden almalısınız",
         "ürün beklediğim geldi hemen tavuk yaptım ve çok güzel oldu tavsiye ederim"
       ],
       "all_reviews": [
@@ -198,7 +295,15 @@
           "score": 5.0
         },
         {
+          "text": "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+          "score": 5.0
+        },
+        {
           "text": "indirimden aldım çok memnun kaldım hızlı kargo patates ve tavuk yaptım şimdilik gayet lezzetli oldu kullanimida çok pratik",
+          "score": 5.0
+        },
+        {
+          "text": "beğenerek aldım patates ve tavuk kizarttim bı harika oldu düşünmeden almalısınız",
           "score": 5.0
         }
       ],
@@ -206,7 +311,7 @@
     },
     {
       "name": "Patates",
-      "review_count": 2,
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -224,11 +329,121 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+        "indirimden aldım çok memnun kaldım hızlı kargo patates ve tavuk yaptım şimdilik gayet lezzetli oldu kullanimida çok pratik",
         "beğenerek aldım patates ve tavuk kizarttim bı harika oldu düşünmeden almalısınız"
       ],
       "all_reviews": [
         {
+          "text": "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+          "score": 5.0
+        },
+        {
+          "text": "indirimden aldım çok memnun kaldım hızlı kargo patates ve tavuk yaptım şimdilik gayet lezzetli oldu kullanimida çok pratik",
+          "score": 5.0
+        },
+        {
           "text": "beğenerek aldım patates ve tavuk kizarttim bı harika oldu düşünmeden almalısınız",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıkınt",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+        "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü"
+      ],
+      "all_reviews": [
+        {
+          "text": "anneme aldım cok memnun kaldık bence rengi de çok tatlı kısa sürede elimize ulaştı fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çeyiz",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+        "ürün resimdeki gibi geldi kız kardeşim çeyizine aldı çok beğendi kargo hızlıydı paketleme başarılıydı ürünlerde sağlam ulaştı elimize teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün resimdeki gibi geldi kız kardeşim çeyizine aldı çok beğendi kargo hızlıydı paketleme başarılıydı ürünlerde sağlam ulaştı elimize teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "bunu yazdığım için aldım ve hemen denedim şu an gelir gelmez kesinlikle hiçbir farkı yok aradaki milyonları ödemeye hiç gerek yok fazladan fazladan tam bir fiyat performans ürünü kesinlikle alabilirsiniz tavsiye ediyorum ünlü bir markanınkini daha önceden almıştım kullanıyorum memnunum fakat artık fiyat skalaları çok farklılaştığı için bunu tercih ettim deneyim dedim çok bir meblağ değil dedim ama sonuna kadar hak ediyor parasını teşekkür ediyorum üreticilerine",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "defa",
+        "görünüyor",
+        "denemedim",
+        "kullanıyoruz",
+        "paketlemesi",
+        "hasarsız",
+        "sorunsuz",
+        "çeyiz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün resimdeki gibi geldi kız kardeşim çeyizine aldı çok beğendi kargo hızlıydı paketleme başarılıydı ürünlerde sağlam ulaştı elimize teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün resimdeki gibi geldi kız kardeşim çeyizine aldı çok beğendi kargo hızlıydı paketleme başarılıydı ürünlerde sağlam ulaştı elimize teşekkürler",
           "score": 5.0
         }
       ],

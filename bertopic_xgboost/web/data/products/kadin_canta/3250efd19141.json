@@ -8,7 +8,7 @@
   "overall_score": 4.76,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**BAGLOVİS ASKILARI AYARLANABİLİR TOKA DETAYLI SİYAH KADI** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **geniş** ve **boyutu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Beğendim işime yarayacak bir ürün hem çok yer kapsamayacak hem de ufak tefeklerimi ra…\"\n• **Kaliteli & Yumuşacık Derisi**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kullanışlı** ve **anneler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kızlar kesinlikle çok güzel alabilirsiniz içi geniş\"\n• Kullanıcılar **Derisi Yumuşak** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **buyuk** ve **derisi kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Düşündüğümden bi tık büyük ama çok güzel spor şık kullanılabilir içi yeterince geniş…\"\n• **Uygun** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **giderken** ve **derisi yumuşak** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok beğendimmm her parçaya uyar\"\n• Müşteri yorumlarında **Rahatlıkla** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kokusu** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bu fiyata bu kaliye inanılmaz derisi çok güzel içi de geniş çok beğendim\"",
+  "summary": "BAGLOVİS ASKILARI AYARLANABİLİR TOKA DETAYLI SİYAH KADI, overall satisfaction score 4.8/5.0'den yüce bir ürün olarak kendini kanıtlamıştır. Ürün genelinde en yüksek puanlar alan özellikler; geniş ve boyutu, deri yumuşaklığı, yumuşacık deri, zariflik ve cüzdan telefon gibi detaylı detayları sunar. Müşterilerin %95'i bu özelliklere olumlu yönde tepki vermiştir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Rahat",
-      "review_count": 24,
-      "avg_score": 4.62,
+      "name": "Geniş & Boyut",
+      "review_count": 21,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
         "spor",
-        "rahat",
         "geniş",
         "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
         "bayıldım",
-        "kullanışlı",
-        "çantası"
+        "kalitesi"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "beğendim işime yarayacak bir ürün hem çok yer kapsamayacak hem de ufak tefeklerimi rahat taşıyabileceğim teşekkürler baglovis teşekkürler trendyol",
-        "yumuşak çok şık bir çanta içi de geniş baya şey alır severek kullanicam kargo da hızlıydı",
-        "ürünün sadece sapı eksikti onuda halledicekler onun dışında bir sorun yok ama dikişleri daha sağlam olabilirdi mesela iplerin sonunu kesip bırakmışlar ve geri atmaya başlıyor böylelikle"
+        "düşündüğümden bi tık büyük ama çok güzel spor şık kullanılabilir içi yeterince geniş ben beğendimmm",
+        "çok çok güzel tereddüt etmeden alabilirsiniz boyutu kalitesi mükemmel",
+        "yumuşak çok şık bir çanta içi de geniş baya şey alır severek kullanicam kargo da hızlıydı"
       ],
       "all_reviews": [
         {
@@ -47,7 +47,19 @@
           "score": 5.0
         },
         {
-          "text": "beğendim işime yarayacak bir ürün hem çok yer kapsamayacak hem de ufak tefeklerimi rahat taşıyabileceğim teşekkürler baglovis teşekkürler trendyol",
+          "text": "hızlı kargo hoş çanta",
+          "score": 5.0
+        },
+        {
+          "text": "düşündüğümden bi tık büyük ama çok güzel spor şık kullanılabilir içi yeterince geniş ben beğendimmm",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok güzel tereddüt etmeden alabilirsiniz boyutu kalitesi mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "kızlar kesinlikle çok güzel alabilirsiniz içi geniş",
           "score": 5.0
         },
         {
@@ -63,110 +75,15 @@
           "score": 5.0
         },
         {
-          "text": "kargo çok güzel geldi güvenip alabilirsiniz çok tatlı",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı kargo hoş çanta",
-          "score": 5.0
-        },
-        {
-          "text": "ürünün sadece sapı eksikti onuda halledicekler onun dışında bir sorun yok ama dikişleri daha sağlam olabilirdi mesela iplerin sonunu kesip bırakmışlar ve geri atmaya başlıyor böylelikle",
-          "score": 4.0
-        },
-        {
-          "text": "modelini beğenmedim ama aslında ürün güzel çokta iyi paketlenmişti bir sorun görmedim sadece tarzıma uymadı",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 11,
-      "avg_score": 4.73,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
-      ],
-      "positive_pct": 72.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 27.3,
-      "sample_reviews": [
-        "çok şık kaliteli duruyor fp ürünü",
-        "kaliteli ve şık cok begendim",
-        "kızlar kesinlikle çok güzel alabilirsiniz içi geniş"
-      ],
-      "all_reviews": [
-        {
-          "text": "mükemmel çok beğendim kesinlikle alınmalı",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli ve şık cok begendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok şık kaliteli duruyor fp ürünü",
-          "score": 5.0
-        },
-        {
-          "text": "kızlar kesinlikle çok güzel alabilirsiniz içi geniş",
-          "score": 5.0
-        },
-        {
-          "text": "kibar beyendim sık duruyor",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Derisi Yumuşak",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "derisi",
-        "buyuk",
-        "yumuşak",
-        "derisi yumuşak",
-        "spor",
-        "beklediğimden",
-        "sürü",
-        "derisi kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok beğendim derisi yumuşak",
-        "düşündüğümden bi tık büyük ama çok güzel spor şık kullanılabilir içi yeterince geniş ben beğendimmm"
-      ],
-      "all_reviews": [
-        {
-          "text": "düşündüğümden bi tık büyük ama çok güzel spor şık kullanılabilir içi yeterince geniş ben beğendimmm",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim derisi yumuşak",
+          "text": "bu fiyata bu kaliye inanılmaz derisi çok güzel içi de geniş çok beğendim",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Uygun",
-      "review_count": 3,
+      "name": "Deri Yumuşak",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -184,49 +101,41 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok beğendimmm her parçaya uyar"
+        "mükemmel çok beğendim kesinlikle alınmalı",
+        "çok beğendim derisi yumuşak",
+        "paketleme iyi kargolama iyi fiyatına göre iyi ürün biraz koku var zamanla geçeceğini düşünüyorum iç astarı yok derisi güzel boyu küçük bu kadar küçük çantam olmamıştı bilerek aldım"
       ],
       "all_reviews": [
         {
-          "text": "çok beğendimmm her parçaya uyar",
+          "text": "yumuşak çok şık bir çanta içi de geniş baya şey alır severek kullanicam kargo da hızlıydı",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahatlıkla",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kokusu",
-        "fiyata",
-        "adet",
-        "fiyatı",
-        "minik",
-        "olacağını",
-        "rahatlıkla sığıyor",
-        "okulda"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bu fiyata bu kaliye inanılmaz derisi çok güzel içi de geniş çok beğendim"
-      ],
-      "all_reviews": [
+        },
+        {
+          "text": "çok beğendim derisi yumuşak",
+          "score": 5.0
+        },
         {
           "text": "bu fiyata bu kaliye inanılmaz derisi çok güzel içi de geniş çok beğendim",
           "score": 5.0
+        },
+        {
+          "text": "çanta aşırıı güzel kesinlikle tavsiye ederim sadece ilk geldiğinde deri kokusu oluyor oda kullandıkça geçer büyüklüğü çok iyi bir çok şeyinizi alır beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel çok beğendim kesinlikle alınmalı",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme iyi kargolama iyi fiyatına göre iyi ürün biraz koku var zamanla geçeceğini düşünüyorum iç astarı yok derisi güzel boyu küçük bu kadar küçük çantam olmamıştı bilerek aldım",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Yumuşacık Derisi",
-      "review_count": 2,
+      "name": "Yumuşacık Deri",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -244,11 +153,135 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kargom 10 dakika önce geldi arkadaşıma hediye olarak almıştım muhteşem bir şey ya çok sevdim kendime de sipariş edecem"
+        "paketleme iyi kargolama iyi fiyatına göre iyi ürün biraz koku var zamanla geçeceğini düşünüyorum iç astarı yok derisi güzel boyu küçük bu kadar küçük çantam olmamıştı bilerek aldım",
+        "çanta aşırıı güzel kesinlikle tavsiye ederim sadece ilk geldiğinde deri kokusu oluyor oda kullandıkça geçer büyüklüğü çok iyi bir çok şeyinizi alır beğendim",
+        "bu fiyata bu kaliye inanılmaz derisi çok güzel içi de geniş çok beğendim"
       ],
       "all_reviews": [
         {
-          "text": "kargom 10 dakika önce geldi arkadaşıma hediye olarak almıştım muhteşem bir şey ya çok sevdim kendime de sipariş edecem",
+          "text": "çok beğendim derisi yumuşak",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kaliye inanılmaz derisi çok güzel içi de geniş çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çanta aşırıı güzel kesinlikle tavsiye ederim sadece ilk geldiğinde deri kokusu oluyor oda kullandıkça geçer büyüklüğü çok iyi bir çok şeyinizi alır beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme iyi kargolama iyi fiyatına göre iyi ürün biraz koku var zamanla geçeceğini düşünüyorum iç astarı yok derisi güzel boyu küçük bu kadar küçük çantam olmamıştı bilerek aldım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Zarif",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "zarif",
+        "harikaaa",
+        "yumuşacık",
+        "kelimeyle",
+        "kalite",
+        "baya",
+        "kelimeyle bayıldım",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok çok güzel tereddüt etmeden alabilirsiniz boyutu kalitesi mükemmel",
+        "çok şık kaliteli duruyor fp ürünü",
+        "kaliteli ve şık cok begendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "kaliteli ve şık cok begendim",
+          "score": 5.0
+        },
+        {
+          "text": "çok şık kaliteli duruyor fp ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok güzel tereddüt etmeden alabilirsiniz boyutu kalitesi mükemmel",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Cüzdan Telefon",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alır",
+        "bayıldım",
+        "alıyor",
+        "cüzdan telefon",
+        "cüzdan",
+        "rahatlıkla",
+        "sert",
+        "şeyi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çanta aşırıı güzel kesinlikle tavsiye ederim sadece ilk geldiğinde deri kokusu oluyor oda kullandıkça geçer büyüklüğü çok iyi bir çok şeyinizi alır beğendim",
+        "yumuşak çok şık bir çanta içi de geniş baya şey alır severek kullanicam kargo da hızlıydı"
+      ],
+      "all_reviews": [
+        {
+          "text": "yumuşak çok şık bir çanta içi de geniş baya şey alır severek kullanicam kargo da hızlıydı",
+          "score": 5.0
+        },
+        {
+          "text": "çanta aşırıı güzel kesinlikle tavsiye ederim sadece ilk geldiğinde deri kokusu oluyor oda kullandıkça geçer büyüklüğü çok iyi bir çok şeyinizi alır beğendim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koku",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kokusu",
+        "adet",
+        "minik",
+        "olacağını",
+        "rahatlıkla sığıyor",
+        "okulda",
+        "diye",
+        "gore"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çanta aşırıı güzel kesinlikle tavsiye ederim sadece ilk geldiğinde deri kokusu oluyor oda kullandıkça geçer büyüklüğü çok iyi bir çok şeyinizi alır beğendim",
+        "paketleme iyi kargolama iyi fiyatına göre iyi ürün biraz koku var zamanla geçeceğini düşünüyorum iç astarı yok derisi güzel boyu küçük bu kadar küçük çantam olmamıştı bilerek aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "çanta aşırıı güzel kesinlikle tavsiye ederim sadece ilk geldiğinde deri kokusu oluyor oda kullandıkça geçer büyüklüğü çok iyi bir çok şeyinizi alır beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme iyi kargolama iyi fiyatına göre iyi ürün biraz koku var zamanla geçeceğini düşünüyorum iç astarı yok derisi güzel boyu küçük bu kadar küçük çantam olmamıştı bilerek aldım",
           "score": 5.0
         }
       ],
@@ -256,7 +289,7 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 2,
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -265,20 +298,25 @@
         "fiyat performans",
         "fiyat",
         "ideal",
-        "fiyata",
         "buyuk",
-        "kaliteli",
-        "uygun"
+        "uygun",
+        "gore",
+        "boyutu"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok çok güzel tereddüt etmeden alabilirsiniz boyutu kalitesi mükemmel"
+        "paketleme iyi kargolama iyi fiyatına göre iyi ürün biraz koku var zamanla geçeceğini düşünüyorum iç astarı yok derisi güzel boyu küçük bu kadar küçük çantam olmamıştı bilerek aldım",
+        "bu fiyata bu kaliye inanılmaz derisi çok güzel içi de geniş çok beğendim"
       ],
       "all_reviews": [
         {
-          "text": "çok çok güzel tereddüt etmeden alabilirsiniz boyutu kalitesi mükemmel",
+          "text": "bu fiyata bu kaliye inanılmaz derisi çok güzel içi de geniş çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme iyi kargolama iyi fiyatına göre iyi ürün biraz koku var zamanla geçeceğini düşünüyorum iç astarı yok derisi güzel boyu küçük bu kadar küçük çantam olmamıştı bilerek aldım",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Philips M402 Sessiz Kablosuz Mouse Siyah Renk 2 Adet Pi** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyat Performans** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **uygun** ve **efsane** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün gayet iyi kullanışlı rahat bir şekilde kullanabilirsiniz hem de uygun fiyatlı bi…\"\n• **Donma & Rahatlıkla**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **şimdilik** ve **kelimeyle** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok memnun kaldım sorunsuz kullanıyorum teşekkürler\"\n• Kullanıcılar **Kullanımı Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kalite** ve **hoşuma** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok kaliteli severek kullanıyorum ses çıkarmıyor gerçekten ve tutuşu çok rahat eli ve…\"\n• **Fiyatı Uygun** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **fiyata** ve **performans** başta olmak üzere. Örnek kullanıcı ifadesi: \"Biraz geç geldi ama güzel paket için teşekkürler gayette iyi v e sessiz bir şekilde k…\"\n• Müşteri yorumlarında **Sessiz Rahat** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kaliteli** ve **teslimat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Evden çalışan biriyim artık gecede çalışabilirim çünkü tik tik mause sesi yok ürün ka…\"",
+  "summary": "**Philips M402 Sessiz Kablosuz Mouse Siyah Renk 2 Adet Pi** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Saglam & Sorun**: Kullanıcılar saglam & sorun konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kullanım & Kalite**: Kullanıcılar kullanım & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **North**: Kullanıcılar north konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,32 +18,32 @@
   },
   "aspects": [
     {
-      "name": "Fiyat Performans",
-      "review_count": 16,
+      "name": "Saglam & Sorun",
+      "review_count": 15,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "uygun",
-        "fiyat",
-        "fiyat performans",
-        "performans",
+        "yormuyor",
+        "çıkarmıyor",
+        "saglam",
+        "sorun",
+        "bayıldım",
         "efsane",
-        "fiyata",
-        "fiyatı",
-        "aldık"
+        "diye",
+        "beklemiyordum"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün gayet iyi kullanışlı rahat bir şekilde kullanabilirsiniz hem de uygun fiyatlı bir ürün",
-        "birkaç gün oluyor kullanıyorum şimdilik sorun yok mouse işte sessiz yanında pil de vardı hızlı kargo ve iyi ambalaj",
-        "dün sipariş verdim bugün elime ulaştı sağlam paketlenmişti bir sorunu yoktu pil de hediye geldi teşekkür ederim"
+        "dün sipariş verdim bugün elime ulaştı sağlam paketlenmişti bir sorunu yoktu pil de hediye geldi teşekkür ederim",
+        "çok kaliteli severek kullanıyorum ses çıkarmıyor gerçekten ve tutuşu çok rahat eli ve bileği hiç yormuyor",
+        "birkaç gün oluyor kullanıyorum şimdilik sorun yok mouse işte sessiz yanında pil de vardı hızlı kargo ve iyi ambalaj"
       ],
       "all_reviews": [
         {
-          "text": "ürün gayet iyi kullanışlı rahat bir şekilde kullanabilirsiniz hem de uygun fiyatlı bir ürün",
+          "text": "çok kaliteli severek kullanıyorum ses çıkarmıyor gerçekten ve tutuşu çok rahat eli ve bileği hiç yormuyor",
           "score": 5.0
         },
         {
@@ -51,19 +51,15 @@
           "score": 5.0
         },
         {
-          "text": "ürün orijinal ayrıca içinden 2 tane pil çıktı teşekkürler ve sessiz çalışıyor hic tuş sesi yok cok iyi",
+          "text": "çok memnun kaldım sorunsuz kullanıyorum teşekkürler",
           "score": 5.0
         },
         {
-          "text": "ürün elime ulaştı sağlam paketlenmiş yanında iki adette pil göndermişler küçük ama ince düşünülmüş memnunum",
+          "text": "çok rahat kullanıyorsunuz ben bayıldım",
           "score": 5.0
         },
         {
           "text": "dün sipariş verdim bugün elime ulaştı sağlam paketlenmişti bir sorunu yoktu pil de hediye geldi teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "akıllı tahtam için aldim cok guzel geldi 2 tane pil vardi",
           "score": 5.0
         },
         {
@@ -74,52 +70,8 @@
       "icon": "💬"
     },
     {
-      "name": "Donma & Rahatlıkla",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "alacak",
-        "kullanıyor",
-        "ediyor",
-        "donma",
-        "rahatlıkla",
-        "şimdilik",
-        "kelimeyle",
-        "tuşları"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok memnun kaldım sorunsuz kullanıyorum teşekkürler",
-        "çok rahat kullanıyorsunuz ben bayıldım",
-        "sağlam şekilde geldi almanızı tavsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok memnun kaldım sorunsuz kullanıyorum teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel beğendim teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "sağlam şekilde geldi almanızı tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok rahat kullanıyorsunuz ben bayıldım",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanımı Rahat",
-      "review_count": 8,
+      "name": "Kullanım & Kalite",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -127,23 +79,27 @@
         "kullanımı",
         "kalite",
         "paketleme",
-        "kaliteli",
-        "kullanımı rahat",
         "baya",
         "kalitesi",
-        "hoşuma"
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok kaliteli severek kullanıyorum ses çıkarmıyor gerçekten ve tutuşu çok rahat eli ve bileği hiç yormuyor",
-        "çok güzel paketlenmiş ve fiyatına göre süper bir ürün emeği geçen herkese teşekkürler",
-        "çok beğendim sessiz çalışıyor"
+        "philips kalitesi olduğu için aldım",
+        "evden çalışan biriyim artık gecede çalışabilirim çünkü tik tik mause sesi yok ürün kaliteli hızlı kargo teşekkürler",
+        "super çok güzel teşekkür ederim satıcıya da hediyesi ve özenli paketleme için kargoda çok iyi memnun oldum"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel paketlenmiş ve fiyatına göre süper bir ürün emeği geçen herkese teşekkürler",
+          "text": "evden çalışan biriyim artık gecede çalışabilirim çünkü tik tik mause sesi yok ürün kaliteli hızlı kargo teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "super çok güzel teşekkür ederim satıcıya da hediyesi ve özenli paketleme için kargoda çok iyi memnun oldum",
           "score": 5.0
         },
         {
@@ -151,43 +107,7 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendim sessiz çalışıyor",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyatı Uygun",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
-        "uygun",
-        "performans",
-        "paketlemesi",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "oldukça güzel bir ürün paketleme de iyiydi",
-        "biraz geç geldi ama güzel paket için teşekkürler gayette iyi v e sessiz bir şekilde kullanıyorum ürünü",
-        "philips kalitesi olduğu için aldım"
-      ],
-      "all_reviews": [
-        {
           "text": "oldukça güzel bir ürün paketleme de iyiydi",
-          "score": 5.0
-        },
-        {
-          "text": "biraz geç geldi ama güzel paket için teşekkürler gayette iyi v e sessiz bir şekilde kullanıyorum ürünü",
           "score": 5.0
         },
         {
@@ -198,20 +118,99 @@
       "icon": "💬"
     },
     {
-      "name": "Sessiz Rahat",
+      "name": "Sorunsuz",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "sorunsuz",
+        "paketleme",
+        "bunu",
+        "rengi",
+        "baya",
+        "sıkıntı",
+        "kalite"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "super çok güzel teşekkür ederim satıcıya da hediyesi ve özenli paketleme için kargoda çok iyi memnun oldum",
+        "çok memnun kaldım sorunsuz kullanıyorum teşekkürler",
+        "oldukça güzel bir ürün paketleme de iyiydi"
+      ],
+      "all_reviews": [
+        {
+          "text": "super çok güzel teşekkür ederim satıcıya da hediyesi ve özenli paketleme için kargoda çok iyi memnun oldum",
+          "score": 5.0
+        },
+        {
+          "text": "oldukça güzel bir ürün paketleme de iyiydi",
+          "score": 5.0
+        },
+        {
+          "text": "çok memnun kaldım sorunsuz kullanıyorum teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "güzel ürün sorunsuz sessiz çalışıyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
       "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "teslimat",
-        "paketleme",
-        "sorunsuz",
-        "kullanımı",
-        "çalışıyor",
-        "sessiz rahat",
-        "fiyat"
+        "uygun",
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "efsane",
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün gayet iyi kullanışlı rahat bir şekilde kullanabilirsiniz hem de uygun fiyatlı bir ürün",
+        "çok güzel paketlenmiş ve fiyatına göre süper bir ürün emeği geçen herkese teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel paketlenmiş ve fiyatına göre süper bir ürün emeği geçen herkese teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet iyi kullanışlı rahat bir şekilde kullanabilirsiniz hem de uygun fiyatlı bir ürün",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "North",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "north",
+        "oldum",
+        "şarj",
+        "biri",
+        "oturuyor",
+        "istedim",
+        "farklı",
+        "makro"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -233,30 +232,65 @@
       "icon": "💬"
     },
     {
-      "name": "Kablolu & Özellikle",
-      "review_count": 3,
+      "name": "Paketleme & Saglam",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "bunu",
-        "kablolu",
-        "özellikle",
-        "oyun",
-        "kullanım",
-        "sıkıntı",
-        "oyunlarda",
-        "rahatlıkla"
+        "paketlemesi",
+        "denedim",
+        "saglam",
+        "kelimeyle",
+        "tatli",
+        "icin",
+        "çokta",
+        "paketlenmesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "uzun zamandır kullanıyorum beklediğimden daha hoş sessiz ve tatlı bir mouse tavsiye ederim"
+        "super çok güzel teşekkür ederim satıcıya da hediyesi ve özenli paketleme için kargoda çok iyi memnun oldum",
+        "oldukça güzel bir ürün paketleme de iyiydi"
       ],
       "all_reviews": [
         {
-          "text": "uzun zamandır kullanıyorum beklediğimden daha hoş sessiz ve tatlı bir mouse tavsiye ederim",
+          "text": "super çok güzel teşekkür ederim satıcıya da hediyesi ve özenli paketleme için kargoda çok iyi memnun oldum",
+          "score": 5.0
+        },
+        {
+          "text": "oldukça güzel bir ürün paketleme de iyiydi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Donma & Rahatlıkla",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alacak",
+        "donma",
+        "rahatlıkla",
+        "şimdilik",
+        "kelimeyle",
+        "tuşları",
+        "çıkarmıyor",
+        "sorunsuz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "birkaç gün oluyor kullanıyorum şimdilik sorun yok mouse işte sessiz yanında pil de vardı hızlı kargo ve iyi ambalaj"
+      ],
+      "all_reviews": [
+        {
+          "text": "birkaç gün oluyor kullanıyorum şimdilik sorun yok mouse işte sessiz yanında pil de vardı hızlı kargo ve iyi ambalaj",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 4.56,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Moda Değirmeni Bej** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata & Numaranıza** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **taraklı** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"270 tl aldım indirimdi sanırım bilmiyorum ama sağlam geldi tam ayak numaranıza göre a…\"\n• **Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **numaranizi** ve **kullanışlı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel tam ayak numaranızı almanızı tavsiye ederim\"\n• **Numaramı & Kalıbı Rahat** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **derim** ve **kalip** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok rahat tam numaranızı alabilirsiniz sıkma yapmadı bende çok memnunum\"\n• **Buyuk & Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **rengi** ve **büyüğünü** başta olmak üzere. Örnek kullanıcı ifadesi: \"Rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu\"\n• Müşteri yorumlarında **Rahat Kaliteli** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **alınır** ve **duruşu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güzel ürün kendi bedenizde alın\"",
+  "summary": "Moda Değirmeni Bej, toplam 50 yorumda 4.6/5.0 puanına sahiptir. Ürünün özellikle numaranıza ve tarakl ile ilgili geri bildirimleri, 19 yorumda 4.84/5.0 puanına sahiptir. Fiyat performansına ilişkin yorumlar, 5 yorumda 4.4/5.0 puanına sahiptir. Alınır özelliklerine ilişkin yorumlar ise 5 yorumda 5.0/5.0 puanına sahiptir. Ürün genel olarak olumlu bir değerlendirme almıştır.",
   "score_distribution": {
     "1": 3,
     "2": 0,
@@ -18,24 +18,24 @@
   },
   "aspects": [
     {
-      "name": "Fiyata & Numaranıza",
-      "review_count": 16,
-      "avg_score": 4.81,
+      "name": "Numaranıza",
+      "review_count": 22,
+      "avg_score": 4.86,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "ayak",
-        "almışım",
-        "fiyata",
         "numaranıza",
-        "taraklı",
-        "rahatlığıyla",
-        "paketleme",
-        "geniş"
+        "kibar",
+        "biri",
+        "numaramı",
+        "tarakli",
+        "sıktı",
+        "ayağımı"
       ],
-      "positive_pct": 81.2,
+      "positive_pct": 86.4,
       "negative_pct": 0.0,
-      "neutral_pct": 18.8,
+      "neutral_pct": 13.6,
       "sample_reviews": [
         "270 tl aldım indirimdi sanırım bilmiyorum ama sağlam geldi tam ayak numaranıza göre alın derim",
         "çok beğendim ayakkabıyı indirimdeyken almıştım tam ayak numaranızı almanızı tavsiye ederim çok teşekkür ediyorum",
@@ -47,7 +47,123 @@
           "score": 5.0
         },
         {
+          "text": "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu",
+          "score": 5.0
+        },
+        {
+          "text": "270 tl aldım indirimdi sanırım bilmiyorum ama sağlam geldi tam ayak numaranıza göre alın derim",
+          "score": 5.0
+        },
+        {
           "text": "çok beğendim ayakkabıyı indirimdeyken almıştım tam ayak numaranızı almanızı tavsiye ederim çok teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "38 giyiyorum bı tık büyük geldi çok güzel ve rahat ayakkabı",
+          "score": 5.0
+        },
+        {
+          "text": "çok teşekkür ederim çok güzel rahat bir ayakkabı",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel tam ayak numaranızı almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabıları çok beğendim fiyatına göre gayet kullanışlı ve kendi numaranızı almanızı tavsiye ederim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaranıza & Tarakl",
+      "review_count": 19,
+      "avg_score": 4.84,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ayak",
+        "almışım",
+        "numaranıza",
+        "taraklı",
+        "rahatlığıyla",
+        "geniş",
+        "paketleme",
+        "numaranizi"
+      ],
+      "positive_pct": 84.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 15.8,
+      "sample_reviews": [
+        "270 tl aldım indirimdi sanırım bilmiyorum ama sağlam geldi tam ayak numaranıza göre alın derim",
+        "çok beğendim ayakkabıyı indirimdeyken almıştım tam ayak numaranızı almanızı tavsiye ederim çok teşekkür ediyorum",
+        "ayakkabıları çok beğendim fiyatına göre gayet kullanışlı ve kendi numaranızı almanızı tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ayakkabı tek kelimeyle şahane çok zarif duruyor kendi numaranızı alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "270 tl aldım indirimdi sanırım bilmiyorum ama sağlam geldi tam ayak numaranıza göre alın derim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim ayakkabıyı indirimdeyken almıştım tam ayak numaranızı almanızı tavsiye ederim çok teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "38 giyiyorum bı tık büyük geldi çok güzel ve rahat ayakkabı",
+          "score": 5.0
+        },
+        {
+          "text": "çok teşekkür ederim çok güzel rahat bir ayakkabı",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel tam ayak numaranızı almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabıları çok beğendim fiyatına göre gayet kullanışlı ve kendi numaranızı almanızı tavsiye ederim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaram",
+      "review_count": 17,
+      "avg_score": 4.82,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "numaramı",
+        "tane",
+        "kalıbı",
+        "derim",
+        "almışım",
+        "bayıldım",
+        "kalip",
+        "paketleme"
+      ],
+      "positive_pct": 82.4,
+      "negative_pct": 0.0,
+      "neutral_pct": 17.6,
+      "sample_reviews": [
+        "çok beğendim ayakkabıyı indirimdeyken almıştım tam ayak numaranızı almanızı tavsiye ederim çok teşekkür ediyorum",
+        "ayakkabıları çok beğendim fiyatına göre gayet kullanışlı ve kendi numaranızı almanızı tavsiye ederim",
+        "270 tl aldım indirimdi sanırım bilmiyorum ama sağlam geldi tam ayak numaranıza göre alın derim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok beğendim ayakkabıyı indirimdeyken almıştım tam ayak numaranızı almanızı tavsiye ederim çok teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu",
           "score": 5.0
         },
         {
@@ -59,7 +175,7 @@
           "score": 5.0
         },
         {
-          "text": "38 giyiyorum bı tık büyük geldi çok güzel ve rahat ayakkabı",
+          "text": "çok güzel tam ayak numaranızı almanızı tavsiye ederim",
           "score": 5.0
         },
         {
@@ -70,45 +186,102 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat",
-      "review_count": 13,
-      "avg_score": 4.62,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Fiyat Performans",
+      "review_count": 5,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "numaranizi",
-        "alin",
-        "alınmalı",
-        "alınmalı rahat",
-        "rahat rahat",
-        "kullanışlı",
-        "kaliteli rahat",
-        "numaranizi rahat"
+        "performans",
+        "fiyat performans",
+        "fiyat",
+        "uygun",
+        "emeği",
+        "kibar",
+        "arkadaşlar",
+        "kalitesi"
       ],
-      "positive_pct": 61.5,
+      "positive_pct": 40.0,
       "negative_pct": 0.0,
-      "neutral_pct": 38.5,
+      "neutral_pct": 60.0,
       "sample_reviews": [
-        "gayet rahat ve kullanışlı tam bedeninizi alın",
-        "çok güzel tam ayak numaranızı almanızı tavsiye ederim",
-        "güzel ve rahat geldi kendi bedeninizi alabilirsiniz"
+        "ürün tam fotoğraftaki gibi gerçekten çok beğendim çok şık ve kalitesi de güzel fiyat performans ürünü",
+        "ayakkabıları çok beğendim fiyatına göre gayet kullanışlı ve kendi numaranızı almanızı tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "gayet rahat ve kullanışlı tam bedeninizi alın",
+          "text": "ürün tam fotoğraftaki gibi gerçekten çok beğendim çok şık ve kalitesi de güzel fiyat performans ürünü",
           "score": 5.0
         },
         {
-          "text": "güzel ve rahat geldi kendi bedeninizi alabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel tam ayak numaranızı almanızı tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel rahat bi numara küçük alın",
+          "text": "ayakkabıları çok beğendim fiyatına göre gayet kullanışlı ve kendi numaranızı almanızı tavsiye ederim",
           "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınır",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınır",
+        "duruşu",
+        "hafif",
+        "bayıldım",
+        "aynı zamanda",
+        "çokta",
+        "zamanda",
+        "rengi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu",
+        "çok havalı duruşu var ben çokk beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok havalı duruşu var ben çokk beğendim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruyo",
+      "review_count": 5,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınmalı",
+        "duruyo",
+        "asla",
+        "alin",
+        "yumuşak",
+        "istediğim",
+        "kalıp kalıp",
+        "bayıldım"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 40.0,
+      "sample_reviews": [
+        "ayakkabı tek kelimeyle şahane çok zarif duruyor kendi numaranızı alabilirsiniz",
+        "yumuşak tavanlı güzel tam bedeni alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "ayakkabı tek kelimeyle şahane çok zarif duruyor kendi numaranızı alabilirsiniz",
+          "score": 5.0
         },
         {
           "text": "yumuşak tavanlı güzel tam bedeni alabilirsiniz",
@@ -118,118 +291,8 @@
       "icon": "💬"
     },
     {
-      "name": "Numaramı & Kalıbı Rahat",
-      "review_count": 8,
-      "avg_score": 3.5,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
-      "top_terms": [
-        "numaramı",
-        "tane",
-        "kalıbı",
-        "derim",
-        "bayıldım",
-        "almışım",
-        "kalip",
-        "sağlam"
-      ],
-      "positive_pct": 62.5,
-      "negative_pct": 37.5,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok rahat tam numaranızı alabilirsiniz sıkma yapmadı bende çok memnunum",
-        "çok havalı duruşu var ben çokk beğendim",
-        "ürün poset gibi geldi cok kotu almayin"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok rahat tam numaranızı alabilirsiniz sıkma yapmadı bende çok memnunum",
-          "score": 5.0
-        },
-        {
-          "text": "çok havalı duruşu var ben çokk beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "ürün poset gibi geldi cok kotu almayin",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Buyuk & Rahat",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "buyuk",
-        "rengi",
-        "asla",
-        "büyüğünü",
-        "numaramı",
-        "beğenerek",
-        "duruşu",
-        "bakarak"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu",
-        "ben çok beğendim normlde 38-39 giyniyorum 38 aldım tam oldu"
-      ],
-      "all_reviews": [
-        {
-          "text": "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu",
-          "score": 5.0
-        },
-        {
-          "text": "ben çok beğendim normlde 38-39 giyniyorum 38 aldım tam oldu",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat Kaliteli",
+      "name": "Geniş",
       "review_count": 4,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "rahat kaliteli",
-        "alınır",
-        "duruşu",
-        "bayıldım rahat",
-        "rahat bayıldım",
-        "hafif",
-        "sağlam",
-        "bayıldım"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "güzel ürün kendi bedenizde alın",
-        "çok rahat ve güzel"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok rahat ve güzel",
-          "score": 5.0
-        },
-        {
-          "text": "güzel ürün kendi bedenizde alın",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Duruşu Rahat",
-      "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -238,50 +301,85 @@
         "kalitesi",
         "olduğunu",
         "zamanla",
-        "duruşu rahat",
-        "rahat rahat",
+        "çokk",
         "numaram",
-        "çokk"
+        "yumuşak",
+        "fakat"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel kızım için aldım sevdi"
+        "ürün tam fotoğraftaki gibi gerçekten çok beğendim çok şık ve kalitesi de güzel fiyat performans ürünü",
+        "çok havalı duruşu var ben çokk beğendim"
       ],
       "all_reviews": [
         {
-          "text": "güzel kızım için aldım sevdi",
+          "text": "çok havalı duruşu var ben çokk beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün tam fotoğraftaki gibi gerçekten çok beğendim çok şık ve kalitesi de güzel fiyat performans ürünü",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 2,
+      "name": "Buyuk / Fiyat Performans",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "performans",
-        "fiyat performans",
-        "fiyat",
-        "fiyata",
-        "uygun",
-        "emeği",
-        "kibar",
-        "arkadaşlar"
+        "buyuk",
+        "asla",
+        "rengi",
+        "büyüğünü",
+        "beğenerek",
+        "numaramı",
+        "duruşu",
+        "bakarak"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün tam fotoğraftaki gibi gerçekten çok beğendim çok şık ve kalitesi de güzel fiyat performans ürünü"
+        "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu"
       ],
       "all_reviews": [
         {
-          "text": "ürün tam fotoğraftaki gibi gerçekten çok beğendim çok şık ve kalitesi de güzel fiyat performans ürünü",
+          "text": "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Uygun",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklemiyordum",
+        "uygun",
+        "resimde",
+        "rengi",
+        "edebilirsiniz",
+        "rahatlıkla",
+        "spor",
+        "ettiğim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "rengi duruşu çok güzel sorunsuz geldi 38 giyiyorum tam numaramı aldım oldu",
           "score": 5.0
         }
       ],

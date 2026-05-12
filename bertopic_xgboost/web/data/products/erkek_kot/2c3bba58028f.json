@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**AC&Co / Altınyıldız Classics Erkek Petrol Mavisi Ekstra** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: 32 beden aldım super rahat fakat boy uzun ama kalite mükemmel.\n• **Kalite & Alınabilir**: Efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey.\n• **Kalite & Fiyat**: Çok uygun fiyata geldi harika pantolon duruşu kesimi 3q beden tam oldu.\n• **Kalite & Kalıb**: 32 beden aldım super rahat fakat boy uzun ama kalite mükemmel.\n• **Kumaş**: Esim için aldım çok beğendi duruşu ve rengi çok guzel oldukça da rahat hemen bir rengini daha sipariş ettik.",
+  "summary": "Altınyıldız Classics Erkek Petrol Mavisi Ekstra, kullanıcılarını tatmin eden ürünlerden biri. Fiyat performans, kalite, alınabilirlik ve tasarım gibi kritik özellikler için genel bir puan 5.0/5.0'dur. Ürün yorumlarında, kumaşın dekoratifliği, fiyatının adililiği ve kalitenin yüksek olması kullanıcıların memnuniyetini artırmıştır. Bu ürünün genel değerlendirmesi, profesyonelleştirilmiş bir akışa sahip olan 5.0/5.0 puanlı toplam 50 yorumdaki pozitif görüşlerin sonucu olarak ortaya çıkmıştır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -19,7 +19,7 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 41,
+      "review_count": 46,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -47,7 +47,11 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendim tam beden",
+          "text": "177 78 kg 32 beden güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden almanızı öneririm harbi kaliteli duruşu falan efsane tavsiye ederim",
           "score": 5.0
         },
         {
@@ -79,7 +83,7 @@
           "score": 5.0
         },
         {
-          "text": "177 78 kg 32 beden güzel oldu",
+          "text": "ürün elime hızlı ve sorunsuz bir şekilde yetişti tam beden uyumlu aldım ve öyle geldi teşekkürler",
           "score": 5.0
         },
         {
@@ -103,7 +107,11 @@
           "score": 5.0
         },
         {
-          "text": "tam beden almanızı öneririm harbi kaliteli duruşu falan efsane tavsiye ederim",
+          "text": "çok uygun fiyata geldi harika pantolon duruşu kesimi 3q beden tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim tam beden",
           "score": 5.0
         }
       ],
@@ -111,7 +119,7 @@
     },
     {
       "name": "Kalite & Alınabilir",
-      "review_count": 12,
+      "review_count": 26,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -129,21 +137,37 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "çok begendim kesim kalıp beden renk kumaş dokusu herşeyle mükemmel yapanın eline sağlık emek verilmis 19 eylül 2024 te üstüme tam oturan sonunda bir kot pantolonum oldu boy 180 kilo 78 31 beden tam geldi",
         "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
-        "tam beden alınabilir 1.85 82",
-        "32 beden aldım super rahat fakat boy uzun ama kalite mükemmel"
+        "tam beden alınabilir 1.85 82"
       ],
       "all_reviews": [
+        {
+          "text": "çok begendim kesim kalıp beden renk kumaş dokusu herşeyle mükemmel yapanın eline sağlık emek verilmis 19 eylül 2024 te üstüme tam oturan sonunda bir kot pantolonum oldu boy 180 kilo 78 31 beden tam geldi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli 176 boy 76 kg ile m bedeni tam uydu tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "eşim için aldım 178 92 kilo 34 beden tam oldu hızlı kargo çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden almanızı öneririm harbi kaliteli duruşu falan efsane tavsiye ederim",
+          "score": 5.0
+        },
         {
           "text": "32 beden aldım super rahat fakat boy uzun ama kalite mükemmel",
           "score": 5.0
         },
         {
-          "text": "tam beden alınabilir 1.85 82",
+          "text": "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
           "score": 5.0
         },
         {
-          "text": "tam beden alın ürün güzel kaliteli üzerime tam oturdu",
+          "text": "ürun çok güzel ve kaliteli kullanışlı ben çok beğendim almanızı tafsiye ederim pişman olmassınız kendi bedeninizi alı",
           "score": 5.0
         },
         {
@@ -151,7 +175,11 @@
           "score": 5.0
         },
         {
-          "text": "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
+          "text": "tam beden alın ürün güzel kaliteli üzerime tam oturdu",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden alınabilir 1.85 82",
           "score": 5.0
         }
       ],
@@ -159,7 +187,7 @@
     },
     {
       "name": "Kalite & Fiyat",
-      "review_count": 12,
+      "review_count": 23,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -178,12 +206,16 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "çok uygun fiyata geldi harika pantolon duruşu kesimi 3q beden tam oldu",
-        "32 beden aldım super rahat fakat boy uzun ama kalite mükemmel",
-        "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey"
+        "ürun çok güzel ve kaliteli kullanışlı ben çok beğendim almanızı tafsiye ederim pişman olmassınız kendi bedeninizi alı",
+        "tam beden almanızı öneririm harbi kaliteli duruşu falan efsane tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "32 beden aldım super rahat fakat boy uzun ama kalite mükemmel",
+          "text": "ürün çok kaliteli 176 boy 76 kg ile m bedeni tam uydu tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden almanızı öneririm harbi kaliteli duruşu falan efsane tavsiye ederim",
           "score": 5.0
         },
         {
@@ -191,7 +223,15 @@
           "score": 5.0
         },
         {
-          "text": "tam beden alın ürün güzel kaliteli üzerime tam oturdu",
+          "text": "32 beden aldım super rahat fakat boy uzun ama kalite mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
+          "score": 5.0
+        },
+        {
+          "text": "ürun çok güzel ve kaliteli kullanışlı ben çok beğendim almanızı tafsiye ederim pişman olmassınız kendi bedeninizi alı",
           "score": 5.0
         },
         {
@@ -199,7 +239,11 @@
           "score": 5.0
         },
         {
-          "text": "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
+          "text": "tam beden alın ürün güzel kaliteli üzerime tam oturdu",
+          "score": 5.0
+        },
+        {
+          "text": "eşim için aldım 178 92 kilo 34 beden tam oldu hızlı kargo çok kaliteli",
           "score": 5.0
         }
       ],
@@ -207,7 +251,7 @@
     },
     {
       "name": "Kalite & Kalıb",
-      "review_count": 9,
+      "review_count": 20,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -227,15 +271,27 @@
       "sample_reviews": [
         "32 beden aldım super rahat fakat boy uzun ama kalite mükemmel",
         "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
-        "tam beden alın ürün güzel kaliteli üzerime tam oturdu"
+        "ürun çok güzel ve kaliteli kullanışlı ben çok beğendim almanızı tafsiye ederim pişman olmassınız kendi bedeninizi alı"
       ],
       "all_reviews": [
+        {
+          "text": "ürün çok kaliteli 176 boy 76 kg ile m bedeni tam uydu tavsiye ederim",
+          "score": 5.0
+        },
         {
           "text": "32 beden aldım super rahat fakat boy uzun ama kalite mükemmel",
           "score": 5.0
         },
         {
-          "text": "tam beden alın ürün güzel kaliteli üzerime tam oturdu",
+          "text": "tam beden almanızı öneririm harbi kaliteli duruşu falan efsane tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
+          "score": 5.0
+        },
+        {
+          "text": "ürun çok güzel ve kaliteli kullanışlı ben çok beğendim almanızı tafsiye ederim pişman olmassınız kendi bedeninizi alı",
           "score": 5.0
         },
         {
@@ -243,7 +299,11 @@
           "score": 5.0
         },
         {
-          "text": "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
+          "text": "tam beden alın ürün güzel kaliteli üzerime tam oturdu",
+          "score": 5.0
+        },
+        {
+          "text": "eşim için aldım 178 92 kilo 34 beden tam oldu hızlı kargo çok kaliteli",
           "score": 5.0
         }
       ],
@@ -251,7 +311,7 @@
     },
     {
       "name": "Kumaş",
-      "review_count": 5,
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -270,11 +330,16 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "esim için aldım çok beğendi duruşu ve rengi çok guzel oldukça da rahat hemen bir rengini daha sipariş ettik",
-        "çok begendim kesim kalıp beden renk kumaş dokusu herşeyle mükemmel yapanın eline sağlık emek verilmis 19 eylül 2024 te üstüme tam oturan sonunda bir kot pantolonum oldu boy 180 kilo 78 31 beden tam geldi"
+        "çok begendim kesim kalıp beden renk kumaş dokusu herşeyle mükemmel yapanın eline sağlık emek verilmis 19 eylül 2024 te üstüme tam oturan sonunda bir kot pantolonum oldu boy 180 kilo 78 31 beden tam geldi",
+        "çok uygun fiyata geldi harika pantolon duruşu kesimi 3q beden tam oldu"
       ],
       "all_reviews": [
         {
           "text": "çok begendim kesim kalıp beden renk kumaş dokusu herşeyle mükemmel yapanın eline sağlık emek verilmis 19 eylül 2024 te üstüme tam oturan sonunda bir kot pantolonum oldu boy 180 kilo 78 31 beden tam geldi",
+          "score": 5.0
+        },
+        {
+          "text": "çok uygun fiyata geldi harika pantolon duruşu kesimi 3q beden tam oldu",
           "score": 5.0
         },
         {
@@ -286,7 +351,7 @@
     },
     {
       "name": "Kalıp",
-      "review_count": 5,
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -305,15 +370,52 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "super tam beden alin",
+        "çok begendim kesim kalıp beden renk kumaş dokusu herşeyle mükemmel yapanın eline sağlık emek verilmis 19 eylül 2024 te üstüme tam oturan sonunda bir kot pantolonum oldu boy 180 kilo 78 31 beden tam geldi",
         "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey"
       ],
       "all_reviews": [
+        {
+          "text": "çok begendim kesim kalıp beden renk kumaş dokusu herşeyle mükemmel yapanın eline sağlık emek verilmis 19 eylül 2024 te üstüme tam oturan sonunda bir kot pantolonum oldu boy 180 kilo 78 31 beden tam geldi",
+          "score": 5.0
+        },
         {
           "text": "super tam beden alin",
           "score": 5.0
         },
         {
           "text": "efsane bir ürün bedeninizi alın tam kalıp kalite üst düzey",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Siyah",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "siyah",
+        "yumuşacık",
+        "alınmalı",
+        "rengi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "esim için aldım çok beğendi duruşu ve rengi çok guzel oldukça da rahat hemen bir rengini daha sipariş ettik",
+        "ürün çok güzel tam beden aldık"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün çok güzel tam beden aldık",
+          "score": 5.0
+        },
+        {
+          "text": "esim için aldım çok beğendi duruşu ve rengi çok guzel oldukça da rahat hemen bir rengini daha sipariş ettik",
           "score": 5.0
         }
       ],
@@ -344,33 +446,6 @@
       "all_reviews": [
         {
           "text": "çok begendim kesim kalıp beden renk kumaş dokusu herşeyle mükemmel yapanın eline sağlık emek verilmis 19 eylül 2024 te üstüme tam oturan sonunda bir kot pantolonum oldu boy 180 kilo 78 31 beden tam geldi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Siyah",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "aldık",
-        "siyah",
-        "yumuşacık",
-        "alınmalı",
-        "rengi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün çok güzel tam beden aldık"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün çok güzel tam beden aldık",
           "score": 5.0
         }
       ],

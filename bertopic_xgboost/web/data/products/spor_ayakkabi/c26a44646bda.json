@@ -8,7 +8,7 @@
   "overall_score": 4.32,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "**N MODA Unisex Beyaz Siyah Termo Taban Yanı Şeritli Bağc** için 50 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Numaramı & Kalıbı Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **derim** ve **kalip** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel geldi hediye için de ayrıca teşekkür ederim gayet kaliteli tavsiye ederim\"\n• **Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **fiyata** ve **uygun** başta olmak üzere. Örnek kullanıcı ifadesi: \"Eksiksiz temiz ve hızlı geldi fiyatına göre orta kalite bence gayet iyi\"\n• Kullanıcılar **Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **numaranizi** ve **kullanışlı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok hoşuma gitti ama bı numara büyük alınabilir\"\n• **Fiyata & Numaranıza** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **taraklı** ve **rahatlığıyla** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ayakkabı çok iyi gerçekten bu fiyata asla böyle bişey beklemiyordum harikaydı hızlı t…\"\n• **Duruşu Rahat** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **geniş** ve **kalitesi** konusu özellikle vurgulanmaktadır.",
+  "summary": "N MODA Unisex Beyaz Siyah Termo Taban Yanı Şeritli Bağc, müşterilerin genel memnuniyetini yüksek düzeyde karşılayan bir ürün olarak öne çıkıyor. Ürün, özellikle numara ve fiyat performansına yönelik yorumların %85'i olumlu puanlarla değerlendiriliyor. Ayrıca, numaranıza ve tarakl ile genişlik gibi diğer özellikler de benzer olumlu puanlar alıyor. Müşterilerin genel memnuniyetinin 4.3/5.0 seviyesinde olduğu bu ürün, yüksek kalite ve performansı ile tatmin eden bir seçim olarak sunuyor.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,32 +18,40 @@
   },
   "aspects": [
     {
-      "name": "Numaramı & Kalıbı Rahat",
-      "review_count": 19,
-      "avg_score": 4.42,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Numaram",
+      "review_count": 22,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
         "numaramı",
         "tane",
         "kalıbı",
         "derim",
-        "bayıldım",
         "almışım",
+        "bayıldım",
         "kalip",
-        "sağlam"
+        "paketleme"
       ],
-      "positive_pct": 57.9,
+      "positive_pct": 63.6,
       "negative_pct": 0.0,
-      "neutral_pct": 42.1,
+      "neutral_pct": 36.4,
       "sample_reviews": [
-        "çok güzel geldi hediye için de ayrıca teşekkür ederim gayet kaliteli tavsiye ederim",
-        "gerçekten çok güzel bir ürün almanızı tavsiye ederim alanlar iyi günlerde kullansın",
-        "ayakkabi fotoĝrafta gibi geldi hediye icin teşekkür ederim"
+        "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
+        "ayakkabı bekledıgım gıbı geldı indirimde almıştım 360 gibi bir fiyat denk geldı yani bu fiyata bedava diyebilirim ayrıca hediyeniz için de teşekkür ederim",
+        "çok güzel geldi hediye için de ayrıca teşekkür ederim gayet kaliteli tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel geldi hediye için de ayrıca teşekkür ederim gayet kaliteli tavsiye ederim",
+          "text": "ürünleriniz çok güzel di ve hediyeniz için ekstra teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı bekledıgım gıbı geldı indirimde almıştım 360 gibi bir fiyat denk geldı yani bu fiyata bedava diyebilirim ayrıca hediyeniz için de teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabi fotoĝrafta gibi geldi hediye icin teşekkür ederim",
           "score": 5.0
         },
         {
@@ -51,11 +59,7 @@
           "score": 5.0
         },
         {
-          "text": "paketleme böyleydi herkese hediye var bana yok bu kırdı tam benden alın bence 37 sıkıyor diye38 alayım dedim sonradan ya küçük olursa diyerek 39 aldım ve önünde boşluk var ama sevdim tam bir fiyat performans ürünü diyebiliriz 3 günde geldi hediye yok yaa",
-          "score": 5.0
-        },
-        {
-          "text": "ayakkabi fotoĝrafta gibi geldi hediye icin teşekkür ederim",
+          "text": "çok güzel geldi hediye için de ayrıca teşekkür ederim gayet kaliteli tavsiye ederim",
           "score": 5.0
         },
         {
@@ -67,7 +71,7 @@
           "score": 4.0
         },
         {
-          "text": "çok hızlı geli fakat yırtık geldi iade edeceğim 3 yıldızı'da hızlı gelmesine verdim",
+          "text": "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
           "score": 3.0
         }
       ],
@@ -75,31 +79,35 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 11,
-      "avg_score": 4.64,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "review_count": 17,
+      "avg_score": 4.41,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "performans",
         "fiyat performans",
         "fiyat",
-        "fiyata",
         "uygun",
         "emeği",
         "kibar",
-        "arkadaşlar"
+        "arkadaşlar",
+        "kalitesi"
       ],
-      "positive_pct": 63.6,
+      "positive_pct": 58.8,
       "negative_pct": 0.0,
-      "neutral_pct": 36.4,
+      "neutral_pct": 41.2,
       "sample_reviews": [
-        "replika ürün ama fiyata göre guzel bi sure idare eder",
-        "eksiksiz temiz ve hızlı geldi fiyatına göre orta kalite bence gayet iyi",
-        "ürün 2 günde geldi çok iyi fiyatı na göre çok iyi"
+        "paketleme böyleydi herkese hediye var bana yok bu kırdı tam benden alın bence 37 sıkıyor diye38 alayım dedim sonradan ya küçük olursa diyerek 39 aldım ve önünde boşluk var ama sevdim tam bir fiyat performans ürünü diyebiliriz 3 günde geldi hediye yok yaa",
+        "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
+        "ayakkabı bekledıgım gıbı geldı indirimde almıştım 360 gibi bir fiyat denk geldı yani bu fiyata bedava diyebilirim ayrıca hediyeniz için de teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "ürünleriniz çok güzel di ve hediyeniz için ekstra teşekkür ederim",
+          "text": "ayakkabı bekledıgım gıbı geldı indirimde almıştım 360 gibi bir fiyat denk geldı yani bu fiyata bedava diyebilirim ayrıca hediyeniz için de teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı çok iyi gerçekten bu fiyata asla böyle bişey beklemiyordum harikaydı hızlı teslim aldım hem rahat hem ucuz daha ne isterki insan",
           "score": 5.0
         },
         {
@@ -107,87 +115,103 @@
           "score": 5.0
         },
         {
-          "text": "ürün gayet sağlam ve güzel geldi",
+          "text": "paketleme böyleydi herkese hediye var bana yok bu kırdı tam benden alın bence 37 sıkıyor diye38 alayım dedim sonradan ya küçük olursa diyerek 39 aldım ve önünde boşluk var ama sevdim tam bir fiyat performans ürünü diyebiliriz 3 günde geldi hediye yok yaa",
           "score": 5.0
+        },
+        {
+          "text": "replika ürün ama fiyata göre guzel bi sure idare eder",
+          "score": 4.0
         },
         {
           "text": "eksiksiz temiz ve hızlı geldi fiyatına göre orta kalite bence gayet iyi",
           "score": 4.0
         },
         {
-          "text": "replika ürün ama fiyata göre guzel bi sure idare eder",
-          "score": 4.0
+          "text": "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat",
-      "review_count": 8,
-      "avg_score": 4.38,
+      "name": "Numaranıza",
+      "review_count": 14,
+      "avg_score": 4.36,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "numaranizi",
-        "alin",
-        "alınmalı",
-        "alınmalı rahat",
-        "rahat rahat",
-        "kullanışlı",
-        "kaliteli rahat",
-        "numaranizi rahat"
+        "ayak",
+        "numaranıza",
+        "kibar",
+        "biri",
+        "numaramı",
+        "tarakli",
+        "sıktı",
+        "ayağımı"
       ],
-      "positive_pct": 37.5,
+      "positive_pct": 57.1,
       "negative_pct": 0.0,
-      "neutral_pct": 62.5,
+      "neutral_pct": 42.9,
       "sample_reviews": [
-        "çok hoşuma gitti ama bı numara büyük alınabilir",
-        "çok güzel alın aldırın",
-        "ip yırtık geldi"
+        "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
+        "ayakkabı bekledıgım gıbı geldı indirimde almıştım 360 gibi bir fiyat denk geldı yani bu fiyata bedava diyebilirim ayrıca hediyeniz için de teşekkür ederim",
+        "ayakkabı çok iyi gerçekten bu fiyata asla böyle bişey beklemiyordum harikaydı hızlı teslim aldım hem rahat hem ucuz daha ne isterki insan"
       ],
       "all_reviews": [
         {
-          "text": "çok hoşuma gitti ama bı numara büyük alınabilir",
+          "text": "ayakkabı bekledıgım gıbı geldı indirimde almıştım 360 gibi bir fiyat denk geldı yani bu fiyata bedava diyebilirim ayrıca hediyeniz için de teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "ip yırtık geldi",
+          "text": "ayakkabi fotoĝrafta gibi geldi hediye icin teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı çok iyi gerçekten bu fiyata asla böyle bişey beklemiyordum harikaydı hızlı teslim aldım hem rahat hem ucuz daha ne isterki insan",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fp ürünü kendi numaramı aldım tam oldu",
           "score": 4.0
         },
         {
-          "text": "çok güzel alın aldırın",
-          "score": 4.0
+          "text": "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata & Numaranıza",
-      "review_count": 8,
-      "avg_score": 4.25,
+      "name": "Numaranıza & Tarakl",
+      "review_count": 11,
+      "avg_score": 4.45,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "ayak",
         "almışım",
-        "fiyata",
         "numaranıza",
         "taraklı",
         "rahatlığıyla",
+        "geniş",
         "paketleme",
-        "geniş"
+        "numaranizi"
       ],
-      "positive_pct": 62.5,
+      "positive_pct": 72.7,
       "negative_pct": 0.0,
-      "neutral_pct": 37.5,
+      "neutral_pct": 27.3,
       "sample_reviews": [
+        "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
         "ayakkabı bekledıgım gıbı geldı indirimde almıştım 360 gibi bir fiyat denk geldı yani bu fiyata bedava diyebilirim ayrıca hediyeniz için de teşekkür ederim",
-        "ayakkabı çok iyi gerçekten bu fiyata asla böyle bişey beklemiyordum harikaydı hızlı teslim aldım hem rahat hem ucuz daha ne isterki insan",
-        "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim"
+        "ayakkabı çok iyi gerçekten bu fiyata asla böyle bişey beklemiyordum harikaydı hızlı teslim aldım hem rahat hem ucuz daha ne isterki insan"
       ],
       "all_reviews": [
         {
           "text": "ayakkabı bekledıgım gıbı geldı indirimde almıştım 360 gibi bir fiyat denk geldı yani bu fiyata bedava diyebilirim ayrıca hediyeniz için de teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabi fotoĝrafta gibi geldi hediye icin teşekkür ederim",
           "score": 5.0
         },
         {
@@ -202,61 +226,71 @@
       "icon": "💬"
     },
     {
-      "name": "Duruşu Rahat",
-      "review_count": 2,
-      "avg_score": 1.0,
-      "sentiment": "negative",
-      "sentiment_label": "Olumsuz",
+      "name": "Geniş",
+      "review_count": 8,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "geniş",
         "kalitesi",
         "olduğunu",
         "zamanla",
-        "duruşu rahat",
-        "rahat rahat",
+        "çokk",
         "numaram",
-        "çokk"
+        "yumuşak",
+        "fakat"
       ],
-      "positive_pct": 0.0,
-      "negative_pct": 100.0,
-      "neutral_pct": 0.0,
+      "positive_pct": 37.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 62.5,
       "sample_reviews": [
-        "hiç bir işe yaramıyor eşim ikinci günü giyemedi hemen yırtıldı verdiğim paraya yazik"
+        "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
+        "çok güzel geldi hediye için de ayrıca teşekkür ederim gayet kaliteli tavsiye ederim",
+        "eksiksiz temiz ve hızlı geldi fiyatına göre orta kalite bence gayet iyi"
       ],
       "all_reviews": [
         {
-          "text": "hiç bir işe yaramıyor eşim ikinci günü giyemedi hemen yırtıldı verdiğim paraya yazik",
-          "score": 1.0
+          "text": "çok güzel geldi hediye için de ayrıca teşekkür ederim gayet kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "eksiksiz temiz ve hızlı geldi fiyatına göre orta kalite bence gayet iyi",
+          "score": 4.0
+        },
+        {
+          "text": "ayakkabı kalitesi ortalama zaten fiyatı aman aman değil o yüzden çok kaliteli bişey beklemeyin ama yinede çok güzelll ayrıca pofuduk hediye terlik içinde teşekkür ederim çok beğendim",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Buyuk & Rahat",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Fakat / Alınabilir Kalıp",
+      "review_count": 3,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "buyuk",
-        "rengi",
-        "asla",
-        "büyüğünü",
-        "numaramı",
-        "beğenerek",
-        "duruşu",
-        "bakarak"
+        "fakat",
+        "bakarak",
+        "ayağımı",
+        "taraklı",
+        "kibar",
+        "diye",
+        "yumuşak",
+        "uzun"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 0.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 100.0,
       "sample_reviews": [
-        "ürün geldiğinde kenarları açıktı japon yapıştırıcısı ile yapıştırdım yapıştırmadan önce fotoğraf çekmeyi unuttum boşuna paranızı harcamayın arkadaşlar"
+        "çok hızlı geli fakat yırtık geldi iade edeceğim 3 yıldızı'da hızlı gelmesine verdim"
       ],
       "all_reviews": [
         {
-          "text": "ürün geldiğinde kenarları açıktı japon yapıştırıcısı ile yapıştırdım yapıştırmadan önce fotoğraf çekmeyi unuttum boşuna paranızı harcamayın arkadaşlar",
-          "score": 5.0
+          "text": "çok hızlı geli fakat yırtık geldi iade edeceğim 3 yıldızı'da hızlı gelmesine verdim",
+          "score": 3.0
         }
       ],
       "icon": "💬"

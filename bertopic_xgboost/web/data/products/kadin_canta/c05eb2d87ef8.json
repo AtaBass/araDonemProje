@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Housebags Kahverengi Süet Çok Yönlü PU Deri Omuz Asklı ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **geniş** ve **boyutu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Fiyatına göre okadar güzel bir çantaki bayıldım rengine dokusuna çok severek kullanıy…\"\n• **Rengi & Boyutu Ideal**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **boyutta** ve **ideal** başta olmak üzere. Örnek kullanıcı ifadesi: \"Rengi durusu boyutu vs herseyi benim icin ideal begendim kargosuda hızlıydı bu fiyata…\"\n• Kullanıcılar **Kaliteli & Yumuşacık Derisi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kullanışlı** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kargo hızlıydı çantanın duruşu boyutu tam beklediğim gibi ve çok şık fiyatına göre ço…\"\n• **Rahatlıkla** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kokusu** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyat…\"\n• Müşteri yorumlarında **Cüzdan Telefon** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **rahatlıkla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bayıldım çok tatlı bir çanta içine de günlük eşyalarınızı rahatlıkla alır\"",
+  "summary": "Housebags Kahverengi Süet Çok Yönlü PU Deri Omuz Asklı, kullanıcılarının beğenilerine layık bir ürün olarak ortaya çıkıyor. Geniş ve boyutsal özellikleri ile fiyat performansını başarıyla sunuyor. Kullanıcılar, ürünün renginin ve boyutunun idealine uygunluğunu da onaylıyor. Ayrıca, kokusu ve zarafetini de takdir ediyor. Genel memnuniyet puanı 5.0/5.0 olan bu ürünü, mükemmel bir seçim olarak öneriyoruz.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,32 +18,32 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Rahat",
-      "review_count": 12,
+      "name": "Geniş & Boyut",
+      "review_count": 25,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
         "spor",
-        "rahat",
         "geniş",
         "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
         "bayıldım",
-        "kullanışlı",
-        "çantası"
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
         "fiyatına göre okadar güzel bir çantaki bayıldım rengine dokusuna çok severek kullanıyorum bence alın aldırın bana güvenin bende bir şeyler alırken tereddütte kalıyorum ama bunda kalmayınn",
-        "mükemmel bir çanta okadar tatlı ve kullanışlı ki aşık oldum",
-        "eskmin iş arkadaşına yılbaşı hediyesi olarak aldım gayet şık bir çanta büyüklüğü de yeterli bir tane de kendime aldım"
+        "rengi durusu boyutu vs herseyi benim icin ideal begendim kargosuda hızlıydı bu fiyata cok iyi tesekkurler"
       ],
       "all_reviews": [
         {
-          "text": "mükemmel bir çanta okadar tatlı ve kullanışlı ki aşık oldum",
+          "text": "rengi durusu boyutu vs herseyi benim icin ideal begendim kargosuda hızlıydı bu fiyata cok iyi tesekkurler",
           "score": 5.0
         },
         {
@@ -51,7 +51,19 @@
           "score": 5.0
         },
         {
-          "text": "çantayı kardeşimle görüp aldım çok beğendim küçük görünmesine rağmen içine bir sürü şey sığdırabiliyorsunuz",
+          "text": "mükemmel bir çanta okadar tatlı ve kullanışlı ki aşık oldum",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım çok tatlı bir çanta içine de günlük eşyalarınızı rahatlıkla alır",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikle her rengi alınmalı şahane bir çanta",
+          "score": 5.0
+        },
+        {
+          "text": "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
           "score": 5.0
         },
         {
@@ -59,15 +71,71 @@
           "score": 5.0
         },
         {
-          "text": "kesinlikle her rengi alınmalı şahane bir çanta",
+          "text": "muhteşem bi çantaa kesinlikle alın",
+          "score": 5.0
+        },
+        {
+          "text": "çantayı kardeşimle görüp aldım çok beğendim küçük görünmesine rağmen içine bir sürü şey sığdırabiliyorsunuz",
+          "score": 5.0
+        },
+        {
+          "text": "kargo hızlıydı çantanın duruşu boyutu tam beklediğim gibi ve çok şık fiyatına göre çok başarılı",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rengi & Boyutu Ideal",
-      "review_count": 9,
+      "name": "Fiyat Performans",
+      "review_count": 14,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "performans",
+        "fiyat performans",
+        "fiyat",
+        "ideal",
+        "buyuk",
+        "uygun",
+        "gore",
+        "boyutu"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "rengi durusu boyutu vs herseyi benim icin ideal begendim kargosuda hızlıydı bu fiyata cok iyi tesekkurler",
+        "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
+        "kargo hızlıydı çantanın duruşu boyutu tam beklediğim gibi ve çok şık fiyatına göre çok başarılı"
+      ],
+      "all_reviews": [
+        {
+          "text": "rengi durusu boyutu vs herseyi benim icin ideal begendim kargosuda hızlıydı bu fiyata cok iyi tesekkurler",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre okadar güzel bir çantaki bayıldım rengine dokusuna çok severek kullanıyorum bence alın aldırın bana güvenin bende bir şeyler alırken tereddütte kalıyorum ama bunda kalmayınn",
+          "score": 5.0
+        },
+        {
+          "text": "kargo hızlıydı çantanın duruşu boyutu tam beklediğim gibi ve çok şık fiyatına göre çok başarılı",
+          "score": 5.0
+        },
+        {
+          "text": "rengi çok güzel fiyatına göre kalitesi de iyi",
+          "score": 5.0
+        },
+        {
+          "text": "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rengi / Boyut Ideal",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -77,17 +145,17 @@
         "gözüküyor",
         "boyutta",
         "sert",
-        "ideal",
         "başka",
-        "boyutu"
+        "ideal",
+        "beklediğim"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "rengi durusu boyutu vs herseyi benim icin ideal begendim kargosuda hızlıydı bu fiyata cok iyi tesekkurler",
-        "rengi çok güzel fiyatına göre kalitesi de iyi",
-        "iki renginide aldım çok güzel"
+        "fiyatına göre okadar güzel bir çantaki bayıldım rengine dokusuna çok severek kullanıyorum bence alın aldırın bana güvenin bende bir şeyler alırken tereddütte kalıyorum ama bunda kalmayınn",
+        "kesinlikle her rengi alınmalı şahane bir çanta"
       ],
       "all_reviews": [
         {
@@ -99,67 +167,35 @@
           "score": 5.0
         },
         {
+          "text": "fiyatına göre okadar güzel bir çantaki bayıldım rengine dokusuna çok severek kullanıyorum bence alın aldırın bana güvenin bende bir şeyler alırken tereddütte kalıyorum ama bunda kalmayınn",
+          "score": 5.0
+        },
+        {
           "text": "rengi çok güzel fiyatına göre kalitesi de iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikle her rengi alınmalı şahane bir çanta",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Yumuşacık Derisi",
+      "name": "Koku",
       "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel ve kaliteli kesinlikle alınnnn",
-        "kargo hızlıydı çantanın duruşu boyutu tam beklediğim gibi ve çok şık fiyatına göre çok başarılı",
-        "kalitesi muhteşem gönül rahatlığıyla alabilirsiniz kızlar"
-      ],
-      "all_reviews": [
-        {
-          "text": "kalitesi muhteşem gönül rahatlığıyla alabilirsiniz kızlar",
-          "score": 5.0
-        },
-        {
-          "text": "kargo hızlıydı çantanın duruşu boyutu tam beklediğim gibi ve çok şık fiyatına göre çok başarılı",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel ve kaliteli kesinlikle alınnnn",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahatlıkla",
-      "review_count": 7,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
         "kokusu",
-        "fiyata",
         "adet",
-        "fiyatı",
         "minik",
         "olacağını",
         "rahatlıkla sığıyor",
-        "okulda"
+        "okulda",
+        "diye",
+        "gore"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -167,46 +203,7 @@
       "sample_reviews": [
         "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
         "indirimde hem kendime hem arkadaşıma hediye aldım çok iyi her şey rahatlıkla sığıyor",
-        "gerçekten özenle paketlenmiş güzel bir ürün yorumlara bakarak aldım memnun kaldım küçük ama bir çok şey alıyor içi"
-      ],
-      "all_reviews": [
-        {
-          "text": "indirimde hem kendime hem arkadaşıma hediye aldım çok iyi her şey rahatlıkla sığıyor",
-          "score": 5.0
-        },
-        {
-          "text": "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
-          "score": 5.0
-        },
-        {
-          "text": "gerçekten özenle paketlenmiş güzel bir ürün yorumlara bakarak aldım memnun kaldım küçük ama bir çok şey alıyor içi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Cüzdan Telefon",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "alır",
-        "bayıldım",
-        "alıyor",
-        "cüzdan telefon",
-        "cüzdan",
-        "rahatlıkla",
-        "sert",
-        "şeyi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bayıldım çok tatlı bir çanta içine de günlük eşyalarınızı rahatlıkla alır",
-        "muhteşem bi çantaa kesinlikle alın"
+        "bayıldım çok tatlı bir çanta içine de günlük eşyalarınızı rahatlıkla alır"
       ],
       "all_reviews": [
         {
@@ -214,80 +211,19 @@
           "score": 5.0
         },
         {
-          "text": "muhteşem bi çantaa kesinlikle alın",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Yumuşacık Derisi",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "aynı",
-        "tane",
-        "okulda",
-        "yumuşacık derisi",
-        "bayildim",
-        "hayatta",
-        "paketleme",
-        "kelimeyle"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "göründüğü gibi geldiii cok begendik hediye almıştım",
-        "hediye aldım çok begenildi"
-      ],
-      "all_reviews": [
-        {
-          "text": "hediye aldım çok begenildi",
+          "text": "indirimde hem kendime hem arkadaşıma hediye aldım çok iyi her şey rahatlıkla sığıyor",
           "score": 5.0
         },
         {
-          "text": "göründüğü gibi geldiii cok begendik hediye almıştım",
+          "text": "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Uygun",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "giderken",
-        "kullanıma uygun",
-        "kullanıma",
-        "alınmalı",
-        "derisi yumuşak",
-        "asla",
-        "fena",
-        "göründüğünden"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "alın aldırın"
-      ],
-      "all_reviews": [
-        {
-          "text": "alın aldırın",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Zarif & Kelimeyle",
-      "review_count": 2,
+      "name": "Zarif",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -305,11 +241,131 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel geldi gercekten fazlasıyla 5 yıldız hakedior"
+        "kalitesi muhteşem gönül rahatlığıyla alabilirsiniz kızlar",
+        "rengi çok güzel fiyatına göre kalitesi de iyi",
+        "çok güzel ve kaliteli kesinlikle alınnnn"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel geldi gercekten fazlasıyla 5 yıldız hakedior",
+          "text": "kalitesi muhteşem gönül rahatlığıyla alabilirsiniz kızlar",
+          "score": 5.0
+        },
+        {
+          "text": "rengi çok güzel fiyatına göre kalitesi de iyi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve kaliteli kesinlikle alınnnn",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Cüzdan Telefon",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alır",
+        "bayıldım",
+        "alıyor",
+        "cüzdan telefon",
+        "cüzdan",
+        "rahatlıkla",
+        "sert",
+        "şeyi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "fiyatına göre okadar güzel bir çantaki bayıldım rengine dokusuna çok severek kullanıyorum bence alın aldırın bana güvenin bende bir şeyler alırken tereddütte kalıyorum ama bunda kalmayınn",
+        "bayıldım çok tatlı bir çanta içine de günlük eşyalarınızı rahatlıkla alır",
+        "gerçekten özenle paketlenmiş güzel bir ürün yorumlara bakarak aldım memnun kaldım küçük ama bir çok şey alıyor içi"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldım çok tatlı bir çanta içine de günlük eşyalarınızı rahatlıkla alır",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre okadar güzel bir çantaki bayıldım rengine dokusuna çok severek kullanıyorum bence alın aldırın bana güvenin bende bir şeyler alırken tereddütte kalıyorum ama bunda kalmayınn",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten özenle paketlenmiş güzel bir ürün yorumlara bakarak aldım memnun kaldım küçük ama bir çok şey alıyor içi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Yumuşacık Deri",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aynı",
+        "tane",
+        "okulda",
+        "yumuşacık derisi",
+        "bayildim",
+        "hayatta",
+        "paketleme",
+        "kelimeyle"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
+        "eskmin iş arkadaşına yılbaşı hediyesi olarak aldım gayet şık bir çanta büyüklüğü de yeterli bir tane de kendime aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "eskmin iş arkadaşına yılbaşı hediyesi olarak aldım gayet şık bir çanta büyüklüğü de yeterli bir tane de kendime aldım",
+          "score": 5.0
+        },
+        {
+          "text": "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Deri Yumuşak",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "giderken",
+        "kullanıma uygun",
+        "kullanıma",
+        "alınmalı",
+        "derisi yumuşak",
+        "asla",
+        "fena",
+        "göründüğünden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
+        "kesinlikle her rengi alınmalı şahane bir çanta"
+      ],
+      "all_reviews": [
+        {
+          "text": "iki adet arkadaşlarıma hediye olarak aldım bir tane de kendime aldım sonrasında fiyatı düştü çok üzüldüm üç adet almama rağmen düşen fiyatla kendimi kötü hissettim günlük kullanıma uygun içinde ayrı bir gözü yok minik şık bir çanta",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikle her rengi alınmalı şahane bir çanta",
           "score": 5.0
         }
       ],

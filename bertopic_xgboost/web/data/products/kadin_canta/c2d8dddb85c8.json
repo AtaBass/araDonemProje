@@ -8,7 +8,7 @@
   "overall_score": 4.8,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**MYSTOBAG Fularlı(degişkenlik göstermektedir)Fermuarlı V** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Yumuşacık Derisi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kullanışlı** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Annemle kendime aldım fiyatına göre çok iyi gündelik hayatta kullanılır öğrenciyim ki…\"\n• **Resimdeki & Canta**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **göründüğü** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Herkese tavsiye ederim herkes alsın kullansın çok güzel beğendim elinize emeğinize sa…\"\n• Kullanıcılar **Yumuşacık Derisi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **okulda** ve **hayatta** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bayıldım resimdekinin aynısı fp alın aldırın zor zamanların kurtarıcı ürünü bacikolar…\"\n• **Uygun** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **giderken** ve **derisi yumuşak** başta olmak üzere. Örnek kullanıcı ifadesi: \"Güzel goründüğü gibi geldi gayet kulanışlı\"\n• Müşteri yorumlarında **Zarif & Kelimeyle** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **harikaaa** ve **yumuşacık** konusu özellikle vurgulanmaktadır.",
+  "summary": "MYSTOBAG Fularlı Fermuarlı V, yüksek memnuniyet oranına sahip bir ürün olarak karşımıza çıkıyor. Ürün, yumuşak deri malzemesinin kalitesi ve resimdek tasarımın pozitif yönleriyle beğenildi. Fiyat performansına da büyük önem verildiği anlaşılmaktadır. Cüzdan ve telefon gibi günlük kullanımlarında rahatlık da sağlamaktadır. Genel olarak, bu ürünün yüksek memnuniyet oranına ulaşmasını sağlayan pozitif özelliklerinin birleşimi gerçekleşmiştir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,40 +18,36 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 30,
-      "avg_score": 4.83,
+      "name": "Deri Yumuşak",
+      "review_count": 26,
+      "avg_score": 4.88,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
+        "giderken",
+        "kullanıma uygun",
+        "kullanıma",
+        "alınmalı",
+        "derisi yumuşak",
+        "asla",
+        "fena",
+        "göründüğünden"
       ],
-      "positive_pct": 83.3,
+      "positive_pct": 88.5,
       "negative_pct": 0.0,
-      "neutral_pct": 16.7,
+      "neutral_pct": 11.5,
       "sample_reviews": [
-        "çok beğendim derisi yumuşacık ve kullanışlı",
+        "gayet başarılı kullanışlı günlük kullanıma uygun geniş büyük çok sevdim",
         "annemle kendime aldım fiyatına göre çok iyi gündelik hayatta kullanılır öğrenciyim kitap flnda koydum onlar da sığıyo gayet kullanışlı derisi biraz ince onun dışında çok güzel bi ürün",
-        "resimdeki gibi geldi severek kullanıyorum içerisinede baya her şeyi dolduruyorum"
+        "ürün güzel içide baya derin kitap koymak isteyenler için çok iyi bir ürün bana fuarı ile beraber gelmedi böyle de güzel beğendim alınabilir"
       ],
       "all_reviews": [
         {
-          "text": "fiyatınana göre çok güzel ve çok uygun beğendim",
+          "text": "çokk beğedim ve arkadaşım da çok beğendi ve onada sipariş verdik ve oda geldi çok memnun kaldık teşekkür ederiz",
           "score": 5.0
         },
         {
-          "text": "çok beğendim derisi yumuşacık ve kullanışlı",
-          "score": 5.0
-        },
-        {
-          "text": "bayıldım çok güzel kullanışlı",
+          "text": "herkese tavsiye ederim herkes alsın kullansın çok güzel beğendim elinize emeğinize sağlık teşekkür ederim paketleme çok güzel",
           "score": 5.0
         },
         {
@@ -59,19 +55,15 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendim tam istediğim gibi memnunum",
+          "text": "çok beğendim derisi yumuşacık ve kullanışlı",
           "score": 5.0
         },
         {
-          "text": "resimdeki gibi geldi severek kullanıyorum içerisinede baya her şeyi dolduruyorum",
+          "text": "ürünü arkadaşım aldım arkadaşım çok beğendi çok teşekkür ederiz",
           "score": 5.0
         },
         {
-          "text": "ben beğendim işime yarar",
-          "score": 5.0
-        },
-        {
-          "text": "güzel ben sevdim anneme aldım çok iyi tabii annem begenirmi bilmiyorum ama",
+          "text": "fiyatınana göre çok güzel ve çok uygun beğendim",
           "score": 5.0
         },
         {
@@ -85,58 +77,14 @@
         {
           "text": "ürün güzel içide baya derin kitap koymak isteyenler için çok iyi bir ürün bana fuarı ile beraber gelmedi böyle de güzel beğendim alınabilir",
           "score": 4.0
-        },
-        {
-          "text": "göründüğü gibi beğendim",
-          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Resimdeki & Canta",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "adet",
-        "resimdeki",
-        "istediğim",
-        "canta",
-        "göründüğü",
-        "sağlam",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "herkese tavsiye ederim herkes alsın kullansın çok güzel beğendim elinize emeğinize sağlık teşekkür ederim paketleme çok güzel",
-        "çokk beğedim ve arkadaşım da çok beğendi ve onada sipariş verdik ve oda geldi çok memnun kaldık teşekkür ederiz",
-        "ürünü arkadaşım aldım arkadaşım çok beğendi çok teşekkür ederiz"
-      ],
-      "all_reviews": [
-        {
-          "text": "çokk beğedim ve arkadaşım da çok beğendi ve onada sipariş verdik ve oda geldi çok memnun kaldık teşekkür ederiz",
-          "score": 5.0
-        },
-        {
-          "text": "herkese tavsiye ederim herkes alsın kullansın çok güzel beğendim elinize emeğinize sağlık teşekkür ederim paketleme çok güzel",
-          "score": 5.0
-        },
-        {
-          "text": "ürünü arkadaşım aldım arkadaşım çok beğendi çok teşekkür ederiz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Yumuşacık Derisi",
-      "review_count": 4,
-      "avg_score": 4.5,
+      "name": "Yumuşacık Deri",
+      "review_count": 24,
+      "avg_score": 4.79,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -149,17 +97,46 @@
         "paketleme",
         "kelimeyle"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 79.2,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 20.8,
       "sample_reviews": [
         "güzel alın 2 tane sipariş verdim ikisindede aynı fular çıktı keşke öyle olmasaydı",
-        "bayıldım resimdekinin aynısı fp alın aldırın zor zamanların kurtarıcı ürünü bacikolarrr ben hediye aldım çok beğenildi"
+        "annemle kendime aldım fiyatına göre çok iyi gündelik hayatta kullanılır öğrenciyim kitap flnda koydum onlar da sığıyo gayet kullanışlı derisi biraz ince onun dışında çok güzel bi ürün",
+        "herkese tavsiye ederim herkes alsın kullansın çok güzel beğendim elinize emeğinize sağlık teşekkür ederim paketleme çok güzel"
       ],
       "all_reviews": [
         {
+          "text": "çokk beğedim ve arkadaşım da çok beğendi ve onada sipariş verdik ve oda geldi çok memnun kaldık teşekkür ederiz",
+          "score": 5.0
+        },
+        {
+          "text": "herkese tavsiye ederim herkes alsın kullansın çok güzel beğendim elinize emeğinize sağlık teşekkür ederim paketleme çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim derisi yumuşacık ve kullanışlı",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü arkadaşım aldım arkadaşım çok beğendi çok teşekkür ederiz",
+          "score": 5.0
+        },
+        {
           "text": "bayıldım resimdekinin aynısı fp alın aldırın zor zamanların kurtarıcı ürünü bacikolarrr ben hediye aldım çok beğenildi",
           "score": 5.0
+        },
+        {
+          "text": "annemle kendime aldım fiyatına göre çok iyi gündelik hayatta kullanılır öğrenciyim kitap flnda koydum onlar da sığıyo gayet kullanışlı derisi biraz ince onun dışında çok güzel bi ürün",
+          "score": 5.0
+        },
+        {
+          "text": "beklediğimden çok iyi geldi severek kullanıyorum tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel içide baya derin kitap koymak isteyenler için çok iyi bir ürün bana fuarı ile beraber gelmedi böyle de güzel beğendim alınabilir",
+          "score": 4.0
         },
         {
           "text": "güzel alın 2 tane sipariş verdim ikisindede aynı fular çıktı keşke öyle olmasaydı",
@@ -169,38 +146,160 @@
       "icon": "💬"
     },
     {
-      "name": "Uygun",
-      "review_count": 3,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Resimdek",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "giderken",
-        "kullanıma uygun",
-        "kullanıma",
-        "alınmalı",
-        "derisi yumuşak",
-        "asla",
-        "fena",
-        "göründüğünden"
+        "paketleme",
+        "adet",
+        "resimdeki",
+        "istediğim",
+        "canta",
+        "göründüğü"
       ],
-      "positive_pct": 0.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 100.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel goründüğü gibi geldi gayet kulanışlı"
+        "herkese tavsiye ederim herkes alsın kullansın çok güzel beğendim elinize emeğinize sağlık teşekkür ederim paketleme çok güzel",
+        "bayıldım resimdekinin aynısı fp alın aldırın zor zamanların kurtarıcı ürünü bacikolarrr ben hediye aldım çok beğenildi",
+        "resimdeki gibi geldi severek kullanıyorum içerisinede baya her şeyi dolduruyorum"
       ],
       "all_reviews": [
         {
-          "text": "güzel goründüğü gibi geldi gayet kulanışlı",
-          "score": 4.0
+          "text": "herkese tavsiye ederim herkes alsın kullansın çok güzel beğendim elinize emeğinize sağlık teşekkür ederim paketleme çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım resimdekinin aynısı fp alın aldırın zor zamanların kurtarıcı ürünü bacikolarrr ben hediye aldım çok beğenildi",
+          "score": 5.0
+        },
+        {
+          "text": "resimdeki gibi geldi severek kullanıyorum içerisinede baya her şeyi dolduruyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim tam istediğim gibi memnunum",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Zarif & Kelimeyle",
-      "review_count": 2,
+      "name": "Fiyat Performans",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "performans",
+        "fiyat performans",
+        "fiyat",
+        "ideal",
+        "buyuk",
+        "uygun",
+        "gore",
+        "boyutu"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "fiyatınana göre çok güzel ve çok uygun beğendim",
+        "bayıldım bu fiyata bu performans inabılmaz",
+        "annemle kendime aldım fiyatına göre çok iyi gündelik hayatta kullanılır öğrenciyim kitap flnda koydum onlar da sığıyo gayet kullanışlı derisi biraz ince onun dışında çok güzel bi ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyatınana göre çok güzel ve çok uygun beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "annemle kendime aldım fiyatına göre çok iyi gündelik hayatta kullanılır öğrenciyim kitap flnda koydum onlar da sığıyo gayet kullanışlı derisi biraz ince onun dışında çok güzel bi ürün",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bu fiyata bu performans inabılmaz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Cüzdan Telefon",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alır",
+        "bayıldım",
+        "alıyor",
+        "cüzdan telefon",
+        "cüzdan",
+        "rahatlıkla",
+        "sert",
+        "şeyi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bayıldım resimdekinin aynısı fp alın aldırın zor zamanların kurtarıcı ürünü bacikolarrr ben hediye aldım çok beğenildi",
+        "bayıldım bu fiyata bu performans inabılmaz",
+        "bayıldım çok güzel kullanışlı"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldım çok güzel kullanışlı",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım resimdekinin aynısı fp alın aldırın zor zamanların kurtarıcı ürünü bacikolarrr ben hediye aldım çok beğenildi",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bu fiyata bu performans inabılmaz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Geniş & Boyut",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "spor",
+        "geniş",
+        "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
+        "bayıldım",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gayet başarılı kullanışlı günlük kullanıma uygun geniş büyük çok sevdim"
+      ],
+      "all_reviews": [
+        {
+          "text": "gayet başarılı kullanışlı günlük kullanıma uygun geniş büyük çok sevdim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Zarif",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -218,41 +317,11 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "baya güzel"
+        "çok beğendim derisi yumuşacık ve kullanışlı"
       ],
       "all_reviews": [
         {
-          "text": "baya güzel",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "performans",
-        "fiyat performans",
-        "fiyat",
-        "ideal",
-        "fiyata",
-        "buyuk",
-        "kaliteli",
-        "uygun"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bayıldım bu fiyata bu performans inabılmaz"
-      ],
-      "all_reviews": [
-        {
-          "text": "bayıldım bu fiyata bu performans inabılmaz",
+          "text": "çok beğendim derisi yumuşacık ve kullanışlı",
           "score": 5.0
         }
       ],

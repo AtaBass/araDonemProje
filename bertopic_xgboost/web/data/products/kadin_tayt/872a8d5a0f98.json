@@ -8,7 +8,7 @@
   "overall_score": 4.64,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**HNX Kadın Yüksek Bel Toparlayıcı Ripli Fitilli Kısa Spo** için 11 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Renkleri & Kaliteli Ürünler** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **notunuz** ve **rahat kullanışlı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok rahat 3 renk daha sipariş verdim\"\n• **Kumaşı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kumaş** ve **kalıbı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika\"\n• Kullanıcılar **Sıcacık** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **bedenınızı** ve **derim** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Harika rahat ve kaliteli paketlenmesi çok güzel\"\n• **Kalıp Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **esnek** başta olmak üzere.",
+  "summary": "Genel Değerlendirme Özeti:\n\nHNX Kadın Yüksek Bel Toparlayıcı Ripli Fitilli Kısa Spo, müşterilerin majority of feedback indicating a high level of satisfaction with the product's durability and quality, as well as its availability in different colors that meet their diverse preferences. The overall sentiment towards the product is overwhelmingly positive, with an average rating of 4.6 out of 5 based on 11 reviews.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,30 +18,78 @@
   },
   "aspects": [
     {
-      "name": "Renkleri & Kaliteli Ürünler",
-      "review_count": 3,
-      "avg_score": 4.0,
+      "name": "Duruş & Kalite",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "duruşu",
+        "kalitesi",
+        "göründüğü",
+        "sardı",
+        "bedeninizden",
+        "alin",
+        "bayıldım",
+        "almalısınız"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "oysho kalitesi kizlar alin adirin tam beden tum renklerini alin hatta",
+        "bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika",
+        "ürün fotoğraftaki gibi ve kalitesi iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "oysho kalitesi kizlar alin adirin tam beden tum renklerini alin hatta",
+          "score": 5.0
+        },
+        {
+          "text": "bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika",
+          "score": 5.0
+        },
+        {
+          "text": "harika rahat ve kaliteli paketlenmesi çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün fotoğraftaki gibi ve kalitesi iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Farkl Renk",
+      "review_count": 4,
+      "avg_score": 4.25,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "renkleri",
-        "kaliteli ürünler",
-        "notunuz",
         "paketleme özenliydi",
+        "notunuz",
         "özenliydi",
-        "rahat kullanışlı",
         "paketleme",
-        "kalite"
+        "kalite",
+        "ürünler",
+        "dokusu"
       ],
-      "positive_pct": 33.3,
+      "positive_pct": 50.0,
       "negative_pct": 0.0,
-      "neutral_pct": 66.7,
+      "neutral_pct": 50.0,
       "sample_reviews": [
+        "oysho kalitesi kizlar alin adirin tam beden tum renklerini alin hatta",
         "çok rahat 3 renk daha sipariş verdim",
-        "başka renk gönderdiler ama kıltı iyi",
-        "çok güzel bir renk sevdim"
+        "başka renk gönderdiler ama kıltı iyi"
       ],
       "all_reviews": [
+        {
+          "text": "oysho kalitesi kizlar alin adirin tam beden tum renklerini alin hatta",
+          "score": 5.0
+        },
         {
           "text": "çok rahat 3 renk daha sipariş verdim",
           "score": 5.0
@@ -58,31 +106,36 @@
       "icon": "💬"
     },
     {
-      "name": "Kumaşı",
-      "review_count": 2,
-      "avg_score": 4.5,
+      "name": "Ürün",
+      "review_count": 3,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 66.7,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 33.3,
       "sample_reviews": [
-        "bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika",
-        "ürün güzel ancak s almama rağmen sıkı sarmasını isterdim"
+        "ürün yumuşacık kalın bacaklı kızlar için bulunmaz bir nimet asla kastırmıyor esnek yapıda fiyat performans",
+        "ürün güzel ancak s almama rağmen sıkı sarmasını isterdim",
+        "ürün fotoğraftaki gibi ve kalitesi iyi"
       ],
       "all_reviews": [
         {
-          "text": "bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika",
+          "text": "ürün fotoğraftaki gibi ve kalitesi iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün yumuşacık kalın bacaklı kızlar için bulunmaz bir nimet asla kastırmıyor esnek yapıda fiyat performans",
           "score": 5.0
         },
         {
@@ -93,70 +146,35 @@
       "icon": "💬"
     },
     {
-      "name": "Sıcacık",
+      "name": "Kumaş / Farkl Renk",
       "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli kaliteli",
-        "rahat rahat",
-        "sıcacık tutuyor",
-        "sıcacık",
-        "bedenınızı",
-        "derim",
-        "tutuyor",
-        "yumuşacık"
+        "kumaşı",
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "harika rahat ve kaliteli paketlenmesi çok güzel",
-        "ürün fotoğraftaki gibi ve kalitesi iyi"
+        "bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika",
+        "oysho kalitesi kizlar alin adirin tam beden tum renklerini alin hatta"
       ],
       "all_reviews": [
         {
-          "text": "harika rahat ve kaliteli paketlenmesi çok güzel",
+          "text": "oysho kalitesi kizlar alin adirin tam beden tum renklerini alin hatta",
           "score": 5.0
         },
         {
-          "text": "ürün fotoğraftaki gibi ve kalitesi iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalıp Rahat",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
-        "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok rahat tam kalıp",
-        "wawwwwww super cıktı"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok rahat tam kalıp",
-          "score": 5.0
-        },
-        {
-          "text": "wawwwwww super cıktı",
+          "text": "bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika",
           "score": 5.0
         }
       ],

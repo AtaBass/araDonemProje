@@ -8,7 +8,7 @@
   "overall_score": 4.88,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**LENOVO 400 Wireless Kablosuz Mouse Siyah GY50R91293** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **fiyata** ve **performans** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Tam bir fiyat performans ürünü herkese tavsiye ederim şimdiye kadar kullandığım en iy…\"\n• **Donma & Rahatlıkla**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **şimdilik** ve **kelimeyle** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kızım için aldım çok beğendi kullanışlı olduğunu söyledi tavsiye ederim\"\n• Kullanıcılar **Kullanımı Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **saglam** ve **sorun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kaliteli ve oldukça kullanışlı güzel paketlenmiş içinde 1 adet dilde olması güzel\"\n• **Sessiz Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kaliteli** ve **teslimat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok çok çok kaliteli bir ürün eşim öğretmen indirimde sınıfı için aldık\"\n• Müşteri yorumlarında **Paketlemesi & Sessiz** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **saglam** ve **kelimeyle** konusu özellikle vurgulanmaktadır.",
+  "summary": "**LENOVO 400 Wireless Kablosuz Mouse Siyah GY50R91293** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kullanım & Kalite**: Kullanıcılar kullanım & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketleme & Saglam**: Kullanıcılar paketleme & saglam konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Saglam & Sorun**: Kullanıcılar saglam & sorun konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,34 +18,90 @@
   },
   "aspects": [
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 18,
-      "avg_score": 4.67,
+      "name": "Kullanım & Kalite",
+      "review_count": 20,
+      "avg_score": 4.85,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "kullanımı",
+        "kalite",
         "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
-        "uygun",
-        "performans",
-        "paketlemesi",
-        "kaliteli"
+        "baya",
+        "kalitesi",
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
       ],
-      "positive_pct": 66.7,
+      "positive_pct": 85.0,
       "negative_pct": 0.0,
-      "neutral_pct": 33.3,
+      "neutral_pct": 15.0,
+      "sample_reviews": [
+        "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim",
+        "lenovo kalitesi herzaman ki gibi satıcıyada teşekkürler",
+        "tam bir fiyat performans ürünü herkese tavsiye ederim şimdiye kadar kullandığım en iyi maus kullanırken kaliteyi hissediyorsun boyutları gayet uygun eli yormuyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyatına göre aşırı güzel çok beğendim hiç tereddüt etmeden alınabilir paketleme çok iyiydi",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü herkese tavsiye ederim şimdiye kadar kullandığım en iyi maus kullanırken kaliteyi hissediyorsun boyutları gayet uygun eli yormuyor",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok iyiydi çok beğendiim",
+          "score": 5.0
+        },
+        {
+          "text": "tavsiyenin üzerine aldım kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok çok kaliteli bir ürün eşim öğretmen indirimde sınıfı için aldık",
+          "score": 5.0
+        },
+        {
+          "text": "lenovo kalitesi herzaman ki gibi satıcıyada teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli ve oldukça kullanışlı güzel paketlenmiş içinde 1 adet dilde olması güzel",
+          "score": 5.0
+        },
+        {
+          "text": "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 14,
+      "avg_score": 4.79,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "uygun",
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "efsane",
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
+      ],
+      "positive_pct": 78.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 21.4,
       "sample_reviews": [
         "tam bir fiyat performans ürünü herkese tavsiye ederim şimdiye kadar kullandığım en iyi maus kullanırken kaliteyi hissediyorsun boyutları gayet uygun eli yormuyor",
         "pratik ve kullanışlı 1-2 gündür kullanıyorum gündelik olarak rahat isinizi görür benim için yeterli fiyatı uygun",
         "fiyatına göre aşırı güzel çok beğendim hiç tereddüt etmeden alınabilir paketleme çok iyiydi"
       ],
       "all_reviews": [
-        {
-          "text": "paketleme çok iyiydi çok beğendiim",
-          "score": 5.0
-        },
         {
           "text": "fiyatına göre aşırı güzel çok beğendim hiç tereddüt etmeden alınabilir paketleme çok iyiydi",
           "score": 5.0
@@ -59,8 +115,8 @@
           "score": 5.0
         },
         {
-          "text": "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim",
-          "score": 4.0
+          "text": "harika bir ürün 2 ciye alıyorum performans süper hızlı geldi teşekkür ederim",
+          "score": 5.0
         },
         {
           "text": "pratik ve kullanışlı 1-2 gündür kullanıyorum gündelik olarak rahat isinizi görür benim için yeterli fiyatı uygun",
@@ -70,193 +126,150 @@
       "icon": "💬"
     },
     {
-      "name": "Donma & Rahatlıkla",
-      "review_count": 10,
-      "avg_score": 5.0,
+      "name": "Sorunsuz",
+      "review_count": 11,
+      "avg_score": 4.73,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "alacak",
-        "kullanıyor",
-        "ediyor",
-        "donma",
-        "rahatlıkla",
-        "şimdilik",
-        "kelimeyle",
-        "tuşları"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kızım için aldım çok beğendi kullanışlı olduğunu söyledi tavsiye ederim",
-        "tam istediğim gibi geldi kesinlikle tavsiye ederimm",
-        "erkek arkadaşıma aldım çok beğendim teşekkürler fp"
-      ],
-      "all_reviews": [
-        {
-          "text": "dayıma almıştım memnun",
-          "score": 5.0
-        },
-        {
-          "text": "kızım için aldım çok beğendi kullanışlı olduğunu söyledi tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "erkek arkadaşıma aldım çok beğendim teşekkürler fp",
-          "score": 5.0
-        },
-        {
-          "text": "tavsiyenin üzerine aldım kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "tam istediğim gibi geldi kesinlikle tavsiye ederimm",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanımı Rahat",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "yormuyor",
-        "çıkarmıyor",
-        "severek",
-        "saglam",
-        "sorun",
-        "bayıldım",
-        "efsane",
-        "diye"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kaliteli ve oldukça kullanışlı güzel paketlenmiş içinde 1 adet dilde olması güzel",
-        "harika bir ürün 2 ciye alıyorum performans süper hızlı geldi teşekkür ederim",
-        "lenovo kalitesi herzaman ki gibi satıcıyada teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel kullanışlı çeyizime aldım dermişim",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli ve oldukça kullanışlı güzel paketlenmiş içinde 1 adet dilde olması güzel",
-          "score": 5.0
-        },
-        {
-          "text": "harika bir ürün 2 ciye alıyorum performans süper hızlı geldi teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "lenovo kalitesi herzaman ki gibi satıcıyada teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sessiz Rahat",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "teslimat",
-        "paketleme",
+        "aldık",
         "sorunsuz",
-        "kullanımı",
-        "çalışıyor",
-        "sessiz rahat",
-        "fiyat"
+        "paketleme",
+        "bunu",
+        "rengi",
+        "baya",
+        "sıkıntı",
+        "kalite"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 72.7,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 27.3,
       "sample_reviews": [
         "çok çok çok kaliteli bir ürün eşim öğretmen indirimde sınıfı için aldık",
-        "eşime hediye almıştım çok beğendi hızlı ve özenli kargo",
-        "eşim için almıştım çok kullanışlı"
+        "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim",
+        "fiyatına göre aşırı güzel çok beğendim hiç tereddüt etmeden alınabilir paketleme çok iyiydi"
       ],
       "all_reviews": [
         {
-          "text": "eşime hediye almıştım çok beğendi hızlı ve özenli kargo",
+          "text": "fiyatına göre aşırı güzel çok beğendim hiç tereddüt etmeden alınabilir paketleme çok iyiydi",
           "score": 5.0
         },
         {
-          "text": "eşim için almıştım çok kullanışlı",
+          "text": "paketleme çok iyiydi çok beğendiim",
           "score": 5.0
         },
         {
           "text": "çok çok çok kaliteli bir ürün eşim öğretmen indirimde sınıfı için aldık",
           "score": 5.0
+        },
+        {
+          "text": "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Paketlemesi & Sessiz",
-      "review_count": 3,
-      "avg_score": 5.0,
+      "name": "Paketleme & Saglam",
+      "review_count": 9,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "paketlemesi",
         "denedim",
         "saglam",
-        "gidiyor",
         "kelimeyle",
         "tatli",
         "icin",
-        "çokta"
+        "çokta",
+        "paketlenmesi"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim",
+        "fiyatına göre aşırı güzel çok beğendim hiç tereddüt etmeden alınabilir paketleme çok iyiydi",
+        "paketleme çok iyiydi çok beğendiim"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyatına göre aşırı güzel çok beğendim hiç tereddüt etmeden alınabilir paketleme çok iyiydi",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok iyiydi çok beğendiim",
+          "score": 5.0
+        },
+        {
+          "text": "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Saglam & Sorun",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yormuyor",
+        "çıkarmıyor",
+        "saglam",
+        "sorun",
+        "bayıldım",
+        "efsane",
+        "diye",
+        "beklemiyordum"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "tam bir fiyat performans ürünü herkese tavsiye ederim şimdiye kadar kullandığım en iyi maus kullanırken kaliteyi hissediyorsun boyutları gayet uygun eli yormuyor",
         "bayıldım iyi paketlenmiş"
       ],
       "all_reviews": [
         {
           "text": "bayıldım iyi paketlenmiş",
           "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü herkese tavsiye ederim şimdiye kadar kullandığım en iyi maus kullanırken kaliteyi hissediyorsun boyutları gayet uygun eli yormuyor",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kablolu & Özellikle",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Kablol & Özellikle",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "bunu",
         "kablolu",
         "özellikle",
         "oyun",
         "kullanım",
+        "rahatlıkla",
         "sıkıntı",
-        "oyunlarda",
-        "rahatlıkla"
+        "oyunlarda"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 0.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 100.0,
       "sample_reviews": [
-        "daha önce logitech bir mouse kullanıyordum çok fazla ses çıkarıyordu ve arada bağlantı gidiyordu bir de lenovo deneyeyim dedim ürünü hafta sonu almıştım pazartesi elime ulaştı yaninda pil de göndermişler hassasiyet çok iyi mouse'nin çıkardığı ses minimum herkese tavsiye ederim"
+        "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "daha önce logitech bir mouse kullanıyordum çok fazla ses çıkarıyordu ve arada bağlantı gidiyordu bir de lenovo deneyeyim dedim ürünü hafta sonu almıştım pazartesi elime ulaştı yaninda pil de göndermişler hassasiyet çok iyi mouse'nin çıkardığı ses minimum herkese tavsiye ederim",
-          "score": 5.0
+          "text": "üründen çok memnun kaldım sağlam elime ulaştı ve paketleme çok iyiydi hafif ve rahat bir kullanımı var herkese tavsiye ederim",
+          "score": 4.0
         }
       ],
       "icon": "💬"

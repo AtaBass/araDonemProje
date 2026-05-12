@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**XVA Yadens Pamuklu Düğmeli Püsküllü Çift Kişilik Nevres** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kumaşı Kaliteli** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **odası** ve **modeli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Harika 2 adet kızlarımın odasına aldım yatak ölculerim 100 200 çok güzel oldu yatak ö…\"\n• **Fiyata Kalite**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ür…\"\n• Kullanıcılar **Kişilik** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim gayet güzel keşke lastikli çarşafı da olsaydı\"\n• **Dokusu & Kalitesi** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır. Örnek kullanıcı ifadesi: \"Güzel kaliteli alınmalı mutlaka\"\n• Müşteri yorumlarında **Fiyat & Lastikli Çarşafı** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fiyata** ve **renkler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide…\"",
+  "summary": "**XVA Yadens Pamuklu Düğmeli Püsküllü Çift Kişilik Nevres** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketlenme & Kalite**: Kullanıcılar paketlenme & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Doku & Kalite**: Kullanıcılar doku & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kumaş / Rengi Canlı**: Kullanıcılar kumaş / rengi canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat / Lastikl Çarşaf**: Kullanıcılar fiyat / lastikl çarşaf konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,80 +18,64 @@
   },
   "aspects": [
     {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 10,
+      "name": "Kalite",
+      "review_count": 26,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kumaşı",
-        "kullanacağım",
-        "odası",
-        "modeli",
-        "yatağıma",
-        "kumaşı kaliteli",
-        "deseni",
-        "bayıldım kumaşı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "harika 2 adet kızlarımın odasına aldım yatak ölculerim 100 200 çok güzel oldu yatak örtüsü niyetine kullanacağım kesinlikle alın",
-        "beğendim güzel yatak örtüsü olarak kullanacağım",
-        "farkli gelir diye korkmustum ama harika geldi muslin kumas oldugu icin biraz ince ama beyaz yorgan kullanacagim icin abes kalacak bir swy yok onun disinda uyarisi yazilmis ilk yikama deterjansiz ve ters vaziyette oluyormus gordugum iyi oldu dalginligima gleebilirdi simdi dikkat edicem onun haricinde tek eksik bir kutuda beklerdim cunku ceyizime koyacaktim yine de tesekkur ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "harika 2 adet kızlarımın odasına aldım yatak ölculerim 100 200 çok güzel oldu yatak örtüsü niyetine kullanacağım kesinlikle alın",
-          "score": 5.0
-        },
-        {
-          "text": "beğendim güzel yatak örtüsü olarak kullanacağım",
-          "score": 5.0
-        },
-        {
-          "text": "farkli gelir diye korkmustum ama harika geldi muslin kumas oldugu icin biraz ince ama beyaz yorgan kullanacagim icin abes kalacak bir swy yok onun disinda uyarisi yazilmis ilk yikama deterjansiz ve ters vaziyette oluyormus gordugum iyi oldu dalginligima gleebilirdi simdi dikkat edicem onun haricinde tek eksik bir kutuda beklerdim cunku ceyizime koyacaktim yine de tesekkur ederim",
-          "score": 5.0
-        },
-        {
-          "text": "bu yüzde yüz pamuk aldığım nevresimlerden bila daha pamuk çok güzel yakından çektim görün diye herkes alsin",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
         "kalite",
         "tane",
         "paketleme",
         "indirimde",
-        "fiyata kalite",
         "çeyiz",
-        "beklemiyordum"
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ürün tek keliyle harika çok beğendim çok kaliteli",
-        "çok güzel indirimden aldım tavsiye ederim",
-        "sipariş oluştururken hiç yorum yoktu biraz endişelensemde püskül detaylarını çok beğendiğim için şans vermek istedim iyi ki almışım ürün çok güzel satıcı çok hızlı kargo hemen geldi teşekkür ediyorum"
+        "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+        "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel",
+        "satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ürün tek keliyle harika çok beğendim çok kaliteli"
       ],
       "all_reviews": [
         {
-          "text": "sipariş oluştururken hiç yorum yoktu biraz endişelensemde püskül detaylarını çok beğendiğim için şans vermek istedim iyi ki almışım ürün çok güzel satıcı çok hızlı kargo hemen geldi teşekkür ediyorum",
+          "text": "satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ürün tek keliyle harika çok beğendim çok kaliteli",
           "score": 5.0
         },
         {
-          "text": "satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ürün tek keliyle harika çok beğendim çok kaliteli",
+          "text": "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldık çok güzel alın aldırın sorunsuz geldiler şık hediye olarak aldım ablama çeyiz olarak",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı aşırı beğendimm hem uygun fiyatlı hem kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "güzel kaliteli alınmalı mutlaka",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kalite olarak sınıfta kaldı daha 3 gün oldu tüylenme yaptı fiyatına göre asla değmiyor pişmanım aldığıma",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün başarılı",
           "score": 5.0
         },
         {
@@ -102,43 +86,72 @@
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 6,
+      "name": "Paketlenme & Kalite",
+      "review_count": 23,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
         "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok beğendim gayet güzel keşke lastikli çarşafı da olsaydı",
-        "aşırı aşırı beğendimm hem uygun fiyatlı hem kaliteli"
+        "sipariş oluştururken hiç yorum yoktu biraz endişelensemde püskül detaylarını çok beğendiğim için şans vermek istedim iyi ki almışım ürün çok güzel satıcı çok hızlı kargo hemen geldi teşekkür ediyorum",
+        "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+        "satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ürün tek keliyle harika çok beğendim çok kaliteli"
       ],
       "all_reviews": [
         {
-          "text": "aşırı aşırı beğendimm hem uygun fiyatlı hem kaliteli",
+          "text": "sipariş oluştururken hiç yorum yoktu biraz endişelensemde püskül detaylarını çok beğendiğim için şans vermek istedim iyi ki almışım ürün çok güzel satıcı çok hızlı kargo hemen geldi teşekkür ediyorum",
           "score": 5.0
         },
         {
-          "text": "çok beğendim gayet güzel keşke lastikli çarşafı da olsaydı",
+          "text": "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+          "score": 5.0
+        },
+        {
+          "text": "satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ürün tek keliyle harika çok beğendim çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "güzel kaliteli alınmalı mutlaka",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kalite olarak sınıfta kaldı daha 3 gün oldu tüylenme yaptı fiyatına göre asla değmiyor pişmanım aldığıma",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün başarılı",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı aşırı beğendimm hem uygun fiyatlı hem kaliteli",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Dokusu & Kalitesi",
-      "review_count": 6,
+      "name": "Doku & Kalite",
+      "review_count": 20,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -150,13 +163,25 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel kaliteli alınmalı mutlaka",
-        "çok kaliteli",
-        "mükemmellll"
+        "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+        "satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ürün tek keliyle harika çok beğendim çok kaliteli",
+        "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel"
       ],
       "all_reviews": [
         {
-          "text": "mükemmellll",
+          "text": "satıcıya çok teşekkür ederim sorunumu hemen halletti ve fazladan ürün tedarik etti ürün tek keliyle harika çok beğendim çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+          "score": 5.0
+        },
+        {
+          "text": "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "güzel kaliteli alınmalı mutlaka",
           "score": 5.0
         },
         {
@@ -164,34 +189,123 @@
           "score": 5.0
         },
         {
-          "text": "güzel kaliteli alınmalı mutlaka",
+          "text": "kalite olarak sınıfta kaldı daha 3 gün oldu tüylenme yaptı fiyatına göre asla değmiyor pişmanım aldığıma",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün başarılı",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı aşırı beğendimm hem uygun fiyatlı hem kaliteli",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat & Lastikli Çarşafı",
-      "review_count": 5,
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+        "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel",
+        "çok beğendim gayet güzel keşke lastikli çarşafı da olsaydı"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+          "score": 5.0
+        },
+        {
+          "text": "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim gayet güzel keşke lastikli çarşafı da olsaydı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "fiyat",
-        "fiyata",
         "renkler",
         "aldık",
         "takımı",
-        "sağlam",
         "fermuarlı",
-        "takım"
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+        "kalite olarak sınıfta kaldı daha 3 gün oldu tüylenme yaptı fiyatına göre asla değmiyor pişmanım aldığıma",
+        "aşırı aşırı beğendimm hem uygun fiyatlı hem kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı aşırı beğendimm hem uygun fiyatlı hem kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kalite olarak sınıfta kaldı daha 3 gün oldu tüylenme yaptı fiyatına göre asla değmiyor pişmanım aldığıma",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel",
-        "kaliteli bir ürün başarılı"
+        "bu yüzde yüz pamuk aldığım nevresimlerden bila daha pamuk çok güzel yakından çektim görün diye herkes alsin",
+        "çok beğendim gayet güzel keşke lastikli çarşafı da olsaydı"
       ],
       "all_reviews": [
         {
@@ -199,7 +313,46 @@
           "score": 5.0
         },
         {
-          "text": "kaliteli bir ürün başarılı",
+          "text": "çok beğendim gayet güzel keşke lastikli çarşafı da olsaydı",
+          "score": 5.0
+        },
+        {
+          "text": "bu yüzde yüz pamuk aldığım nevresimlerden bila daha pamuk çok güzel yakından çektim görün diye herkes alsin",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Renk Canlı",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "rengi",
+        "canlı",
+        "renkleri",
+        "yıkadım",
+        "renkleri canlı",
+        "renkler",
+        "dokusu",
+        "aynı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+        "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
+          "score": 5.0
+        },
+        {
+          "text": "bu nasıl kalitedir bayıldım çok güzel indirimler devam etsin alıcam bi kaç renginide paketleme herşey çok güzel",
           "score": 5.0
         }
       ],
@@ -207,7 +360,7 @@
     },
     {
       "name": "Çekme Solma",
-      "review_count": 5,
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -226,70 +379,66 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "bayıldık çok güzel alın aldırın sorunsuz geldiler şık hediye olarak aldım ablama çeyiz olarak",
-        "ürünü çok beğendim bıraktığınız hediye yüzümü gülümsetti çok teşekkür ederim"
+        "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim"
       ],
       "all_reviews": [
         {
-          "text": "bayıldık çok güzel alın aldırın sorunsuz geldiler şık hediye olarak aldım ablama çeyiz olarak",
+          "text": "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
           "score": 5.0
         },
         {
-          "text": "ürünü çok beğendim bıraktığınız hediye yüzümü gülümsetti çok teşekkür ederim",
+          "text": "bayıldık çok güzel alın aldırın sorunsuz geldiler şık hediye olarak aldım ablama çeyiz olarak",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Çekme Yapmadı",
-      "review_count": 4,
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "yıkadım",
-        "lastikli",
-        "yapmadı",
-        "pamuk",
-        "görseldeki",
-        "alıcam",
-        "solma",
-        "çekme"
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kalite olarak sınıfta kaldı daha 3 gün oldu tüylenme yaptı fiyatına göre asla değmiyor pişmanım aldığıma",
-        "super cok kalıtelı yumusacık yıka yıka bısey olmaz"
+        "harika 2 adet kızlarımın odasına aldım yatak ölculerim 100 200 çok güzel oldu yatak örtüsü niyetine kullanacağım kesinlikle alın",
+        "beğendim güzel yatak örtüsü olarak kullanacağım"
       ],
       "all_reviews": [
         {
-          "text": "kalite olarak sınıfta kaldı daha 3 gün oldu tüylenme yaptı fiyatına göre asla değmiyor pişmanım aldığıma",
+          "text": "harika 2 adet kızlarımın odasına aldım yatak ölculerim 100 200 çok güzel oldu yatak örtüsü niyetine kullanacağım kesinlikle alın",
           "score": 5.0
         },
         {
-          "text": "super cok kalıtelı yumusacık yıka yıka bısey olmaz",
+          "text": "beğendim güzel yatak örtüsü olarak kullanacağım",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rengi & Renkleri Canlı",
+      "name": "Canlı Kumaş",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rengi",
+        "canlı kumaşı",
+        "takım",
         "canlı",
-        "renkleri",
-        "yıkadım",
-        "renkleri canlı",
-        "renkler",
-        "dokusu",
-        "aynı"
+        "kumaşı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -300,33 +449,6 @@
       "all_reviews": [
         {
           "text": "bayıldımmmm rengi dokusu okadar guzellki aldığım en kaliteli en güzel nevresim takımı diyebilirim bukadar beklemiyordum eşya konusunda takıntılı biri olarak söylüyorum on numara bir nevresim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Canlı Kumaşı",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "canlı kumaşı",
-        "takım",
-        "sağlam",
-        "canlı",
-        "kumaşı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "sevdım begendım hedıyenız ıcınde tşk ederımm"
-      ],
-      "all_reviews": [
-        {
-          "text": "sevdım begendım hedıyenız ıcınde tşk ederımm",
           "score": 5.0
         }
       ],

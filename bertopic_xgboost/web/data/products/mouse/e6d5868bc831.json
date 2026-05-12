@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Philips Spk7315 M315 Kablosuz Wireless Sessiz Mouse Siy** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **fiyata** ve **performans** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üze…\"\n• **Sessiz Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kaliteli** ve **teslimat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok sessiz çalışıyor her türlü zeminde de çalışıyor kargo hızlıydı çabuk elime ulaştı…\"\n• Kullanıcılar **Kullanımı Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **saglam** ve **sorun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Beğendim rengi çok tatlı ve tuşları da ses çıkarmıyor kütüphane ortamında kullanmak i…\"\n• **Donma & Rahatlıkla** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **şimdilik** ve **kelimeyle** başta olmak üzere. Örnek kullanıcı ifadesi: \"Sevgilime aldım cok begendı hep kullanıyor tavsiye ediyorum\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sessiz** ve **kablosuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok sessiz ve çok güzel rahat kullanım içiniz rahat bir şekilde alabilirsiniz çok kul…\"",
+  "summary": "**Philips Spk7315 M315 Kablosuz Wireless Sessiz Mouse Siy** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kullanım & Kalite**: Kullanıcılar kullanım & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketleme & Saglam**: Kullanıcılar paketleme & saglam konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kablol & Özellikle**: Kullanıcılar kablol & özellikle konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,20 +18,20 @@
   },
   "aspects": [
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 17,
+      "name": "Kullanım & Kalite",
+      "review_count": 15,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "kullanımı",
+        "kalite",
         "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
-        "uygun",
-        "performans",
-        "paketlemesi",
-        "kaliteli"
+        "baya",
+        "kalitesi",
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -39,11 +39,15 @@
       "sample_reviews": [
         "ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üzerinden 100 veririm fiyat performans ürünü",
         "çok hızlı geldi paketleme iyiydi fiyatına göre çok iyi bir ürün ben 149 liraya aldım",
-        "ürün güzl paketlemeside güzeldi ve ayrıca çok güzel beğendim"
+        "arkadaşıma hediye olarak aldım çok beğendi fiyatına göre kaliteli bir ürün"
       ],
       "all_reviews": [
         {
-          "text": "sarıcı hızlı güzel de paketlemiş ürün cok sessiz kullanışlı abartı bir görünüşü de yok beğendim",
+          "text": "ürün güzl paketlemeside güzeldi ve ayrıca çok güzel beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çok sessiz ve çok güzel rahat kullanım içiniz rahat bir şekilde alabilirsiniz çok kullanışlı",
           "score": 5.0
         },
         {
@@ -51,115 +55,11 @@
           "score": 5.0
         },
         {
-          "text": "ürün güzl paketlemeside güzeldi ve ayrıca çok güzel beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "eşim için almıştım çok beğendi kullanışlı",
+          "text": "arkadaşıma hediye olarak aldım çok beğendi fiyatına göre kaliteli bir ürün",
           "score": 5.0
         },
         {
           "text": "ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üzerinden 100 veririm fiyat performans ürünü",
-          "score": 5.0
-        },
-        {
-          "text": "gayet güzel kütüphanede ders çalışırken insanları rahatsız etmemek için aldım",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sessiz Rahat",
-      "review_count": 17,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "teslimat",
-        "paketleme",
-        "sorunsuz",
-        "kullanımı",
-        "çalışıyor",
-        "sessiz rahat",
-        "fiyat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "arkadaşıma hediye olarak aldım çok beğendi fiyatına göre kaliteli bir ürün",
-        "çok sessiz çalışıyor her türlü zeminde de çalışıyor kargo hızlıydı çabuk elime ulaştı satıcı da çok ilgiliydi teşekkürler",
-        "hızlı kargoydu ve hediyeniz için de teşekkür ederim bende hediye almıştım ortak oldunuz alınır arkadaşlar"
-      ],
-      "all_reviews": [
-        {
-          "text": "erkek arkadaşıma hediye aldım gayet şık güzel bir ürün",
-          "score": 5.0
-        },
-        {
-          "text": "hediye aldım beğenerek kullaniyor teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı kargoydu ve hediyeniz için de teşekkür ederim bende hediye almıştım ortak oldunuz alınır arkadaşlar",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel eşime hediye olarak aldım ve çok memnun",
-          "score": 5.0
-        },
-        {
-          "text": "çok sessiz çalışıyor her türlü zeminde de çalışıyor kargo hızlıydı çabuk elime ulaştı satıcı da çok ilgiliydi teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim satıcıya çok teşekkür ederim kargo da çok hızlıydı",
-          "score": 5.0
-        },
-        {
-          "text": "arkadaşıma hediye olarak aldım çok beğendi fiyatına göre kaliteli bir ürün",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanımı Rahat",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "yormuyor",
-        "çıkarmıyor",
-        "severek",
-        "saglam",
-        "sorun",
-        "bayıldım",
-        "efsane",
-        "diye"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "beğendim rengi çok tatlı ve tuşları da ses çıkarmıyor kütüphane ortamında kullanmak için çok iyi",
-        "severek kullaniyom tum mauslarim bundan guzel bence 190 tl aldim",
-        "kızım çok beğendim çok büyük değil tam istediği gibi tafsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "kızım çok beğendim çok büyük değil tam istediği gibi tafsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "severek kullaniyom tum mauslarim bundan guzel bence 190 tl aldim",
-          "score": 5.0
-        },
-        {
-          "text": "beğendim rengi çok tatlı ve tuşları da ses çıkarmıyor kütüphane ortamında kullanmak için çok iyi",
           "score": 5.0
         },
         {
@@ -170,35 +70,84 @@
       "icon": "💬"
     },
     {
-      "name": "Donma & Rahatlıkla",
-      "review_count": 5,
+      "name": "Sorunsuz",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "alacak",
-        "kullanıyor",
-        "ediyor",
-        "donma",
-        "rahatlıkla",
-        "şimdilik",
-        "kelimeyle",
-        "tuşları"
+        "aldık",
+        "sorunsuz",
+        "paketleme",
+        "bunu",
+        "rengi",
+        "baya",
+        "sıkıntı",
+        "kalite"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "sevgilime aldım cok begendı hep kullanıyor tavsiye ediyorum",
-        "severek kullanıyorum çok kullanışlı"
+        "ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üzerinden 100 veririm fiyat performans ürünü",
+        "beğendim rengi çok tatlı ve tuşları da ses çıkarmıyor kütüphane ortamında kullanmak için çok iyi",
+        "çok hızlı geldi paketleme iyiydi fiyatına göre çok iyi bir ürün ben 149 liraya aldım"
       ],
       "all_reviews": [
         {
-          "text": "sevgilime aldım cok begendı hep kullanıyor tavsiye ediyorum",
+          "text": "ürün güzl paketlemeside güzeldi ve ayrıca çok güzel beğendim",
           "score": 5.0
         },
         {
-          "text": "severek kullanıyorum çok kullanışlı",
+          "text": "çok hızlı geldi paketleme iyiydi fiyatına göre çok iyi bir ürün ben 149 liraya aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üzerinden 100 veririm fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "beğendim rengi çok tatlı ve tuşları da ses çıkarmıyor kütüphane ortamında kullanmak için çok iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme & Saglam",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketlemesi",
+        "denedim",
+        "saglam",
+        "kelimeyle",
+        "tatli",
+        "icin",
+        "çokta",
+        "paketlenmesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün güzl paketlemeside güzeldi ve ayrıca çok güzel beğendim",
+        "ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üzerinden 100 veririm fiyat performans ürünü",
+        "çok hızlı geldi paketleme iyiydi fiyatına göre çok iyi bir ürün ben 149 liraya aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün güzl paketlemeside güzeldi ve ayrıca çok güzel beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çok hızlı geldi paketleme iyiydi fiyatına göre çok iyi bir ürün ben 149 liraya aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üzerinden 100 veririm fiyat performans ürünü",
           "score": 5.0
         }
       ],
@@ -206,29 +155,74 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 3,
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "şarj",
-        "sessiz",
-        "çalışıyor",
-        "performans",
+        "uygun",
+        "fiyat",
         "fiyat performans",
-        "sessiz çalışıyor",
-        "kablosuz",
-        "fiyat"
+        "performans",
+        "efsane",
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok sessiz ve çok güzel rahat kullanım içiniz rahat bir şekilde alabilirsiniz çok kullanışlı"
+        "ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üzerinden 100 veririm fiyat performans ürünü",
+        "çok hızlı geldi paketleme iyiydi fiyatına göre çok iyi bir ürün ben 149 liraya aldım",
+        "arkadaşıma hediye olarak aldım çok beğendi fiyatına göre kaliteli bir ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok hızlı geldi paketleme iyiydi fiyatına göre çok iyi bir ürün ben 149 liraya aldım",
+          "score": 5.0
+        },
+        {
+          "text": "arkadaşıma hediye olarak aldım çok beğendi fiyatına göre kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm çok güzel geldi paketleme mükemmel ve asla tuş sesi duymuyorsunuz çok iyi 5üzerinden 100 veririm fiyat performans ürünü",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kablol & Özellikle",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "bunu",
+        "kablolu",
+        "özellikle",
+        "oyun",
+        "kullanım",
+        "rahatlıkla",
+        "sıkıntı",
+        "oyunlarda"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok sessiz ve çok güzel rahat kullanım içiniz rahat bir şekilde alabilirsiniz çok kullanışlı",
+        "kullanımı çok rahat ve ürün çok şık tavsiye ederim"
       ],
       "all_reviews": [
         {
           "text": "çok sessiz ve çok güzel rahat kullanım içiniz rahat bir şekilde alabilirsiniz çok kullanışlı",
+          "score": 5.0
+        },
+        {
+          "text": "kullanımı çok rahat ve ürün çok şık tavsiye ederim",
           "score": 5.0
         }
       ],

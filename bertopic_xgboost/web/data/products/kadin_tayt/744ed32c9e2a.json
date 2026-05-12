@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**ONLİO GİYİM Yüksek Bel Toparlayıcı İç Göstermez Esnek K** için 13 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **toparlayıcı** ve **bedeni** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kalıbı o kadar güzel ki anlatamam alırken çok teredfüt ettim ama iyiki almışım kalite…\"\n• **Kumaşı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kumaş** ve **kalıbı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim y…\"\n• Kullanıcılar **Kumaşı & Farklı Renkleri** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **bedeni** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri reng…\"",
+  "summary": "ONLİO GİYİM Yüksek Bel Toparlayıcı İç Göstermez Esnek K, müşterilerin takdirini kazanan ürünlerden biri. Ürün, kumaşının ve renk seçeneklerinin yanı sıra toparlayıc ve bedeninin yüksek kalitesi ile beğenilir. Müşteriler, ürünün sıcacık ve bedenlerine uygunluğunu da onaylıyor. Genel olarak, ürün 5.0/5.0 genel memnuniyet puanına sahiptir ve müşterilerin neredeyse tamamı bu ürünle mutlu.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,48 +18,8 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli Rahat",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
-        "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kalıbı o kadar güzel ki anlatamam alırken çok teredfüt ettim ama iyiki almışım kalitesi dokusu mükemmel ayrıyetten vücudu o kadar iyi sarıyo ki çok güzel çok beğendim cidden",
-        "bu taytı aşırı beğendim tam bedenime göre oldu tavsiye ederim",
-        "gelir gelmez denedim gerçekten yapısı dokusu rahatlığı o kadar güzel ki iyiki almışım"
-      ],
-      "all_reviews": [
-        {
-          "text": "bu taytı aşırı beğendim tam bedenime göre oldu tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "gelir gelmez denedim gerçekten yapısı dokusu rahatlığı o kadar güzel ki iyiki almışım",
-          "score": 5.0
-        },
-        {
-          "text": "kalıbı o kadar güzel ki anlatamam alırken çok teredfüt ettim ama iyiki almışım kalitesi dokusu mükemmel ayrıyetten vücudu o kadar iyi sarıyo ki çok güzel çok beğendim cidden",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı",
-      "review_count": 2,
+      "name": "Kumaş",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -69,20 +29,37 @@
         "kumaş",
         "kalıbı",
         "iade",
-        "esnek",
         "bayıldım",
-        "baya"
+        "baya",
+        "almışım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
-        "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler"
+        "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler",
+        "kalıbı o kadar güzel ki anlatamam alırken çok teredfüt ettim ama iyiki almışım kalitesi dokusu mükemmel ayrıyetten vücudu o kadar iyi sarıyo ki çok güzel çok beğendim cidden"
       ],
       "all_reviews": [
         {
+          "text": "cok cok begendim 4 farkli renk tayt aldim hepsi cok guzel paketleme cok guzeldi ayrica minik hediyeniz icin tesekkurler",
+          "score": 5.0
+        },
+        {
           "text": "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın",
+          "score": 5.0
+        },
+        {
+          "text": "kalıbı o kadar güzel ki anlatamam alırken çok teredfüt ettim ama iyiki almışım kalitesi dokusu mükemmel ayrıyetten vücudu o kadar iyi sarıyo ki çok güzel çok beğendim cidden",
+          "score": 5.0
+        },
+        {
+          "text": "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
           "score": 5.0
         },
         {
@@ -93,8 +70,8 @@
       "icon": "💬"
     },
     {
-      "name": "Kumaşı & Farklı Renkleri",
-      "review_count": 2,
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -106,22 +83,338 @@
         "alin",
         "sarıyor",
         "farklı renkleri",
-        "yaptım"
+        "beli"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın",
-        "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim"
+        "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+        "fotoğrafı sonra ekleyeceğim 167 boy 65 kilo m beden tam oldu şık duruyor ve rengi sayfadaki gibi hoş iç göstermiyor asla kalın değil çok ince de değil yalnız sıkı olmasına rağmen belimden kayıyor",
+        "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler"
       ],
       "all_reviews": [
+        {
+          "text": "bu taytı aşırı beğendim tam bedenime göre oldu tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "fotoğrafı sonra ekleyeceğim 167 boy 65 kilo m beden tam oldu şık duruyor ve rengi sayfadaki gibi hoş iç göstermiyor asla kalın değil çok ince de değil yalnız sıkı olmasına rağmen belimden kayıyor",
+          "score": 5.0
+        },
         {
           "text": "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın",
           "score": 5.0
         },
         {
           "text": "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Farkl Renk",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "renkleri",
+        "paketleme özenliydi",
+        "notunuz",
+        "özenliydi",
+        "paketleme",
+        "kalite",
+        "ürünler",
+        "dokusu"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+        "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+        "cok cok begendim 4 farkli renk tayt aldim hepsi cok guzel paketleme cok guzeldi ayrica minik hediyeniz icin tesekkurler"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok cok begendim 4 farkli renk tayt aldim hepsi cok guzel paketleme cok guzeldi ayrica minik hediyeniz icin tesekkurler",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok güzel paketleme muazzam",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşacık ve opak renk çok güzel bel yüksekliği de güzel giyerken dar gelecek sandım ama neyse ki tam oldu neden konusunda tereddütünüz varsa bir büyük alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Toparlayıc & Beden",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+        "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+        "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu taytı aşırı beğendim tam bedenime göre oldu tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "fotoğrafı sonra ekleyeceğim 167 boy 65 kilo m beden tam oldu şık duruyor ve rengi sayfadaki gibi hoş iç göstermiyor asla kalın değil çok ince de değil yalnız sıkı olmasına rağmen belimden kayıyor",
+          "score": 5.0
+        },
+        {
+          "text": "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıcacık & Bedenınız",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sıcacık tutuyor",
+        "sıcacık",
+        "bedenınızı",
+        "derim",
+        "tutuyor",
+        "yumuşacık",
+        "rağmen",
+        "istediğim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+        "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+        "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu taytı aşırı beğendim tam bedenime göre oldu tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın",
+          "score": 5.0
+        },
+        {
+          "text": "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruş & Kalite",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "duruşu",
+        "kalitesi",
+        "göründüğü",
+        "sardı",
+        "bedeninizden",
+        "alin",
+        "bayıldım",
+        "almalısınız"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+        "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler",
+        "kalıbı o kadar güzel ki anlatamam alırken çok teredfüt ettim ama iyiki almışım kalitesi dokusu mükemmel ayrıyetten vücudu o kadar iyi sarıyo ki çok güzel çok beğendim cidden"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "kalıbı o kadar güzel ki anlatamam alırken çok teredfüt ettim ama iyiki almışım kalitesi dokusu mükemmel ayrıyetten vücudu o kadar iyi sarıyo ki çok güzel çok beğendim cidden",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "efsane",
+        "fiyat",
+        "paketleme",
+        "aldığım",
+        "edebilirsiniz",
+        "diyebilirim",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+        "cok cok begendim 4 farkli renk tayt aldim hepsi cok guzel paketleme cok guzeldi ayrica minik hediyeniz icin tesekkurler",
+        "çok çok güzel paketleme muazzam"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok cok begendim 4 farkli renk tayt aldim hepsi cok guzel paketleme cok guzeldi ayrica minik hediyeniz icin tesekkurler",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok güzel paketleme muazzam",
+          "score": 5.0
+        },
+        {
+          "text": "taytın kumaşı çok yumuşak çok güzel toparlayıcı özelliği harika paketleme çok güzeldi yazılan not çok özel hissettirdi teşekkürler tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ürün",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+        "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler",
+        "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünün kumaşı boyu çok şahane kendi bedenimi aldım sımsıkı sardı ama rahat hareket etmemi engellemedi ben 2 siyah 1 lacivert 1 gri aldım satıcıya ve emeği geçen herkese teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler elime ulaştı açık söylemek gerekirse ilk sipariş verirken tereddüt etmiştim yeni bir işletme diye fakat fazlasıyla yanılmışım ürünün kalitesi kumaşı yapısı o kadar güzelki bedenimi aldım tam oldu ve aşırı toparladı özellikle göbek bölgemi notunuz içinde çok çok teşekkür ederim emeğinize sağlık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Uygun",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
+        "baya",
+        "rağmen"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "fotoğrafı sonra ekleyeceğim 167 boy 65 kilo m beden tam oldu şık duruyor ve rengi sayfadaki gibi hoş iç göstermiyor asla kalın değil çok ince de değil yalnız sıkı olmasına rağmen belimden kayıyor",
+        "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın"
+      ],
+      "all_reviews": [
+        {
+          "text": "fotoğrafı sonra ekleyeceğim 167 boy 65 kilo m beden tam oldu şık duruyor ve rengi sayfadaki gibi hoş iç göstermiyor asla kalın değil çok ince de değil yalnız sıkı olmasına rağmen belimden kayıyor",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle güzel notunuz için teşekkür ederim ürünü çok beğendim kumaşı dikişleri rengi süper fotoğraf tam tona yakın",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 4.88,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**MATEO Kablosuz Bluetooth Kulaklık | iOS Android Uyumlu ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kalitesi & Fiyata Performans** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kılıf** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsin…\"\n• **Kılıfı & Çıktı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır. Örnek kullanıcı ifadesi: \"Oğlum için almıştık çok beğendi hızlı kargo ve sağlam ürün\"\n• Kullanıcılar **Marka & Süresi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **efsane** ve **beyendi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kızım için aldım çok memnun düşünmeden alınabilir korgolamada çok iyiydi hızlı elime…\"\n• **Fiyata Kalite** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kullanışlı** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün elime çok kısa sürede ulaştı sorunsuz geldi güzel paketleme satıcıya teşekkür ed…\"\n• Müşteri yorumlarında **Kaliteli & Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sorun** ve **paketlemesi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çook çok güzel yumuşak diğer markalara o kadar para vermeye gerek yok oğluma almıştım…\"",
+  "summary": "MATEO Kablosuz Bluetooth Kulaklık, müşterilerin büyük çoğunluğu tarafından yüksek memnuniyet ile karşılanıyor. Ürünün marka/fiyat performansı, şarja/hicbir problemi ve fiyat performansına yönelik yorumlarda yüzde 4,9'la üst seviye puan almasını sağlar. Kalite ve görüntü kalitesine dair yorumlarda da yüzde 4,8'le yine yüksek puanlar veriliyor. Bu genel olarak, MATEO Kablosuz Bluetooth Kulaklığın iOS ve Android uyumlu olan bir ürününün iyi performansı ve müşteri memnuniyetini artırdığına işaret ediyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,27 +18,27 @@
   },
   "aspects": [
     {
-      "name": "Kalitesi & Fiyata Performans",
-      "review_count": 13,
-      "avg_score": 4.85,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 36,
+      "avg_score": 4.94,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kalitesi",
-        "sesi",
-        "şarj",
-        "kılıf",
-        "fiyata",
-        "kalitesi kalitesi",
-        "bayıldım",
-        "kaliteli"
+        "marka",
+        "süresi",
+        "efsane",
+        "beyendi",
+        "aldı",
+        "kargolama",
+        "aydır",
+        "saglam"
       ],
-      "positive_pct": 84.6,
+      "positive_pct": 94.4,
       "negative_pct": 0.0,
-      "neutral_pct": 15.4,
+      "neutral_pct": 5.6,
       "sample_reviews": [
-        "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz",
-        "jbl almıştım ondam daha kaliteli bi ses kalitesi var severek kulanıyorum çok şık duruyo",
+        "kızım için aldım çok memnun paketleme geliş süresi efsane",
+        "çook çok güzel yumuşak diğer markalara o kadar para vermeye gerek yok oğluma almıştım şimdi kendim içinde sipariş vericem",
         "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz"
       ],
       "all_reviews": [
@@ -47,11 +47,163 @@
           "score": 5.0
         },
         {
+          "text": "gayet güzel kardeşime aldım çok beğendi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün paketlenmesi baya iyi hediye olarak aldım çok güzel memnuniyetle alabilirsiniz tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım çok memnun düşünmeden alınabilir korgolamada çok iyiydi hızlı elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün elime çok kısa sürede ulaştı sorunsuz geldi güzel paketleme satıcıya teşekkür ederim hızlı düzgün güzel servis gönül rahatlığıyla alınabilir",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım çok memnunum",
+          "score": 5.0
+        },
+        {
           "text": "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz",
           "score": 5.0
         },
         {
           "text": "harika oğluma aldım iyiki almışız ses kalitesi ses yüksekliği mukemell",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım çok memnun paketleme geliş süresi efsane",
+          "score": 5.0
+        },
+        {
+          "text": "çook çok güzel yumuşak diğer markalara o kadar para vermeye gerek yok oğluma almıştım şimdi kendim içinde sipariş vericem",
+          "score": 5.0
+        },
+        {
+          "text": "oğlum için aldım çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kiim için aldım severek kullanıyor",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Şarja & Hiçbir",
+      "review_count": 23,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "şarja",
+        "hiçbir",
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün elime çok kısa sürede ulaştı sorunsuz geldi güzel paketleme satıcıya teşekkür ederim hızlı düzgün güzel servis gönül rahatlığıyla alınabilir",
+        "kızım için aldım çok memnun paketleme geliş süresi efsane",
+        "ürüne bayıldık çok güzel hayatımızın en hızlı kargosuydu akşam sipariş verdik ertesi gün öğlen elimize geçti çok teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün aşırı iyi ses efsane duruşuna zaten aşık oldum herkes soruyor çok teşekkür ederim size",
+          "score": 5.0
+        },
+        {
+          "text": "ürün paketlenmesi baya iyi hediye olarak aldım çok güzel memnuniyetle alabilirsiniz tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "oğlum için almıştık çok beğendi hızlı kargo ve sağlam ürün",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım çok memnun paketleme geliş süresi efsane",
+          "score": 5.0
+        },
+        {
+          "text": "çok ama çok güzel geldi herkese tavsiye ederim mükemmel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
+          "score": 5.0
+        },
+        {
+          "text": "ürün elime çok kısa sürede ulaştı sorunsuz geldi güzel paketleme satıcıya teşekkür ederim hızlı düzgün güzel servis gönül rahatlığıyla alınabilir",
+          "score": 5.0
+        },
+        {
+          "text": "ürüne bayıldık çok güzel hayatımızın en hızlı kargosuydu akşam sipariş verdik ertesi gün öğlen elimize geçti çok teşekkürler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 15,
+      "avg_score": 4.87,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
+        "performans fiyat",
+        "kalitesi baya",
+        "alin",
+        "sorunsuz",
+        "diye",
+        "tane"
+      ],
+      "positive_pct": 86.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 13.3,
+      "sample_reviews": [
+        "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+        "ürün paketlenmesi baya iyi hediye olarak aldım çok güzel memnuniyetle alabilirsiniz tavsiye ederim",
+        "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik"
+      ],
+      "all_reviews": [
+        {
+          "text": "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "harika oğluma aldım iyiki almışız ses kalitesi ses yüksekliği mukemell",
+          "score": 5.0
+        },
+        {
+          "text": "ürün paketlenmesi baya iyi hediye olarak aldım çok güzel memnuniyetle alabilirsiniz tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
           "score": 5.0
         },
         {
@@ -66,120 +218,175 @@
       "icon": "💬"
     },
     {
-      "name": "Kılıfı & Çıktı",
-      "review_count": 10,
-      "avg_score": 4.8,
+      "name": "Kalite",
+      "review_count": 12,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "para",
-        "kılıfı",
-        "yeğenime",
-        "çıktı",
-        "öneriyorum",
-        "defa"
+        "kalitesi",
+        "sesi",
+        "şarj",
+        "kalitesi kalitesi",
+        "kılıf",
+        "bayıldım",
+        "dışarı",
+        "paketlemesi"
       ],
-      "positive_pct": 80.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 20.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "kiim için aldım severek kullanıyor",
-        "oğlum için almıştık çok beğendi hızlı kargo ve sağlam ürün",
-        "gayet güzel kardeşime aldım çok beğendi alabilirsiniz"
+        "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz",
+        "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+        "jbl almıştım ondam daha kaliteli bi ses kalitesi var severek kulanıyorum çok şık duruyo"
       ],
       "all_reviews": [
         {
-          "text": "oğlum için almıştık çok beğendi hızlı kargo ve sağlam ürün",
+          "text": "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz",
           "score": 5.0
         },
         {
-          "text": "oğlum için aldım çok güzel",
+          "text": "harika oğluma aldım iyiki almışız ses kalitesi ses yüksekliği mukemell",
           "score": 5.0
         },
         {
-          "text": "gayet güzel kardeşime aldım çok beğendi alabilirsiniz",
+          "text": "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
           "score": 5.0
         },
         {
-          "text": "kiim için aldım severek kullanıyor",
+          "text": "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "jbl almıştım ondam daha kaliteli bi ses kalitesi var severek kulanıyorum çok şık duruyo",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Marka & Süresi",
-      "review_count": 8,
-      "avg_score": 5.0,
+      "name": "Görünt Kalite",
+      "review_count": 12,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "marka",
-        "süresi",
-        "efsane",
-        "beyendi",
-        "aldı",
-        "kargolama",
-        "kullanıyor",
-        "aydır"
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "kızım için aldım çok memnun paketleme geliş süresi efsane",
-        "kızım için aldım çok memnun düşünmeden alınabilir korgolamada çok iyiydi hızlı elime ulaştı teşekkürler",
-        "kızım için aldım çok memnunum"
+        "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+        "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
+        "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "kızım için aldım çok memnun paketleme geliş süresi efsane",
+          "text": "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz",
           "score": 5.0
         },
         {
-          "text": "kızım için aldım çok memnun düşünmeden alınabilir korgolamada çok iyiydi hızlı elime ulaştı teşekkürler",
+          "text": "harika oğluma aldım iyiki almışız ses kalitesi ses yüksekliği mukemell",
           "score": 5.0
         },
         {
-          "text": "kızım için aldım çok memnunum",
+          "text": "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
           "score": 5.0
+        },
+        {
+          "text": "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "jbl almıştım ondam daha kaliteli bi ses kalitesi var severek kulanıyorum çok şık duruyo",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata Kalite",
-      "review_count": 8,
+      "name": "Müzik Dinlerken",
+      "review_count": 12,
+      "avg_score": 4.83,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklediğimden",
+        "aldık",
+        "kalitesi",
+        "sesi",
+        "müzik dinlerken",
+        "iyidi",
+        "sesim",
+        "dinlerken"
+      ],
+      "positive_pct": 83.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 16.7,
+      "sample_reviews": [
+        "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz",
+        "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+        "jbl almıştım ondam daha kaliteli bi ses kalitesi var severek kulanıyorum çok şık duruyo"
+      ],
+      "all_reviews": [
+        {
+          "text": "kızıma aldım çok beğendi sesi kalitesi görünüşü harika gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "harika oğluma aldım iyiki almışız ses kalitesi ses yüksekliği mukemell",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü oğlum için aldım ses kalitesi falan çok güzel fiyat performans ürünü hiç tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "jbl almıştım ondam daha kaliteli bi ses kalitesi var severek kulanıyorum çok şık duruyo",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Uygun",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "almak",
+        "sorunsuz",
+        "uygun",
+        "valla",
         "paketleme",
-        "kullanışlı",
-        "sağlam",
-        "şarja",
-        "fiyata kalite",
-        "hiçbir",
-        "kaliteli",
-        "üründen"
+        "direk",
+        "yapılmış",
+        "herşey"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "ürün elime çok kısa sürede ulaştı sorunsuz geldi güzel paketleme satıcıya teşekkür ederim hızlı düzgün güzel servis gönül rahatlığıyla alınabilir",
-        "ürüne bayıldık çok güzel hayatımızın en hızlı kargosuydu akşam sipariş verdik ertesi gün öğlen elimize geçti çok teşekkürler",
-        "ürün paketlenmesi baya iyi hediye olarak aldım çok güzel memnuniyetle alabilirsiniz tavsiye ederim"
+        "kızım için aldım çok memnun paketleme geliş süresi efsane"
       ],
       "all_reviews": [
         {
-          "text": "ürün paketlenmesi baya iyi hediye olarak aldım çok güzel memnuniyetle alabilirsiniz tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "ürüne bayıldık çok güzel hayatımızın en hızlı kargosuydu akşam sipariş verdik ertesi gün öğlen elimize geçti çok teşekkürler",
+          "text": "kızım için aldım çok memnun paketleme geliş süresi efsane",
           "score": 5.0
         },
         {
@@ -190,76 +397,31 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Fiyat Performans",
-      "review_count": 7,
+      "name": "Kılıf & Çıktı",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "beklediğimden",
-        "sorun",
-        "paketleme",
-        "paketlemesi",
-        "performans",
-        "tane",
-        "orijinal"
+        "aldık",
+        "para",
+        "yeğenime",
+        "kılıfı",
+        "çıktı",
+        "öneriyorum",
+        "defa",
+        "saglam"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "gayet güzel ve sağlam geldi bir tanede yigenime sipariş vericez",
-        "çook çok güzel yumuşak diğer markalara o kadar para vermeye gerek yok oğluma almıştım şimdi kendim içinde sipariş vericem",
-        "çok ama çok güzel geldi herkese tavsiye ederim mükemmel bir ürün"
+        "çook çok güzel yumuşak diğer markalara o kadar para vermeye gerek yok oğluma almıştım şimdi kendim içinde sipariş vericem"
       ],
       "all_reviews": [
         {
           "text": "çook çok güzel yumuşak diğer markalara o kadar para vermeye gerek yok oğluma almıştım şimdi kendim içinde sipariş vericem",
           "score": 5.0
-        },
-        {
-          "text": "gayet güzel ve sağlam geldi bir tanede yigenime sipariş vericez",
-          "score": 5.0
-        },
-        {
-          "text": "çok ama çok güzel geldi herkese tavsiye ederim mükemmel bir ürün",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Görüntü Kalitesi",
-      "review_count": 4,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "oglum",
-        "görüntü kalitesi",
-        "iyii",
-        "bende",
-        "görüntü",
-        "ilgili",
-        "alınabilecek"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
-        "kizima hediye aldim cok begendik"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün çok güzel ve kaliteli alın aldırın yani ben hediye de aldım kendime de aldım çok beğendik",
-          "score": 5.0
-        },
-        {
-          "text": "kizima hediye aldim cok begendik",
-          "score": 4.0
         }
       ],
       "icon": "💬"

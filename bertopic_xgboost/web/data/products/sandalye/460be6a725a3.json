@@ -8,7 +8,7 @@
   "overall_score": 4.68,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**ROYALİSA TABLE CHAİR ROYAL ELISA 6 ADET SANDALYE MUTFAK** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bu fiyata bu kalitede ürün beklemiyordum ben çok beğendim istediğim renkte geldi soru…\"\n• **Yoktu & Sıkıntı** başlığında olumsuz deneyimler ön plana çıkmakta; müşteriler çeşitli sıkıntılar bildirmektedir, **dikkat** ve **montaj** başta olmak üzere.\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **uygun** ve **ilgili** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ilgili alakalı bir işletme çok saolsunlar hiç tereddüt etmeden alın aldırın ve de çok…\"\n• **Sorunsuz & Sağlam Kaliteli** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kalitesi** ve **oldular** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ben öncelikle yabilmo ailesine çok çok teşekkür ediyorum o kadar ilgili ve bi o kadar…\"\n• Müşteri yorumlarında **Takım & Kurulumu Kolay** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **teşekürler** ve **sürekli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünler elimize ulaştı çök güzel herkese tavsiye ediyorum teşekkürler\"",
+  "summary": "**ROYALİSA TABLE CHAİR ROYAL ELISA 6 ADET SANDALYE MUTFAK** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Yoktu & Sıkınt**: Kullanıcılar genel olarak yoktu & sıkınt açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,48 +18,40 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
+      "name": "Fiyat Performans",
       "review_count": 24,
-      "avg_score": 5.0,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 75.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 25.0,
       "sample_reviews": [
-        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
-        "bu fiyata bu kalitede ürün beklemiyordum ben çok beğendim istediğim renkte geldi sorun yasamadım güzel paketlenmişti hiç hasar almadan iki gün içinde elime ulaştı satın alırken satıcıya dikkat ettim ve ben çok beğendim hayırlı kazançlar",
-        "ürün harika beklediğimden daha iyi geldi aldıktan teslimat hızlıydı bu fiyata bu kalite inanılmaz"
+        "güzel fiyat performans ürünü sadece bir sandalyenin sırt kısmındaki delikler farklı yerlerdeydi montajını yapamadık farklı şekilde çözmeye çalışıcam ama değinmek istediğim konu kargo konusu firmayı iyiliğiniz için kesinlikle değiştirmelisiniz karton yırtık ve delik deşikti kumaşlara leke bulaşmıştı sürat korgo pişmanlıktır",
+        "ilgili alakalı bir işletme çok saolsunlar hiç tereddüt etmeden alın aldırın ve de çok kaliteli fiyatı da harika teşekkürler decosense ailesi",
+        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim"
       ],
       "all_reviews": [
+        {
+          "text": "ben öncelikle yabilmo ailesine çok çok teşekkür ediyorum o kadar ilgili ve bi o kadar da yardımcı oldular rabbim birini bin etsin çok memnun kaldım sandalyemin birinde sıkıntı çıktı be hemen ertesi günü tedarik edip yolladılar ve evime çok yakıştılar hayırlı bol müşterileri olsun tereddüt etmeden alın pişman olmicaksınız",
+          "score": 5.0
+        },
         {
           "text": "ürün harika beklediğimden daha iyi geldi aldıktan teslimat hızlıydı bu fiyata bu kalite inanılmaz",
           "score": 5.0
         },
         {
           "text": "ürün yorumlarına bakarken çok tereddüt etmiştim ama yabilmo satıcılı yorumların hep güzel olmasına güvenerek aldım gerçekten helal olsun ilk kez bir alışverişim resimde gördüğümden daha güzel geldi hemde bu kadar uygun fiyatla teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "ürün özenle paketlenmiş ve sağlam geldi",
-          "score": 5.0
-        },
-        {
-          "text": "çok başarılı biz çok memnun kaldık",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim gerçekten kaliteli eksiksiz ve güzel kargolama",
           "score": 5.0
         },
         {
@@ -71,43 +63,79 @@
           "score": 5.0
         },
         {
-          "text": "hızlı eksiksiz kargo masama tam uydu istediğim gibi satıcıya teşekkür ediyorum",
+          "text": "ilgili alakalı bir işletme çok saolsunlar hiç tereddüt etmeden alın aldırın ve de çok kaliteli fiyatı da harika teşekkürler decosense ailesi",
           "score": 5.0
         },
         {
           "text": "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
           "score": 5.0
+        },
+        {
+          "text": "güzel fiyat performans ürünü sadece bir sandalyenin sırt kısmındaki delikler farklı yerlerdeydi montajını yapamadık farklı şekilde çözmeye çalışıcam ama değinmek istediğim konu kargo konusu firmayı iyiliğiniz için kesinlikle değiştirmelisiniz karton yırtık ve delik deşikti kumaşlara leke bulaşmıştı sürat korgo pişmanlıktır",
+          "score": 4.0
+        },
+        {
+          "text": "ürün sağlam görünüyor paketlemesi harika hiç bir deformasyon izi yok bir sandalyenin yaslanma tahtası arkasındaki demirlere uygun değil ve montaj sırasında boşluk bırakıyor geri kalanlar sağlam duruyor",
+          "score": 4.0
+        },
+        {
+          "text": "ürün fiyatına göre kalite olarak normal bağlantı yaparken vida yerleri uyumsuz olabilir aldıktan sonra dikkat edin eğer uyumsuzluk varsa değişim yapıyorlar kargodan kaynaklı bir bacağı yamuk gelen sandalye iskeletini değiştirdiler",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Yoktu & Sıkıntı",
-      "review_count": 9,
-      "avg_score": 3.44,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
+      "name": "Fiyat Kalite",
+      "review_count": 22,
+      "avg_score": 4.73,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "yoktu",
-        "sıkıntı",
-        "vida",
-        "dikkat",
-        "montaj",
-        "iade",
-        "siparişim",
-        "dedim"
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
       ],
-      "positive_pct": 33.3,
-      "negative_pct": 22.2,
-      "neutral_pct": 44.4,
+      "positive_pct": 81.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 18.2,
       "sample_reviews": [
-        "ürün aynı qöründüğü ve söylendiği gibiydi ben özellikle sandalye konusunda çok şansızlık yaşadıqım için pimpirikli yaklaştım ve sorular sordum saolsunlar hepsine kısa sürede cevaplar verdiler en önemlisi buydu sonra teslimi kutu biraz korumasızdı eyvah dedim ama şükür qüzel qeldi sorunu yoktu montajı matkapla çözülecek birşey eksiği yada hasarı yoktu çok teşekkür ederim içime sindi sewerek kullanıyorum özellikle bu satıcı royalisa",
+        "bu fiyata bu kalitede ürün beklemiyordum ben çok beğendim istediğim renkte geldi sorun yasamadım güzel paketlenmişti hiç hasar almadan iki gün içinde elime ulaştı satın alırken satıcıya dikkat ettim ve ben çok beğendim hayırlı kazançlar",
         "ürün fiyatına göre kalite olarak normal bağlantı yaparken vida yerleri uyumsuz olabilir aldıktan sonra dikkat edin eğer uyumsuzluk varsa değişim yapıyorlar kargodan kaynaklı bir bacağı yamuk gelen sandalye iskeletini değiştirdiler",
-        "güzel fiyat performans ürünü sadece bir sandalyenin sırt kısmındaki delikler farklı yerlerdeydi montajını yapamadık farklı şekilde çözmeye çalışıcam ama değinmek istediğim konu kargo konusu firmayı iyiliğiniz için kesinlikle değiştirmelisiniz karton yırtık ve delik deşikti kumaşlara leke bulaşmıştı sürat korgo pişmanlıktır"
+        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "ürün aynı qöründüğü ve söylendiği gibiydi ben özellikle sandalye konusunda çok şansızlık yaşadıqım için pimpirikli yaklaştım ve sorular sordum saolsunlar hepsine kısa sürede cevaplar verdiler en önemlisi buydu sonra teslimi kutu biraz korumasızdı eyvah dedim ama şükür qüzel qeldi sorunu yoktu montajı matkapla çözülecek birşey eksiği yada hasarı yoktu çok teşekkür ederim içime sindi sewerek kullanıyorum özellikle bu satıcı royalisa",
+          "text": "ürün harika beklediğimden daha iyi geldi aldıktan teslimat hızlıydı bu fiyata bu kalite inanılmaz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün yorumlarına bakarken çok tereddüt etmiştim ama yabilmo satıcılı yorumların hep güzel olmasına güvenerek aldım gerçekten helal olsun ilk kez bir alışverişim resimde gördüğümden daha güzel geldi hemde bu kadar uygun fiyatla teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim gerçekten kaliteli eksiksiz ve güzel kargolama",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kalitede ürün beklemiyordum ben çok beğendim istediğim renkte geldi sorun yasamadım güzel paketlenmişti hiç hasar almadan iki gün içinde elime ulaştı satın alırken satıcıya dikkat ettim ve ben çok beğendim hayırlı kazançlar",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel kaliteli salonumuza çok yakıştı",
+          "score": 5.0
+        },
+        {
+          "text": "ilgili alakalı bir işletme çok saolsunlar hiç tereddüt etmeden alın aldırın ve de çok kaliteli fiyatı da harika teşekkürler decosense ailesi",
+          "score": 5.0
+        },
+        {
+          "text": "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
           "score": 5.0
         },
         {
@@ -117,41 +145,53 @@
         {
           "text": "ürün fiyatına göre kalite olarak normal bağlantı yaparken vida yerleri uyumsuz olabilir aldıktan sonra dikkat edin eğer uyumsuzluk varsa değişim yapıyorlar kargodan kaynaklı bir bacağı yamuk gelen sandalye iskeletini değiştirdiler",
           "score": 3.0
-        },
-        {
-          "text": "çok kötü kesinlikle almayın dalga gecer gibi her yeri soyulmuş minderleri yırtık ürün gönderdiler iade ettim",
-          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 7,
-      "avg_score": 5.0,
+      "name": "Sorunsuz",
+      "review_count": 20,
+      "avg_score": 4.8,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyat",
-        "fiyat performans",
-        "performans",
-        "uygun",
-        "ilgili",
-        "kalite",
-        "rahatlığı",
-        "kusursuz"
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 90.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 10.0,
       "sample_reviews": [
-        "ilgili alakalı bir işletme çok saolsunlar hiç tereddüt etmeden alın aldırın ve de çok kaliteli fiyatı da harika teşekkürler decosense ailesi",
-        "ürün çok güzel hatasız bir şekilde 1 gün içinde teslim edildi ürün görseldekinden çok daha güzel gönül rahatlığı ile alabilirsiniz",
-        "royal farkı"
+        "ben öncelikle yabilmo ailesine çok çok teşekkür ediyorum o kadar ilgili ve bi o kadar da yardımcı oldular rabbim birini bin etsin çok memnun kaldım sandalyemin birinde sıkıntı çıktı be hemen ertesi günü tedarik edip yolladılar ve evime çok yakıştılar hayırlı bol müşterileri olsun tereddüt etmeden alın pişman olmicaksınız",
+        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
+        "bu fiyata bu kalitede ürün beklemiyordum ben çok beğendim istediğim renkte geldi sorun yasamadım güzel paketlenmişti hiç hasar almadan iki gün içinde elime ulaştı satın alırken satıcıya dikkat ettim ve ben çok beğendim hayırlı kazançlar"
       ],
       "all_reviews": [
         {
-          "text": "ürün çok güzel hatasız bir şekilde 1 gün içinde teslim edildi ürün görseldekinden çok daha güzel gönül rahatlığı ile alabilirsiniz",
+          "text": "ben öncelikle yabilmo ailesine çok çok teşekkür ediyorum o kadar ilgili ve bi o kadar da yardımcı oldular rabbim birini bin etsin çok memnun kaldım sandalyemin birinde sıkıntı çıktı be hemen ertesi günü tedarik edip yolladılar ve evime çok yakıştılar hayırlı bol müşterileri olsun tereddüt etmeden alın pişman olmicaksınız",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika beklediğimden daha iyi geldi aldıktan teslimat hızlıydı bu fiyata bu kalite inanılmaz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim gerçekten kaliteli eksiksiz ve güzel kargolama",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kalitede ürün beklemiyordum ben çok beğendim istediğim renkte geldi sorun yasamadım güzel paketlenmişti hiç hasar almadan iki gün içinde elime ulaştı satın alırken satıcıya dikkat ettim ve ben çok beğendim hayırlı kazançlar",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel kaliteli salonumuza çok yakıştı",
           "score": 5.0
         },
         {
@@ -159,125 +199,166 @@
           "score": 5.0
         },
         {
-          "text": "royal farkı",
+          "text": "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
           "score": 5.0
+        },
+        {
+          "text": "ürün fiyatına göre kalite olarak normal bağlantı yaparken vida yerleri uyumsuz olabilir aldıktan sonra dikkat edin eğer uyumsuzluk varsa değişim yapıyorlar kargodan kaynaklı bir bacağı yamuk gelen sandalye iskeletini değiştirdiler",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Sağlam Kaliteli",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Yoktu & Sıkınt",
+      "review_count": 14,
+      "avg_score": 4.43,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "sorunsuz",
-        "sağlam kaliteli",
-        "kalitesi",
-        "severek",
-        "oldular",
-        "evime",
-        "sağlam",
-        "hava"
+        "yoktu",
+        "sıkıntı",
+        "vida",
+        "dikkat",
+        "montaj",
+        "iade",
+        "siparişim",
+        "konusunda"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 57.1,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 42.9,
       "sample_reviews": [
-        "ben öncelikle yabilmo ailesine çok çok teşekkür ediyorum o kadar ilgili ve bi o kadar da yardımcı oldular rabbim birini bin etsin çok memnun kaldım sandalyemin birinde sıkıntı çıktı be hemen ertesi günü tedarik edip yolladılar ve evime çok yakıştılar hayırlı bol müşterileri olsun tereddüt etmeden alın pişman olmicaksınız"
+        "ürün aynı qöründüğü ve söylendiği gibiydi ben özellikle sandalye konusunda çok şansızlık yaşadıqım için pimpirikli yaklaştım ve sorular sordum saolsunlar hepsine kısa sürede cevaplar verdiler en önemlisi buydu sonra teslimi kutu biraz korumasızdı eyvah dedim ama şükür qüzel qeldi sorunu yoktu montajı matkapla çözülecek birşey eksiği yada hasarı yoktu çok teşekkür ederim içime sindi sewerek kullanıyorum özellikle bu satıcı royalisa",
+        "ürün fiyatına göre kalite olarak normal bağlantı yaparken vida yerleri uyumsuz olabilir aldıktan sonra dikkat edin eğer uyumsuzluk varsa değişim yapıyorlar kargodan kaynaklı bir bacağı yamuk gelen sandalye iskeletini değiştirdiler",
+        "güzel fiyat performans ürünü sadece bir sandalyenin sırt kısmındaki delikler farklı yerlerdeydi montajını yapamadık farklı şekilde çözmeye çalışıcam ama değinmek istediğim konu kargo konusu firmayı iyiliğiniz için kesinlikle değiştirmelisiniz karton yırtık ve delik deşikti kumaşlara leke bulaşmıştı sürat korgo pişmanlıktır"
       ],
       "all_reviews": [
         {
           "text": "ben öncelikle yabilmo ailesine çok çok teşekkür ediyorum o kadar ilgili ve bi o kadar da yardımcı oldular rabbim birini bin etsin çok memnun kaldım sandalyemin birinde sıkıntı çıktı be hemen ertesi günü tedarik edip yolladılar ve evime çok yakıştılar hayırlı bol müşterileri olsun tereddüt etmeden alın pişman olmicaksınız",
           "score": 5.0
+        },
+        {
+          "text": "ürün aynı qöründüğü ve söylendiği gibiydi ben özellikle sandalye konusunda çok şansızlık yaşadıqım için pimpirikli yaklaştım ve sorular sordum saolsunlar hepsine kısa sürede cevaplar verdiler en önemlisi buydu sonra teslimi kutu biraz korumasızdı eyvah dedim ama şükür qüzel qeldi sorunu yoktu montajı matkapla çözülecek birşey eksiği yada hasarı yoktu çok teşekkür ederim içime sindi sewerek kullanıyorum özellikle bu satıcı royalisa",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kalitede ürün beklemiyordum ben çok beğendim istediğim renkte geldi sorun yasamadım güzel paketlenmişti hiç hasar almadan iki gün içinde elime ulaştı satın alırken satıcıya dikkat ettim ve ben çok beğendim hayırlı kazançlar",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sağlam görünüyor paketlemesi harika hiç bir deformasyon izi yok bir sandalyenin yaslanma tahtası arkasındaki demirlere uygun değil ve montaj sırasında boşluk bırakıyor geri kalanlar sağlam duruyor",
+          "score": 4.0
+        },
+        {
+          "text": "güzel fiyat performans ürünü sadece bir sandalyenin sırt kısmındaki delikler farklı yerlerdeydi montajını yapamadık farklı şekilde çözmeye çalışıcam ama değinmek istediğim konu kargo konusu firmayı iyiliğiniz için kesinlikle değiştirmelisiniz karton yırtık ve delik deşikti kumaşlara leke bulaşmıştı sürat korgo pişmanlıktır",
+          "score": 4.0
+        },
+        {
+          "text": "ürün fiyatına göre kalite olarak normal bağlantı yaparken vida yerleri uyumsuz olabilir aldıktan sonra dikkat edin eğer uyumsuzluk varsa değişim yapıyorlar kargodan kaynaklı bir bacağı yamuk gelen sandalye iskeletini değiştirdiler",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Takım & Kurulumu Kolay",
-      "review_count": 3,
-      "avg_score": 5.0,
+      "name": "Kurulum Kolay",
+      "review_count": 5,
+      "avg_score": 4.6,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "takım",
         "paketleme",
-        "teşekürler",
-        "yaptım",
-        "olsaydı",
-        "istediğim",
-        "sürekli",
-        "kazançlar"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürünler elimize ulaştı çök güzel herkese tavsiye ediyorum teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürünler elimize ulaştı çök güzel herkese tavsiye ediyorum teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kolay & Rahatlığıyla",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
         "kolay",
-        "rahatlığıyla",
-        "tesekkurler",
-        "kaldik",
-        "kurulumuda",
-        "yaptım",
-        "rağmen",
-        "çıktı"
+        "kurulumu",
+        "kurulumu kolay",
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 60.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 40.0,
       "sample_reviews": [
-        "gayet güzel kaliteli salonumuza çok yakıştı"
-      ],
-      "all_reviews": [
-        {
-          "text": "gayet güzel kaliteli salonumuza çok yakıştı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Koltuk & Zarar",
-      "review_count": 2,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "uzun",
-        "koltuk",
-        "zarar",
-        "ergonomik",
-        "görünüyor",
-        "rahat",
-        "vida",
-        "monte"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
+        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
         "ürün sağlam görünüyor paketlemesi harika hiç bir deformasyon izi yok bir sandalyenin yaslanma tahtası arkasındaki demirlere uygun değil ve montaj sırasında boşluk bırakıyor geri kalanlar sağlam duruyor"
       ],
       "all_reviews": [
+        {
+          "text": "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sağlam görünüyor paketlemesi harika hiç bir deformasyon izi yok bir sandalyenin yaslanma tahtası arkasındaki demirlere uygun değil ve montaj sırasında boşluk bırakıyor geri kalanlar sağlam duruyor",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk",
+      "review_count": 5,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "koltuk",
+        "çalışma",
+        "kurulumu",
+        "kumaşı",
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 40.0,
+      "sample_reviews": [
+        "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
+        "güzel fiyat performans ürünü sadece bir sandalyenin sırt kısmındaki delikler farklı yerlerdeydi montajını yapamadık farklı şekilde çözmeye çalışıcam ama değinmek istediğim konu kargo konusu firmayı iyiliğiniz için kesinlikle değiştirmelisiniz karton yırtık ve delik deşikti kumaşlara leke bulaşmıştı sürat korgo pişmanlıktır"
+      ],
+      "all_reviews": [
+        {
+          "text": "decosense mağazasından aldım ürünler çok kısa zamanda geldi ilgileri olsun ürünlerin kalitesi olsun bir harika eşim gelince kurulum yapar diye bekleyemedim sorularımla bıktırdım resmen ama her seferinde anında cevap vererek kibar bir üslupla açıkladılar ve tek başıma yarım saatte kurdum herşey için teşekkür ederim yine alışveriş yapacağım ve herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel fiyat performans ürünü sadece bir sandalyenin sırt kısmındaki delikler farklı yerlerdeydi montajını yapamadık farklı şekilde çözmeye çalışıcam ama değinmek istediğim konu kargo konusu firmayı iyiliğiniz için kesinlikle değiştirmelisiniz karton yırtık ve delik deşikti kumaşlara leke bulaşmıştı sürat korgo pişmanlıktır",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınabilir",
+      "review_count": 5,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınabilir",
+        "çocuk",
+        "halı",
+        "uygun",
+        "göründüğü",
+        "bayıldım",
+        "aldık",
+        "sorun"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 40.0,
+      "sample_reviews": [
+        "ürün yorumlarına bakarken çok tereddüt etmiştim ama yabilmo satıcılı yorumların hep güzel olmasına güvenerek aldım gerçekten helal olsun ilk kez bir alışverişim resimde gördüğümden daha güzel geldi hemde bu kadar uygun fiyatla teşekkür ederim",
+        "ürün sağlam görünüyor paketlemesi harika hiç bir deformasyon izi yok bir sandalyenin yaslanma tahtası arkasındaki demirlere uygun değil ve montaj sırasında boşluk bırakıyor geri kalanlar sağlam duruyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün yorumlarına bakarken çok tereddüt etmiştim ama yabilmo satıcılı yorumların hep güzel olmasına güvenerek aldım gerçekten helal olsun ilk kez bir alışverişim resimde gördüğümden daha güzel geldi hemde bu kadar uygun fiyatla teşekkür ederim",
+          "score": 5.0
+        },
         {
           "text": "ürün sağlam görünüyor paketlemesi harika hiç bir deformasyon izi yok bir sandalyenin yaslanma tahtası arkasındaki demirlere uygun değil ve montaj sırasında boşluk bırakıyor geri kalanlar sağlam duruyor",
           "score": 4.0

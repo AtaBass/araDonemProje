@@ -8,7 +8,7 @@
   "overall_score": 4.95,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**KUMTEL Beyaz XL Digital Fastfryer ( Yağsız Fritöz Airfr** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Ideal** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **diyebilirim** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün görseldeki gibi hemen denedik çok memnun kaldım inşaallah sonuna kadar böyle kul…\"\n• **Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kaliteli** ve **rahatlığıyla** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün çok güzel çok beğendim teşekkürler kesinlikle tavsiye ediyorum\"\n• Kullanıcılar **Fiyatı Uygun** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **sağlam** ve **fiyat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim ç…\"\n• **Kişilik** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **ideal** ve **anneler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Anneme doğum günü hediyesi aldım beğendik sorunsuz şekilde elimize ulaştı teşekkürler\"\n• Müşteri yorumlarında **Patates & Tavuk** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **vardı** ve **karaca** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok pratik güvenle kullanıyorum eşyalarımı çok çabuk ve güzel şekilde pişiriyor teşek…\"",
+  "summary": "KUMTEL Beyaz XL Digital Fastfryer, kullanıcılar tarafından oldukça takdir edilen ürün olurken, 5.0/5.0 genel memnuniyet puanına sahip. Ürünün özellikle beğenilen özellikleri arasında diyebilirim, fiyat performansı ve paketleme işlemleri olarak öne çıkan özellikler yer alıyor. Kullanıcılar, patates ve tavuk gibi ürünlerin de oldukça başarılı bir şekilde pişme sürecini onaylıyor. Tıpkı pozitif bir algı oluşturuyor gibi, ürünün genel yapısı da olumlu yorumları hak ediyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,8 +18,8 @@
   },
   "aspects": [
     {
-      "name": "Ideal",
-      "review_count": 10,
+      "name": "Diyebilirim",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -28,118 +28,42 @@
         "yorum",
         "sorunsuz",
         "şimdilik",
-        "severek",
-        "sağlam",
         "kolay",
-        "paketlemesi"
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel sorunsuz elime ulaştı",
-        "ürün görseldeki gibi hemen denedik çok memnun kaldım inşaallah sonuna kadar böyle kullanırım kesinlikle tavsiye ederim",
-        "aynısını kullandığım için tekrar aldim"
+        "ürünüm geldi beğendim boyut olarak güzel daha kullanmadım kullanınca yorumu güncellerim",
+        "çok pratik güvenle kullanıyorum eşyalarımı çok çabuk ve güzel şekilde pişiriyor teşekkürler",
+        "anneme doğum günü hediyesi aldım beğendik sorunsuz şekilde elimize ulaştı teşekkürler"
       ],
       "all_reviews": [
         {
-          "text": "ilk defa aldım çok güzel harika",
+          "text": "anneme doğum günü hediyesi aldım beğendik sorunsuz şekilde elimize ulaştı teşekkürler",
           "score": 5.0
         },
-        {
-          "text": "çok memnun kaldım",
-          "score": 5.0
-        },
-        {
-          "text": "aynısını kullandığım için tekrar aldim",
-          "score": 5.0
-        },
-        {
-          "text": "ürün görseldeki gibi hemen denedik çok memnun kaldım inşaallah sonuna kadar böyle kullanırım kesinlikle tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "güzel sorunsuz elime ulaştı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 8,
-      "avg_score": 4.75,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat performans",
-        "performans",
-        "fiyat",
-        "kaliteli",
-        "rahatlığıyla",
-        "çıtır",
-        "pratik",
-        "yağsız"
-      ],
-      "positive_pct": 75.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 25.0,
-      "sample_reviews": [
-        "fiyat performans ürünü çok begendim",
-        "ürün çok güzel çok beğendim teşekkürler kesinlikle tavsiye ediyorum",
-        "ürün çok kullanışlı teşekkürler tavsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün çok güzel çok beğendim teşekkürler kesinlikle tavsiye ediyorum",
-          "score": 5.0
-        },
-        {
-          "text": "güzel kullanisli kibar",
-          "score": 5.0
-        },
-        {
-          "text": "ürün çok kullanışlı teşekkürler tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "fiyat performans ürünü çok begendim",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyatı Uygun",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
-        "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim çalıştırdım sadece",
-        "ürün harka sorunsuz şekilde teslim edildi kargo paketleme çok iydi",
-        "ürünüm geldi beğendim boyut olarak güzel daha kullanmadım kullanınca yorumu güncellerim"
-      ],
-      "all_reviews": [
         {
           "text": "ürün harka sorunsuz şekilde teslim edildi kargo paketleme çok iydi",
           "score": 5.0
         },
         {
-          "text": "çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim çalıştırdım sadece",
+          "text": "çok pratik güvenle kullanıyorum eşyalarımı çok çabuk ve güzel şekilde pişiriyor teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel çok beğendim teşekkürler kesinlikle tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "güzel sorunsuz beyaz olması çok hoş",
+          "score": 5.0
+        },
+        {
+          "text": "güzel sorunsuz elime ulaştı",
           "score": 5.0
         },
         {
@@ -150,20 +74,140 @@
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
+      "name": "Fiyat Performans",
+      "review_count": 6,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
+        "fiyat",
+        "rahatlığıyla",
+        "çıtır",
+        "pratik",
+        "yağsız",
+        "çıtır çıtır"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "fiyat performans ürünü çok begendim",
+        "çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim çalıştırdım sadece",
+        "mükkemmel anneme aldım fiyatına göre çok çok iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükkemmel anneme aldım fiyatına göre çok çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim çalıştırdım sadece",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans ürünü çok begendim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Patates & Tavuk",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "pişiriyor",
+        "yaptım",
+        "denedim",
+        "patates",
+        "tavuk",
+        "vardı",
+        "karaca",
+        "lezzetli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "patatesler bana göre daha çabukta pişebilşr onun dışında tavada kızartılmış tadının aynısı hiç farkı yok begendım",
+        "çok pratik güvenle kullanıyorum eşyalarımı çok çabuk ve güzel şekilde pişiriyor teşekkürler",
+        "çok başarılı bütün tavuk da pişirdim çok güzel pişirdi sapının çıkması da büyük avantaj"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok pratik güvenle kullanıyorum eşyalarımı çok çabuk ve güzel şekilde pişiriyor teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok başarılı bütün tavuk da pişirdim çok güzel pişirdi sapının çıkması da büyük avantaj",
+          "score": 5.0
+        },
+        {
+          "text": "patatesler bana göre daha çabukta pişebilşr onun dışında tavada kızartılmış tadının aynısı hiç farkı yok begendım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "defa",
+        "görünüyor",
+        "denemedim",
+        "kullanıyoruz",
+        "paketlemesi",
+        "hasarsız",
+        "sorunsuz",
+        "çeyiz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim çalıştırdım sadece",
+        "ürün harka sorunsuz şekilde teslim edildi kargo paketleme çok iydi",
+        "ilk defa aldım çok güzel harika"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün harka sorunsuz şekilde teslim edildi kargo paketleme çok iydi",
+          "score": 5.0
+        },
+        {
+          "text": "ilk defa aldım çok güzel harika",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim çalıştırdım sadece",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellikle",
       "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
+        "özellikle",
+        "evde",
         "anneler",
-        "kaliteli"
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -185,88 +229,53 @@
       "icon": "💬"
     },
     {
-      "name": "Patates & Tavuk",
+      "name": "Çeyiz",
       "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "pişiriyor",
-        "yaptım",
-        "patates",
-        "denedim",
-        "tavuk",
-        "vardı",
-        "karaca",
-        "lezzetli"
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok pratik güvenle kullanıyorum eşyalarımı çok çabuk ve güzel şekilde pişiriyor teşekkürler",
-        "çok başarılı bütün tavuk da pişirdim çok güzel pişirdi sapının çıkması da büyük avantaj"
+        "çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim çalıştırdım sadece",
+        "ürünüm geldi beğendim boyut olarak güzel daha kullanmadım kullanınca yorumu güncellerim"
       ],
       "all_reviews": [
         {
-          "text": "çok pratik güvenle kullanıyorum eşyalarımı çok çabuk ve güzel şekilde pişiriyor teşekkürler",
+          "text": "çeyizime aldım bence fiyatı falan çok iyi fiyatına göre işlevi de çok iyi denemedim çalıştırdım sadece",
           "score": 5.0
         },
         {
-          "text": "çok başarılı bütün tavuk da pişirdim çok güzel pişirdi sapının çıkması da büyük avantaj",
+          "text": "ürünüm geldi beğendim boyut olarak güzel daha kullanmadım kullanınca yorumu güncellerim",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sıkıntı & Deneme",
+      "name": "Köfte",
       "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "gerek",
-        "sıkıntı",
-        "uzun süre",
-        "süre",
-        "yaptık",
-        "deneme",
-        "aydır",
-        "kızartma"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güzel sorunsuz beyaz olması çok hoş",
-        "bayıldımmmmmmmm"
-      ],
-      "all_reviews": [
-        {
-          "text": "bayıldımmmmmmmm",
-          "score": 5.0
-        },
-        {
-          "text": "güzel sorunsuz beyaz olması çok hoş",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Köfte & Patates Kızartması",
-      "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "elim",
         "köfte",
-        "tavuk",
+        "kullanmak",
         "börek",
         "para gerek",
-        "kullanmak",
+        "tavuk",
         "markalara",
         "yemekler"
       ],
@@ -274,41 +283,16 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "her eve lazim"
+        "anneme doğum günü hediyesi aldım beğendik sorunsuz şekilde elimize ulaştı teşekkürler",
+        "güzel sorunsuz elime ulaştı"
       ],
       "all_reviews": [
         {
-          "text": "her eve lazim",
+          "text": "anneme doğum günü hediyesi aldım beğendik sorunsuz şekilde elimize ulaştı teşekkürler",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Patates",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "patates",
-        "fakat",
-        "denedim",
-        "hacmi",
-        "yaptık",
-        "almışım",
-        "rengi",
-        "kalitesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "patatesler bana göre daha çabukta pişebilşr onun dışında tavada kızartılmış tadının aynısı hiç farkı yok begendım"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "patatesler bana göre daha çabukta pişebilşr onun dışında tavada kızartılmış tadının aynısı hiç farkı yok begendım",
+          "text": "güzel sorunsuz elime ulaştı",
           "score": 5.0
         }
       ],

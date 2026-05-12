@@ -8,7 +8,7 @@
   "overall_score": 4.33,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "**Lufian Salvator Smart Jean Erkek Pantolon Slim Fit Mavi** için 3 yorum analiz edilmiştir. Genel memnuniyet yüksek, bazı noktalarda farklı görüşler mevcuttur.\n• **Kalite & Kalıb**: Dokusu aşırı iyi parasını sonuna kadar hakediyor lufian kalitesi diyorum.",
+  "summary": "Lufian Salvator Smart Jean Erkek Pantolon Slim Fit Mavi, müşterilerin beğenilerine layık bir ürün olarak değerlendiriliyor. Ürün kalitesi ve kalıbına ilişkin yorumlar oldukça pozitif, ortalama puan 4.33/5.0'ı buluyor. Ayrıca fiyat performansına, alınabilirliğine ve kalite-fiyat dengesine de tam olarak olumlu yorumlar veriliyor, ortalama puanların tümü 5.0/5.0'u buluyor. Bu da ürünün müşterilerin beğenilerine layık olduğunu gösteriyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -53,6 +53,111 @@
         {
           "text": "slim fit yaziyo ama straight fit haberiniz olsun kalıbı yanlış beğenmedim",
           "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kilo",
+        "kalite",
+        "fakat",
+        "super",
+        "bedeni",
+        "fiyat",
+        "aldık",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "dokusu aşırı iyi parasını sonuna kadar hakediyor lufian kalitesi diyorum",
+        "kalite tesadüf degildir lufian belli ediyor kendini"
+      ],
+      "all_reviews": [
+        {
+          "text": "dokusu aşırı iyi parasını sonuna kadar hakediyor lufian kalitesi diyorum",
+          "score": 5.0
+        },
+        {
+          "text": "kalite tesadüf degildir lufian belli ediyor kendini",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "dokusu aşırı iyi parasını sonuna kadar hakediyor lufian kalitesi diyorum",
+        "kalite tesadüf degildir lufian belli ediyor kendini"
+      ],
+      "all_reviews": [
+        {
+          "text": "dokusu aşırı iyi parasını sonuna kadar hakediyor lufian kalitesi diyorum",
+          "score": 5.0
+        },
+        {
+          "text": "kalite tesadüf degildir lufian belli ediyor kendini",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "dokusu aşırı iyi parasını sonuna kadar hakediyor lufian kalitesi diyorum",
+        "kalite tesadüf degildir lufian belli ediyor kendini"
+      ],
+      "all_reviews": [
+        {
+          "text": "dokusu aşırı iyi parasını sonuna kadar hakediyor lufian kalitesi diyorum",
+          "score": 5.0
+        },
+        {
+          "text": "kalite tesadüf degildir lufian belli ediyor kendini",
+          "score": 5.0
         }
       ],
       "icon": "💬"

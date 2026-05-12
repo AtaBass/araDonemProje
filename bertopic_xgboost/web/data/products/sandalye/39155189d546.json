@@ -8,7 +8,7 @@
   "overall_score": 3.47,
   "overall_sentiment": "neutral",
   "stars": "★★★½☆",
-  "summary": "**SDT TİCARET LÜKS OFİS KOLTUĞU ÇALIŞMA KOLTUĞU HAREKETLİ** için 17 müşteri yorumu değerlendirilmiştir. Kullanıcı görüşleri karma bir tablo ortaya koymakta, hem olumlu hem eleştirel değerlendirmeler bulunmaktadır.\n• **Koltuk & Zarar** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **ergonomik** ve **rahat** konusu özellikle vurgulanmaktadır.\n• **Kurulumu Kolay**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **rahat** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım k…\"\n• **Fiyat Performans** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **uygun** ve **ilgili** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik\"\n• **Rahat Koltuk** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde…\"\n• **Yoktu & Sıkıntı** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **dikkat** ve **montaj** konusu özellikle vurgulanmaktadır.",
+  "summary": "**SDT TİCARET LÜKS OFİS KOLTUĞU ÇALIŞMA KOLTUĞU HAREKETLİ** için 17 yorum incelenmiştir.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kurulum Kolay**: Ürünün kurulum kolay özelliği hakkında karışık görüşler mevcut. Bazı kullanıcılar memnun kalırken, bazıları çeşitli eksiklikler olduğunu belirtmiş.\n• **Koltuk**: Ürünün koltuk özelliği hakkında karışık görüşler mevcut. Bazı kullanıcılar memnun kalırken, bazıları çeşitli eksiklikler olduğunu belirtmiş.\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Yoktu & Sıkınt**: Ürünün yoktu & sıkınt özelliği hakkında karışık görüşler mevcut. Bazı kullanıcılar memnun kalırken, bazıları çeşitli eksiklikler olduğunu belirtmiş.\n• **Sorunsuz**: Kullanıcılar genel olarak sorunsuz açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.",
   "score_distribution": {
     "1": 2,
     "2": 4,
@@ -18,30 +18,42 @@
   },
   "aspects": [
     {
-      "name": "Koltuk & Zarar",
-      "review_count": 5,
-      "avg_score": 1.8,
-      "sentiment": "negative",
-      "sentiment_label": "Olumsuz",
+      "name": "Kurulum Kolay",
+      "review_count": 6,
+      "avg_score": 3.5,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "uzun",
-        "koltuk",
-        "zarar",
-        "ergonomik",
-        "görünüyor",
-        "rahat",
-        "vida",
-        "monte"
+        "paketleme",
+        "kolay",
+        "kurulumu",
+        "kurulumu kolay",
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
       ],
-      "positive_pct": 0.0,
-      "negative_pct": 80.0,
-      "neutral_pct": 20.0,
+      "positive_pct": 33.3,
+      "negative_pct": 33.3,
+      "neutral_pct": 33.3,
       "sample_reviews": [
-        "paketleme kötü ve 1 vida eksikti pek ergonomik sayılmaz sırtı ağrıtıyor",
-        "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu",
-        "ürünü montajlamak için 2vida eksikdi hemde 2vida giriş yeri yoktu vidayı bulsam bile sıkıcak biyerii yok beli çok agrıtıyor kesinlikle almayınn pişmanım"
+        "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik",
+        "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz",
+        "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu"
       ],
       "all_reviews": [
+        {
+          "text": "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik",
+          "score": 5.0
+        },
+        {
+          "text": "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
+          "score": 4.0
+        },
         {
           "text": "urun kurulum klavuzu yok bazi delikler acik degil kurulumda zorlandim belkide yerleri acik olmadigi icindir begenmedim",
           "score": 3.0
@@ -49,6 +61,142 @@
         {
           "text": "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu",
           "score": 2.0
+        },
+        {
+          "text": "paketleme kötü ve 1 vida eksikti pek ergonomik sayılmaz sırtı ağrıtıyor",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk",
+      "review_count": 5,
+      "avg_score": 3.2,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "koltuk",
+        "çalışma",
+        "kurulumu",
+        "kumaşı",
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 20.0,
+      "negative_pct": 40.0,
+      "neutral_pct": 40.0,
+      "sample_reviews": [
+        "2 şubatta ürünü aldım çalışma koltuğunun alttaki aparatı çatlak geldi firma ile yazışarak ürünü gönderceklerini söylediler 6 mart oldu hala gelen ürün yok üstelik sürekli gönderdik gönderiyoruz diye oyalıyorlar üründe elimde kaldı çatlak parça kırılsa koltuk kullanılabilir durumda olmayacak güvenilir firma değil",
+        "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu",
+        "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık"
+      ],
+      "all_reviews": [
+        {
+          "text": "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik",
+          "score": 5.0
+        },
+        {
+          "text": "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
+          "score": 4.0
+        },
+        {
+          "text": "urun kurulum klavuzu yok bazi delikler acik degil kurulumda zorlandim belkide yerleri acik olmadigi icindir begenmedim",
+          "score": 3.0
+        },
+        {
+          "text": "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu",
+          "score": 2.0
+        },
+        {
+          "text": "2 şubatta ürünü aldım çalışma koltuğunun alttaki aparatı çatlak geldi firma ile yazışarak ürünü gönderceklerini söylediler 6 mart oldu hala gelen ürün yok üstelik sürekli gönderdik gönderiyoruz diye oyalıyorlar üründe elimde kaldı çatlak parça kırılsa koltuk kullanılabilir durumda olmayacak güvenilir firma değil",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Kalite",
+      "review_count": 5,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "hızlı kargo yapıldı ve 1 günde teslim edildi içinde 4 vida eksik çıktı hemen temin için bilgi verince eksik vidaları gönderdi ürüne gelirsek 8 vida ve tek yıldız tornavida ile basitçe kuruluyor fiyat performans olarak çok iyi çocuk ve genç kullanımında pek sorun çıkarmayacak gibi",
+        "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
+        "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz"
+      ],
+      "all_reviews": [
+        {
+          "text": "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı kargo yapıldı ve 1 günde teslim edildi içinde 4 vida eksik çıktı hemen temin için bilgi verince eksik vidaları gönderdi ürüne gelirsek 8 vida ve tek yıldız tornavida ile basitçe kuruluyor fiyat performans olarak çok iyi çocuk ve genç kullanımında pek sorun çıkarmayacak gibi",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik",
+          "score": 5.0
+        },
+        {
+          "text": "gayet iyi kaliteli kızımda çok sevdi rahat ve kullanışlı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Yoktu & Sıkınt",
+      "review_count": 5,
+      "avg_score": 2.8,
+      "sentiment": "negative",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "yoktu",
+        "sıkıntı",
+        "vida",
+        "dikkat",
+        "montaj",
+        "iade",
+        "siparişim",
+        "konusunda"
+      ],
+      "positive_pct": 40.0,
+      "negative_pct": 60.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü montajlamak için 2vida eksikdi hemde 2vida giriş yeri yoktu vidayı bulsam bile sıkıcak biyerii yok beli çok agrıtıyor kesinlikle almayınn pişmanım",
+        "iki vidalar eksik geldi montaj için hiç bir kullanma kılavuzu yoktu çok uğraştık vidalar bulmak",
+        "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz"
+      ],
+      "all_reviews": [
+        {
+          "text": "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı kargo yapıldı ve 1 günde teslim edildi içinde 4 vida eksik çıktı hemen temin için bilgi verince eksik vidaları gönderdi ürüne gelirsek 8 vida ve tek yıldız tornavida ile basitçe kuruluyor fiyat performans olarak çok iyi çocuk ve genç kullanımında pek sorun çıkarmayacak gibi",
+          "score": 5.0
         },
         {
           "text": "paketleme kötü ve 1 vida eksikti pek ergonomik sayılmaz sırtı ağrıtıyor",
@@ -66,28 +214,72 @@
       "icon": "💬"
     },
     {
-      "name": "Kurulumu Kolay",
+      "name": "Sorunsuz",
       "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
+      "positive_pct": 50.0,
+      "negative_pct": 25.0,
+      "neutral_pct": 25.0,
+      "sample_reviews": [
+        "2 şubatta ürünü aldım çalışma koltuğunun alttaki aparatı çatlak geldi firma ile yazışarak ürünü gönderceklerini söylediler 6 mart oldu hala gelen ürün yok üstelik sürekli gönderdik gönderiyoruz diye oyalıyorlar üründe elimde kaldı çatlak parça kırılsa koltuk kullanılabilir durumda olmayacak güvenilir firma değil",
+        "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
+        "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz"
+      ],
+      "all_reviews": [
+        {
+          "text": "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz",
+          "score": 5.0
+        },
+        {
+          "text": "gayet iyi kaliteli kızımda çok sevdi rahat ve kullanışlı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
+          "score": 4.0
+        },
+        {
+          "text": "2 şubatta ürünü aldım çalışma koltuğunun alttaki aparatı çatlak geldi firma ile yazışarak ürünü gönderceklerini söylediler 6 mart oldu hala gelen ürün yok üstelik sürekli gönderdik gönderiyoruz diye oyalıyorlar üründe elimde kaldı çatlak parça kırılsa koltuk kullanılabilir durumda olmayacak güvenilir firma değil",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 4,
+      "avg_score": 4.25,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz",
-        "gayet iyi kaliteli kızımda çok sevdi rahat ve kullanışlı teşekkürler",
-        "hızlı kargo yapıldı ve 1 günde teslim edildi içinde 4 vida eksik çıktı hemen temin için bilgi verince eksik vidaları gönderdi ürüne gelirsek 8 vida ve tek yıldız tornavida ile basitçe kuruluyor fiyat performans olarak çok iyi çocuk ve genç kullanımında pek sorun çıkarmayacak gibi"
+        "hızlı kargo yapıldı ve 1 günde teslim edildi içinde 4 vida eksik çıktı hemen temin için bilgi verince eksik vidaları gönderdi ürüne gelirsek 8 vida ve tek yıldız tornavida ile basitçe kuruluyor fiyat performans olarak çok iyi çocuk ve genç kullanımında pek sorun çıkarmayacak gibi",
+        "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik"
       ],
       "all_reviews": [
         {
@@ -99,122 +291,157 @@
           "score": 5.0
         },
         {
-          "text": "gayet iyi kaliteli kızımda çok sevdi rahat ve kullanışlı teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendik",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 3,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "fiyat",
-        "fiyat performans",
-        "performans",
-        "uygun",
-        "ilgili",
-        "kalite",
-        "rahatlığı",
-        "kusursuz"
-      ],
-      "positive_pct": 33.3,
-      "negative_pct": 0.0,
-      "neutral_pct": 66.7,
-      "sample_reviews": [
-        "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik",
-        "iyi güzel parasına göre gayet iyi",
-        "orta sınıf"
-      ],
-      "all_reviews": [
-        {
           "text": "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik",
           "score": 5.0
         },
         {
-          "text": "iyi güzel parasına göre gayet iyi",
-          "score": 4.0
-        },
-        {
-          "text": "orta sınıf",
-          "score": 3.0
+          "text": "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu",
+          "score": 2.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat Koltuk",
-      "review_count": 2,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "rahat",
-        "koltuk",
-        "sağlam",
-        "çalışma",
-        "kurulumu",
-        "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
-        "güzel sandalye eksik parçasını satıcı hemen temin etti mesajlara hemen dönüş yaptı"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel sandalye eksik parçasını satıcı hemen temin etti mesajlara hemen dönüş yaptı",
-          "score": 5.0
-        },
-        {
-          "text": "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Yoktu & Sıkıntı",
-      "review_count": 2,
+      "name": "Koltuk & Ergonomik",
+      "review_count": 3,
       "avg_score": 2.0,
       "sentiment": "negative",
       "sentiment_label": "Olumsuz",
       "top_terms": [
-        "yoktu",
-        "sıkıntı",
+        "uzun",
+        "koltuk",
+        "ergonomik",
+        "zarar",
+        "görünüyor",
         "vida",
-        "dikkat",
-        "montaj",
-        "iade",
-        "siparişim",
-        "dedim"
+        "sandalyenin",
+        "monte"
       ],
       "positive_pct": 0.0,
       "negative_pct": 100.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "paketleme kötü ve 1 vida eksikti pek ergonomik sayılmaz sırtı ağrıtıyor",
         "2 şubatta ürünü aldım çalışma koltuğunun alttaki aparatı çatlak geldi firma ile yazışarak ürünü gönderceklerini söylediler 6 mart oldu hala gelen ürün yok üstelik sürekli gönderdik gönderiyoruz diye oyalıyorlar üründe elimde kaldı çatlak parça kırılsa koltuk kullanılabilir durumda olmayacak güvenilir firma değil",
-        "kargo sırılsıklam ve yırtık geldi böyle özensizlik yok lütfen firma değişin ayrıca oturma yerini alttan zımbalamışlar ve asla gizleme gereği duymamışlar insan bu kadar para verince biraz özen bekliyor"
+        "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu"
       ],
       "all_reviews": [
         {
-          "text": "kargo sırılsıklam ve yırtık geldi böyle özensizlik yok lütfen firma değişin ayrıca oturma yerini alttan zımbalamışlar ve asla gizleme gereği duymamışlar insan bu kadar para verince biraz özen bekliyor",
+          "text": "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu",
+          "score": 2.0
+        },
+        {
+          "text": "paketleme kötü ve 1 vida eksikti pek ergonomik sayılmaz sırtı ağrıtıyor",
           "score": 2.0
         },
         {
           "text": "2 şubatta ürünü aldım çalışma koltuğunun alttaki aparatı çatlak geldi firma ile yazışarak ürünü gönderceklerini söylediler 6 mart oldu hala gelen ürün yok üstelik sürekli gönderdik gönderiyoruz diye oyalıyorlar üründe elimde kaldı çatlak parça kırılsa koltuk kullanılabilir durumda olmayacak güvenilir firma değil",
           "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 2,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "takım",
+        "paketleme",
+        "teşekürler",
+        "yaptım",
+        "olsaydı",
+        "istediğim",
+        "sürekli",
+        "kazançlar"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
+        "paketleme kötü ve 1 vida eksikti pek ergonomik sayılmaz sırtı ağrıtıyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "basit kurulum şeması olsaydı yanında daha çok mutlu olurduk ama hallettik bi şekilde oturma yeri biraz yamuk oldu nedenini anlamadık",
+          "score": 4.0
+        },
+        {
+          "text": "paketleme kötü ve 1 vida eksikti pek ergonomik sayılmaz sırtı ağrıtıyor",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınabilir",
+      "review_count": 2,
+      "avg_score": 3.5,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "alınabilir",
+        "çocuk",
+        "halı",
+        "uygun",
+        "göründüğü",
+        "bayıldım",
+        "aldık",
+        "sorun"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hızlı kargo yapıldı ve 1 günde teslim edildi içinde 4 vida eksik çıktı hemen temin için bilgi verince eksik vidaları gönderdi ürüne gelirsek 8 vida ve tek yıldız tornavida ile basitçe kuruluyor fiyat performans olarak çok iyi çocuk ve genç kullanımında pek sorun çıkarmayacak gibi",
+        "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu"
+      ],
+      "all_reviews": [
+        {
+          "text": "hızlı kargo yapıldı ve 1 günde teslim edildi içinde 4 vida eksik çıktı hemen temin için bilgi verince eksik vidaları gönderdi ürüne gelirsek 8 vida ve tek yıldız tornavida ile basitçe kuruluyor fiyat performans olarak çok iyi çocuk ve genç kullanımında pek sorun çıkarmayacak gibi",
+          "score": 5.0
+        },
+        {
+          "text": "beklediğimden daha az konforlu sırt kısmındaki plastik beli acitiyor ince bir yastıkla oturmak daha uygun kurulum şeması yok 2 tane delik olaması gereken plastiği kendi imkanlarımla deldim 5 yıl once a101den aldığım koltuk daha konforlu",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kolay & Rahatlığıyla",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kolay",
+        "rahatlığıyla",
+        "tesekkurler",
+        "kaldik",
+        "kurulumuda",
+        "yaptım",
+        "rağmen",
+        "icin"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik",
+        "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz"
+      ],
+      "all_reviews": [
+        {
+          "text": "gelen ürünün montajı kolay bir tornavidayla kuruluyor ben 11 yaş çocuğum için aldım kaliteli bir ürün fiyat performans diyebiliriz",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü cok guzel kurulumuda kolay cok begendik",
+          "score": 5.0
         }
       ],
       "icon": "💬"

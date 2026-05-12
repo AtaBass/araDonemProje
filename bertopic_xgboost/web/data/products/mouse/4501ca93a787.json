@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**TrkTech X7 E-Spor Oyuncu Mouse RGB 7 Tuşlu Kablolu Gami** için 36 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Sessiz Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kaliteli** ve **teslimat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Hızlı onaylandı erken kargoya verildi erken teslim aldım müşteri ilişkileri güzel bir…\"\n• **Kullanımı Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kalite** ve **hoşuma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün baya kaliteli cıktı rgb aydinlatmasi kotü onun dışında baya iyi buceniz fazla yo…\"\n• Kullanıcılar **Sorunsuz & Rengi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir. Örnek kullanıcı ifadesi: \"Oğlum çok sevdi yanında gönderdiğiniz hediye için teşekkür ederiz\"\n• **Fiyatı Uygun** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **fiyata** ve **performans** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bu fiyata harika performans eli oturuşu çok güzel hiçbir şekilde tıklama sesi yok har…\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sessiz** ve **kablosuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Önyargılı bir şekilde aldım ama gerçekten beğendim click yaparken ses gelmiyor ve ışı…\"",
+  "summary": "**TrkTech X7 E-Spor Oyuncu Mouse RGB 7 Tuşlu Kablolu Gami** için 36 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kullanım & Kalite**: Kullanıcılar kullanım & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketleme & Saglam**: Kullanıcılar paketleme & saglam konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Sessiz Rahat",
-      "review_count": 8,
-      "avg_score": 5.0,
+      "name": "Kullanım & Kalite",
+      "review_count": 12,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "teslimat",
-        "paketleme",
-        "sorunsuz",
         "kullanımı",
-        "çalışıyor",
-        "sessiz rahat",
-        "fiyat"
+        "kalite",
+        "paketleme",
+        "baya",
+        "kalitesi",
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
+        "ürün baya kaliteli cıktı rgb aydinlatmasi kotü onun dışında baya iyi buceniz fazla yoksa tafsiye ediyorum",
         "hızlı onaylandı erken kargoya verildi erken teslim aldım müşteri ilişkileri güzel bir firma ama mause a gelince fiyat performansın üzerinde bir kullanımı var mause avuç içine rahat oturuyo tuşlar sessiz ve dokunmatik gibi teşekkürler",
-        "harika sorunsuz teslimat",
-        "çok kaliteli ve yanında hediye de göndermişler çok beğendim bence alın"
+        "paketlemesi fln gayet iyiydi ürün içinde biraz kulandiktan sonra yazıyorum gayet iyi bu fiyata bu performans"
       ],
       "all_reviews": [
         {
@@ -47,55 +47,19 @@
           "score": 5.0
         },
         {
-          "text": "harika sorunsuz teslimat",
+          "text": "cok güzel cokbegendim paketleme içinde teşekkürler",
           "score": 5.0
         },
         {
-          "text": "gönderdiğiniz hediye için çok teşekkür ederim harika hediye",
+          "text": "mouse nin auto cliker olması baya iyi çok işlevli",
+          "score": 5.0
+        },
+        {
+          "text": "paketlemesi fln gayet iyiydi ürün içinde biraz kulandiktan sonra yazıyorum gayet iyi bu fiyata bu performans",
           "score": 5.0
         },
         {
           "text": "hızlı onaylandı erken kargoya verildi erken teslim aldım müşteri ilişkileri güzel bir firma ama mause a gelince fiyat performansın üzerinde bir kullanımı var mause avuç içine rahat oturuyo tuşlar sessiz ve dokunmatik gibi teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanımı Rahat",
-      "review_count": 8,
-      "avg_score": 4.75,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanımı",
-        "kalite",
-        "paketleme",
-        "kaliteli",
-        "kullanımı rahat",
-        "baya",
-        "kalitesi",
-        "hoşuma"
-      ],
-      "positive_pct": 75.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 25.0,
-      "sample_reviews": [
-        "ürün baya kaliteli cıktı rgb aydinlatmasi kotü onun dışında baya iyi buceniz fazla yoksa tafsiye ediyorum",
-        "çok iyi bir ürün ve tuşlarının dikunuşu çok rahatlı ve iyi trktech şirketini çok teşkkür ederim",
-        "ya abi gerçekten çok iyi ya parasına okadar hakeden bir ürünki herkeze tavsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "ya abi gerçekten çok iyi ya parasına okadar hakeden bir ürünki herkeze tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "ürün elime ulaştı beğendim çok teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok iyi bir ürün ve tuşlarının dikunuşu çok rahatlı ve iyi trktech şirketini çok teşkkür ederim",
           "score": 5.0
         },
         {
@@ -106,60 +70,26 @@
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Rengi",
-      "review_count": 4,
+      "name": "Fiyat Performans",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aldık",
-        "kullanıyor",
-        "severek",
-        "sorunsuz",
-        "paketleme",
-        "bunu",
-        "rengi",
-        "baya"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "oğlum çok sevdi yanında gönderdiğiniz hediye için teşekkür ederiz",
-        "oğlum çok beğendi teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "oğlum çok sevdi yanında gönderdiğiniz hediye için teşekkür ederiz",
-          "score": 5.0
-        },
-        {
-          "text": "oğlum çok beğendi teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyatı Uygun",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
         "uygun",
+        "fiyat",
+        "fiyat performans",
         "performans",
-        "paketlemesi",
-        "kaliteli"
+        "efsane",
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "hızlı onaylandı erken kargoya verildi erken teslim aldım müşteri ilişkileri güzel bir firma ama mause a gelince fiyat performansın üzerinde bir kullanımı var mause avuç içine rahat oturuyo tuşlar sessiz ve dokunmatik gibi teşekkürler",
         "paketlemesi fln gayet iyiydi ürün içinde biraz kulandiktan sonra yazıyorum gayet iyi bu fiyata bu performans",
         "bu fiyata harika performans eli oturuşu çok güzel hiçbir şekilde tıklama sesi yok harika"
       ],
@@ -171,48 +101,57 @@
         {
           "text": "bu fiyata harika performans eli oturuşu çok güzel hiçbir şekilde tıklama sesi yok harika",
           "score": 5.0
+        },
+        {
+          "text": "hızlı onaylandı erken kargoya verildi erken teslim aldım müşteri ilişkileri güzel bir firma ama mause a gelince fiyat performansın üzerinde bir kullanımı var mause avuç içine rahat oturuyo tuşlar sessiz ve dokunmatik gibi teşekkürler",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 4,
+      "name": "Sorunsuz",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "şarj",
-        "sessiz",
-        "çalışıyor",
-        "performans",
-        "fiyat performans",
-        "sessiz çalışıyor",
-        "kablosuz",
-        "fiyat"
+        "aldık",
+        "sorunsuz",
+        "paketleme",
+        "bunu",
+        "rengi",
+        "baya",
+        "sıkıntı",
+        "kalite"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok sessiz harika",
-        "önyargılı bir şekilde aldım ama gerçekten beğendim click yaparken ses gelmiyor ve ışığı biraz az ona göre alın"
+        "paketlemesi fln gayet iyiydi ürün içinde biraz kulandiktan sonra yazıyorum gayet iyi bu fiyata bu performans",
+        "cok güzel cokbegendim paketleme içinde teşekkürler",
+        "harika sorunsuz teslimat"
       ],
       "all_reviews": [
         {
-          "text": "önyargılı bir şekilde aldım ama gerçekten beğendim click yaparken ses gelmiyor ve ışığı biraz az ona göre alın",
+          "text": "cok güzel cokbegendim paketleme içinde teşekkürler",
           "score": 5.0
         },
         {
-          "text": "çok sessiz harika",
+          "text": "paketlemesi fln gayet iyiydi ürün içinde biraz kulandiktan sonra yazıyorum gayet iyi bu fiyata bu performans",
+          "score": 5.0
+        },
+        {
+          "text": "harika sorunsuz teslimat",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Paketlemesi & Sessiz",
-      "review_count": 2,
+      "name": "Paketleme & Saglam",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -220,111 +159,26 @@
         "paketlemesi",
         "denedim",
         "saglam",
-        "gidiyor",
         "kelimeyle",
         "tatli",
         "icin",
-        "çokta"
+        "çokta",
+        "paketlenmesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "paketlemesi fln gayet iyiydi ürün içinde biraz kulandiktan sonra yazıyorum gayet iyi bu fiyata bu performans",
         "cok güzel cokbegendim paketleme içinde teşekkürler"
       ],
       "all_reviews": [
         {
           "text": "cok güzel cokbegendim paketleme içinde teşekkürler",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kablolu & Özellikle",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "bunu",
-        "kablolu",
-        "özellikle",
-        "oyun",
-        "kullanım",
-        "sıkıntı",
-        "oyunlarda",
-        "rahatlıkla"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "mouse nin auto cliker olması baya iyi çok işlevli"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "mouse nin auto cliker olması baya iyi çok işlevli",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "North & Sağlam",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "north",
-        "oldum",
-        "şarj",
-        "biri",
-        "sağlam",
-        "oturuyor",
-        "farklı",
-        "istedim"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok beğendim mouse pad içinde teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendim mouse pad içinde teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Donma & Rahatlıkla",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "alacak",
-        "kullanıyor",
-        "ediyor",
-        "donma",
-        "rahatlıkla",
-        "şimdilik",
-        "kelimeyle",
-        "tuşları"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "memnunuz şimdilik"
-      ],
-      "all_reviews": [
-        {
-          "text": "memnunuz şimdilik",
+          "text": "paketlemesi fln gayet iyiydi ürün içinde biraz kulandiktan sonra yazıyorum gayet iyi bu fiyata bu performans",
           "score": 5.0
         }
       ],

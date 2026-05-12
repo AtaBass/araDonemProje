@@ -8,7 +8,7 @@
   "overall_score": 4.78,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Genel Markalar Kadın Fitilli Yüksek Bel Tayt Kadın Fiti** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Duruşu & Kalitesi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **göründüğü** ve **sardı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok rahat harika para sana göre gayet kaliteli bedeninizi almanizi tavsiye ederim\"\n• **Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **olmasına** ve **rağmen** başta olmak üzere. Örnek kullanıcı ifadesi: \"70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayı…\"\n• Kullanıcılar **Kalıp Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **esnek** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür e…\"\n• **Kumaşı** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kumaş** ve **kalıbı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok beğendim esnek bir kumaşı var 1 beden küçük almama rağmen oldu sorunsuz elime ula…\"\n• Müşteri yorumlarında **Renkleri & Kaliteli Ürünler** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **notunuz** ve **rahat kullanışlı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyoru…\"",
+  "summary": "Genel olarak, Kadın Fitilli Yüksek Bel Tayt Kadın Fiti ürününün önemli özellikleri, yüksek kalite ve sıcacık kullanımperienceine sahip kullanıcıların olumlu yorumlarını teşkil eder. Ürünlerin kumaş, toparlayıc ve beden özellikleri, müşterilerin majority tarafından beğenilir ve 4.7-5.0 puanları alır. Ayrıca, duruş ve kalite özelliklerindeki 5.0 puanlı yorumlar da ürünün yüksek standartlarının teyitidir. Bu nedenle, ürün genel memnuniyet puanı olarak 4.8/5.0 olmasını sağlar.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,9 +18,293 @@
   },
   "aspects": [
     {
-      "name": "Duruşu & Kalitesi",
-      "review_count": 12,
-      "avg_score": 4.5,
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 38,
+      "avg_score": 4.71,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
+      ],
+      "positive_pct": 78.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 21.1,
+      "sample_reviews": [
+        "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
+        "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz",
+        "1.70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayıcı görevi görüyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
+          "score": 5.0
+        },
+        {
+          "text": "sıcak tutuyor ama çok esnek 1 beden küçük tercih edebilirsiniz bana büyük olduğu için arkadaşıma hediye ettim küçüğünü sipariş edeceğim",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı iyi bi beden büyük alına bilir",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat harika para sana göre gayet kaliteli bedeninizi almanizi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "1.70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayıcı görevi görüyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi tam beden alın içi yumuşacık",
+          "score": 5.0
+        },
+        {
+          "text": "168 58 m beden almıştım ama s olurmuş çok kalın değil orta kalınlıkta ama aşırı rahat çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim esnek bir kumaşı var 1 beden küçük almama rağmen oldu sorunsuz elime ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "gerckten çok kaliteli bir beden büyük alin",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ben yorumlara bakarak 1 beden büyük aldım fakat tam beden alinabilinir",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim teşekkür ederim bir büyük beden alabilrsiniz",
+          "score": 4.0
+        },
+        {
+          "text": "çox güzel oldu cokda kalın sıcacık tutuyor m giyme rağmen l tam oldu kalıbı biraz küçük çok salaş istiyorsanız 1 2 beden büyük alın",
+          "score": 4.0
+        },
+        {
+          "text": "bir beden küçük alın",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Toparlayıc & Beden",
+      "review_count": 35,
+      "avg_score": 4.69,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 77.1,
+      "negative_pct": 0.0,
+      "neutral_pct": 22.9,
+      "sample_reviews": [
+        "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz",
+        "1.70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayıcı görevi görüyor",
+        "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ben yorumlara bakarak 1 beden büyük aldım fakat tam beden alinabilinir",
+          "score": 5.0
+        },
+        {
+          "text": "gerckten çok kaliteli bir beden büyük alin",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat harika para sana göre gayet kaliteli bedeninizi almanizi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı iyi bi beden büyük alına bilir",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "sıcak tutuyor ama çok esnek 1 beden küçük tercih edebilirsiniz bana büyük olduğu için arkadaşıma hediye ettim küçüğünü sipariş edeceğim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim esnek bir kumaşı var 1 beden küçük almama rağmen oldu sorunsuz elime ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "168 58 m beden almıştım ama s olurmuş çok kalın değil orta kalınlıkta ama aşırı rahat çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi tam beden alın içi yumuşacık",
+          "score": 5.0
+        },
+        {
+          "text": "1.70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayıcı görevi görüyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim teşekkür ederim bir büyük beden alabilrsiniz",
+          "score": 4.0
+        },
+        {
+          "text": "çox güzel oldu cokda kalın sıcacık tutuyor m giyme rağmen l tam oldu kalıbı biraz küçük çok salaş istiyorsanız 1 2 beden büyük alın",
+          "score": 4.0
+        },
+        {
+          "text": "bir beden küçük alın",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıcacık & Bedenınız",
+      "review_count": 19,
+      "avg_score": 4.74,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sıcacık tutuyor",
+        "sıcacık",
+        "bedenınızı",
+        "derim",
+        "tutuyor",
+        "yumuşacık",
+        "rağmen",
+        "istediğim"
+      ],
+      "positive_pct": 73.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 26.3,
+      "sample_reviews": [
+        "çox güzel oldu cokda kalın sıcacık tutuyor m giyme rağmen l tam oldu kalıbı biraz küçük çok salaş istiyorsanız 1 2 beden büyük alın",
+        "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim",
+        "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "sıcak tutuyor ama çok esnek 1 beden küçük tercih edebilirsiniz bana büyük olduğu için arkadaşıma hediye ettim küçüğünü sipariş edeceğim",
+          "score": 5.0
+        },
+        {
+          "text": "çok sıcak tutuyor esnekte çok begendim kışın vazgeçilmezim oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat harika para sana göre gayet kaliteli bedeninizi almanizi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim teşekkür ederim bir büyük beden alabilrsiniz",
+          "score": 4.0
+        },
+        {
+          "text": "çox güzel oldu cokda kalın sıcacık tutuyor m giyme rağmen l tam oldu kalıbı biraz küçük çok salaş istiyorsanız 1 2 beden büyük alın",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş",
+      "review_count": 14,
+      "avg_score": 4.86,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "diye",
+        "kumaş",
+        "kalıbı",
+        "iade",
+        "bayıldım",
+        "baya",
+        "almışım"
+      ],
+      "positive_pct": 85.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 14.3,
+      "sample_reviews": [
+        "1.70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayıcı görevi görüyor",
+        "çok beğendim esnek bir kumaşı var 1 beden küçük almama rağmen oldu sorunsuz elime ulaştı",
+        "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
+          "score": 5.0
+        },
+        {
+          "text": "1.70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayıcı görevi görüyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim esnek bir kumaşı var 1 beden küçük almama rağmen oldu sorunsuz elime ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "sıcak tutuyor ama çok esnek 1 beden küçük tercih edebilirsiniz bana büyük olduğu için arkadaşıma hediye ettim küçüğünü sipariş edeceğim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çox güzel oldu cokda kalın sıcacık tutuyor m giyme rağmen l tam oldu kalıbı biraz küçük çok salaş istiyorsanız 1 2 beden büyük alın",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruş & Kalite",
+      "review_count": 13,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,21 +317,21 @@
         "bayıldım",
         "almalısınız"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
         "gerckten çok kaliteli bir beden büyük alin",
-        "çok rahat harika para sana göre gayet kaliteli bedeninizi almanizi tavsiye ederim",
-        "aşırı iyi bi beden büyük alına bilir"
+        "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
+        "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "gerckten çok kaliteli bir beden büyük alin",
+          "text": "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
           "score": 5.0
         },
         {
-          "text": "aşırı iyi bi beden büyük alına bilir",
+          "text": "gerckten çok kaliteli bir beden büyük alin",
           "score": 5.0
         },
         {
@@ -55,83 +339,43 @@
           "score": 5.0
         },
         {
-          "text": "bir beden küçük alın",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kilo",
-        "kilo rahat",
-        "asla",
-        "olmasına",
-        "rağmen",
-        "fiyat performans",
-        "performans",
-        "rahat rahat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "1.70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayıcı görevi görüyor",
-        "çok sıcak tutuyor esnekte çok begendim kışın vazgeçilmezim oldu",
-        "bekledigim gibi 70 kg xl aldim memnun kaldim"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel 78 kg 1.60 boy ××l aldım",
+          "text": "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "1.70 boy 56 kilo kesinlikle l beden çok iyi kumaşı çok güzel kışın da giyilir toparlayıcı görevi görüyor",
-          "score": 5.0
-        },
-        {
-          "text": "bekledigim gibi 70 kg xl aldim memnun kaldim",
-          "score": 5.0
-        },
-        {
-          "text": "çok sıcak tutuyor esnekte çok begendim kışın vazgeçilmezim oldu",
+          "text": "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kalıp Rahat",
+      "name": "Fiyat Performans",
       "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
-        "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
+        "efsane",
+        "fiyat",
+        "paketleme",
+        "aldığım",
+        "edebilirsiniz",
+        "diyebilirim",
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "aldığım 3 tayt çok rahat tam kalıp",
-        "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim",
-        "termal tayt güzel"
+        "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
+        "sıcak tutuyor ama çok esnek 1 beden küçük tercih edebilirsiniz bana büyük olduğu için arkadaşıma hediye ettim küçüğünü sipariş edeceğim",
+        "aldığım 3 tayt çok rahat tam kalıp"
       ],
       "all_reviews": [
         {
-          "text": "termal tayt güzel",
+          "text": "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
           "score": 5.0
         },
         {
@@ -139,67 +383,27 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendim sıcak tutuyor kendi bedeninizi alabilirsiniz hediyeniz içinde teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı",
-      "review_count": 6,
-      "avg_score": 4.67,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
-      ],
-      "positive_pct": 66.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 33.3,
-      "sample_reviews": [
-        "çok beğendim esnek bir kumaşı var 1 beden küçük almama rağmen oldu sorunsuz elime ulaştı",
-        "sıcak tutuyor ama çok esnek 1 beden küçük tercih edebilirsiniz bana büyük olduğu için arkadaşıma hediye ettim küçüğünü sipariş edeceğim",
-        "çox güzel oldu cokda kalın sıcacık tutuyor m giyme rağmen l tam oldu kalıbı biraz küçük çok salaş istiyorsanız 1 2 beden büyük alın"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendim esnek bir kumaşı var 1 beden küçük almama rağmen oldu sorunsuz elime ulaştı",
-          "score": 5.0
-        },
-        {
           "text": "sıcak tutuyor ama çok esnek 1 beden küçük tercih edebilirsiniz bana büyük olduğu için arkadaşıma hediye ettim küçüğünü sipariş edeceğim",
           "score": 5.0
-        },
-        {
-          "text": "çox güzel oldu cokda kalın sıcacık tutuyor m giyme rağmen l tam oldu kalıbı biraz küçük çok salaş istiyorsanız 1 2 beden büyük alın",
-          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Renkleri & Kaliteli Ürünler",
+      "name": "Ürün",
       "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "renkleri",
-        "kaliteli ürünler",
-        "notunuz",
-        "paketleme özenliydi",
-        "özenliydi",
-        "rahat kullanışlı",
-        "paketleme",
-        "kalite"
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -221,95 +425,65 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli Rahat",
+      "name": "Farkl Renk",
       "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
-        "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
+        "renkleri",
+        "paketleme özenliydi",
+        "notunuz",
+        "özenliydi",
+        "paketleme",
+        "kalite",
+        "ürünler",
+        "dokusu"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "168 58 m beden almıştım ama s olurmuş çok kalın değil orta kalınlıkta ama aşırı rahat çok beğendim",
-        "ben yorumlara bakarak 1 beden büyük aldım fakat tam beden alinabilinir"
+        "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
+        "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "ben yorumlara bakarak 1 beden büyük aldım fakat tam beden alinabilinir",
+          "text": "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
           "score": 5.0
         },
         {
-          "text": "168 58 m beden almıştım ama s olurmuş çok kalın değil orta kalınlıkta ama aşırı rahat çok beğendim",
+          "text": "çok beğendim ve sorunsuz bi şekilde teslim aldım başka renklerinide almayı düşünüyorum ürünü almanızı tavsiye ederim kendi bedeninizi alabilirsiniz",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat Kullanışlı",
+      "name": "Fiyat & Uygun",
       "review_count": 3,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "ürünler",
-        "teslimat",
-        "kullanışlı",
-        "özellikle",
-        "rahat kullanışlı",
-        "oldum",
-        "aldık",
-        "göründüğü"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
-        "çok beğendim teşekkür ederim bir büyük beden alabilrsiniz"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendim teşekkür ederim bir büyük beden alabilrsiniz",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sıcacık",
-      "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli kaliteli",
-        "rahat rahat",
-        "sıcacık tutuyor",
-        "sıcacık",
-        "bedenınızı",
-        "derim",
-        "tutuyor",
-        "yumuşacık"
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
+        "baya",
+        "rağmen"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok iyi tam beden alın içi yumuşacık"
+        "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu"
       ],
       "all_reviews": [
         {
-          "text": "çok iyi tam beden alın içi yumuşacık",
+          "text": "siparişim bir kaç gün içinde geldi annem için aldım yeşil rengini almıştım daha önce memnun kalınca siyah rengini de aldım rahat kullanışlı ve kaliteli bir ürün paketleme özenliydi küçük hediye için satıcıya teşekkür ederim hoş bir süpriz oldu",
           "score": 5.0
         }
       ],

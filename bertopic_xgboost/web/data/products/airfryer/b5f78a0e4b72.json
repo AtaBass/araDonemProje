@@ -8,7 +8,7 @@
   "overall_score": 4.0,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "4 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
+  "summary": "\"LUMISA Elektrikli Katmer ve Gözleme Sacı LKS-1000 Termo, genel memnuniyet oranına bakıldığında 4.0/5.0 olarak derecelendirilmiştir. Ürünün öne çıkan özelliklerindeki yorumlar, kullanıcıların fazlasıyla memnun bıraktığını göstermektedir. Paketleme, özellikle, çeyiz ve patates gibi kriterlerdeki performansı olağanüstü yüksek puanlar almıştır. Bu ürün, elektrikli katmer ve gözleme sacı kullanımında sorunsuz bir deneyime izin vermektedir.\"",
   "score_distribution": {
     "1": 1,
     "2": 0,
@@ -16,7 +16,183 @@
     "4": 0,
     "5": 3
   },
-  "aspects": [],
+  "aspects": [
+    {
+      "name": "Sıkınt",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü alırken tereddüt etmiştim fakat satıcıyla iletişime geçtiğimde çok yardımcı oldu ürün kargolanma süreçleri çok iyidi hemen çocuklarıma gözleme yaptım çok güzel ürün tavsiye ederim hanımlar",
+        "daha denemedim iftara yemek yapınca yorumumu güncellerim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü alırken tereddüt etmiştim fakat satıcıyla iletişime geçtiğimde çok yardımcı oldu ürün kargolanma süreçleri çok iyidi hemen çocuklarıma gözleme yaptım çok güzel ürün tavsiye ederim hanımlar",
+          "score": 5.0
+        },
+        {
+          "text": "daha denemedim iftara yemek yapınca yorumumu güncellerim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "defa",
+        "görünüyor",
+        "denemedim",
+        "kullanıyoruz",
+        "paketlemesi",
+        "hasarsız",
+        "sorunsuz",
+        "çeyiz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi",
+        "daha denemedim iftara yemek yapınca yorumumu güncellerim"
+      ],
+      "all_reviews": [
+        {
+          "text": "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi",
+          "score": 5.0
+        },
+        {
+          "text": "daha denemedim iftara yemek yapınca yorumumu güncellerim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellikle",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "özellikle",
+        "evde",
+        "anneler",
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi",
+        "daha denemedim iftara yemek yapınca yorumumu güncellerim"
+      ],
+      "all_reviews": [
+        {
+          "text": "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi",
+          "score": 5.0
+        },
+        {
+          "text": "daha denemedim iftara yemek yapınca yorumumu güncellerim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çeyiz",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü alırken tereddüt etmiştim fakat satıcıyla iletişime geçtiğimde çok yardımcı oldu ürün kargolanma süreçleri çok iyidi hemen çocuklarıma gözleme yaptım çok güzel ürün tavsiye ederim hanımlar",
+        "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü alırken tereddüt etmiştim fakat satıcıyla iletişime geçtiğimde çok yardımcı oldu ürün kargolanma süreçleri çok iyidi hemen çocuklarıma gözleme yaptım çok güzel ürün tavsiye ederim hanımlar",
+          "score": 5.0
+        },
+        {
+          "text": "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Patates",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "patates",
+        "fakat",
+        "denedim",
+        "hacmi",
+        "yaptık",
+        "almışım",
+        "rengi",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü alırken tereddüt etmiştim fakat satıcıyla iletişime geçtiğimde çok yardımcı oldu ürün kargolanma süreçleri çok iyidi hemen çocuklarıma gözleme yaptım çok güzel ürün tavsiye ederim hanımlar",
+        "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü alırken tereddüt etmiştim fakat satıcıyla iletişime geçtiğimde çok yardımcı oldu ürün kargolanma süreçleri çok iyidi hemen çocuklarıma gözleme yaptım çok güzel ürün tavsiye ederim hanımlar",
+          "score": 5.0
+        },
+        {
+          "text": "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
   "top_reviews": [
     "ürünü alırken tereddüt etmiştim fakat satıcıyla iletişime geçtiğimde çok yardımcı oldu ürün kargolanma süreçleri çok iyidi hemen çocuklarıma gözleme yaptım çok güzel ürün tavsiye ederim hanımlar",
     "annem icin aldim yazlikta kullanmasi icin fakat dayanamayip hemen gozleme yaparak denedik ve cok begendim cabuk isiniyor ve derecesini ayarlayabiliyorsunuz ayrica paketlemesi de asiri saglimdi",

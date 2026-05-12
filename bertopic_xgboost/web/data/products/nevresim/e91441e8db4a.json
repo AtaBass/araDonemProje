@@ -8,7 +8,7 @@
   "overall_score": 4.78,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**İQON Lastikli Çarşaflı Nevresim Takımı Çift Kişilik Bor** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel çok harika çok beğendim tekrar almayı düşünüyorum hatta iki tane aldım hatt…\"\n• **Fiyata Kalite**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çeyiz hediyesi olarak aldım çok beğenildi paketleme çok güzel kargo her zaman ki gibi…\"\n• Kullanıcılar **Kumaşı Kaliteli** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **odası** ve **modeli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçü…\"\n• **Rengi & Renkleri Canlı** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **renkler** ve **dokusu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerin…\"\n• Müşteri yorumlarında **Bende & Paketlenmesi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kalitesi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kend…\"",
+  "summary": "**İQON Lastikli Çarşaflı Nevresim Takımı Çift Kişilik Bor** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat / Lastikl Çarşaf**: Kullanıcılar fiyat / lastikl çarşaf konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kişilik & Alma**: Kullanıcılar kişilik & alma konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kumaş / Rengi Canlı**: Kullanıcılar kumaş / rengi canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Canlı Kumaş**: Kullanıcılar canlı kumaş konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,30 +18,166 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
+      "name": "Kalite",
+      "review_count": 26,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çeyiz hediyesi olarak aldım çok beğenildi paketleme çok güzel kargo her zaman ki gibi hızlıydı 2 tane daha aldım umarım bu da beğenilir teşekkürler",
+        "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+        "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim"
+      ],
+      "all_reviews": [
+        {
+          "text": "bütün renklerini almayı düşünüyorum 3 tane aldım artık bu markadan şaşmam herkese tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çeyiz hediyesi olarak aldım çok beğenildi paketleme çok güzel kargo her zaman ki gibi hızlıydı 2 tane daha aldım umarım bu da beğenilir teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok harika çok beğendim tekrar almayı düşünüyorum hatta iki tane aldım hatta 4 tane daha almayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel zamanında geldi paketleme muazzam 3 5 tane vardı ama yine de aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ilk etapta renginden dolayı şüphe ederek almıştım fakat okadar kaliteli ve güzel durdu ki diğer renklerinden de sipariş vereceğim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim",
+          "score": 5.0
+        },
+        {
+          "text": "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım güzel duruyor",
+          "score": 5.0
+        },
+        {
+          "text": "ilk edep da tereddüt etmiştim ama ürün çok güzeldi kullandıkça da kalitesini anlıyorsunuz tekrar sipariş verdim hem uygun hemde kaliteli emeğinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "ceyizim için aldım çok güzel bir kumaşı var tavsiye ederim paketleme çok güzel teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
       "review_count": 18,
-      "avg_score": 4.39,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi",
+        "bu fiyata nevresim takımı çok güzel kızıma almıştım çok beğendi teşekkürler",
+        "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "bütün renklerini almayı düşünüyorum 3 tane aldım artık bu markadan şaşmam herkese tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata nevresim takımı çok güzel kızıma almıştım çok beğendi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ilk etapta renginden dolayı şüphe ederek almıştım fakat okadar kaliteli ve güzel durdu ki diğer renklerinden de sipariş vereceğim",
+          "score": 5.0
+        },
+        {
+          "text": "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerini de alacağım herkese tavsiye ederim alın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik & Alma",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
         "çeyizime",
-        "rahat",
         "çift kişilik",
         "kişilik",
         "almayı",
         "almayı düşünüyorum",
+        "düşünüyorum",
         "çift",
-        "düşünüyorum"
+        "kalitesi"
       ],
-      "positive_pct": 72.2,
-      "negative_pct": 11.1,
-      "neutral_pct": 16.7,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel çok rahat çok beğendim rahat bir şekilde kullanıyorum başka zaman bir daha almayı düşünüyorum",
+        "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
         "çok güzel çok harika çok beğendim tekrar almayı düşünüyorum hatta iki tane aldım hatta 4 tane daha almayı düşünüyorum",
-        "3-4 günden sonra tüylenme yapıyor aşırı kötü hiç rahat değil"
+        "çok güzel çok rahat çok beğendim rahat bir şekilde kullanıyorum başka zaman bir daha almayı düşünüyorum"
       ],
       "all_reviews": [
+        {
+          "text": "bütün renklerini almayı düşünüyorum 3 tane aldım artık bu markadan şaşmam herkese tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
+          "score": 5.0
+        },
         {
           "text": "çok güzel çok rahat çok beğendim rahat bir şekilde kullanıyorum başka zaman bir daha almayı düşünüyorum",
           "score": 5.0
@@ -55,98 +191,34 @@
           "score": 5.0
         },
         {
-          "text": "ürün çok iyi çok beğendim tam uydu çarşafı lastikli ölçü tam harika",
-          "score": 5.0
-        },
-        {
-          "text": "oğlumun odası için aldım iyi ki dedirten bir ürün tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "cok guzel anneme aldik cok begendi",
-          "score": 4.0
-        },
-        {
-          "text": "3-4 günden sonra tüylenme yapıyor aşırı kötü hiç rahat değil",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 14,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çeyiz hediyesi olarak aldım çok beğenildi paketleme çok güzel kargo her zaman ki gibi hızlıydı 2 tane daha aldım umarım bu da beğenilir teşekkürler",
-        "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
-        "gayet güzel zamanında geldi paketleme muazzam 3 5 tane vardı ama yine de aldım"
-      ],
-      "all_reviews": [
-        {
-          "text": "bu fiyata nevresim takımı çok güzel kızıma almıştım çok beğendi teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çeyiz hediyesi olarak aldım çok beğenildi paketleme çok güzel kargo her zaman ki gibi hızlıydı 2 tane daha aldım umarım bu da beğenilir teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "ilk edep da tereddüt etmiştim ama ürün çok güzeldi kullandıkça da kalitesini anlıyorsunuz tekrar sipariş verdim hem uygun hemde kaliteli emeğinize sağlık",
-          "score": 5.0
-        },
-        {
           "text": "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
           "score": 5.0
-        },
-        {
-          "text": "ilk etapta renginden dolayı şüphe ederek almıştım fakat okadar kaliteli ve güzel durdu ki diğer renklerinden de sipariş vereceğim",
-          "score": 5.0
-        },
-        {
-          "text": "gayet güzel zamanında geldi paketleme muazzam 3 5 tane vardı ama yine de aldım",
-          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 8,
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 15,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "kumaşı",
-        "kullanacağım",
-        "odası",
-        "modeli",
-        "yatağıma",
-        "kumaşı kaliteli",
-        "deseni",
-        "bayıldım kumaşı"
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
         "ceyizim için aldım çok güzel bir kumaşı var tavsiye ederim paketleme çok güzel teşekkür ederim",
+        "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
         "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim"
       ],
       "all_reviews": [
@@ -159,15 +231,119 @@
           "score": 5.0
         },
         {
+          "text": "hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerini de alacağım herkese tavsiye ederim alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok iyi çok beğendim tam uydu çarşafı lastikli ölçü tam harika",
+          "score": 5.0
+        },
+        {
           "text": "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim",
+          "score": 5.0
+        },
+        {
+          "text": "ilk etapta renginden dolayı şüphe ederek almıştım fakat okadar kaliteli ve güzel durdu ki diğer renklerinden de sipariş vereceğim",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 6,
+      "name": "Canlı Kumaş",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+        "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi",
+        "hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerini de alacağım herkese tavsiye ederim alın"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu fiyata nevresim takımı çok güzel kızıma almıştım çok beğendi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ceyizim için aldım çok güzel bir kumaşı var tavsiye ederim paketleme çok güzel teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerini de alacağım herkese tavsiye ederim alın",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Solma",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "takımı",
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+        "çeyiz hediyesi olarak aldım çok beğenildi paketleme çok güzel kargo her zaman ki gibi hızlıydı 2 tane daha aldım umarım bu da beğenilir teşekkürler",
+        "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu fiyata nevresim takımı çok güzel kızıma almıştım çok beğendi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çeyiz hediyesi olarak aldım çok beğenildi paketleme çok güzel kargo her zaman ki gibi hızlıydı 2 tane daha aldım umarım bu da beğenilir teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım güzel duruyor",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "indirimde aldım çok beğendim aynı üründen iki tane de tek kişilik aldım onlarda güzel ne çok ince ne çok kalın ideal bence 3 nevresim takımına küçük bir hediye olsaydı daha çok memnun kalırdım bence gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Renk Canlı",
+      "review_count": 11,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -186,7 +362,8 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerini de alacağım herkese tavsiye ederim alın",
-        "bütün renklerini almayı düşünüyorum 3 tane aldım artık bu markadan şaşmam herkese tavsiye ediyorum"
+        "ilk etapta renginden dolayı şüphe ederek almıştım fakat okadar kaliteli ve güzel durdu ki diğer renklerinden de sipariş vereceğim",
+        "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum"
       ],
       "all_reviews": [
         {
@@ -194,67 +371,151 @@
           "score": 5.0
         },
         {
+          "text": "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
+          "score": 5.0
+        },
+        {
           "text": "hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerini de alacağım herkese tavsiye ederim alın",
+          "score": 5.0
+        },
+        {
+          "text": "ilk etapta renginden dolayı şüphe ederek almıştım fakat okadar kaliteli ve güzel durdu ki diğer renklerinden de sipariş vereceğim",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Bende & Paketlenmesi",
-      "review_count": 2,
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
+        "ceyizim için aldım çok güzel bir kumaşı var tavsiye ederim paketleme çok güzel teşekkür ederim",
+        "oğlumun odası için aldım iyi ki dedirten bir ürün tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "oğlumun odası için aldım iyi ki dedirten bir ürün tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ceyizim için aldım çok güzel bir kumaşı var tavsiye ederim paketleme çok güzel teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 10,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
+        "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim",
+        "hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerini de alacağım herkese tavsiye ederim alın"
+      ],
+      "all_reviews": [
+        {
+          "text": "müthiş müthiş müthiş önce anneme almıştım çok hoşuma gitti kendime de aldım ve o küçük gelen lastikli çarsaflardan bıkmıştım bir ürünün çarşafı ilk kez yatağıma tam oldu diğer renklerinden de almayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "hemen yıkadım ne soldu ne boya verdi hala rengi canlı çok şık duruyor başka renklerini de alacağım herkese tavsiye ederim alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok iyi çok beğendim tam uydu çarşafı lastikli ölçü tam harika",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "aldık",
-        "bende",
         "almışım",
         "paketlenmesi",
         "kalitesi",
-        "kullanıyor",
         "çeyizime",
-        "beğenerek"
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi"
+        "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi",
+        "çeyizime aldım güzel duruyor",
+        "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim"
       ],
       "all_reviews": [
+        {
+          "text": "ilk edep da tereddüt etmiştim ama ürün çok güzeldi kullandıkça da kalitesini anlıyorsunuz tekrar sipariş verdim hem uygun hemde kaliteli emeğinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım güzel duruyor",
+          "score": 5.0
+        },
         {
           "text": "güzel bir nevresim takımı fp ürün daha önce anneme almıştık beğenerek kullanıyor kendimede aldım kalitesi fiyatına göre gayet iyi",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Çekme Solma",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "takımı",
-        "sorunsuz",
-        "çeyiz",
-        "çekme solma",
-        "beklediğimden",
-        "almak",
-        "yapmadı",
-        "asla"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "arkadaşım için almıştım çok beğendi hediye paketi içinde teşekkür ederim"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "arkadaşım için almıştım çok beğendi hediye paketi içinde teşekkür ederim",
+          "text": "ürünün kalitesinden çok memnun kaldım inanılmaz kalın asla iç göstertmiyor çarşafını da lastikli olması gerçekten büyük bir avantaj aynı modelden bir tane daha sipariş verdim",
+          "score": 5.0
+        },
+        {
+          "text": "ilk etapta renginden dolayı şüphe ederek almıştım fakat okadar kaliteli ve güzel durdu ki diğer renklerinden de sipariş vereceğim",
           "score": 5.0
         }
       ],

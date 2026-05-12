@@ -8,7 +8,7 @@
   "overall_score": 4.84,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Lines Çok Amaçlı Paslanmaz Çelik Kızartma & Sebze Haşla** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyat Performans** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kaliteli** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kesinlikle harika bir ürün kızartma zararlı diye yapmıyoruz birde etrafa sıçratma yok\"\n• **Fiyatı Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **fiyat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Aşırı iyi bir ürün ben daha küçük bekliyordum ama boyutu çok ideal kutusu da çok özen…\"\n• Kullanıcılar **Kişilik** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **ideal** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ek gıda döneminde buharda haşlama için çok kullanışlı kızartma tenceresi olarakta 2-3…\"\n• **Ideal** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **diyebilirim** ve **sorunsuz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Tek seferde iki kişilik çok beğendim her tarafı eşit kızarıyor fazla yağ koymanız ger…\"\n• Müşteri yorumlarında **Paketlemesi & Hasarsız** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sorunsuz** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Daha denemedim ama güzel görünüyor teşekkür ederim\"",
+  "summary": "Lines Çok Amaçlı Paslanmaz Çelik Kızartma & Sebze Haşla ürününün genel değerlendirme özeti şöyledir: Bu ürün, müşterilerin büyük bir bölümünü memnun eden, fiyat performansını başarıyla sunan bir üründür. Ürün, sıkıntısız ve kolay paketleme olanağı sunması, ayrıca çeyiz ve diyebilirim gibi konularda da yüksek puan almıştır. Ürün hakkında genel olarak olumlu yorumlar yapılmıştır ve genel memnuniyet puanı 4.8/5.0 olarak kayıtlıdır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,30 +18,34 @@
   },
   "aspects": [
     {
-      "name": "Fiyat Performans",
-      "review_count": 11,
-      "avg_score": 5.0,
+      "name": "Kişilik / Fiyat Performans",
+      "review_count": 20,
+      "avg_score": 4.85,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyat performans",
-        "performans",
-        "fiyat",
-        "kaliteli",
-        "rahatlığıyla",
-        "çıtır",
-        "pratik",
-        "yağsız"
+        "aile",
+        "aldık",
+        "kişilik",
+        "ideal",
+        "kişilik aile",
+        "anneler",
+        "aydır",
+        "sorunsuz"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 85.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 15.0,
       "sample_reviews": [
-        "gayet kaliteli kesinlikle öneririm hediye için de teşekkürler",
-        "kesinlikle harika bir ürün kızartma zararlı diye yapmıyoruz birde etrafa sıçratma yok",
-        "urunun boyutu kalitesi cok guzel 2 kisi icin ideal"
+        "ek gıda döneminde buharda haşlama için çok kullanışlı kızartma tenceresi olarakta 2-3 kişilik aileler için yeterli boyutta",
+        "coooook kullanisli kaliteli boyutuda kucuk aileler icin ideal",
+        "aşırı iyi bir ürün ben daha küçük bekliyordum ama boyutu çok ideal kutusu da çok özenli idi hızlıca ulaştı çok teşekkür ederim"
       ],
       "all_reviews": [
+        {
+          "text": "aşırı iyi bir ürün ben daha küçük bekliyordum ama boyutu çok ideal kutusu da çok özenli idi hızlıca ulaştı çok teşekkür ederim",
+          "score": 5.0
+        },
         {
           "text": "urunun boyutu kalitesi cok guzel 2 kisi icin ideal",
           "score": 5.0
@@ -51,87 +55,11 @@
           "score": 5.0
         },
         {
-          "text": "gayet kaliteli kesinlikle öneririm hediye için de teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "kesinlikle harika bir ürün kızartma zararlı diye yapmıyoruz birde etrafa sıçratma yok",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyatı Uygun",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
-        "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "aşırı iyi bir ürün ben daha küçük bekliyordum ama boyutu çok ideal kutusu da çok özenli idi hızlıca ulaştı çok teşekkür ederim",
-        "icindeki süzgeç kısmında biraz lekelenme var ama işimi kolaylaştıracak bir ürün pratik tek veya iki kişilik kullanışlı",
-        "çok güzel bir ürün geldi kaliteli henüz kızartma için kullanmadım fakat oldukça kullanışlı ve yer kaplamıyor"
-      ],
-      "all_reviews": [
-        {
           "text": "icindeki süzgeç kısmında biraz lekelenme var ama işimi kolaylaştıracak bir ürün pratik tek veya iki kişilik kullanışlı",
           "score": 5.0
         },
         {
-          "text": "aşırı iyi bir ürün ben daha küçük bekliyordum ama boyutu çok ideal kutusu da çok özenli idi hızlıca ulaştı çok teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel bir ürün geldi kaliteli henüz kızartma için kullanmadım fakat oldukça kullanışlı ve yer kaplamıyor",
-          "score": 5.0
-        },
-        {
-          "text": "henüz kullanmadım ama sorunsuz geldi çok şık",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kişilik",
-      "review_count": 9,
-      "avg_score": 4.67,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
-        "anneler",
-        "kaliteli"
-      ],
-      "positive_pct": 66.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 33.3,
-      "sample_reviews": [
-        "ek gıda döneminde buharda haşlama için çok kullanışlı kızartma tenceresi olarakta 2-3 kişilik aileler için yeterli boyutta",
-        "coooook kullanisli kaliteli boyutuda kucuk aileler icin ideal",
-        "anneme aldım beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "anneme aldım beğendi",
+          "text": "tek seferde iki kişilik çok beğendim her tarafı eşit kızarıyor fazla yağ koymanız gerekmiyor ben fazla koymuşum",
           "score": 5.0
         },
         {
@@ -146,51 +74,47 @@
       "icon": "💬"
     },
     {
-      "name": "Ideal",
-      "review_count": 9,
-      "avg_score": 4.44,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Sıkınt",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "diyebilirim",
-        "yorum",
-        "sorunsuz",
-        "şimdilik",
-        "severek",
-        "sağlam",
-        "kolay",
-        "paketlemesi"
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
       ],
-      "positive_pct": 44.4,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 55.6,
+      "neutral_pct": 0.0,
       "sample_reviews": [
+        "bayıldım kızartma tenceresi denemedim amaçok güzel",
         "tek seferde iki kişilik çok beğendim her tarafı eşit kızarıyor fazla yağ koymanız gerekmiyor ben fazla koymuşum",
-        "çok beğendim bayagada büyük kaliteli",
-        "tahminimden iyi çıktı çok pratik"
+        "daha denemedim ama güzel görünüyor teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "tahminimden iyi çıktı çok pratik",
+          "text": "daha denemedim ama güzel görünüyor teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım kızartma tenceresi denemedim amaçok güzel",
           "score": 5.0
         },
         {
           "text": "tek seferde iki kişilik çok beğendim her tarafı eşit kızarıyor fazla yağ koymanız gerekmiyor ben fazla koymuşum",
           "score": 5.0
-        },
-        {
-          "text": "hedıye aldım cok begenıldı",
-          "score": 4.0
-        },
-        {
-          "text": "çok beğendim bayagada büyük kaliteli",
-          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Paketlemesi & Hasarsız",
+      "name": "Paketleme",
       "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
@@ -203,15 +127,15 @@
         "paketlemesi",
         "hasarsız",
         "sorunsuz",
-        "sağlam"
+        "çeyiz"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "daha denemedim ama güzel görünüyor teşekkür ederim",
-        "çeyiz için aldım begendim teşekkür ederim",
-        "çok beğendim teşekkür ederim"
+        "çok güzel görünüyor kaliteli çok büyük değil iki tane ortaboy patates tek seferde anca kızartır bu durum benim için uygun kullanışlı",
+        "bayıldım kızartma tenceresi denemedim amaçok güzel"
       ],
       "all_reviews": [
         {
@@ -219,11 +143,86 @@
           "score": 5.0
         },
         {
+          "text": "çok güzel görünüyor kaliteli çok büyük değil iki tane ortaboy patates tek seferde anca kızartır bu durum benim için uygun kullanışlı",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım kızartma tenceresi denemedim amaçok güzel",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çeyiz",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel bir ürün geldi kaliteli henüz kızartma için kullanmadım fakat oldukça kullanışlı ve yer kaplamıyor",
+        "henüz kullanmadım ama sorunsuz geldi çok şık",
+        "çeyiz için aldım begendim teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
           "text": "çeyiz için aldım begendim teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "çok beğendim teşekkür ederim",
+          "text": "çok güzel bir ürün geldi kaliteli henüz kızartma için kullanmadım fakat oldukça kullanışlı ve yer kaplamıyor",
+          "score": 5.0
+        },
+        {
+          "text": "henüz kullanmadım ama sorunsuz geldi çok şık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Diyebilirim",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "icindeki süzgeç kısmında biraz lekelenme var ama işimi kolaylaştıracak bir ürün pratik tek veya iki kişilik kullanışlı",
+        "henüz kullanmadım ama sorunsuz geldi çok şık"
+      ],
+      "all_reviews": [
+        {
+          "text": "icindeki süzgeç kısmında biraz lekelenme var ama işimi kolaylaştıracak bir ürün pratik tek veya iki kişilik kullanışlı",
+          "score": 5.0
+        },
+        {
+          "text": "henüz kullanmadım ama sorunsuz geldi çok şık",
           "score": 5.0
         }
       ],
@@ -231,7 +230,7 @@
     },
     {
       "name": "Patates",
-      "review_count": 2,
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -249,9 +248,14 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel görünüyor kaliteli çok büyük değil iki tane ortaboy patates tek seferde anca kızartır bu durum benim için uygun kullanışlı"
+        "çok güzel görünüyor kaliteli çok büyük değil iki tane ortaboy patates tek seferde anca kızartır bu durum benim için uygun kullanışlı",
+        "çok güzel bir ürün geldi kaliteli henüz kızartma için kullanmadım fakat oldukça kullanışlı ve yer kaplamıyor"
       ],
       "all_reviews": [
+        {
+          "text": "çok güzel bir ürün geldi kaliteli henüz kızartma için kullanmadım fakat oldukça kullanışlı ve yer kaplamıyor",
+          "score": 5.0
+        },
         {
           "text": "çok güzel görünüyor kaliteli çok büyük değil iki tane ortaboy patates tek seferde anca kızartır bu durum benim için uygun kullanışlı",
           "score": 5.0
@@ -260,30 +264,30 @@
       "icon": "💬"
     },
     {
-      "name": "Sıkıntı & Deneme",
-      "review_count": 2,
+      "name": "Özellikle",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "gerek",
-        "sıkıntı",
-        "uzun süre",
-        "süre",
-        "yaptık",
-        "deneme",
-        "aydır",
-        "kızartma"
+        "özellikle",
+        "evde",
+        "anneler",
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "bayıldım kızartma tenceresi denemedim amaçok güzel"
+        "anneme aldım beğendi"
       ],
       "all_reviews": [
         {
-          "text": "bayıldım kızartma tenceresi denemedim amaçok güzel",
+          "text": "anneme aldım beğendi",
           "score": 5.0
         }
       ],

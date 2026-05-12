@@ -8,7 +8,7 @@
   "overall_score": 4.88,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**MRS.MODA Kadın Siyah Renkli Cepli Kemerli Yüksek Bel To** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **toparlayıcı** ve **bedeni** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Mükemmel bir ürün bunukaç sene önce hediyye olarak almışlardı bana aynı kalitede aynı…\"\n• **Duruşu & Kalitesi**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **göründüğü** ve **sardı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kalitesi güzel bir beden küçük alabilirsiniz\"\n• Kullanıcılar **Renkleri & Kaliteli Ürünler** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **notunuz** ve **rahat kullanışlı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye i…\"\n• **Kumaşı & Farklı Renkleri** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **bedeni** ve **rengi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum…\"\n• Müşteri yorumlarında **Kumaşı** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kumaş** ve **kalıbı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalites…\"",
+  "summary": "\"MRS.MODA Kadın Siyah Renkli Cepli Kemerli Yüksek Bel To ürününü genel olarak değerlendirecek olursak, müşterilerin neredeyse tamamına yakın bir kısmı kumaşın ve farkl renklerinin kalitesine, toparlayıc ve bedenin uyumu ile ürününe çok olumlu yorumlar yapmıştır. Ürünün duruş ve kalitesi de beğeniye değer görünmektedir. Overall, bu ürün yüksek memnuniyet oranına sahiptir.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,32 +18,52 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli Rahat",
-      "review_count": 12,
-      "avg_score": 5.0,
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 33,
+      "avg_score": 4.82,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
+        "kumaşı",
+        "oldum",
         "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 81.8,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 18.2,
       "sample_reviews": [
-        "bu 3 kez alışım toparlayıcı ve rahat tam beden alın",
-        "mükemmel bir ürün bunukaç sene önce hediyye olarak almışlardı bana aynı kalitede aynı güzellikte tekrardan burada buldum elinize emeğinize sağlık gerçekten",
-        "daha öncede alıp kullandığım bi ürün çok memnunum tekrar aldım"
+        "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+        "kesinlikle her kadının dolabında olmalı toparliyor potuk yok dikimi güzel rengi güzel ve sıkmıyor"
       ],
       "all_reviews": [
         {
-          "text": "mükemmel bir ürün bunukaç sene önce hediyye olarak almışlardı bana aynı kalitede aynı güzellikte tekrardan burada buldum elinize emeğinize sağlık gerçekten",
+          "text": "2 renginide aldım cok begendim tam beden alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi toparlayıcı kendi bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve esnek kendı bedenınızı alın derim",
+          "score": 5.0
+        },
+        {
+          "text": "şahane kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
           "score": 5.0
         },
         {
@@ -51,28 +71,100 @@
           "score": 5.0
         },
         {
-          "text": "daha öncede alıp kullandığım bi ürün çok memnunum tekrar aldım",
+          "text": "lacivertini de almıştım pantolon gibi duruyor kumaş kalınlığı da cok iyi yaz kış kullanılabirlir yanına şort etek hediye koymuşlar o da çok güzel teşekkürler",
           "score": 5.0
         },
         {
-          "text": "ürünum geldi çok güzel oldu hem toparladı hemde rahat",
+          "text": "kesinlikle her kadının dolabında olmalı toparliyor potuk yok dikimi güzel rengi güzel ve sıkmıyor",
           "score": 5.0
         },
         {
-          "text": "herzöam kullandıgım marka yine cok güzel",
+          "text": "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
           "score": 5.0
         },
         {
-          "text": "daha öncede al almıştım çok şık",
-          "score": 5.0
+          "text": "çok güzel kendi bedeninizi alın rahat pantolon görünümlü",
+          "score": 4.0
+        },
+        {
+          "text": "kalitesi güzel bir beden küçük alabilirsiniz",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Duruşu & Kalitesi",
-      "review_count": 9,
-      "avg_score": 4.67,
+      "name": "Toparlayıc & Beden",
+      "review_count": 29,
+      "avg_score": 4.79,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 79.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.7,
+      "sample_reviews": [
+        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+        "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+        "çok iyi toparlayıcı kendi bedeninizi alın"
+      ],
+      "all_reviews": [
+        {
+          "text": "2 renginide aldım cok begendim tam beden alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi toparlayıcı kendi bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve esnek kendı bedenınızı alın derim",
+          "score": 5.0
+        },
+        {
+          "text": "şahane kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bu 3 kez alışım toparlayıcı ve rahat tam beden alın",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kendi bedeninizi alın rahat pantolon görünümlü",
+          "score": 4.0
+        },
+        {
+          "text": "kalitesi güzel bir beden küçük alabilirsiniz",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruş & Kalite",
+      "review_count": 23,
+      "avg_score": 4.74,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -85,22 +177,42 @@
         "bayıldım",
         "almalısınız"
       ],
-      "positive_pct": 66.7,
+      "positive_pct": 73.9,
       "negative_pct": 0.0,
-      "neutral_pct": 33.3,
+      "neutral_pct": 26.1,
       "sample_reviews": [
-        "kalitesi güzel bir beden küçük alabilirsiniz",
-        "çok iyi toparlayıcı kendi bedeninizi alın",
-        "şahane kendi bedeninizi alabilirsiniz"
+        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+        "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+        "kalitesi güzel bir beden küçük alabilirsiniz"
       ],
       "all_reviews": [
+        {
+          "text": "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+          "score": 5.0
+        },
         {
           "text": "şahane kendi bedeninizi alabilirsiniz",
           "score": 5.0
         },
         {
+          "text": "mükemmel bir ürün bunukaç sene önce hediyye olarak almışlardı bana aynı kalitede aynı güzellikte tekrardan burada buldum elinize emeğinize sağlık gerçekten",
+          "score": 5.0
+        },
+        {
           "text": "çok iyi toparlayıcı kendi bedeninizi alın",
           "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve güzel biraz pahalı ama iyi",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kendi bedeninizi alın rahat pantolon görünümlü",
+          "score": 4.0
         },
         {
           "text": "kalitesi güzel bir beden küçük alabilirsiniz",
@@ -110,34 +222,204 @@
       "icon": "💬"
     },
     {
-      "name": "Renkleri & Kaliteli Ürünler",
-      "review_count": 8,
+      "name": "Ürün",
+      "review_count": 15,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "renkleri",
-        "kaliteli ürünler",
-        "notunuz",
-        "paketleme özenliydi",
-        "özenliydi",
-        "rahat kullanışlı",
-        "paketleme",
-        "kalite"
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım",
-        "kesinlikle her kadının dolabında olmalı toparliyor potuk yok dikimi güzel rengi güzel ve sıkmıyor",
-        "2 renginide aldım cok begendim tam beden alın"
+        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+        "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+        "mükemmel bir ürün bunukaç sene önce hediyye olarak almışlardı bana aynı kalitede aynı güzellikte tekrardan burada buldum elinize emeğinize sağlık gerçekten"
       ],
       "all_reviews": [
+        {
+          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+          "score": 5.0
+        },
         {
           "text": "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım",
           "score": 5.0
         },
+        {
+          "text": "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel bir ürün bunukaç sene önce hediyye olarak almışlardı bana aynı kalitede aynı güzellikte tekrardan burada buldum elinize emeğinize sağlık gerçekten",
+          "score": 5.0
+        },
+        {
+          "text": "daha öncede alıp kullandığım bi ürün çok memnunum tekrar aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürünum geldi çok güzel oldu hem toparladı hemde rahat",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "diye",
+        "kumaş",
+        "kalıbı",
+        "iade",
+        "bayıldım",
+        "baya",
+        "almışım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+        "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+        "lacivertini de almıştım pantolon gibi duruyor kumaş kalınlığı da cok iyi yaz kış kullanılabirlir yanına şort etek hediye koymuşlar o da çok güzel teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "lacivertini de almıştım pantolon gibi duruyor kumaş kalınlığı da cok iyi yaz kış kullanılabirlir yanına şort etek hediye koymuşlar o da çok güzel teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat kurtarıcı diyebilirim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıcacık & Bedenınız",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sıcacık tutuyor",
+        "sıcacık",
+        "bedenınızı",
+        "derim",
+        "tutuyor",
+        "yumuşacık",
+        "rağmen",
+        "istediğim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel ve esnek kendı bedenınızı alın derim",
+        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+        "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve esnek kendı bedenınızı alın derim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlıyor",
+        "kalıp",
+        "beyendim",
+        "baya",
+        "bayıldım",
+        "efsane",
+        "etek",
+        "olabilir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+        "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Uygun",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
+        "baya",
+        "rağmen"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kesinlikle her kadının dolabında olmalı toparliyor potuk yok dikimi güzel rengi güzel ve sıkmıyor",
+        "2 renginide aldım cok begendim tam beden alın"
+      ],
+      "all_reviews": [
         {
           "text": "2 renginide aldım cok begendim tam beden alın",
           "score": 5.0
@@ -150,165 +432,60 @@
       "icon": "💬"
     },
     {
-      "name": "Kumaşı & Farklı Renkleri",
-      "review_count": 6,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "oldum",
-        "bedeni",
-        "rengi",
-        "alin",
-        "sarıyor",
-        "farklı renkleri",
-        "yaptım"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
-        "çok güzel kendi bedeninizi alın rahat pantolon görünümlü"
-      ],
-      "all_reviews": [
-        {
-          "text": "kalitesi kumaşı çok iyi daha önce kullandığım sevdiğim bir modeldi aynısını bulduğum için mutlu oldum ben bir beden büyük aldım m bedenim l aldım iyikide öyle aldım 75 kilo l tam oldu",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel kendi bedeninizi alın rahat pantolon görünümlü",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
-        "lacivertini de almıştım pantolon gibi duruyor kumaş kalınlığı da cok iyi yaz kış kullanılabirlir yanına şort etek hediye koymuşlar o da çok güzel teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "lacivertini de almıştım pantolon gibi duruyor kumaş kalınlığı da cok iyi yaz kış kullanılabirlir yanına şort etek hediye koymuşlar o da çok güzel teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalıp Rahat",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
-        "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok rahat kurtarıcı diyebilirim",
-        "çok rahat çok beğendim"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok rahat çok beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok rahat kurtarıcı diyebilirim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sıcacık",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli kaliteli",
-        "rahat rahat",
-        "sıcacık tutuyor",
-        "sıcacık",
-        "bedenınızı",
-        "derim",
-        "tutuyor",
-        "yumuşacık"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel ve esnek kendı bedenınızı alın derim"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel ve esnek kendı bedenınızı alın derim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Fiyat Performans",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
-        "fiyat",
         "efsane",
+        "fiyat",
         "paketleme",
         "aldığım",
         "edebilirsiniz",
         "diyebilirim",
-        "fiyat performans"
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok kaliteli ve güzel biraz pahalı ama iyi"
+        "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "çok kaliteli ve güzel biraz pahalı ama iyi",
+          "text": "gerçekten harika ötesi bir pantolon paça boyu bilekleri sarıyor ve uzun kumaş kalitesi muhteşem bayıldım ilk defa internetten aldığım bir ürün bu kadar guzel çıktı 70 kg 40 beden aldım belim ince 38 olabılır ama tam kalıp teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Farkl Renk",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "renkleri",
+        "paketleme özenliydi",
+        "notunuz",
+        "özenliydi",
+        "paketleme",
+        "kalite",
+        "ürünler",
+        "dokusu"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün harika çok beğendim bir beden küçük almalydim çok esnek ve rahat ayrıca hediye için çok teşekkür ederim bayıldım diğer renkleri de almalıyım",
           "score": 5.0
         }
       ],

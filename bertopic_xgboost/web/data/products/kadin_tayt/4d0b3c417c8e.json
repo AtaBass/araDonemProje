@@ -8,7 +8,7 @@
   "overall_score": 4.55,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Wear Tight Kadın Voleybol Şort Tayt Yüksek Bel** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kalıp Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **esnek** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Etek ve ketenlerin altına idael\"\n• **Kaliteli Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **toparlayıcı** ve **bedeni** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok iyi çok rahat ve toparlaması şahane biraz daha toparlasın istediğim için s bedeni…\"\n• **Kumaşı** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **kumaş** ve **kalıbı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmas…\"\n• **Rahat** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **olmasına** ve **rağmen** başta olmak üzere. Örnek kullanıcı ifadesi: \"2 günde geldi bır tık daha kısa olabildi ama tamamen vücuduma oturdu beğendim iç göst…\"\n• Müşteri yorumlarında **Fiyata & Kaliteli Ürünler** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fiyat** ve **uygun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Tam fiyat performans bayildim\"",
+  "summary": "Wear Tight Kadın Voleybol Şort Tayt Yüksek Bel ürününün genel memnuniyet puanı 4,5/5,0'dır. Ürün genel olarak olumlu eleştiriler aldı ve kumaş/farkl renk, kumaş ve fiyat performansı yönlerinde yüksek puan aldı. Ürünün duruş ve kalitesi yönünde ise karışık eleştiriler alındığı görüldü. Ürünün genel özeti olarak, ürünün tasarımına ve malzemesine büyük ilgi duyuluyor ve kullanıcılar bunu pozitif bir şekilde değerlendiriyor.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,120 +18,104 @@
   },
   "aspects": [
     {
-      "name": "Kalıp Rahat",
-      "review_count": 10,
-      "avg_score": 4.4,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
-        "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
-      ],
-      "positive_pct": 60.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 40.0,
-      "sample_reviews": [
-        "etek ve ketenlerin altına idael",
-        "kızım çok beğendi",
-        "beğendim çok iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "kızım çok beğendi",
-          "score": 5.0
-        },
-        {
-          "text": "beğendim çok iyi",
-          "score": 5.0
-        },
-        {
-          "text": "etek ve ketenlerin altına idael",
-          "score": 4.0
-        },
-        {
-          "text": "işimi goruyor",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli Rahat",
-      "review_count": 8,
-      "avg_score": 5.0,
+      "name": "Ürün",
+      "review_count": 16,
+      "avg_score": 4.5,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
-        "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
+      "positive_pct": 87.5,
+      "negative_pct": 12.5,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok iyi çok rahat ve toparlaması şahane biraz daha toparlasın istediğim için s bedenini de alacağım",
-        "sert bi tayt kolayca yırtılacak gibi değil teşekkür ederim ürününüz için gayet beğendim",
-        "ürünü çok beğendim bence fiyatına göre de gayet güzel"
+        "tam f p ürünü çok tedirgindim ama pahalı markalara taş çıkartır çok kiloluysanız inanılmaz bi push up beklemeyin ama kumaşı çok kaliteli",
+        "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı",
+        "sert bi tayt kolayca yırtılacak gibi değil teşekkür ederim ürününüz için gayet beğendim"
       ],
       "all_reviews": [
-        {
-          "text": "çok iyi çok rahat ve toparlaması şahane biraz daha toparlasın istediğim için s bedenini de alacağım",
-          "score": 5.0
-        },
         {
           "text": "sert bi tayt kolayca yırtılacak gibi değil teşekkür ederim ürününüz için gayet beğendim",
           "score": 5.0
         },
         {
-          "text": "kizim icin aldim s tam oldu beyendik",
+          "text": "tam f p ürünü çok tedirgindim ama pahalı markalara taş çıkartır çok kiloluysanız inanılmaz bi push up beklemeyin ama kumaşı çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fp ürünü kumaşı çok rahat",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli mükemmel kumaş kızıma aldım voleybol için çok beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "10 numara ürün teşekkürler",
           "score": 5.0
         },
         {
           "text": "ürünü çok beğendim bence fiyatına göre de gayet güzel",
           "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel toparlayıcı",
+          "score": 5.0
+        },
+        {
+          "text": "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı",
+          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kumaşı",
-      "review_count": 6,
-      "avg_score": 3.67,
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 12,
+      "avg_score": 4.33,
       "sentiment": "neutral",
-      "sentiment_label": "Karışık",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
       ],
-      "positive_pct": 66.7,
-      "negative_pct": 33.3,
+      "positive_pct": 83.3,
+      "negative_pct": 16.7,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı",
         "tam f p ürünü çok tedirgindim ama pahalı markalara taş çıkartır çok kiloluysanız inanılmaz bi push up beklemeyin ama kumaşı çok kaliteli",
-        "ürün çok kaliteli mükemmel kumaş kızıma aldım voleybol için çok beğendi"
+        "çok iyi çok rahat ve toparlaması şahane biraz daha toparlasın istediğim için s bedenini de alacağım",
+        "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı"
       ],
       "all_reviews": [
         {
+          "text": "cok kaliteli bi urun 59 kiloyum m beden bi tik buyuk geldi sarsin toplasin isterseniz bi beden kucuk alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi çok rahat ve toparlaması şahane biraz daha toparlasın istediğim için s bedenini de alacağım",
+          "score": 5.0
+        },
+        {
           "text": "tam f p ürünü çok tedirgindim ama pahalı markalara taş çıkartır çok kiloluysanız inanılmaz bi push up beklemeyin ama kumaşı çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fp ürünü kumaşı çok rahat",
           "score": 5.0
         },
         {
@@ -146,81 +130,11 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat",
-      "review_count": 4,
-      "avg_score": 4.0,
+      "name": "Duruş & Kalite",
+      "review_count": 10,
+      "avg_score": 3.8,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kilo",
-        "kilo rahat",
-        "asla",
-        "olmasına",
-        "rağmen",
-        "fiyat performans",
-        "performans",
-        "rahat rahat"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "2 günde geldi bır tık daha kısa olabildi ama tamamen vücuduma oturdu beğendim iç gösterme gibi bir problemı yok rahat fiyat performans 50 kiloyum ve xs tam oturdu",
-        "beklediğimden uzundu ama kalitesi guzel"
-      ],
-      "all_reviews": [
-        {
-          "text": "2 günde geldi bır tık daha kısa olabildi ama tamamen vücuduma oturdu beğendim iç gösterme gibi bir problemı yok rahat fiyat performans 50 kiloyum ve xs tam oturdu",
-          "score": 5.0
-        },
-        {
-          "text": "beklediğimden uzundu ama kalitesi guzel",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata & Kaliteli Ürünler",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "beklemiyordum",
-        "fiyat",
-        "uygun",
-        "aldık",
-        "rengi",
-        "biri",
-        "baya"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "tam fiyat performans bayildim",
-        "güzel hızlı kargo"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel hızlı kargo",
-          "score": 5.0
-        },
-        {
-          "text": "tam fiyat performans bayildim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Duruşu & Kalitesi",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
       "top_terms": [
         "duruşu",
         "kalitesi",
@@ -231,105 +145,201 @@
         "bayıldım",
         "almalısınız"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "positive_pct": 60.0,
+      "negative_pct": 20.0,
+      "neutral_pct": 20.0,
       "sample_reviews": [
+        "beklediğimden uzundu ama kalitesi guzel",
+        "tam f p ürünü çok tedirgindim ama pahalı markalara taş çıkartır çok kiloluysanız inanılmaz bi push up beklemeyin ama kumaşı çok kaliteli",
         "cok kaliteli bi urun 59 kiloyum m beden bi tik buyuk geldi sarsin toplasin isterseniz bi beden kucuk alabilirsiniz"
       ],
       "all_reviews": [
         {
           "text": "cok kaliteli bi urun 59 kiloyum m beden bi tik buyuk geldi sarsin toplasin isterseniz bi beden kucuk alabilirsiniz",
           "score": 5.0
+        },
+        {
+          "text": "tam f p ürünü çok tedirgindim ama pahalı markalara taş çıkartır çok kiloluysanız inanılmaz bi push up beklemeyin ama kumaşı çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli mükemmel kumaş kızıma aldım voleybol için çok beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "beklediğimden uzundu ama kalitesi guzel",
+          "score": 3.0
+        },
+        {
+          "text": "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı",
+          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kumaşı & Farklı Renkleri",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Kumaş",
+      "review_count": 8,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "kumaşı",
-        "oldum",
-        "bedeni",
-        "rengi",
-        "alin",
-        "sarıyor",
-        "farklı renkleri",
-        "yaptım"
+        "diye",
+        "kumaş",
+        "kalıbı",
+        "iade",
+        "bayıldım",
+        "baya",
+        "almışım"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı",
+        "tam f p ürünü çok tedirgindim ama pahalı markalara taş çıkartır çok kiloluysanız inanılmaz bi push up beklemeyin ama kumaşı çok kaliteli",
         "tam bir fp ürünü kumaşı çok rahat"
       ],
       "all_reviews": [
         {
+          "text": "tam f p ürünü çok tedirgindim ama pahalı markalara taş çıkartır çok kiloluysanız inanılmaz bi push up beklemeyin ama kumaşı çok kaliteli",
+          "score": 5.0
+        },
+        {
           "text": "tam bir fp ürünü kumaşı çok rahat",
           "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli mükemmel kumaş kızıma aldım voleybol için çok beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı",
+          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat Kullanışlı",
-      "review_count": 2,
+      "name": "Fiyat Performans",
+      "review_count": 8,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "efsane",
+        "fiyat",
+        "paketleme",
+        "aldığım",
+        "edebilirsiniz",
+        "diyebilirim",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "2 günde geldi bır tık daha kısa olabildi ama tamamen vücuduma oturdu beğendim iç gösterme gibi bir problemı yok rahat fiyat performans 50 kiloyum ve xs tam oturdu",
+        "tam fiyat performans bayildim",
+        "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı"
+      ],
+      "all_reviews": [
+        {
+          "text": "2 günde geldi bır tık daha kısa olabildi ama tamamen vücuduma oturdu beğendim iç gösterme gibi bir problemı yok rahat fiyat performans 50 kiloyum ve xs tam oturdu",
+          "score": 5.0
+        },
+        {
+          "text": "tam fiyat performans bayildim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü çok beğendim bence fiyatına göre de gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün hatalı geldi aldığım gibi iade ettim kumaşı kaliteliydi tek sorunu deforme olmasıydı",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Toparlayıc & Beden",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "ürünler",
-        "teslimat",
-        "kullanışlı",
-        "özellikle",
-        "rahat kullanışlı",
-        "oldum",
-        "aldık",
-        "göründüğü"
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "10 numara ürün teşekkürler"
+        "çok iyi çok rahat ve toparlaması şahane biraz daha toparlasın istediğim için s bedenini de alacağım",
+        "ürün çok güzel toparlayıcı",
+        "cok kaliteli bi urun 59 kiloyum m beden bi tik buyuk geldi sarsin toplasin isterseniz bi beden kucuk alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "10 numara ürün teşekkürler",
+          "text": "cok kaliteli bi urun 59 kiloyum m beden bi tik buyuk geldi sarsin toplasin isterseniz bi beden kucuk alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi çok rahat ve toparlaması şahane biraz daha toparlasın istediğim için s bedenini de alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel toparlayıcı",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sıcacık",
-      "review_count": 2,
+      "name": "Fiyat & Uygun",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli kaliteli",
-        "rahat rahat",
-        "sıcacık tutuyor",
-        "sıcacık",
-        "bedenınızı",
-        "derim",
-        "tutuyor",
-        "yumuşacık"
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
+        "baya",
+        "rağmen"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün çok güzel toparlayıcı"
+        "2 günde geldi bır tık daha kısa olabildi ama tamamen vücuduma oturdu beğendim iç gösterme gibi bir problemı yok rahat fiyat performans 50 kiloyum ve xs tam oturdu",
+        "ürünü çok beğendim bence fiyatına göre de gayet güzel",
+        "tam fiyat performans bayildim"
       ],
       "all_reviews": [
         {
-          "text": "ürün çok güzel toparlayıcı",
+          "text": "2 günde geldi bır tık daha kısa olabildi ama tamamen vücuduma oturdu beğendim iç gösterme gibi bir problemı yok rahat fiyat performans 50 kiloyum ve xs tam oturdu",
+          "score": 5.0
+        },
+        {
+          "text": "tam fiyat performans bayildim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü çok beğendim bence fiyatına göre de gayet güzel",
           "score": 5.0
         }
       ],

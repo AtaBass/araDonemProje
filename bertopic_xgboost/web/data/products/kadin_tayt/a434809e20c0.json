@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**HNX Yüksek Bel Toparlayıcı Ripli Fitilli Spor Kadın Tay** için 2 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **toparlayıcı** ve **bedeni** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gerçekten çok güzel bir tayt\"",
+  "summary": "2 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -16,43 +16,7 @@
     "4": 0,
     "5": 2
   },
-  "aspects": [
-    {
-      "name": "Kaliteli Rahat",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
-        "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "taytın kalitesine bayıldım",
-        "gerçekten çok güzel bir tayt"
-      ],
-      "all_reviews": [
-        {
-          "text": "gerçekten çok güzel bir tayt",
-          "score": 5.0
-        },
-        {
-          "text": "taytın kalitesine bayıldım",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    }
-  ],
+  "aspects": [],
   "top_reviews": [
     "gerçekten çok güzel bir tayt",
     "taytın kalitesine bayıldım"

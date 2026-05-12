@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**HNX Kadın Yüksek Bel Toparlayıcı Ripli Fitilli Kısa Spo** için 7 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kumaşı** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kumaş** ve **kalıbı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Şortlar aşırı rahat penye bir beden büyük aldım normalde m giyerim l aldım absürt bi…\"",
+  "summary": "HNX Kadın Yüksek Bel Toparlayıcı Ripli Fitilli Kısa Spo, ürün memnuniyetinin en yüksek oranına sahiptir. Ürün, beden ve toparlayıc konusunda 5 üzerinden 5 puan alırken, duruş ve kaliteye de aynı şekilde pozitif yorumlar almaktadır. Kalıbın ve kumaş/farklı renklerin de mükemmel olarak değerlendirildiği görülmektedir. Overall, ürünün olağanüstü performansı, müşterilerin memnuniyetini fazlasıyla karşılamaktadır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,20 +18,125 @@
   },
   "aspects": [
     {
-      "name": "Kumaşı",
+      "name": "Toparlayıc & Beden",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "beklediğimden güzel yumuşak dokusu var aynı zamanda çok rahat",
+        "şortlar aşırı rahat penye bir beden büyük aldım normalde m giyerim l aldım absürt bi genişliği yok daha rahat oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "beklediğimden güzel yumuşak dokusu var aynı zamanda çok rahat",
+          "score": 5.0
+        },
+        {
+          "text": "şortlar aşırı rahat penye bir beden büyük aldım normalde m giyerim l aldım absürt bi genişliği yok daha rahat oldu",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruş & Kalite",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "duruşu",
+        "kalitesi",
+        "göründüğü",
+        "sardı",
+        "bedeninizden",
+        "alin",
+        "bayıldım",
+        "almalısınız"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika",
+        "bayıldımmmmm harika kaliteli tavsiyemdir"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu kadar iyi çıkabileceğini düşünmemiştim çok başarılı kumaşı duruşu harika",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldımmmmm harika kaliteli tavsiyemdir",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlıyor",
+        "kalıp",
+        "beyendim",
+        "baya",
+        "bayıldım",
+        "efsane",
+        "etek",
+        "olabilir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bayıldımmmmm harika kaliteli tavsiyemdir",
+        "çok rahat tam kalıp"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldımmmmm harika kaliteli tavsiyemdir",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat tam kalıp",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Farkl Renk",
       "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,

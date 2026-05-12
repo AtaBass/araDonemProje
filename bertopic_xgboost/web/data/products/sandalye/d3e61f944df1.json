@@ -8,7 +8,7 @@
   "overall_score": 3.57,
   "overall_sentiment": "neutral",
   "stars": "★★★½☆",
-  "summary": "**Resa mobilya design Yıldız Sandalye 2’li** için 47 müşteri yorumu değerlendirilmiştir. Kullanıcı görüşleri karma bir tablo ortaya koymakta, hem olumlu hem eleştirel değerlendirmeler bulunmaktadır.\n• **Kurulumu Kolay** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır.\n• **Fiyat Performans** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **uygun** ve **ilgili** başta olmak üzere. Örnek kullanıcı ifadesi: \"Fiyatına göre güzel iş görür şık duruyor kalitesini kullandıkça göreceğiz ama eksiksi…\"\n• **Rahat Koltuk** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **sağlam** ve **çalışma** konusu özellikle vurgulanmaktadır.\n• **Takım & Kurulumu Kolay** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **teşekürler** ve **sürekli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok guzel mutlaka alın tavsiye ediyorum\"\n• **Koltuk & Zarar** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **ergonomik** ve **rahat** konusu özellikle vurgulanmaktadır.",
+  "summary": "Here is a concise and professional summary:\n\n\"Yıldız Sandalye 2'li, Resa mobilya design'in sunduğu bir ürün olup, müşterilerin genel memnuniyet puanı 3.6/5.0'dur. Ürün, fiyat kalitesinde karışık, kurulum kolaylığında başarılı ve sorunsuzluğunda orta seviyede, fiyat performansı ve hafifliğinde olumlu olarak değerlendirilmiştir.\"",
   "score_distribution": {
     "1": 8,
     "2": 0,
@@ -18,28 +18,84 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 13,
-      "avg_score": 3.46,
+      "name": "Fiyat Kalite",
+      "review_count": 17,
+      "avg_score": 3.47,
       "sentiment": "neutral",
       "sentiment_label": "Karışık",
+      "top_terms": [
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
+      ],
+      "positive_pct": 11.8,
+      "negative_pct": 17.6,
+      "neutral_pct": 70.6,
+      "sample_reviews": [
+        "fiyatına göre güzel iş görür şık duruyor kalitesini kullandıkça göreceğiz ama eksiksiz ve hızlı bir şekilde gönderildi",
+        "eksik malzeme geldi çok kalitesiz paranızı boşa harcamayın ilk oturmada yamuldu biz hata yaptık siz yapmayın",
+        "kalitesi parasına gore"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyatına göre güzel iş görür şık duruyor kalitesini kullandıkça göreceğiz ama eksiksiz ve hızlı bir şekilde gönderildi",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler gayet güzel kurulumunu daha yapamadık bir puanı ayaklarında ki kalkan boyalardan kuruluyorum fiyatına göre gayet iyi",
+          "score": 4.0
+        },
+        {
+          "text": "fiyat performans ürünü şık duruyor",
+          "score": 4.0
+        },
+        {
+          "text": "kalitesi parasına gore",
+          "score": 4.0
+        },
+        {
+          "text": "paketleme güzeldi sağlam geldi uygun fiyatlı olması güzel",
+          "score": 4.0
+        },
+        {
+          "text": "kalitesi biraz kötü",
+          "score": 3.0
+        },
+        {
+          "text": "eksik malzeme geldi çok kalitesiz paranızı boşa harcamayın ilk oturmada yamuldu biz hata yaptık siz yapmayın",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 13,
+      "avg_score": 3.92,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "paketleme",
         "kolay",
         "kurulumu",
-        "rahat",
-        "sağlam",
         "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 15.4,
-      "negative_pct": 15.4,
-      "neutral_pct": 69.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 84.6,
       "sample_reviews": [
         "ürünler gayet güzel kurulumunu daha yapamadık bir puanı ayaklarında ki kalkan boyalardan kuruluyorum fiyatına göre gayet iyi",
-        "paketleme güzeldi sağlam geldi uygun fiyatlı olması güzel",
-        "ürünler sağlam elime ulaştı paketleme de iyiydi"
+        "ürün saglam ve parcaları eksiksiz geldi ama paketleme cok kötüydü kargoda da yırtılmıs içindeki zarar görmemiş ama uzun sürede teslim edilseydi zarar görenilirdi metal kısımlarınım birkaç yerinde boya cıkmıs sandalyeleri begendıgım için iadeyle ugrasmak istemedim fotograf da daha büyük görünüyor ama gayet kibar ve rahat bir sandalye minderi de monte ediliyor",
+        "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır"
       ],
       "all_reviews": [
         {
@@ -55,39 +111,39 @@
           "score": 4.0
         },
         {
-          "text": "demirleri hafif geldi bana şekli çok hoşuma gittiği için almıştım",
-          "score": 3.0
+          "text": "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır",
+          "score": 4.0
         },
         {
-          "text": "çok beğenerek aldım iki kere ikişer tane verdim ama iki buçuk ay oldu kirildi bitanesi ne yapabiliriz yardımcı oluyormusunuz",
-          "score": 1.0
+          "text": "ürün saglam ve parcaları eksiksiz geldi ama paketleme cok kötüydü kargoda da yırtılmıs içindeki zarar görmemiş ama uzun sürede teslim edilseydi zarar görenilirdi metal kısımlarınım birkaç yerinde boya cıkmıs sandalyeleri begendıgım için iadeyle ugrasmak istemedim fotograf da daha büyük görünüyor ama gayet kibar ve rahat bir sandalye minderi de monte ediliyor",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 8,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Sorunsuz",
+      "review_count": 13,
+      "avg_score": 2.85,
+      "sentiment": "negative",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "fiyat",
-        "fiyat performans",
-        "performans",
-        "uygun",
-        "ilgili",
-        "kalite",
-        "rahatlığı",
-        "kusursuz"
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
       ],
-      "positive_pct": 25.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 75.0,
+      "positive_pct": 15.4,
+      "negative_pct": 38.5,
+      "neutral_pct": 46.2,
       "sample_reviews": [
-        "fiyat performans ürünü şık duruyor",
+        "çok beğenerek aldım iki kere ikişer tane verdim ama iki buçuk ay oldu kirildi bitanesi ne yapabiliriz yardımcı oluyormusunuz",
         "fiyatına göre güzel iş görür şık duruyor kalitesini kullandıkça göreceğiz ama eksiksiz ve hızlı bir şekilde gönderildi",
-        "kalitesi parasına gore"
+        "eksik malzeme geldi çok kalitesiz paranızı boşa harcamayın ilk oturmada yamuldu biz hata yaptık siz yapmayın"
       ],
       "all_reviews": [
         {
@@ -99,110 +155,101 @@
           "score": 4.0
         },
         {
-          "text": "fiyat performans ürünü şık duruyor",
+          "text": "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır",
           "score": 4.0
         },
         {
           "text": "kalitesi biraz kötü",
           "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat Koltuk",
-      "review_count": 5,
-      "avg_score": 2.6,
-      "sentiment": "negative",
-      "sentiment_label": "Karışık",
-      "top_terms": [
-        "rahat",
-        "koltuk",
-        "sağlam",
-        "çalışma",
-        "kurulumu",
-        "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
-      ],
-      "positive_pct": 40.0,
-      "negative_pct": 60.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "alalı 15 gün sürüyor kodu ve kırıldı",
-        "sandalyeler harika iyi ki almışız"
-      ],
-      "all_reviews": [
-        {
-          "text": "sandalyeler harika iyi ki almışız",
-          "score": 5.0
         },
         {
-          "text": "alalı 15 gün sürüyor kodu ve kırıldı",
+          "text": "eksik malzeme geldi çok kalitesiz paranızı boşa harcamayın ilk oturmada yamuldu biz hata yaptık siz yapmayın",
+          "score": 1.0
+        },
+        {
+          "text": "çok beğenerek aldım iki kere ikişer tane verdim ama iki buçuk ay oldu kirildi bitanesi ne yapabiliriz yardımcı oluyormusunuz",
           "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Takım & Kurulumu Kolay",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Fiyat Performans",
+      "review_count": 10,
+      "avg_score": 4.2,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "takım",
-        "paketleme",
-        "teşekürler",
-        "yaptım",
-        "olsaydı",
-        "istediğim",
-        "sürekli",
-        "kazançlar"
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 20.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 80.0,
       "sample_reviews": [
-        "çok guzel mutlaka alın tavsiye ediyorum",
-        "herkes öneririm çok güzel"
+        "fiyatına göre güzel iş görür şık duruyor kalitesini kullandıkça göreceğiz ama eksiksiz ve hızlı bir şekilde gönderildi",
+        "fiyat performans ürünü şık duruyor",
+        "paketleme güzeldi sağlam geldi uygun fiyatlı olması güzel"
       ],
       "all_reviews": [
         {
-          "text": "herkes öneririm çok güzel",
+          "text": "fiyatına göre güzel iş görür şık duruyor kalitesini kullandıkça göreceğiz ama eksiksiz ve hızlı bir şekilde gönderildi",
           "score": 5.0
         },
         {
-          "text": "çok guzel mutlaka alın tavsiye ediyorum",
-          "score": 5.0
+          "text": "ürünler gayet güzel kurulumunu daha yapamadık bir puanı ayaklarında ki kalkan boyalardan kuruluyorum fiyatına göre gayet iyi",
+          "score": 4.0
+        },
+        {
+          "text": "paketleme güzeldi sağlam geldi uygun fiyatlı olması güzel",
+          "score": 4.0
+        },
+        {
+          "text": "fiyat performans ürünü şık duruyor",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Koltuk & Zarar",
-      "review_count": 5,
-      "avg_score": 3.0,
+      "name": "Hafif",
+      "review_count": 10,
+      "avg_score": 3.2,
       "sentiment": "neutral",
       "sentiment_label": "Karışık",
       "top_terms": [
-        "uzun",
-        "koltuk",
-        "zarar",
-        "ergonomik",
+        "hafif",
+        "almışım",
+        "icin",
+        "göründüğü",
         "görünüyor",
-        "rahat",
-        "vida",
-        "monte"
+        "rahatlığıyla",
+        "konforlu",
+        "kolay"
       ],
       "positive_pct": 0.0,
       "negative_pct": 0.0,
       "neutral_pct": 100.0,
       "sample_reviews": [
+        "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır",
         "ürün saglam ve parcaları eksiksiz geldi ama paketleme cok kötüydü kargoda da yırtılmıs içindeki zarar görmemiş ama uzun sürede teslim edilseydi zarar görenilirdi metal kısımlarınım birkaç yerinde boya cıkmıs sandalyeleri begendıgım için iadeyle ugrasmak istemedim fotograf da daha büyük görünüyor ama gayet kibar ve rahat bir sandalye minderi de monte ediliyor",
         "montak icin elektrikli tornavida gerek yoksa cok zor metal ayaklarin kesim uclarinda capaklar bile duruyor ve yamuk kesilmis plastik parcalar zor oturuyor"
       ],
       "all_reviews": [
+        {
+          "text": "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır",
+          "score": 4.0
+        },
+        {
+          "text": "demirleri hafif geldi bana şekli çok hoşuma gittiği için almıştım",
+          "score": 3.0
+        },
         {
           "text": "ürün saglam ve parcaları eksiksiz geldi ama paketleme cok kötüydü kargoda da yırtılmıs içindeki zarar görmemiş ama uzun sürede teslim edilseydi zarar görenilirdi metal kısımlarınım birkaç yerinde boya cıkmıs sandalyeleri begendıgım için iadeyle ugrasmak istemedim fotograf da daha büyük görünüyor ama gayet kibar ve rahat bir sandalye minderi de monte ediliyor",
           "score": 3.0
@@ -215,71 +262,116 @@
       "icon": "💬"
     },
     {
-      "name": "Yoktu & Sıkıntı",
-      "review_count": 3,
-      "avg_score": 1.0,
-      "sentiment": "negative",
-      "sentiment_label": "Olumsuz",
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 8,
+      "avg_score": 3.88,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "yoktu",
-        "sıkıntı",
-        "vida",
-        "dikkat",
-        "montaj",
-        "iade",
-        "siparişim",
-        "dedim"
+        "takım",
+        "paketleme",
+        "teşekürler",
+        "yaptım",
+        "olsaydı",
+        "istediğim",
+        "sürekli",
+        "kazançlar"
       ],
-      "positive_pct": 0.0,
-      "negative_pct": 100.0,
-      "neutral_pct": 0.0,
+      "positive_pct": 25.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 75.0,
       "sample_reviews": [
-        "eksik malzeme geldi çok kalitesiz paranızı boşa harcamayın ilk oturmada yamuldu biz hata yaptık siz yapmayın"
+        "ürün saglam ve parcaları eksiksiz geldi ama paketleme cok kötüydü kargoda da yırtılmıs içindeki zarar görmemiş ama uzun sürede teslim edilseydi zarar görenilirdi metal kısımlarınım birkaç yerinde boya cıkmıs sandalyeleri begendıgım için iadeyle ugrasmak istemedim fotograf da daha büyük görünüyor ama gayet kibar ve rahat bir sandalye minderi de monte ediliyor",
+        "paketleme güzeldi sağlam geldi uygun fiyatlı olması güzel",
+        "ürünler sağlam elime ulaştı paketleme de iyiydi"
       ],
       "all_reviews": [
         {
-          "text": "eksik malzeme geldi çok kalitesiz paranızı boşa harcamayın ilk oturmada yamuldu biz hata yaptık siz yapmayın",
-          "score": 1.0
+          "text": "ürünler sağlam elime ulaştı paketleme de iyiydi",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme güzeldi sağlam geldi uygun fiyatlı olması güzel",
+          "score": 4.0
+        },
+        {
+          "text": "ürün saglam ve parcaları eksiksiz geldi ama paketleme cok kötüydü kargoda da yırtılmıs içindeki zarar görmemiş ama uzun sürede teslim edilseydi zarar görenilirdi metal kısımlarınım birkaç yerinde boya cıkmıs sandalyeleri begendıgım için iadeyle ugrasmak istemedim fotograf da daha büyük görünüyor ama gayet kibar ve rahat bir sandalye minderi de monte ediliyor",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kolay & Rahatlığıyla",
-      "review_count": 3,
-      "avg_score": 4.0,
+      "name": "Koltuk & Ergonomik",
+      "review_count": 5,
+      "avg_score": 3.4,
       "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "kolay",
-        "rahatlığıyla",
-        "tesekkurler",
-        "kaldik",
-        "kurulumuda",
-        "yaptım",
-        "rağmen",
-        "çıktı"
+        "uzun",
+        "koltuk",
+        "ergonomik",
+        "zarar",
+        "görünüyor",
+        "vida",
+        "sandalyenin",
+        "monte"
       ],
       "positive_pct": 0.0,
       "negative_pct": 0.0,
       "neutral_pct": 100.0,
       "sample_reviews": [
-        "güzel mutfak için almıştık rahat"
+        "ürün saglam ve parcaları eksiksiz geldi ama paketleme cok kötüydü kargoda da yırtılmıs içindeki zarar görmemiş ama uzun sürede teslim edilseydi zarar görenilirdi metal kısımlarınım birkaç yerinde boya cıkmıs sandalyeleri begendıgım için iadeyle ugrasmak istemedim fotograf da daha büyük görünüyor ama gayet kibar ve rahat bir sandalye minderi de monte ediliyor",
+        "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır"
       ],
       "all_reviews": [
         {
-          "text": "güzel mutfak için almıştık rahat",
+          "text": "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır",
+          "score": 4.0
+        },
+        {
+          "text": "ürün saglam ve parcaları eksiksiz geldi ama paketleme cok kötüydü kargoda da yırtılmıs içindeki zarar görmemiş ama uzun sürede teslim edilseydi zarar görenilirdi metal kısımlarınım birkaç yerinde boya cıkmıs sandalyeleri begendıgım için iadeyle ugrasmak istemedim fotograf da daha büyük görünüyor ama gayet kibar ve rahat bir sandalye minderi de monte ediliyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "koltuk",
+        "çalışma",
+        "kurulumu",
+        "kumaşı",
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "sample_reviews": [
+        "ürünler gayet güzel kurulumunu daha yapamadık bir puanı ayaklarında ki kalkan boyalardan kuruluyorum fiyatına göre gayet iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünler gayet güzel kurulumunu daha yapamadık bir puanı ayaklarında ki kalkan boyalardan kuruluyorum fiyatına göre gayet iyi",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Alınabilir & Çocuk",
+      "name": "Alınabilir",
       "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "alınabilir",
         "çocuk",
@@ -290,45 +382,15 @@
         "aldık",
         "sorun"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel olmuş"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel olmuş",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı Rahat",
-      "review_count": 2,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "rahat",
-        "kullanışlı rahat",
-        "hafif",
-        "almışım",
-        "kaliteli rahat",
-        "icin",
-        "göründüğü"
-      ],
       "positive_pct": 0.0,
       "negative_pct": 0.0,
       "neutral_pct": 100.0,
       "sample_reviews": [
-        "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır"
+        "paketleme güzeldi sağlam geldi uygun fiyatlı olması güzel"
       ],
       "all_reviews": [
         {
-          "text": "ürün çok güzel görünüyor montesi kolay oldu ama aşırı sağlam mı bilemedim misafir için kullanılır",
+          "text": "paketleme güzeldi sağlam geldi uygun fiyatlı olması güzel",
           "score": 4.0
         }
       ],

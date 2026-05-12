@@ -8,7 +8,7 @@
   "overall_score": 4.84,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Conzaliza Nevresim Takımı Çift Kişilik Antrasit Gri Fiy** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Tereddüt ile aldım ama fiyatına göre mükemmel gönül rahatlığı ile alabilirsiniz çift…\"\n• **Kumaşı Kaliteli**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kumaş** ve **rengi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güz…\"\n• Kullanıcılar **Fiyat & Lastikli Çarşafı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **renkler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde al…\"\n• **Fiyata Kalite** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Annem icin almıştım cok begendi gelince bir tanede ablama aldım ikincide sorunsuz ula…\"\n• **Rengi & Renkleri Canlı** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **renkler** ve **dokusu** konusu özellikle vurgulanmaktadır.",
+  "summary": "**Conzaliza Nevresim Takımı Çift Kişilik Antrasit Gri Fiy** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Çekme Solma**: Kullanıcılar çekme solma konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat / Lastikl Çarşaf**: Kullanıcılar fiyat / lastikl çarşaf konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Renk Canlı**: Kullanıcılar genel olarak renk canlı açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Paketlenme & Kalite**: Kullanıcılar paketlenme & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 15,
+      "name": "Kalite",
+      "review_count": 23,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "tereddüt ile aldım ama fiyatına göre mükemmel gönül rahatlığı ile alabilirsiniz çift kişiliği aldım beğendiğim için 3 tane de tek kişilik aldım",
-        "gerçekten çok güzel çok beğendim gönül rahatlığı ıle alabılırsınız",
-        "çeyizime aldım malı dokunuşu gayet hoş ve güzel bayıldımmm"
+        "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+        "annem icin almıştım cok begendi gelince bir tanede ablama aldım ikincide sorunsuz ulaştı elime sabah tekrar alım yapacağım komşumuz görmüş iyi satışlar dilerim",
+        "tereddüt ile aldım ama fiyatına göre mükemmel gönül rahatlığı ile alabilirsiniz çift kişiliği aldım beğendiğim için 3 tane de tek kişilik aldım"
       ],
       "all_reviews": [
         {
@@ -47,59 +47,15 @@
           "score": 5.0
         },
         {
+          "text": "ürünün paketlenmesi çok güzel bayıldım çeyiz için aldım ve gerçekten fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
           "text": "çeyiz için aldım güzel duruyor",
           "score": 5.0
         },
         {
-          "text": "ürün görsel deki gibi geldi elinize emeğinize sağlık güzel memnun kaldım tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "gerçekten çok güzel çok beğendim gönül rahatlığı ıle alabılırsınız",
-          "score": 5.0
-        },
-        {
-          "text": "çeyizime aldım malı dokunuşu gayet hoş ve güzel bayıldımmm",
-          "score": 5.0
-        },
-        {
-          "text": "anneme aldım bayıldııı cidden çok şık",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "kumaş",
-        "rengi",
-        "pamuklu",
-        "lastikli",
-        "takım",
-        "dokusu",
-        "ayrı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
-        "yatağıma tam geldi rengide güzel alabilirsiniz bence kaliteli",
-        "çok güzel canlı renkler ve kullanışlı yatak odama çok güzel oldu herkese tavsiye ederim almak isteyen gönül rahatlığı ile alabilir"
-      ],
-      "all_reviews": [
-        {
           "text": "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel canlı renkler ve kullanışlı yatak odama çok güzel oldu herkese tavsiye ederim almak isteyen gönül rahatlığı ile alabilir",
           "score": 5.0
         },
         {
@@ -107,79 +63,11 @@
           "score": 5.0
         },
         {
-          "text": "çok güzel tek kişilik olanı almıştım yatağımı değiştirdim çift kişilikte çok güzel teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat & Lastikli Çarşafı",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat",
-        "fiyata",
-        "renkler",
-        "aldık",
-        "takımı",
-        "sağlam",
-        "fermuarlı",
-        "takım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel çarşaf takımı ben beğendim fiyatları da mükemmel",
-        "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
-        "ürünün paketlenmesi çok güzel bayıldım çeyiz için aldım ve gerçekten fiyat performans ürünü"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel çarşaf takımı ben beğendim fiyatları da mükemmel",
+          "text": "çeyizime aldım malı dokunuşu gayet hoş ve güzel bayıldımmm",
           "score": 5.0
         },
         {
-          "text": "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
-          "score": 5.0
-        },
-        {
-          "text": "ürünün paketlenmesi çok güzel bayıldım çeyiz için aldım ve gerçekten fiyat performans ürünü",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 7,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "annem icin almıştım cok begendi gelince bir tanede ablama aldım ikincide sorunsuz ulaştı elime sabah tekrar alım yapacağım komşumuz görmüş iyi satışlar dilerim",
-        "çok beğendim fiyatına göre çok çok kaliteli ayrıca hediyeniz için de teşekkür ederim",
-        "ceyizim için aldım çok iyi paketleme ozenliydi"
-      ],
-      "all_reviews": [
-        {
-          "text": "annem icin almıştım cok begendi gelince bir tanede ablama aldım ikincide sorunsuz ulaştı elime sabah tekrar alım yapacağım komşumuz görmüş iyi satışlar dilerim",
+          "text": "çok beğendim fiyatına göre çok çok kaliteli ayrıca hediyeniz için de teşekkür ederim",
           "score": 5.0
         },
         {
@@ -187,72 +75,7 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendim fiyatına göre çok çok kaliteli ayrıca hediyeniz için de teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 4,
-      "avg_score": 3.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
-      "top_terms": [
-        "rengi",
-        "canlı",
-        "renkleri",
-        "yıkadım",
-        "renkleri canlı",
-        "renkler",
-        "dokusu",
-        "aynı"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum",
-        "severek kullanıyorum 3-4 kez yıkadım yine de renk vs atmadı çok iyiler yorumu güncellıyorum yaklaşık beş aydır kullanıyorum tamamen tıftıklendı rengı gıttı çöp"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum",
-          "score": 5.0
-        },
-        {
-          "text": "severek kullanıyorum 3-4 kez yıkadım yine de renk vs atmadı çok iyiler yorumu güncellıyorum yaklaşık beş aydır kullanıyorum tamamen tıftıklendı rengı gıttı çöp",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Bende & Paketlenmesi",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "aldık",
-        "bende",
-        "almışım",
-        "paketlenmesi",
-        "kalitesi",
-        "kullanıyor",
-        "çeyizime",
-        "beğenerek"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kiz kardeşim almıştı çok beğendim bende hemen sipariş verdim paketlenmesi gayet güzel çok da hızlı ulaştı elime tesekurler"
-      ],
-      "all_reviews": [
-        {
-          "text": "kiz kardeşim almıştı çok beğendim bende hemen sipariş verdim paketlenmesi gayet güzel çok da hızlı ulaştı elime tesekurler",
+          "text": "annem icin almıştım cok begendi gelince bir tanede ablama aldım ikincide sorunsuz ulaştı elime sabah tekrar alım yapacağım komşumuz görmüş iyi satışlar dilerim",
           "score": 5.0
         }
       ],
@@ -260,7 +83,7 @@
     },
     {
       "name": "Çekme Solma",
-      "review_count": 2,
+      "review_count": 19,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -278,12 +101,404 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kendime aldım şimdide hediye çok güzel bir ürün"
+        "annem icin almıştım cok begendi gelince bir tanede ablama aldım ikincide sorunsuz ulaştı elime sabah tekrar alım yapacağım komşumuz görmüş iyi satışlar dilerim",
+        "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+        "ürünün paketlenmesi çok güzel bayıldım çeyiz için aldım ve gerçekten fiyat performans ürünü"
       ],
       "all_reviews": [
         {
-          "text": "kendime aldım şimdide hediye çok güzel bir ürün",
+          "text": "çok güzel çarşaf takımı ben beğendim fiyatları da mükemmel",
           "score": 5.0
+        },
+        {
+          "text": "ürünün paketlenmesi çok güzel bayıldım çeyiz için aldım ve gerçekten fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+          "score": 5.0
+        },
+        {
+          "text": "çeyiz için aldım güzel duruyor",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım malı dokunuşu gayet hoş ve güzel bayıldımmm",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "annem icin almıştım cok begendi gelince bir tanede ablama aldım ikincide sorunsuz ulaştı elime sabah tekrar alım yapacağım komşumuz görmüş iyi satışlar dilerim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 19,
+      "avg_score": 4.58,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 89.5,
+      "negative_pct": 10.5,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel çarşaf takımı ben beğendim fiyatları da mükemmel",
+        "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+        "tereddüt ile aldım ama fiyatına göre mükemmel gönül rahatlığı ile alabilirsiniz çift kişiliği aldım beğendiğim için 3 tane de tek kişilik aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "tereddüt ile aldım ama fiyatına göre mükemmel gönül rahatlığı ile alabilirsiniz çift kişiliği aldım beğendiğim için 3 tane de tek kişilik aldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çarşaf takımı ben beğendim fiyatları da mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel canlı renkler ve kullanışlı yatak odama çok güzel oldu herkese tavsiye ederim almak isteyen gönül rahatlığı ile alabilir",
+          "score": 5.0
+        },
+        {
+          "text": "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim fiyatına göre çok çok kaliteli ayrıca hediyeniz için de teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün paketlenmesi çok güzel bayıldım çeyiz için aldım ve gerçekten fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "severek kullanıyorum 3-4 kez yıkadım yine de renk vs atmadı çok iyiler yorumu güncellıyorum yaklaşık beş aydır kullanıyorum tamamen tıftıklendı rengı gıttı çöp",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Renk Canlı",
+      "review_count": 15,
+      "avg_score": 4.47,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "rengi",
+        "canlı",
+        "renkleri",
+        "yıkadım",
+        "renkleri canlı",
+        "renkler",
+        "dokusu",
+        "aynı"
+      ],
+      "positive_pct": 86.7,
+      "negative_pct": 13.3,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+        "çok güzel canlı renkler ve kullanışlı yatak odama çok güzel oldu herkese tavsiye ederim almak isteyen gönül rahatlığı ile alabilir",
+        "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel canlı renkler ve kullanışlı yatak odama çok güzel oldu herkese tavsiye ederim almak isteyen gönül rahatlığı ile alabilir",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "yatağıma tam geldi rengide güzel alabilirsiniz bence kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "severek kullanıyorum 3-4 kez yıkadım yine de renk vs atmadı çok iyiler yorumu güncellıyorum yaklaşık beş aydır kullanıyorum tamamen tıftıklendı rengı gıttı çöp",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 15,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çeyizime aldım malı dokunuşu gayet hoş ve güzel bayıldımmm",
+        "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+        "kiz kardeşim almıştı çok beğendim bende hemen sipariş verdim paketlenmesi gayet güzel çok da hızlı ulaştı elime tesekurler"
+      ],
+      "all_reviews": [
+        {
+          "text": "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kiz kardeşim almıştı çok beğendim bende hemen sipariş verdim paketlenmesi gayet güzel çok da hızlı ulaştı elime tesekurler",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün paketlenmesi çok güzel bayıldım çeyiz için aldım ve gerçekten fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim fiyatına göre çok çok kaliteli ayrıca hediyeniz için de teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım malı dokunuşu gayet hoş ve güzel bayıldımmm",
+          "score": 5.0
+        },
+        {
+          "text": "yatağıma tam geldi rengide güzel alabilirsiniz bence kaliteli",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik & Alma",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çeyizime",
+        "çift kişilik",
+        "kişilik",
+        "almayı",
+        "almayı düşünüyorum",
+        "düşünüyorum",
+        "çift",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel tek kişilik olanı almıştım yatağımı değiştirdim çift kişilikte çok güzel teşekkür ederim",
+        "tereddüt ile aldım ama fiyatına göre mükemmel gönül rahatlığı ile alabilirsiniz çift kişiliği aldım beğendiğim için 3 tane de tek kişilik aldım",
+        "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika"
+      ],
+      "all_reviews": [
+        {
+          "text": "tereddüt ile aldım ama fiyatına göre mükemmel gönül rahatlığı ile alabilirsiniz çift kişiliği aldım beğendiğim için 3 tane de tek kişilik aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel canlı renkler ve kullanışlı yatak odama çok güzel oldu herkese tavsiye ederim almak isteyen gönül rahatlığı ile alabilir",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım malı dokunuşu gayet hoş ve güzel bayıldımmm",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel tek kişilik olanı almıştım yatağımı değiştirdim çift kişilikte çok güzel teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 10,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+        "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+        "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "yatağıma tam geldi rengide güzel alabilirsiniz bence kaliteli",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+        "çok güzel canlı renkler ve kullanışlı yatak odama çok güzel oldu herkese tavsiye ederim almak isteyen gönül rahatlığı ile alabilir",
+        "çok güzel çarşaf takımı ben beğendim fiyatları da mükemmel"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel çarşaf takımı ben beğendim fiyatları da mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel canlı renkler ve kullanışlı yatak odama çok güzel oldu herkese tavsiye ederim almak isteyen gönül rahatlığı ile alabilir",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Kalite",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+        "çok beğendim fiyatına göre çok çok kaliteli ayrıca hediyeniz için de teşekkür ederim",
+        "yatağıma tam geldi rengide güzel alabilirsiniz bence kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "cook güzel dört parça yastık çarşaf hepsi var indirimde aldim kumaşı kalitesi çok güzel henüz yikanmadi rengi atmazsa on numara beş yıldız herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim fiyatına göre çok çok kaliteli ayrıca hediyeniz için de teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım malı dokunuşu gayet hoş ve güzel bayıldımmm",
+          "score": 5.0
+        },
+        {
+          "text": "yatağıma tam geldi rengide güzel alabilirsiniz bence kaliteli",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 7,
+      "avg_score": 3.86,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 71.4,
+      "negative_pct": 28.6,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum",
+        "severek kullanıyorum 3-4 kez yıkadım yine de renk vs atmadı çok iyiler yorumu güncellıyorum yaklaşık beş aydır kullanıyorum tamamen tıftıklendı rengı gıttı çöp",
+        "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün beklediğimden çok daha iyi çıktı çok beğendim teşekkürler başka renklerimizde almayo düşünüyorum lastikli çarşafı keten ve harika",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim duruşu şahane yıkadım ve rengi solmadi emeği geçen herkese teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "severek kullanıyorum 3-4 kez yıkadım yine de renk vs atmadı çok iyiler yorumu güncellıyorum yaklaşık beş aydır kullanıyorum tamamen tıftıklendı rengı gıttı çöp",
+          "score": 1.0
         }
       ],
       "icon": "💬"

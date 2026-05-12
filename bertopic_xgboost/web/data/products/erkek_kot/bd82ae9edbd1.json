@@ -8,7 +8,7 @@
   "overall_score": 4.9,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**OneZero Erkek Lycralı Kot Pantolon Tırnaklı Dar Kesim S** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: Tam oturdu bedeni fiyat performans ürünü.\n• **Kalite & Alınabilir**: Nişanlıma aldım çok beğendi ve çok yakıştı kalitesi mükemmel.\n• **Kalite & Kalıb**: Nişanlıma aldım çok beğendi ve çok yakıştı kalitesi mükemmel.\n• **Kalite & Fiyat**: Tam oturdu bedeni fiyat performans ürünü.\n• **Kalıp**: Kendi bedeninizi alin tam kalip.",
+  "summary": "\"Genel Değerlendirme Özeti: OneZero Erkek Lycralı Kot Pantolon Tırnaklı Dar Kesim S ürününün genel memnuniyet puanı 4,9/5,0'dir. Ürünün fiyat performansı ve kalitesi, alınan ürününe göre mükemmel bir performans sergiliyor. Müşteriler, ürünün kalitesi, alınabilirliği ve kalıbına da tam olarak onay veriyorlar. Sadece birkaç müşterinin kalıp puanını biraz düşük bulduklarını kaydedelim.Overall, ürün genel memnuniyet oranında yüksek puan alıyor.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 36,
-      "avg_score": 4.86,
+      "review_count": 41,
+      "avg_score": 4.88,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,13 +33,105 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 86.1,
+      "positive_pct": 87.8,
       "negative_pct": 0.0,
-      "neutral_pct": 13.9,
+      "neutral_pct": 12.2,
       "sample_reviews": [
         "bedeninize göre alın tam oluyor boy 1.80 kilo 105 38 beden tam oldu daraltmaye ve kısaltmaya hiç gerek yok kaliteside çok iyi",
         "tam oturdu bedeni fiyat performans ürünü",
         "ürün çok iyi tam bedenime göre geldi kaliteli ve rengide çok iyi burdan onezero ya ve trendyola teşekkürlerimi iletiyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "kendi bedeninizi alın çok rahat ve çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "tam oturdu bedeni fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "nişanlıma aldım çok beğendi ve çok yakıştı kalitesi mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel ve kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli güzel tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "güzel kaliteli ürün tavsiye ederim 36 tam beden 183.86 kilo",
+          "score": 5.0
+        },
+        {
+          "text": "tam bedeninizi alın güzel ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün bedeni de burada kumaşı da bence 5 yıldızlı tır almak isteyenlere tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "elinize sağlık hızlı ve güvenilir bedenler tam uyumlu bol kazanclar",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalıp tam beden",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok iyi tam bedenime göre geldi kaliteli ve rengide çok iyi burdan onezero ya ve trendyola teşekkürlerimi iletiyorum",
+          "score": 5.0
+        },
+        {
+          "text": "kendi bedeninizi alin tam kalip",
+          "score": 5.0
+        },
+        {
+          "text": "bedeninize göre alın tam oluyor boy 1.80 kilo 105 38 beden tam oldu daraltmaye ve kısaltmaya hiç gerek yok kaliteside çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "tam bedeninizi alın ürün süper",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre çok iyi bedeninizi alin",
+          "score": 4.0
+        },
+        {
+          "text": "gorseldekinin aynısı geldi paketleme ve kargo mükemmel artı kendi bedeninizi alın",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 26,
+      "avg_score": 4.92,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 92.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 7.7,
+      "sample_reviews": [
+        "bedeninize göre alın tam oluyor boy 1.80 kilo 105 38 beden tam oldu daraltmaye ve kısaltmaya hiç gerek yok kaliteside çok iyi",
+        "ürün çok iyi tam bedenime göre geldi kaliteli ve rengide çok iyi burdan onezero ya ve trendyola teşekkürlerimi iletiyorum",
+        "ürünün bedeni de burada kumaşı da bence 5 yıldızlı tır almak isteyenlere tavsiye ederim"
       ],
       "all_reviews": [
         {
@@ -55,19 +147,11 @@
           "score": 5.0
         },
         {
-          "text": "tam bedeninizi alın ürün süper",
+          "text": "nişanlıma aldım çok beğendi ve çok yakıştı kalitesi mükemmel",
           "score": 5.0
         },
         {
           "text": "bedeninize göre alın tam oluyor boy 1.80 kilo 105 38 beden tam oldu daraltmaye ve kısaltmaya hiç gerek yok kaliteside çok iyi",
-          "score": 5.0
-        },
-        {
-          "text": "kendi bedeninizi alin tam kalip",
-          "score": 5.0
-        },
-        {
-          "text": "tam kalıp tam beden",
           "score": 5.0
         },
         {
@@ -79,20 +163,12 @@
           "score": 5.0
         },
         {
-          "text": "tam bedeninizi alın güzel ürün",
-          "score": 5.0
-        },
-        {
           "text": "güzel kaliteli ürün tavsiye ederim 36 tam beden 183.86 kilo",
           "score": 5.0
         },
         {
           "text": "kaliteli güzel tavsiye ediyorum",
           "score": 5.0
-        },
-        {
-          "text": "gorseldekinin aynısı geldi paketleme ve kargo mükemmel artı kendi bedeninizi alın",
-          "score": 4.0
         },
         {
           "text": "fiyatına göre çok iyi bedeninizi alin",
@@ -103,7 +179,7 @@
     },
     {
       "name": "Kalite & Alınabilir",
-      "review_count": 19,
+      "review_count": 22,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -128,6 +204,10 @@
       "all_reviews": [
         {
           "text": "kendi bedeninizi alın çok rahat ve çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok iyi tam bedenime göre geldi kaliteli ve rengide çok iyi burdan onezero ya ve trendyola teşekkürlerimi iletiyorum",
           "score": 5.0
         },
         {
@@ -159,7 +239,7 @@
     },
     {
       "name": "Kalite & Kalıb",
-      "review_count": 17,
+      "review_count": 20,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -179,11 +259,15 @@
       "sample_reviews": [
         "bedeninize göre alın tam oluyor boy 1.80 kilo 105 38 beden tam oldu daraltmaye ve kısaltmaya hiç gerek yok kaliteside çok iyi",
         "nişanlıma aldım çok beğendi ve çok yakıştı kalitesi mükemmel",
-        "güzel kaliteli ürün tavsiye ederim 36 tam beden 183.86 kilo"
+        "ürün çok iyi tam bedenime göre geldi kaliteli ve rengide çok iyi burdan onezero ya ve trendyola teşekkürlerimi iletiyorum"
       ],
       "all_reviews": [
         {
           "text": "kendi bedeninizi alın çok rahat ve çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok iyi tam bedenime göre geldi kaliteli ve rengide çok iyi burdan onezero ya ve trendyola teşekkürlerimi iletiyorum",
           "score": 5.0
         },
         {
@@ -210,61 +294,9 @@
       "icon": "💬"
     },
     {
-      "name": "Kalite & Fiyat",
-      "review_count": 15,
-      "avg_score": 4.87,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "düşünüyorum",
-        "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
-      ],
-      "positive_pct": 86.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 13.3,
-      "sample_reviews": [
-        "güzel kaliteli ürün tavsiye ederim 36 tam beden 183.86 kilo",
-        "kendi bedeninizi alın çok rahat ve çok kaliteli",
-        "tam oturdu bedeni fiyat performans ürünü"
-      ],
-      "all_reviews": [
-        {
-          "text": "kendi bedeninizi alın çok rahat ve çok kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "gayet güzel ve kaliteli bir ürün",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli güzel tavsiye ediyorum",
-          "score": 5.0
-        },
-        {
-          "text": "güzel kaliteli ürün tavsiye ederim 36 tam beden 183.86 kilo",
-          "score": 5.0
-        },
-        {
-          "text": "tam oturdu bedeni fiyat performans ürünü",
-          "score": 5.0
-        },
-        {
-          "text": "fiyatına göre çok iyi bedeninizi alin",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Kalıp",
-      "review_count": 9,
-      "avg_score": 4.78,
+      "review_count": 12,
+      "avg_score": 4.58,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -277,13 +309,13 @@
         "kocama",
         "birebir"
       ],
-      "positive_pct": 77.8,
+      "positive_pct": 58.3,
       "negative_pct": 0.0,
-      "neutral_pct": 22.2,
+      "neutral_pct": 41.7,
       "sample_reviews": [
+        "gorseldekinin aynısı geldi paketleme ve kargo mükemmel artı kendi bedeninizi alın",
         "fiyatına göre çok iyi bedeninizi alin",
-        "kendi bedeninizi alin tam kalip",
-        "çok güzel istediğim gibi rahat"
+        "kendi bedeninizi alin tam kalip"
       ],
       "all_reviews": [
         {
@@ -297,6 +329,10 @@
         {
           "text": "tam kalıp tam beden",
           "score": 5.0
+        },
+        {
+          "text": "gorseldekinin aynısı geldi paketleme ve kargo mükemmel artı kendi bedeninizi alın",
+          "score": 4.0
         },
         {
           "text": "fiyatına göre çok iyi bedeninizi alin",
@@ -375,6 +411,38 @@
         },
         {
           "text": "ürünün bedeni de burada kumaşı da bence 5 yıldızlı tır almak isteyenlere tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Siyah",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "siyah",
+        "yumuşacık",
+        "alınmalı",
+        "rengi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün çok iyi tam bedenime göre geldi kaliteli ve rengide çok iyi burdan onezero ya ve trendyola teşekkürlerimi iletiyorum",
+        "eşime hediye aldım tek kelime ile bayıldık ürün yumuşacık esnek"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün çok iyi tam bedenime göre geldi kaliteli ve rengide çok iyi burdan onezero ya ve trendyola teşekkürlerimi iletiyorum",
+          "score": 5.0
+        },
+        {
+          "text": "eşime hediye aldım tek kelime ile bayıldık ürün yumuşacık esnek",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Schafer Thermochef Dual Dijital Airfryer/Sıcak Hava Fri** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **ideal** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme ve…\"\n• **Fiyatı Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **fiyat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok kullanışlı ve kaliteli bir ürün fiyatı da gayet uygun kargo hızlı ve sorunsuz bir…\"\n• Kullanıcılar **Ideal** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **diyebilirim** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim sağkolum oldu resmen çift taraflı olması çok güzel\"\n• **Patates & Tavuk** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **vardı** ve **karaca** başta olmak üzere. Örnek kullanıcı ifadesi: \"Almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dö…\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kaliteli** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Tavuk haşladım lokum gibi oldu buharı ile patates bu şekilde kızardı sadece yağın lez…\"",
+  "summary": "Schafer Thermochef Dual Dijital Airfryer/Sıcak Hava Fri, kullanıcılarının neredeyse tamamına yakın olumlu yorumlara sahiptir. Ürünün en öne çıkan özellikleri arasında diyebilirim, özellikle, kişilik/fiyat performansı ve paketleme olmak üzere dört alt özelliğe sahiptir. Kullanıcılar, bu ürünün kalitesi ve fiyatına karşı yaptığı performansdan yüksek puan almaktadır. Ürünün sıkıntısı ise neredeyse hiç olmamıştır, kullanıcıların %97'si ürün ile ilgili herhangi bir problem yaşamamıştır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,84 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 16,
-      "avg_score": 4.81,
+      "name": "Diyebilirim",
+      "review_count": 18,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
-        "anneler",
-        "kaliteli"
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
       ],
-      "positive_pct": 81.2,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 18.8,
+      "neutral_pct": 0.0,
       "sample_reviews": [
         "çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme verdim indirime düşmüş üç buçuk olmuş tekrardan sipariş verdim haznesi beş kişilk aile için ideal bence çok memnunum scheaferın zaten tüm elektrikli mutfak aletlerinin aldım kullanıyorum bu konuda güvendiğim bir marka ve airfray çok kullanışlı her şey çok güzel ve lezzetli oluyor iyiki almışım dedirtti",
-        "anneme hediye aldım çok güzel kalabalık bir aile için ideal buyuklukde",
-        "ürünü tavsiye üzerıne aldım kalabalık bır aile isenız 8 lt olması avantaj tek saferde 2 porsıyonluk yıyecek masada hazır kullanımı da oldukca kolaymış"
+        "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
+        "ürünü yorumlardan okuduğum kadarıyla memnun olmayan yok daha kullanmaya başlamadık bugün 2 günü ama kargolamada muhteşem oldukları için birde trendyol 2 yıllık ilave garanti aldığımdan ötürü ve haliyle schafer kalitesini de düşünürsek bir ufacık şüphem oluşmadı"
+      ],
+      "all_reviews": [
+        {
+          "text": "çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme verdim indirime düşmüş üç buçuk olmuş tekrardan sipariş verdim haznesi beş kişilk aile için ideal bence çok memnunum scheaferın zaten tüm elektrikli mutfak aletlerinin aldım kullanıyorum bu konuda güvendiğim bir marka ve airfray çok kullanışlı her şey çok güzel ve lezzetli oluyor iyiki almışım dedirtti",
+          "score": 5.0
+        },
+        {
+          "text": "çok kullanışlı ve kaliteli bir ürün fiyatı da gayet uygun kargo hızlı ve sorunsuz bir şekilde elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü yorumlardan okuduğum kadarıyla memnun olmayan yok daha kullanmaya başlamadık bugün 2 günü ama kargolamada muhteşem oldukları için birde trendyol 2 yıllık ilave garanti aldığımdan ötürü ve haliyle schafer kalitesini de düşünürsek bir ufacık şüphem oluşmadı",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+          "score": 5.0
+        },
+        {
+          "text": "tavuk haşladım lokum gibi oldu buharı ile patates bu şekilde kızardı sadece yağın lezzetine alışınca çok yağsız geldi ama sağlıklı olan bu ben zamanla bu lezzete alışacağıma inanıyorum teşekkürler schafer teşekkürler trendyol",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü tavsiye üzerıne aldım kalabalık bır aile isenız 8 lt olması avantaj tek saferde 2 porsıyonluk yıyecek masada hazır kullanımı da oldukca kolaymış",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellikle",
+      "review_count": 18,
+      "avg_score": 4.83,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "özellikle",
+        "evde",
+        "anneler",
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
+      ],
+      "positive_pct": 83.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 16.7,
+      "sample_reviews": [
+        "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
+        "kalitesi belli bir ürün görüntüsü de çok hoş bence gayet iyi elektrik sarfiyatı da çok düşük yemekleri çoğunlukla bunda yapıyoruz gelen fatura 150-200'tl yi geçmiyor ben çok memnunum",
+        "anneler günü hediyesi idi göründüğünden daha büyükmüş çok iyi bir alışveriş oldu teşekkürler"
       ],
       "all_reviews": [
         {
@@ -51,15 +107,19 @@
           "score": 5.0
         },
         {
-          "text": "ürünü tavsiye üzerıne aldım kalabalık bır aile isenız 8 lt olması avantaj tek saferde 2 porsıyonluk yıyecek masada hazır kullanımı da oldukca kolaymış",
+          "text": "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
           "score": 5.0
         },
         {
-          "text": "güzel anneme hediye aldım severek kullanıyor",
+          "text": "kalitesi belli bir ürün görüntüsü de çok hoş bence gayet iyi elektrik sarfiyatı da çok düşük yemekleri çoğunlukla bunda yapıyoruz gelen fatura 150-200'tl yi geçmiyor ben çok memnunum",
           "score": 5.0
         },
         {
           "text": "anneler günü hediyesi idi göründüğünden daha büyükmüş çok iyi bir alışveriş oldu teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "güzel anneme hediye aldım severek kullanıyor",
           "score": 5.0
         },
         {
@@ -70,115 +130,28 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 12,
+      "name": "Kişilik / Fiyat Performans",
+      "review_count": 17,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
-        "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok kullanışlı ve kaliteli bir ürün fiyatı da gayet uygun kargo hızlı ve sorunsuz bir şekilde elime ulaştı teşekkürler",
-        "ürünü yorumlardan okuduğum kadarıyla memnun olmayan yok daha kullanmaya başlamadık bugün 2 günü ama kargolamada muhteşem oldukları için birde trendyol 2 yıllık ilave garanti aldığımdan ötürü ve haliyle schafer kalitesini de düşünürsek bir ufacık şüphem oluşmadı",
-        "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok kullanışlı ve kaliteli bir ürün fiyatı da gayet uygun kargo hızlı ve sorunsuz bir şekilde elime ulaştı teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
-          "score": 5.0
-        },
-        {
-          "text": "çokkk güzel bu kadar beklemiyordum gerçekten çok büyük ben çeyizim için aldım çok memnun kaldım tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "ürünü yorumlardan okuduğum kadarıyla memnun olmayan yok daha kullanmaya başlamadık bugün 2 günü ama kargolamada muhteşem oldukları için birde trendyol 2 yıllık ilave garanti aldığımdan ötürü ve haliyle schafer kalitesini de düşünürsek bir ufacık şüphem oluşmadı",
-          "score": 5.0
-        },
-        {
-          "text": "ceyiz için aldm kulanisili daha kulanmadim ama gorunusj bile çok guzl",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Ideal",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "diyebilirim",
-        "yorum",
-        "sorunsuz",
-        "şimdilik",
-        "severek",
-        "sağlam",
-        "kolay",
-        "paketlemesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kutu sağlam geldi ikinci defa aldım çok guzel",
-        "çok beğendim sağkolum oldu resmen çift taraflı olması çok güzel",
-        "her eve lazım harika"
-      ],
-      "all_reviews": [
-        {
-          "text": "kutu sağlam geldi ikinci defa aldım çok guzel",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim sağkolum oldu resmen çift taraflı olması çok güzel",
-          "score": 5.0
-        },
-        {
-          "text": "her eve lazım harika",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Patates & Tavuk",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "pişiriyor",
-        "yaptım",
-        "patates",
-        "denedim",
-        "tavuk",
-        "vardı",
-        "karaca",
-        "lezzetli"
+        "aile",
+        "aldık",
+        "kişilik",
+        "ideal",
+        "kişilik aile",
+        "anneler",
+        "aydır",
+        "sorunsuz"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
-        "çok beğendim pişirmeside çok güzel teşekkürler paketlemeside gayet sağlamdı çeyizim için aldım çok memnun kaldık"
+        "çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme verdim indirime düşmüş üç buçuk olmuş tekrardan sipariş verdim haznesi beş kişilk aile için ideal bence çok memnunum scheaferın zaten tüm elektrikli mutfak aletlerinin aldım kullanıyorum bu konuda güvendiğim bir marka ve airfray çok kullanışlı her şey çok güzel ve lezzetli oluyor iyiki almışım dedirtti",
+        "anneme hediye aldım çok güzel kalabalık bir aile için ideal buyuklukde"
       ],
       "all_reviews": [
         {
@@ -188,13 +161,161 @@
         {
           "text": "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
           "score": 5.0
+        },
+        {
+          "text": "anneme hediye aldım çok güzel kalabalık bir aile için ideal buyuklukde",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme verdim indirime düşmüş üç buçuk olmuş tekrardan sipariş verdim haznesi beş kişilk aile için ideal bence çok memnunum scheaferın zaten tüm elektrikli mutfak aletlerinin aldım kullanıyorum bu konuda güvendiğim bir marka ve airfray çok kullanışlı her şey çok güzel ve lezzetli oluyor iyiki almışım dedirtti",
+          "score": 5.0
+        },
+        {
+          "text": "teyzeme aldık bayıldı",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü tavsiye üzerıne aldım kalabalık bır aile isenız 8 lt olması avantaj tek saferde 2 porsıyonluk yıyecek masada hazır kullanımı da oldukca kolaymış",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 11,
+      "avg_score": 4.73,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "defa",
+        "görünüyor",
+        "denemedim",
+        "kullanıyoruz",
+        "paketlemesi",
+        "hasarsız",
+        "sorunsuz",
+        "çeyiz"
+      ],
+      "positive_pct": 72.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 27.3,
+      "sample_reviews": [
+        "çok beğendim pişirmeside çok güzel teşekkürler paketlemeside gayet sağlamdı çeyizim için aldım çok memnun kaldık",
+        "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+        "kutu sağlam geldi ikinci defa aldım çok guzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok beğendim pişirmeside çok güzel teşekkürler paketlemeside gayet sağlamdı çeyizim için aldım çok memnun kaldık",
+          "score": 5.0
+        },
+        {
+          "text": "kutu sağlam geldi ikinci defa aldım çok guzel",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+          "score": 5.0
+        },
+        {
+          "text": "anneme almıştık henüz deneme fırsatı olmadı ama paketleme özenliymiş",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıkınt",
+      "review_count": 10,
+      "avg_score": 4.7,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
+      ],
+      "positive_pct": 70.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 30.0,
+      "sample_reviews": [
+        "çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme verdim indirime düşmüş üç buçuk olmuş tekrardan sipariş verdim haznesi beş kişilk aile için ideal bence çok memnunum scheaferın zaten tüm elektrikli mutfak aletlerinin aldım kullanıyorum bu konuda güvendiğim bir marka ve airfray çok kullanışlı her şey çok güzel ve lezzetli oluyor iyiki almışım dedirtti",
+        "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+        "anneme almıştık henüz deneme fırsatı olmadı ama paketleme özenliymiş"
+      ],
+      "all_reviews": [
+        {
+          "text": "çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme verdim indirime düşmüş üç buçuk olmuş tekrardan sipariş verdim haznesi beş kişilk aile için ideal bence çok memnunum scheaferın zaten tüm elektrikli mutfak aletlerinin aldım kullanıyorum bu konuda güvendiğim bir marka ve airfray çok kullanışlı her şey çok güzel ve lezzetli oluyor iyiki almışım dedirtti",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel kargoda da bir sıkıntı yaşamadım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "anneme almıştık henüz deneme fırsatı olmadı ama paketleme özenliymiş",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çeyiz",
+      "review_count": 10,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme verdim indirime düşmüş üç buçuk olmuş tekrardan sipariş verdim haznesi beş kişilk aile için ideal bence çok memnunum scheaferın zaten tüm elektrikli mutfak aletlerinin aldım kullanıyorum bu konuda güvendiğim bir marka ve airfray çok kullanışlı her şey çok güzel ve lezzetli oluyor iyiki almışım dedirtti",
+        "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+        "çok beğendim pişirmeside çok güzel teşekkürler paketlemeside gayet sağlamdı çeyizim için aldım çok memnun kaldık"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok beğendim pişirmeside çok güzel teşekkürler paketlemeside gayet sağlamdı çeyizim için aldım çok memnun kaldık",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime almıştım dört bin tlye denemek için açınca annem çok beğendi bende anneme verdim indirime düşmüş üç buçuk olmuş tekrardan sipariş verdim haznesi beş kişilk aile için ideal bence çok memnunum scheaferın zaten tüm elektrikli mutfak aletlerinin aldım kullanıyorum bu konuda güvendiğim bir marka ve airfray çok kullanışlı her şey çok güzel ve lezzetli oluyor iyiki almışım dedirtti",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+          "score": 5.0
+        },
+        {
+          "text": "çokkk güzel bu kadar beklemiyordum gerçekten çok büyük ben çeyizim için aldım çok memnun kaldım tavsiye ederim",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 4,
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -202,22 +323,27 @@
         "fiyat performans",
         "performans",
         "fiyat",
-        "kaliteli",
         "rahatlığıyla",
         "çıtır",
         "pratik",
-        "yağsız"
+        "yağsız",
+        "çıtır çıtır"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "tavuk haşladım lokum gibi oldu buharı ile patates bu şekilde kızardı sadece yağın lezzetine alışınca çok yağsız geldi ama sağlıklı olan bu ben zamanla bu lezzete alışacağıma inanıyorum teşekkürler schafer teşekkürler trendyol",
-        "kalitesi belli bir ürün görüntüsü de çok hoş bence gayet iyi elektrik sarfiyatı da çok düşük yemekleri çoğunlukla bunda yapıyoruz gelen fatura 150-200'tl yi geçmiyor ben çok memnunum"
+        "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
+        "kalitesi belli bir ürün görüntüsü de çok hoş bence gayet iyi elektrik sarfiyatı da çok düşük yemekleri çoğunlukla bunda yapıyoruz gelen fatura 150-200'tl yi geçmiyor ben çok memnunum",
+        "çok kullanışlı ve kaliteli bir ürün fiyatı da gayet uygun kargo hızlı ve sorunsuz bir şekilde elime ulaştı teşekkürler"
       ],
       "all_reviews": [
         {
-          "text": "tavuk haşladım lokum gibi oldu buharı ile patates bu şekilde kızardı sadece yağın lezzetine alışınca çok yağsız geldi ama sağlıklı olan bu ben zamanla bu lezzete alışacağıma inanıyorum teşekkürler schafer teşekkürler trendyol",
+          "text": "çok kullanışlı ve kaliteli bir ürün fiyatı da gayet uygun kargo hızlı ve sorunsuz bir şekilde elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
           "score": 5.0
         },
         {
@@ -228,35 +354,110 @@
       "icon": "💬"
     },
     {
-      "name": "Sıkıntı & Deneme",
-      "review_count": 4,
+      "name": "Patates",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "gerek",
-        "sıkıntı",
-        "uzun süre",
-        "süre",
+        "patates",
+        "fakat",
+        "denedim",
+        "hacmi",
         "yaptık",
-        "deneme",
-        "aydır",
-        "kızartma"
+        "almışım",
+        "rengi",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün güzel kargoda da bir sıkıntı yaşamadım tavsiye ederim",
-        "teyzeme aldık bayıldı"
+        "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
+        "tavuk haşladım lokum gibi oldu buharı ile patates bu şekilde kızardı sadece yağın lezzetine alışınca çok yağsız geldi ama sağlıklı olan bu ben zamanla bu lezzete alışacağıma inanıyorum teşekkürler schafer teşekkürler trendyol",
+        "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir"
       ],
       "all_reviews": [
         {
-          "text": "teyzeme aldık bayıldı",
+          "text": "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
           "score": 5.0
         },
         {
-          "text": "ürün güzel kargoda da bir sıkıntı yaşamadım tavsiye ederim",
+          "text": "tavuk haşladım lokum gibi oldu buharı ile patates bu şekilde kızardı sadece yağın lezzetine alışınca çok yağsız geldi ama sağlıklı olan bu ben zamanla bu lezzete alışacağıma inanıyorum teşekkürler schafer teşekkürler trendyol",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Patates & Tavuk",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "pişiriyor",
+        "yaptım",
+        "denedim",
+        "patates",
+        "tavuk",
+        "vardı",
+        "karaca",
+        "lezzetli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
+        "tavuk haşladım lokum gibi oldu buharı ile patates bu şekilde kızardı sadece yağın lezzetine alışınca çok yağsız geldi ama sağlıklı olan bu ben zamanla bu lezzete alışacağıma inanıyorum teşekkürler schafer teşekkürler trendyol"
+      ],
+      "all_reviews": [
+        {
+          "text": "almadan önce tereddütlerim vardı ama gerçekten büyük kolaylık mutfak savaş alanına dönmüyor evi saran duman koku yağ sıçraması tarih oldu fırında yemek yaparken çıkan kadar bir koku ilk olarak et ve bebek patates yaptım süper oldu hem de 20 dakikada bizim gibi az kişilik aileler için çok iyi umarım diğer yemeklerde de bu performansı alırım",
+          "score": 5.0
+        },
+        {
+          "text": "tavuk haşladım lokum gibi oldu buharı ile patates bu şekilde kızardı sadece yağın lezzetine alışınca çok yağsız geldi ama sağlıklı olan bu ben zamanla bu lezzete alışacağıma inanıyorum teşekkürler schafer teşekkürler trendyol",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Köfte",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "elim",
+        "köfte",
+        "kullanmak",
+        "börek",
+        "para gerek",
+        "tavuk",
+        "markalara",
+        "yemekler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
+        "çok kullanışlı ve kaliteli bir ürün fiyatı da gayet uygun kargo hızlı ve sorunsuz bir şekilde elime ulaştı teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok kullanışlı ve kaliteli bir ürün fiyatı da gayet uygun kargo hızlı ve sorunsuz bir şekilde elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım daha denemedim fakat çok kaliteli ve çok şık ama zaten bu marka çok iyi daha önce 3litreligini kullandım ve coook memnunum elim ayağım oldu fakat küçük olduğu için bunu aldim eminimki buda çok iyidir",
           "score": 5.0
         }
       ],

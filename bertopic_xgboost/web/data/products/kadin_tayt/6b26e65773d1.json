@@ -8,7 +8,7 @@
   "overall_score": 4.9,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Los Ojos Kadın Siyah Yüksek Bel Toparlayıcı Çift Cepli ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **olmasına** ve **rağmen** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kumaşı çok güzel parlak biraz benim boyum 158 kilom 70 l beden tam oldu\"\n• **Kaliteli Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **toparlayıcı** ve **bedeni** başta olmak üzere. Örnek kullanıcı ifadesi: \"Aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiy…\"\n• Kullanıcılar **Duruşu & Kalitesi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **göründüğü** ve **sardı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor\"\n• **Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **fiyata** ve **efsane** başta olmak üzere. Örnek kullanıcı ifadesi: \"Muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40…\"\n• Müşteri yorumlarında **Kalıp Rahat** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **esnek** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"72 168 m beden aldım çok güzel kavradı\"",
+  "summary": "Los Ojos Kadın Siyah Yüksek Bel Toparlayıcı Çift Cepli ürünü, müşterilerin neredeyse tamamının beğenisini kazandı. Ürün, beden ve toparlayıcını pozitif olarak değerlendi, 38 yorumun 95'i yüzde 4.95'lik ortalama puan ile onayladı. Kumaş ve farkl renk de benzer şekilde beğenildi. Ayrıca ürünün duruş ve kalitesine, ürün itselfe ve kalıbına da neredeyse tam bir onay geldi. Sadece kalıp kısmında biraz daha düşük puanlar görüldü, ancak yine de yüzde 4.29'luk ortalama puan ile müşterilerin çoğunun onayını kazandı.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Rahat",
-      "review_count": 24,
-      "avg_score": 4.92,
+      "name": "Toparlayıc & Beden",
+      "review_count": 38,
+      "avg_score": 4.95,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kilo",
-        "kilo rahat",
-        "asla",
-        "olmasına",
-        "rağmen",
-        "fiyat performans",
-        "performans",
-        "rahat rahat"
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
       ],
-      "positive_pct": 91.7,
+      "positive_pct": 94.7,
       "negative_pct": 0.0,
-      "neutral_pct": 8.3,
+      "neutral_pct": 5.3,
       "sample_reviews": [
-        "tek kelime ile harika mutlaka alın 1.58 boy 62 kiloyum ve s beden bile çok rahat oldu rahat bir kumaş",
-        "kumaşı çok güzel parlak biraz benim boyum 158 kilom 70 l beden tam oldu",
-        "hızlı ve güzel paketlemeyle geldi 1.71 boy 82 kilo için çok aldım"
+        "xl aldım çok rahat oldu l alsaydım daha toparlayıcı olurdu şimdi l bedeni de sipariş edeceğim ürün kaliteli ve kullanışlı",
+        "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor",
+        "mukemmel bedenimi aldim cok iyi oldu 1 beden kucuk alinirsa da olabilir 170 cm 61 kg m iyi oldu"
       ],
       "all_reviews": [
         {
@@ -47,19 +47,23 @@
           "score": 5.0
         },
         {
-          "text": "160 67 kg m beden aldım tam oldu çok rahat",
+          "text": "inanılmaz beğendim toparlayıcı özelliği var m beden aldım",
           "score": 5.0
         },
         {
-          "text": "160 kg 60 kg m aldım tam oldu çok rahat sporda giyorum çok rahat",
+          "text": "xl aldım çok rahat oldu l alsaydım daha toparlayıcı olurdu şimdi l bedeni de sipariş edeceğim ürün kaliteli ve kullanışlı",
           "score": 5.0
         },
         {
-          "text": "m beden aldım boy 160 kilo 59 tam oldu teşekkür ederim",
+          "text": "mukemmel bedenimi aldim cok iyi oldu 1 beden kucuk alinirsa da olabilir 170 cm 61 kg m iyi oldu",
           "score": 5.0
         },
         {
-          "text": "tek kelime ile harika mutlaka alın 1.58 boy 62 kiloyum ve s beden bile çok rahat oldu rahat bir kumaş",
+          "text": "normalde s veya m beden giyiyorum ama s sipariş verdim ve tam oldu sıkma olmadı",
+          "score": 5.0
+        },
+        {
+          "text": "72 168 m beden aldım çok güzel kavradı",
           "score": 5.0
         },
         {
@@ -67,15 +71,31 @@
           "score": 5.0
         },
         {
-          "text": "hızlı ve güzel paketlemeyle geldi 1.71 boy 82 kilo için çok aldım",
+          "text": "çok güzel esnek bir kumaşı var pantolon gibi bile giyilebilir beden küçültme etkisi var bence 156 boy 64 kg ım m aldım güzel oldu",
           "score": 5.0
         },
         {
-          "text": "bayıldım çok rahat ve pratik 167 boy 67 kg m tam oldu sıkmadı",
+          "text": "tek kelime ile harika mutlaka alın 1.58 boy 62 kiloyum ve s beden bile çok rahat oldu rahat bir kumaş",
           "score": 5.0
         },
         {
-          "text": "mukemmel bedenimi aldim cok iyi oldu 1 beden kucuk alinirsa da olabilir 170 cm 61 kg m iyi oldu",
+          "text": "m beden aldım boy 160 kilo 59 tam oldu teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "160 67 kg m beden aldım tam oldu çok rahat",
+          "score": 5.0
+        },
+        {
+          "text": "1.60 58kg s beden aldim cok rahat oldu 65e kadar s rahat olur sizeee",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor",
+          "score": 5.0
+        },
+        {
+          "text": "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz",
           "score": 5.0
         },
         {
@@ -86,30 +106,34 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli Rahat",
-      "review_count": 11,
-      "avg_score": 4.73,
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 38,
+      "avg_score": 4.95,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
+        "kumaşı",
+        "oldum",
         "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
       ],
-      "positive_pct": 72.7,
+      "positive_pct": 94.7,
       "negative_pct": 0.0,
-      "neutral_pct": 27.3,
+      "neutral_pct": 5.3,
       "sample_reviews": [
-        "xl aldım çok rahat oldu l alsaydım daha toparlayıcı olurdu şimdi l bedeni de sipariş edeceğim ürün kaliteli ve kullanışlı",
-        "inanılmaz beğendim toparlayıcı özelliği var m beden aldım",
-        "aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiyatıda uygun geldi paketleme de özenliydi"
+        "mukemmel bedenimi aldim cok iyi oldu 1 beden kucuk alinirsa da olabilir 170 cm 61 kg m iyi oldu",
+        "çok güzel esnek bir kumaşı var pantolon gibi bile giyilebilir beden küçültme etkisi var bence 156 boy 64 kg ım m aldım güzel oldu",
+        "xl aldım çok rahat oldu l alsaydım daha toparlayıcı olurdu şimdi l bedeni de sipariş edeceğim ürün kaliteli ve kullanışlı"
       ],
       "all_reviews": [
+        {
+          "text": "çok güzel 1 beden küçük alın 80 kilo l beden tam oldu",
+          "score": 5.0
+        },
         {
           "text": "inanılmaz beğendim toparlayıcı özelliği var m beden aldım",
           "score": 5.0
@@ -119,19 +143,59 @@
           "score": 5.0
         },
         {
-          "text": "aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiyatıda uygun geldi paketleme de özenliydi",
+          "text": "mukemmel bedenimi aldim cok iyi oldu 1 beden kucuk alinirsa da olabilir 170 cm 61 kg m iyi oldu",
           "score": 5.0
         },
         {
-          "text": "ay çok güzel yok gibi bayıldım resmen sadece ben biraz büyük almışım ama önemli değil güzel",
+          "text": "normalde s veya m beden giyiyorum ama s sipariş verdim ve tam oldu sıkma olmadı",
+          "score": 5.0
+        },
+        {
+          "text": "72 168 m beden aldım çok güzel kavradı",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı çok güzel parlak biraz benim boyum 158 kilom 70 l beden tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel esnek bir kumaşı var pantolon gibi bile giyilebilir beden küçültme etkisi var bence 156 boy 64 kg ım m aldım güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelime ile harika mutlaka alın 1.58 boy 62 kiloyum ve s beden bile çok rahat oldu rahat bir kumaş",
+          "score": 5.0
+        },
+        {
+          "text": "m beden aldım boy 160 kilo 59 tam oldu teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "160 67 kg m beden aldım tam oldu çok rahat",
+          "score": 5.0
+        },
+        {
+          "text": "1.60 58kg s beden aldim cok rahat oldu 65e kadar s rahat olur sizeee",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor",
+          "score": 5.0
+        },
+        {
+          "text": "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "cok dar kalıp 1 beden büyük almak daha iyi kalıp cok iyi çok begendım",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Duruşu & Kalitesi",
-      "review_count": 6,
+      "name": "Duruş & Kalite",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -149,43 +213,129 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor",
-        "1.60 58kg s beden aldim cok rahat oldu 65e kadar s rahat olur sizeee"
+        "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz",
+        "xl aldım çok rahat oldu l alsaydım daha toparlayıcı olurdu şimdi l bedeni de sipariş edeceğim ürün kaliteli ve kullanışlı",
+        "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor"
       ],
       "all_reviews": [
         {
-          "text": "1.60 58kg s beden aldim cok rahat oldu 65e kadar s rahat olur sizeee",
+          "text": "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor",
           "score": 5.0
         },
         {
-          "text": "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor",
+          "text": "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "xl aldım çok rahat oldu l alsaydım daha toparlayıcı olurdu şimdi l bedeni de sipariş edeceğim ürün kaliteli ve kullanışlı",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 5,
+      "name": "Ürün",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
-        "fiyat",
-        "efsane",
-        "paketleme",
-        "aldığım",
-        "edebilirsiniz",
-        "diyebilirim",
-        "fiyat performans"
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz",
-        "normalde s veya m beden giyiyorum ama s sipariş verdim ve tam oldu sıkma olmadı"
+        "xl aldım çok rahat oldu l alsaydım daha toparlayıcı olurdu şimdi l bedeni de sipariş edeceğim ürün kaliteli ve kullanışlı",
+        "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel bir ürün kendi bedeninizi almayın bir üst beden alın cuk oturuyor",
+          "score": 5.0
+        },
+        {
+          "text": "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "xl aldım çok rahat oldu l alsaydım daha toparlayıcı olurdu şimdi l bedeni de sipariş edeceğim ürün kaliteli ve kullanışlı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 7,
+      "avg_score": 4.29,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "toparlıyor",
+        "kalıp",
+        "beyendim",
+        "baya",
+        "bayıldım",
+        "efsane",
+        "etek",
+        "olabilir"
+      ],
+      "positive_pct": 28.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 71.4,
+      "sample_reviews": [
+        "ay çok güzel yok gibi bayıldım resmen sadece ben biraz büyük almışım ama önemli değil güzel",
+        "cok dar kalıp 1 beden büyük almak daha iyi kalıp cok iyi çok begendım",
+        "bayıldım çok rahat ve pratik 167 boy 67 kg m tam oldu sıkmadı"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldım çok rahat ve pratik 167 boy 67 kg m tam oldu sıkmadı",
+          "score": 5.0
+        },
+        {
+          "text": "ay çok güzel yok gibi bayıldım resmen sadece ben biraz büyük almışım ama önemli değil güzel",
+          "score": 4.0
+        },
+        {
+          "text": "cok dar kalıp 1 beden büyük almak daha iyi kalıp cok iyi çok begendım",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "efsane",
+        "fiyat",
+        "paketleme",
+        "aldığım",
+        "edebilirsiniz",
+        "diyebilirim",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz",
+        "aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiyatıda uygun geldi paketleme de özenliydi",
+        "hızlı ve güzel paketlemeyle geldi 1.71 boy 82 kilo için çok aldım"
       ],
       "all_reviews": [
         {
@@ -193,45 +343,19 @@
           "score": 5.0
         },
         {
-          "text": "normalde s veya m beden giyiyorum ama s sipariş verdim ve tam oldu sıkma olmadı",
+          "text": "hızlı ve güzel paketlemeyle geldi 1.71 boy 82 kilo için çok aldım",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalıp Rahat",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
-        "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "72 168 m beden aldım çok güzel kavradı"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "72 168 m beden aldım çok güzel kavradı",
+          "text": "aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiyatıda uygun geldi paketleme de özenliydi",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kumaşı",
-      "review_count": 2,
+      "name": "Kumaş",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -241,19 +365,99 @@
         "kumaş",
         "kalıbı",
         "iade",
-        "esnek",
         "bayıldım",
-        "baya"
+        "baya",
+        "almışım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel esnek bir kumaşı var pantolon gibi bile giyilebilir beden küçültme etkisi var bence 156 boy 64 kg ım m aldım güzel oldu"
+        "çok güzel esnek bir kumaşı var pantolon gibi bile giyilebilir beden küçültme etkisi var bence 156 boy 64 kg ım m aldım güzel oldu",
+        "kumaşı çok güzel parlak biraz benim boyum 158 kilom 70 l beden tam oldu",
+        "tek kelime ile harika mutlaka alın 1.58 boy 62 kiloyum ve s beden bile çok rahat oldu rahat bir kumaş"
       ],
       "all_reviews": [
         {
+          "text": "kumaşı çok güzel parlak biraz benim boyum 158 kilom 70 l beden tam oldu",
+          "score": 5.0
+        },
+        {
           "text": "çok güzel esnek bir kumaşı var pantolon gibi bile giyilebilir beden küçültme etkisi var bence 156 boy 64 kg ım m aldım güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelime ile harika mutlaka alın 1.58 boy 62 kiloyum ve s beden bile çok rahat oldu rahat bir kumaş",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Uygun",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
+        "baya",
+        "rağmen"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiyatıda uygun geldi paketleme de özenliydi",
+        "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "muhtemelen üstümden hiç cıkartmayacağım fiyat performans ürünü duruşu cok güzel 38-40 beden l beden cok rahat oldu gönül rahatlığı ile alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiyatıda uygun geldi paketleme de özenliydi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Farkl Renk",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "renkleri",
+        "paketleme özenliydi",
+        "notunuz",
+        "özenliydi",
+        "paketleme",
+        "kalite",
+        "ürünler",
+        "dokusu"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiyatıda uygun geldi paketleme de özenliydi",
+        "hızlı ve güzel paketlemeyle geldi 1.71 boy 82 kilo için çok aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "hızlı ve güzel paketlemeyle geldi 1.71 boy 82 kilo için çok aldım",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı rahat hem evde hem dışarıda kullanmak için aldım bu modelleri çok seviyorum fiyatıda uygun geldi paketleme de özenliydi",
           "score": 5.0
         }
       ],

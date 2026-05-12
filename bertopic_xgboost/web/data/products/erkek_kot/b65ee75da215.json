@@ -8,7 +8,7 @@
   "overall_score": 4.84,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**viking's line Erkek Buz Mavi Baggy Jeans** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: Cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim.\n• **Kalite & Fiyat**: Fiyatına gore cok iyi kardesime aldım begendi.\n• **Kumaş**: Teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı.\n• **Kalite & Alınabilir**: Kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz.\n• **Kalite & Kalıb**: Kalıbı çok büyük ama kalite baya iyi.",
+  "summary": "\"Viking's Line Erkek Buz Mavi Baggy Jeans, beklentileri aşan kalite ve fiyat performansı sunuyor. Ürünün kalitesi, alınabilirliği ve kalıbı büyük oranda beğeni alıyor. Müşteriler, ürünün mükemmel fitini, 5/5 puanla onaylıyor. Fiyatı da, performansına göre 4.71/5.0 puan alıyor. Viking's Line Erkek Buz Mavi Baggy Jeans, genel memnuniyet puanı 4.8/5.0 olarak, alışveriş severlerin dikkatini çekiyor.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 19,
-      "avg_score": 4.84,
+      "review_count": 28,
+      "avg_score": 4.71,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,9 +33,9 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 84.2,
+      "positive_pct": 71.4,
       "negative_pct": 0.0,
-      "neutral_pct": 15.8,
+      "neutral_pct": 28.6,
       "sample_reviews": [
         "cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim",
         "ürün çok güzel çok beğendim ama ben 32 beden giyom biraz geniş oldu ama kemerle cözdüm gerçekten çok güzel çok kaliteli ürün tavsiye ederim",
@@ -63,11 +63,27 @@
           "score": 5.0
         },
         {
+          "text": "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı",
+          "score": 5.0
+        },
+        {
           "text": "ürün çok güzel çok beğendim ama ben 32 beden giyom biraz geniş oldu ama kemerle cözdüm gerçekten çok güzel çok kaliteli ürün tavsiye ederim",
           "score": 5.0
         },
         {
           "text": "kalıbı çok büyük ama kalite baya iyi",
+          "score": 4.0
+        },
+        {
+          "text": "tam beden geldi göründüğü gibi sadece fermuar değil düğmeli bilginize",
+          "score": 4.0
+        },
+        {
+          "text": "ürün güzel sadece beden olarak dar geldiği için değiştirmek zorunda kaldık",
           "score": 4.0
         }
       ],
@@ -75,8 +91,8 @@
     },
     {
       "name": "Kalite & Fiyat",
-      "review_count": 6,
-      "avg_score": 4.5,
+      "review_count": 16,
+      "avg_score": 4.81,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -89,21 +105,218 @@
         "tane",
         "alınabilir"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 81.2,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 18.8,
       "sample_reviews": [
-        "fiyatına gore cok iyi kardesime aldım begendi",
-        "kalıbı çok büyük ama kalite baya iyi"
+        "ürün çok güzel çok beğendim ama ben 32 beden giyom biraz geniş oldu ama kemerle cözdüm gerçekten çok güzel çok kaliteli ürün tavsiye ederim",
+        "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
+        "cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim"
       ],
       "all_reviews": [
+        {
+          "text": "cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim",
+          "score": 5.0
+        },
         {
           "text": "fiyatına gore cok iyi kardesime aldım begendi",
           "score": 5.0
         },
         {
+          "text": "ürün çok güzel çok beğendim ama ben 32 beden giyom biraz geniş oldu ama kemerle cözdüm gerçekten çok güzel çok kaliteli ürün tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
           "text": "kalıbı çok büyük ama kalite baya iyi",
           "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 13,
+      "avg_score": 4.77,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 76.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 23.1,
+      "sample_reviews": [
+        "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
+        "ürün çok güzel çok beğendim ama ben 32 beden giyom biraz geniş oldu ama kemerle cözdüm gerçekten çok güzel çok kaliteli ürün tavsiye ederim",
+        "cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel çok beğendim ama ben 32 beden giyom biraz geniş oldu ama kemerle cözdüm gerçekten çok güzel çok kaliteli ürün tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
+          "text": "kalıbı çok büyük ama kalite baya iyi",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Kalıb",
+      "review_count": 13,
+      "avg_score": 4.77,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "baya",
+        "kalite",
+        "kalıbı",
+        "fakat",
+        "kalitesi",
+        "kesim",
+        "dilerim",
+        "kalıp"
+      ],
+      "positive_pct": 76.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 23.1,
+      "sample_reviews": [
+        "kalıbı çok büyük ama kalite baya iyi",
+        "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
+        "ürün çok güzel çok beğendim ama ben 32 beden giyom biraz geniş oldu ama kemerle cözdüm gerçekten çok güzel çok kaliteli ürün tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel çok beğendim ama ben 32 beden giyom biraz geniş oldu ama kemerle cözdüm gerçekten çok güzel çok kaliteli ürün tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
+          "text": "kalıbı çok büyük ama kalite baya iyi",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alin",
+        "aynı",
+        "kalıp",
+        "iade",
+        "istediğim",
+        "super",
+        "kocama",
+        "birebir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "sipariş sonrası iki iş günü içinde elimize geçti kargo ve satıcıya çok tşkler ayrıca sipariş verdiğimiz ürünün birebir aynısı gönderimi sağlandı",
+        "cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim",
+        "ürün sağlam ve tam bedenime göre geldi fotoğraftaki ile aynı öneririm"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok guzel kaliteli kalin kumas boy 180 kilo 90 36 beden tam paca boy super tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sağlam ve tam bedenime göre geldi fotoğraftaki ile aynı öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "sipariş sonrası iki iş günü içinde elimize geçti kargo ve satıcıya çok tşkler ayrıca sipariş verdiğimiz ürünün birebir aynısı gönderimi sağlandı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Likral",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dokusu",
+        "likralı",
+        "istediğim",
+        "aynısı",
+        "kumaşı",
+        "farklı",
+        "kilo",
+        "firmaya"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "sipariş sonrası iki iş günü içinde elimize geçti kargo ve satıcıya çok tşkler ayrıca sipariş verdiğimiz ürünün birebir aynısı gönderimi sağlandı",
+        "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı",
+        "ürün sağlam ve tam bedenime göre geldi fotoğraftaki ile aynı öneririm"
+      ],
+      "all_reviews": [
+        {
+          "text": "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sağlam ve tam bedenime göre geldi fotoğraftaki ile aynı öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "sipariş sonrası iki iş günü içinde elimize geçti kargo ve satıcıya çok tşkler ayrıca sipariş verdiğimiz ürünün birebir aynısı gönderimi sağlandı",
+          "score": 5.0
         }
       ],
       "icon": "💬"
@@ -144,106 +357,61 @@
       "icon": "💬"
     },
     {
-      "name": "Kalite & Alınabilir",
-      "review_count": 5,
-      "avg_score": 4.4,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kalitesi",
-        "alınabilir",
-        "likralı",
-        "kalıp",
-        "beğenerek",
-        "birebir",
-        "yumuşacık",
-        "tşkler"
-      ],
-      "positive_pct": 40.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 60.0,
-      "sample_reviews": [
-        "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
-        "kalıbı çok büyük ama kalite baya iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
-          "score": 5.0
-        },
-        {
-          "text": "kalıbı çok büyük ama kalite baya iyi",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Kalıb",
-      "review_count": 5,
-      "avg_score": 4.4,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "baya",
-        "kalite",
-        "kalıbı",
-        "fakat",
-        "kalitesi",
-        "kesim",
-        "dilerim",
-        "kalıp"
-      ],
-      "positive_pct": 40.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 60.0,
-      "sample_reviews": [
-        "kalıbı çok büyük ama kalite baya iyi",
-        "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz"
-      ],
-      "all_reviews": [
-        {
-          "text": "kalitesi ve ölçüleri gerçekten güzel 2 ürünü sipariş ettik hızlı kargo için de teşekkür ediyoruz",
-          "score": 5.0
-        },
-        {
-          "text": "kalıbı çok büyük ama kalite baya iyi",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Doku & Likral",
+      "name": "Edilir",
       "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "dokusu",
-        "likralı",
-        "istediğim",
-        "aynısı",
-        "kumaşı",
+        "edilir",
+        "paketleme",
         "farklı",
-        "kilo",
-        "firmaya"
+        "firmaya",
+        "aynısı",
+        "kalıp"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "sipariş sonrası iki iş günü içinde elimize geçti kargo ve satıcıya çok tşkler ayrıca sipariş verdiğimiz ürünün birebir aynısı gönderimi sağlandı",
-        "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı"
+        "ürün sağlam ve tam bedenime göre geldi fotoğraftaki ile aynı öneririm"
       ],
       "all_reviews": [
         {
-          "text": "teşekkür ederim iade ettim oğluma dar geldi çok kaliteli kumaşı",
+          "text": "ürün sağlam ve tam bedenime göre geldi fotoğraftaki ile aynı öneririm",
           "score": 5.0
         },
         {
           "text": "sipariş sonrası iki iş günü içinde elimize geçti kargo ve satıcıya çok tşkler ayrıca sipariş verdiğimiz ürünün birebir aynısı gönderimi sağlandı",
           "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Siyah",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "aldık",
+        "siyah",
+        "yumuşacık",
+        "alınmalı",
+        "rengi"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "sample_reviews": [
+        "ürün güzel sadece beden olarak dar geldiği için değiştirmek zorunda kaldık"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün güzel sadece beden olarak dar geldiği için değiştirmek zorunda kaldık",
+          "score": 4.0
         }
       ],
       "icon": "💬"

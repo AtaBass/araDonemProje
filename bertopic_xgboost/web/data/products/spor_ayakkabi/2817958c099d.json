@@ -8,7 +8,7 @@
   "overall_score": 4.78,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**pasyone Gri Kadın Sneaker Günlük Ayakkabı** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **numaranıza** ve **kibar** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ben çok beğendim kendi numaranızı alın ilk sıkıyor gibi geliyor ama biraz yürüyünce a…\"\n• **Rahat Kaliteli**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **alınır** ve **duruşu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve…\"\n• Kullanıcılar **Fiyata & Numaranıza** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **taraklı** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Muhteşem bir ayakkabı aşırı rahat ve tam kalıp rahatlıkla alabilrsiniz ben çok beğend…\"\n• **Numaramı & Kalıbı Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **derim** ve **kalip** başta olmak üzere. Örnek kullanıcı ifadesi: \"Beklediğim den çok iyi geldi pasyone çok teşekkür ediyorum tekrar sipariş vereceğim\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fiyata** ve **uygun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo t…\"",
+  "summary": "Pasyone Gri Kadın Sneaker Günlük Ayakkabı, kullanıcıların gözünde muazzam bir performans sergiliyor. Ürün, farklı özellikler bakımından da yüksek puan alıyor; numaranıza, tarakl, numaraniz, geniş ve duruyo gibi kritik konularda neredeyse tüm yorumcuları tatmin ediyor. Genel olarak 4.8/5.0 puanda bulunan ürünün, kullanıcıları büyük ölçüde memnun ettiği sonucuna varmak mümkündür.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Rahat",
-      "review_count": 19,
-      "avg_score": 4.42,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Numaranıza",
+      "review_count": 15,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
         "ayak",
-        "rahat ayak",
         "numaranıza",
         "kibar",
         "biri",
         "numaramı",
         "tarakli",
-        "sıktı"
+        "sıktı",
+        "ayağımı"
       ],
-      "positive_pct": 42.1,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 57.9,
+      "neutral_pct": 0.0,
       "sample_reviews": [
         "kendi numaramı aldım ayağımı sıktı bi numara büyük alırsanız daha rahat oluyo",
-        "ben çok beğendim kendi numaranızı alın ilk sıkıyor gibi geliyor ama biraz yürüyünce açılıyor çok rahat",
-        "kızım için almıştım çok beğendi kendi numarasını almıştım büyük geldi bir numara küçük aldık"
+        "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
+        "muhteşem bir ayakkabı aşırı rahat ve tam kalıp rahatlıkla alabilrsiniz ben çok beğendim"
       ],
       "all_reviews": [
         {
@@ -47,107 +47,15 @@
           "score": 5.0
         },
         {
-          "text": "çok severek kullanıyorum kendi numaranızı alın",
-          "score": 5.0
-        },
-        {
-          "text": "ben çok beğendim kendi numaranızı alın ilk sıkıyor gibi geliyor ama biraz yürüyünce açılıyor çok rahat",
-          "score": 5.0
-        },
-        {
-          "text": "rahat tam beden alin",
-          "score": 4.0
-        },
-        {
-          "text": "çok güzel sadece bi beden büyük alın",
-          "score": 4.0
-        },
-        {
-          "text": "kızım için almıştım çok beğendi kendi numarasını almıştım büyük geldi bir numara küçük aldık",
-          "score": 4.0
-        },
-        {
-          "text": "çok beğendim kendi numaranızı alın zamanla açılacak zaten",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat Kaliteli",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "rahat kaliteli",
-        "alınır",
-        "duruşu",
-        "bayıldım rahat",
-        "rahat bayıldım",
-        "hafif",
-        "sağlam",
-        "bayıldım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
-        "çok rahat çok güzel bir duruşu var",
-        "çok rahat orijinal gibi tam numara"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok rahat orijinal gibi tam numara",
-          "score": 5.0
-        },
-        {
-          "text": "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
-          "score": 5.0
-        },
-        {
-          "text": "çokkk iyiii çok rahat ve kaliyeli",
-          "score": 5.0
-        },
-        {
-          "text": "çok rahat çok güzel bir duruşu var",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata & Numaranıza",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "ayak",
-        "almışım",
-        "fiyata",
-        "numaranıza",
-        "taraklı",
-        "rahatlığıyla",
-        "paketleme",
-        "geniş"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "muhteşem bir ayakkabı aşırı rahat ve tam kalıp rahatlıkla alabilrsiniz ben çok beğendim",
-        "ayakkabı süper tam bir fiyat performans ürünü farklı renklerini de almak istiyorum",
-        "çok beğendim kaliteli ama bana küçük oldu büyüğünü alacağım ama güzel ayakkabı"
-      ],
-      "all_reviews": [
-        {
           "text": "ayakkabı süper tam bir fiyat performans ürünü farklı renklerini de almak istiyorum",
           "score": 5.0
         },
         {
           "text": "muhteşem bir ayakkabı aşırı rahat ve tam kalıp rahatlıkla alabilrsiniz ben çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
           "score": 5.0
         },
         {
@@ -162,8 +70,184 @@
       "icon": "💬"
     },
     {
-      "name": "Numaramı & Kalıbı Rahat",
-      "review_count": 5,
+      "name": "Numaranıza & Tarakl",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ayak",
+        "almışım",
+        "numaranıza",
+        "taraklı",
+        "rahatlığıyla",
+        "geniş",
+        "paketleme",
+        "numaranizi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
+        "muhteşem bir ayakkabı aşırı rahat ve tam kalıp rahatlıkla alabilrsiniz ben çok beğendim",
+        "ayakkabı süper tam bir fiyat performans ürünü farklı renklerini de almak istiyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "ayakkabı süper tam bir fiyat performans ürünü farklı renklerini de almak istiyorum",
+          "score": 5.0
+        },
+        {
+          "text": "muhteşem bir ayakkabı aşırı rahat ve tam kalıp rahatlıkla alabilrsiniz ben çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim kaliteli ama bana küçük oldu büyüğünü alacağım ama güzel ayakkabı",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel ayakkabı kesinlikle alın kendi numaranızı alın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaraniz",
+      "review_count": 11,
+      "avg_score": 4.27,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "numaranizi",
+        "alin",
+        "alınmalı",
+        "aldık",
+        "zamanla",
+        "aynı zamanda",
+        "öncede",
+        "kalıbı"
+      ],
+      "positive_pct": 27.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 72.7,
+      "sample_reviews": [
+        "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
+        "kızım için almıştım çok beğendi kendi numarasını almıştım büyük geldi bir numara küçük aldık",
+        "çok beğendim kendi numaranızı alın zamanla açılacak zaten"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
+          "score": 5.0
+        },
+        {
+          "text": "rahat tam beden alin",
+          "score": 4.0
+        },
+        {
+          "text": "çok beğendim kendi numaranızı alın zamanla açılacak zaten",
+          "score": 4.0
+        },
+        {
+          "text": "kızım için almıştım çok beğendi kendi numarasını almıştım büyük geldi bir numara küçük aldık",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Geniş",
+      "review_count": 9,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "geniş",
+        "kalitesi",
+        "olduğunu",
+        "zamanla",
+        "çokk",
+        "numaram",
+        "yumuşak",
+        "fakat"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "çok beğendim kendi numaranızı alın zamanla açılacak zaten",
+        "çokkk iyiii çok rahat ve kaliyeli",
+        "ürün çok güzel çok kaliteli tam beden alabilirsiniz biz çok begendik bir tane daha sipariş verdik"
+      ],
+      "all_reviews": [
+        {
+          "text": "çokkk iyiii çok rahat ve kaliyeli",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel çok kaliteli tam beden alabilirsiniz biz çok begendik bir tane daha sipariş verdik",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim kaliteli ama bana küçük oldu büyüğünü alacağım ama güzel ayakkabı",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim kendi numaranızı alın zamanla açılacak zaten",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruyo",
+      "review_count": 8,
+      "avg_score": 4.62,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınmalı",
+        "duruyo",
+        "asla",
+        "alin",
+        "yumuşak",
+        "istediğim",
+        "kalıp kalıp",
+        "bayıldım"
+      ],
+      "positive_pct": 62.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 37.5,
+      "sample_reviews": [
+        "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
+        "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
+        "rahat tam beden alin"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "rahat tam beden alin",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaram",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -172,54 +256,24 @@
         "tane",
         "kalıbı",
         "derim",
-        "bayıldım",
         "almışım",
+        "bayıldım",
         "kalip",
-        "sağlam"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "beklediğim den çok iyi geldi pasyone çok teşekkür ediyorum tekrar sipariş vereceğim",
-        "çok güzel rahat kardeşime aldım çok beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "beklediğim den çok iyi geldi pasyone çok teşekkür ediyorum tekrar sipariş vereceğim",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel rahat kardeşime aldım çok beğendi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "performans",
-        "fiyat performans",
-        "fiyat",
-        "fiyata",
-        "uygun",
-        "emeği",
-        "kibar",
-        "arkadaşlar"
+        "paketleme"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
-        "ürün çok güzel çok kaliteli tam beden alabilirsiniz biz çok begendik bir tane daha sipariş verdik"
+        "ürün çok güzel çok kaliteli tam beden alabilirsiniz biz çok begendik bir tane daha sipariş verdik",
+        "kendi numaramı aldım ayağımı sıktı bi numara büyük alırsanız daha rahat oluyo"
       ],
       "all_reviews": [
+        {
+          "text": "kendi numaramı aldım ayağımı sıktı bi numara büyük alırsanız daha rahat oluyo",
+          "score": 5.0
+        },
         {
           "text": "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
           "score": 5.0
@@ -232,30 +286,130 @@
       "icon": "💬"
     },
     {
-      "name": "Duruşu Rahat",
-      "review_count": 2,
+      "name": "Fiyat Performans",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "geniş",
-        "kalitesi",
-        "olduğunu",
-        "zamanla",
-        "duruşu rahat",
-        "rahat rahat",
-        "numaram",
-        "çokk"
+        "performans",
+        "fiyat performans",
+        "fiyat",
+        "uygun",
+        "emeği",
+        "kibar",
+        "arkadaşlar",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "tam oldu ama biraz uzun gibi sanırım bana öyle geldi annemde beğendi"
+        "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
+        "ayakkabı süper tam bir fiyat performans ürünü farklı renklerini de almak istiyorum"
       ],
       "all_reviews": [
         {
-          "text": "tam oldu ama biraz uzun gibi sanırım bana öyle geldi annemde beğendi",
+          "text": "ayakkabı süper tam bir fiyat performans ürünü farklı renklerini de almak istiyorum",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten çok güzel 2 günde faln geldi fiyat performans ürünü ayakta çok şık duruyo tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Buyuk / Fiyat Performans",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "buyuk",
+        "asla",
+        "rengi",
+        "büyüğünü",
+        "beğenerek",
+        "numaramı",
+        "duruşu",
+        "bakarak"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
+        "çok beğendim kaliteli ama bana küçük oldu büyüğünü alacağım ama güzel ayakkabı"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim kaliteli ama bana küçük oldu büyüğünü alacağım ama güzel ayakkabı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Uygun",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklemiyordum",
+        "uygun",
+        "resimde",
+        "rengi",
+        "edebilirsiniz",
+        "rahatlıkla",
+        "spor",
+        "ettiğim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten çok güzel ve tabanı çok rahat rengi de çok güzel paketlenmesi de sağlam ve kargo hızlı geldi teşekkürler güvenle alinabilir",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fakat / Alınabilir Kalıp",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fakat",
+        "bakarak",
+        "ayağımı",
+        "taraklı",
+        "kibar",
+        "diye",
+        "yumuşak",
+        "uzun"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kendi numaramı aldım ayağımı sıktı bi numara büyük alırsanız daha rahat oluyo"
+      ],
+      "all_reviews": [
+        {
+          "text": "kendi numaramı aldım ayağımı sıktı bi numara büyük alırsanız daha rahat oluyo",
           "score": 5.0
         }
       ],

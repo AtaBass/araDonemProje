@@ -8,7 +8,7 @@
   "overall_score": 3.9,
   "overall_sentiment": "neutral",
   "stars": "★★★½☆",
-  "summary": "**mèche atelier since 2024 Merlin Kadın Deri El Ve Omuz Ç** için 10 müşteri yorumu değerlendirilmiştir. Kullanıcı görüşleri karma bir tablo ortaya koymakta, hem olumlu hem eleştirel değerlendirmeler bulunmaktadır.\n• **Uygun** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **giderken** ve **derisi yumuşak** konusu özellikle vurgulanmaktadır.\n• **Kaliteli & Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **geniş** ve **boyutu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel geldi çantam harika öneririm sadece orta boy çok cukde değil buyukde değil\"\n• Kullanıcılar **Kaliteli & Yumuşacık Derisi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kullanışlı** ve **anneler** konusu özellikle vurgulanmaktadır.",
+  "summary": "Genel Değerlendirme Özeti:\n\nMerlin Kadın Deri El Ve Omuz Ç, 3.9/5.0 genel memnuniyet puanına sahip bir üründür. Ürün, geniş ve boyut konusunda olumlu yorumlar alırken, fiyat performansının da iyi bir performansa sahiptir. Ancak, deri yumuşaklık konusunda karışık yorumlara maruz kalınmıştır. Genel olarak, ürünün bu özellişkilerin tümünü göz önünde bulundurarak bir seçim yapabilirler.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,9 +18,84 @@
   },
   "aspects": [
     {
-      "name": "Uygun",
+      "name": "Geniş & Boyut",
       "review_count": 3,
-      "avg_score": 3.67,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "spor",
+        "geniş",
+        "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
+        "bayıldım",
+        "kalitesi"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "ürün çok güzel ama bana boyutu ufak geldiği için iade ettim",
+        "çok güzel geldi çantam harika öneririm sadece orta boy çok cukde değil buyukde değil",
+        "güzel çanta günlük kullanıma uygun"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel geldi çantam harika öneririm sadece orta boy çok cukde değil buyukde değil",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ama bana boyutu ufak geldiği için iade ettim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel çanta günlük kullanıma uygun",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 2,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "performans",
+        "fiyat performans",
+        "fiyat",
+        "ideal",
+        "buyuk",
+        "uygun",
+        "gore",
+        "boyutu"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "çok güzel geldi çantam harika öneririm sadece orta boy çok cukde değil buyukde değil",
+        "ürün güzel derisi biraz ser ama iyi fiyatını karşılar"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel geldi çantam harika öneririm sadece orta boy çok cukde değil buyukde değil",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel derisi biraz ser ama iyi fiyatını karşılar",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Deri Yumuşak",
+      "review_count": 2,
+      "avg_score": 3.5,
       "sentiment": "neutral",
       "sentiment_label": "Karışık",
       "top_terms": [
@@ -33,96 +108,21 @@
         "fena",
         "göründüğünden"
       ],
-      "positive_pct": 66.7,
-      "negative_pct": 33.3,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "gayet güzel alına bilirrr",
-        "güzel çok beğendim alın",
-        "keyfiyyetsiz"
-      ],
-      "all_reviews": [
-        {
-          "text": "gayet güzel alına bilirrr",
-          "score": 5.0
-        },
-        {
-          "text": "güzel çok beğendim alın",
-          "score": 5.0
-        },
-        {
-          "text": "keyfiyyetsiz",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Rahat",
-      "review_count": 2,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "spor",
-        "rahat",
-        "geniş",
-        "boyutu",
-        "bayıldım",
-        "kullanışlı",
-        "çantası"
-      ],
-      "positive_pct": 50.0,
+      "positive_pct": 0.0,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 100.0,
       "sample_reviews": [
-        "çok güzel geldi çantam harika öneririm sadece orta boy çok cukde değil buyukde değil",
-        "güzel çanta günlük kullanıma uygun"
+        "güzel çanta günlük kullanıma uygun",
+        "ürün güzel derisi biraz ser ama iyi fiyatını karşılar"
       ],
       "all_reviews": [
-        {
-          "text": "çok güzel geldi çantam harika öneririm sadece orta boy çok cukde değil buyukde değil",
-          "score": 5.0
-        },
         {
           "text": "güzel çanta günlük kullanıma uygun",
           "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok kaliteli duruyor",
-        "çok beğendim"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendim",
-          "score": 5.0
         },
         {
-          "text": "çok kaliteli duruyor",
-          "score": 5.0
+          "text": "ürün güzel derisi biraz ser ama iyi fiyatını karşılar",
+          "score": 3.0
         }
       ],
       "icon": "💬"

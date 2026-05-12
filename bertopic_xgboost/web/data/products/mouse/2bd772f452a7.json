@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "2 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
+  "summary": "Daxi MK340 Mood Keys Combo kablosuz Bluetooth klavyenin genel değerlendirme özeti, 2 yorumun ortalama puanının 5.0/5.0 olmasıyla pozitif bir imaj çiziyor. Ürün, problem-free kullanımını ve dayanıklılığını vurguluyor. Kullananlar, sorunsuz çalışmasını ve yüksek kalitesini takdir ediyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -16,7 +16,43 @@
     "4": 0,
     "5": 2
   },
-  "aspects": [],
+  "aspects": [
+    {
+      "name": "Saglam & Sorun",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yormuyor",
+        "çıkarmıyor",
+        "saglam",
+        "sorun",
+        "bayıldım",
+        "efsane",
+        "diye",
+        "beklemiyordum"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "harikaaa bayıldım alın aldırın problemsiz geldi bayıldım tek kelime ile mükemmel ve yanına pil de gonderiyorlarr",
+        "harika bir klavye ve mouse bayıldım verdiğim paraya değdi"
+      ],
+      "all_reviews": [
+        {
+          "text": "harikaaa bayıldım alın aldırın problemsiz geldi bayıldım tek kelime ile mükemmel ve yanına pil de gonderiyorlarr",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir klavye ve mouse bayıldım verdiğim paraya değdi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
   "top_reviews": [
     "harikaaa bayıldım alın aldırın problemsiz geldi bayıldım tek kelime ile mükemmel ve yanına pil de gonderiyorlarr",
     "harika bir klavye ve mouse bayıldım verdiğim paraya değdi"

@@ -8,7 +8,7 @@
   "overall_score": 4.36,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "**Seduna Evora Premium Black Ofis Koltuğu | Yönetici Kolt** için 11 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Koltuk & Zarar** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **ergonomik** ve **rahat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum vid…\"\n• **Rahat Koltuk**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu…\"\n• Kullanıcılar **Kurulumu Kolay** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kaliteli ve şık bir ürün uzun süreli masa başı çalışanlar için tavsiye ederim\"",
+  "summary": "**Seduna Evora Premium Black Ofis Koltuğu | Yönetici Kolt** için 11 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat Kalite**: Kullanıcılar genel olarak fiyat kalite açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Sorunsuz**: Kullanıcılar genel olarak sorunsuz açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Koltuk & Ergonomik**: Kullanıcılar genel olarak koltuk & ergonomik açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Koltuk**: Kullanıcılar genel olarak koltuk açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Fiyat Performans**: Kullanıcılar genel olarak fiyat performans açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.",
   "score_distribution": {
     "1": 0,
     "2": 1,
@@ -18,24 +18,148 @@
   },
   "aspects": [
     {
-      "name": "Koltuk & Zarar",
-      "review_count": 5,
-      "avg_score": 3.6,
+      "name": "Fiyat Kalite",
+      "review_count": 9,
+      "avg_score": 4.44,
       "sentiment": "neutral",
-      "sentiment_label": "Karışık",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
+      ],
+      "positive_pct": 77.8,
+      "negative_pct": 11.1,
+      "neutral_pct": 11.1,
+      "sample_reviews": [
+        "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+        "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+        "yaklaşık 6 aydır kullanıyorum ergonomik olarak epey zayıf bel desteği çok aşağıda doğru yere gelmesi için epey ileri almak gerekiyor bu sefer de sırt kısmı çok geride kalıyor baş boyun desteği zaten çok geride normal kullanımda başınızın oraya gelmesi mümkün değil yatarsanız ancak mekanizmaların kalitesi de çok iyi değil bugüne dek 6-7 defa pozisyon sabitlemedeyken bir anda kilit açılıp geri düştü bel desteğini oynatmak için"
+      ],
+      "all_reviews": [
+        {
+          "text": "kesinlikle çok rahat bir sandalye bel kısmı çok güzel kavrayarak rahat ettiriyor sırt kısmı ayarlanması kol kısımları ayarlanmasi da konforu arttırıyor ürün çok rahat kaliteli parasının hakkını veriyor ben memnun kaldım gönül rahatlığıyla alabilirsiniz teşekkürler seduna",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli ve şık bir ürün uzun süreli masa başı çalışanlar için tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sipariş verdikten 2 gün sonra elime ulaştı malzeme kalitesini rahatlığını çok beğendim çok içime sindi oturduğunuz alan ileri geri gidebiliyor bel desteği kısmı ayarlanabiliyor baş kısmı yukarı aşağı oynayabiliyor görünüş olarak da gayet şık ben çok memnun kaldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bel ağrımı geçirdi yaşamımız bunun üzerinde geçiyor",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans ürünü ev kullanıcısı için über pahalı ürünleri almaya gerek yok",
+          "score": 5.0
+        },
+        {
+          "text": "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+          "score": 3.0
+        },
+        {
+          "text": "yaklaşık 6 aydır kullanıyorum ergonomik olarak epey zayıf bel desteği çok aşağıda doğru yere gelmesi için epey ileri almak gerekiyor bu sefer de sırt kısmı çok geride kalıyor baş boyun desteği zaten çok geride normal kullanımda başınızın oraya gelmesi mümkün değil yatarsanız ancak mekanizmaların kalitesi de çok iyi değil bugüne dek 6-7 defa pozisyon sabitlemedeyken bir anda kilit açılıp geri düştü bel desteğini oynatmak için",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz",
+      "review_count": 8,
+      "avg_score": 4.38,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 12.5,
+      "neutral_pct": 12.5,
+      "sample_reviews": [
+        "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+        "yaklaşık 6 aydır kullanıyorum ergonomik olarak epey zayıf bel desteği çok aşağıda doğru yere gelmesi için epey ileri almak gerekiyor bu sefer de sırt kısmı çok geride kalıyor baş boyun desteği zaten çok geride normal kullanımda başınızın oraya gelmesi mümkün değil yatarsanız ancak mekanizmaların kalitesi de çok iyi değil bugüne dek 6-7 defa pozisyon sabitlemedeyken bir anda kilit açılıp geri düştü bel desteğini oynatmak için",
+        "ürün sipariş verdikten 2 gün sonra elime ulaştı malzeme kalitesini rahatlığını çok beğendim çok içime sindi oturduğunuz alan ileri geri gidebiliyor bel desteği kısmı ayarlanabiliyor baş kısmı yukarı aşağı oynayabiliyor görünüş olarak da gayet şık ben çok memnun kaldım tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "kesinlikle çok rahat bir sandalye bel kısmı çok güzel kavrayarak rahat ettiriyor sırt kısmı ayarlanması kol kısımları ayarlanmasi da konforu arttırıyor ürün çok rahat kaliteli parasının hakkını veriyor ben memnun kaldım gönül rahatlığıyla alabilirsiniz teşekkürler seduna",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli ve şık bir ürün uzun süreli masa başı çalışanlar için tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sipariş verdikten 2 gün sonra elime ulaştı malzeme kalitesini rahatlığını çok beğendim çok içime sindi oturduğunuz alan ileri geri gidebiliyor bel desteği kısmı ayarlanabiliyor baş kısmı yukarı aşağı oynayabiliyor görünüş olarak da gayet şık ben çok memnun kaldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bel ağrımı geçirdi yaşamımız bunun üzerinde geçiyor",
+          "score": 5.0
+        },
+        {
+          "text": "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+          "score": 3.0
+        },
+        {
+          "text": "yaklaşık 6 aydır kullanıyorum ergonomik olarak epey zayıf bel desteği çok aşağıda doğru yere gelmesi için epey ileri almak gerekiyor bu sefer de sırt kısmı çok geride kalıyor baş boyun desteği zaten çok geride normal kullanımda başınızın oraya gelmesi mümkün değil yatarsanız ancak mekanizmaların kalitesi de çok iyi değil bugüne dek 6-7 defa pozisyon sabitlemedeyken bir anda kilit açılıp geri düştü bel desteğini oynatmak için",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk & Ergonomik",
+      "review_count": 5,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "uzun",
         "koltuk",
-        "zarar",
         "ergonomik",
+        "zarar",
         "görünüyor",
-        "rahat",
         "vida",
+        "sandalyenin",
         "monte"
       ],
-      "positive_pct": 40.0,
+      "positive_pct": 60.0,
       "negative_pct": 20.0,
-      "neutral_pct": 40.0,
+      "neutral_pct": 20.0,
       "sample_reviews": [
         "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
         "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
@@ -43,7 +167,11 @@
       ],
       "all_reviews": [
         {
-          "text": "ürün sipariş verdikten 2 gün sonra elime ulaştı malzeme kalitesini rahatlığını çok beğendim çok içime sindi oturduğunuz alan ileri geri gidebiliyor bel desteği kısmı ayarlanabiliyor baş kısmı yukarı aşağı oynayabiliyor görünüş olarak da gayet şık ben çok memnun kaldım tavsiye ederim",
+          "text": "kaliteli ve şık bir ürün uzun süreli masa başı çalışanlar için tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum",
           "score": 5.0
         },
         {
@@ -55,10 +183,6 @@
           "score": 3.0
         },
         {
-          "text": "1 yildir kullaniyorum urun rahat ama bel bolgesinde cikintiyi cok geri gitmiyor daha geri cekilebilmeliydi belimi dayasamda sirtimi yaslayamiyorum sirtimi dayamak icin caba sarfetmem gerekiyor",
-          "score": 3.0
-        },
-        {
           "text": "yaklaşık 6 aydır kullanıyorum ergonomik olarak epey zayıf bel desteği çok aşağıda doğru yere gelmesi için epey ileri almak gerekiyor bu sefer de sırt kısmı çok geride kalıyor baş boyun desteği zaten çok geride normal kullanımda başınızın oraya gelmesi mümkün değil yatarsanız ancak mekanizmaların kalitesi de çok iyi değil bugüne dek 6-7 defa pozisyon sabitlemedeyken bir anda kilit açılıp geri düştü bel desteğini oynatmak için",
           "score": 2.0
         }
@@ -66,26 +190,176 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat Koltuk",
+      "name": "Koltuk",
+      "review_count": 3,
+      "avg_score": 4.33,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "koltuk",
+        "çalışma",
+        "kurulumu",
+        "kumaşı",
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+        "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+        "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum"
+      ],
+      "all_reviews": [
+        {
+          "text": "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+          "score": 5.0
+        },
+        {
+          "text": "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 3,
+      "avg_score": 4.33,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum",
+        "fiyat performans ürünü ev kullanıcısı için über pahalı ürünleri almaya gerek yok",
+        "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat"
+      ],
+      "all_reviews": [
+        {
+          "text": "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans ürünü ev kullanıcısı için über pahalı ürünleri almaya gerek yok",
+          "score": 5.0
+        },
+        {
+          "text": "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 2,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "paketleme",
+        "kolay",
+        "kurulumu",
+        "kurulumu kolay",
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+        "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat"
+      ],
+      "all_reviews": [
+        {
+          "text": "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+          "score": 5.0
+        },
+        {
+          "text": "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 2,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "takım",
+        "paketleme",
+        "teşekürler",
+        "yaptım",
+        "olsaydı",
+        "istediğim",
+        "sürekli",
+        "kazançlar"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+        "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat"
+      ],
+      "all_reviews": [
+        {
+          "text": "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
+          "score": 5.0
+        },
+        {
+          "text": "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kolay & Rahatlığıyla",
       "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat",
-        "koltuk",
-        "sağlam",
-        "çalışma",
-        "kurulumu",
-        "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
+        "kolay",
+        "rahatlığıyla",
+        "tesekkurler",
+        "kaldik",
+        "kurulumuda",
+        "yaptım",
+        "rağmen",
+        "icin"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum",
+        "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
         "kesinlikle çok rahat bir sandalye bel kısmı çok güzel kavrayarak rahat ettiriyor sırt kısmı ayarlanması kol kısımları ayarlanmasi da konforu arttırıyor ürün çok rahat kaliteli parasının hakkını veriyor ben memnun kaldım gönül rahatlığıyla alabilirsiniz teşekkürler seduna"
       ],
       "all_reviews": [
@@ -94,43 +368,43 @@
           "score": 5.0
         },
         {
-          "text": "yazılımcıyım günde 8 saat masa başında oturun birisi olarak rahat bir koltuk olduğunu söyleyebilirim malzeme kalitesi oldukça yüksek dokunduğunuzda hissediyorsunuz satıcı da çok ilgiliydi 1 haftadır kullanıyorum çok memnunum",
+          "text": "yıllardır oyuncu koltuğu kullanıyorum bu koltuğu alana kadar sırtımı ne kadar hor kullandığımı farketmemiştim bugün ise ne kadar doğru karar verdiğimi gördüm koltuğun oturma kızağı ve bel desteği inanılmaz bir özgürlük ve rahatlık sağlıyor oturma alanı gayet konforlu kol kısımlarının dört yönlü ayarlanması da harika malzeme kalitesinin iyi olduğunu söyleyebilirim kurulumu oldukça kolaydı bir kişinin rahatlıkla kurabileceği bir yapıda negatif olarak bel desteği mekanizması çok güven vermedi uzun süre kullanımdan sonra anlayacağız keşke olsaydı dedirten tek şey ise kafa ayarının ileri geri özelliğinin olmaması koltuk arayanlar ve oyuncu koltuğuyla kafayı bozan arkadaşlara tavsiyem bu koltuğu almalarıdır bu özelliklerde bir oyuncu koltuğu 20-25 bin civarındadır",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kurulumu Kolay",
+      "name": "Hafif",
       "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "hafif",
+        "almışım",
+        "icin",
+        "göründüğü",
+        "görünüyor",
+        "rahatlığıyla",
+        "konforlu",
+        "kolay"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 0.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 100.0,
       "sample_reviews": [
-        "kaliteli ve şık bir ürün uzun süreli masa başı çalışanlar için tavsiye ederim",
-        "ürün çok konforlu ve kullanışlı hızlı kargo için teşekkür ederim"
+        "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+        "1 yildir kullaniyorum urun rahat ama bel bolgesinde cikintiyi cok geri gitmiyor daha geri cekilebilmeliydi belimi dayasamda sirtimi yaslayamiyorum sirtimi dayamak icin caba sarfetmem gerekiyor"
       ],
       "all_reviews": [
         {
-          "text": "kaliteli ve şık bir ürün uzun süreli masa başı çalışanlar için tavsiye ederim",
-          "score": 5.0
+          "text": "urunu kurmak icin cikan belge hic anlasilir degil ve bu urunle ilgili bir kurulum videosu hazirlamamis firma tek kisi kuruyorsaniz zorlanabilirsiniz kolcaklar gereginden cok onde ve uzun surelerde kolunuzu agritiyor kolcaklardan destek alip dogrulmak istenirken kolcaklar saga sola oynuyor ve bu ciddi bir sikinti uzun kullanimlarda bas bolmesi neredeyse hicbir ise yaramiyor gereginden cok uzun kalmis eger cok uzun biri degilseniz yararlanamayacaksiniz filesi ise her an yirtilicakmis gibi ince duruyor suanada kadar bir sorun olmadi ama uzun omurlu olsun diyenler icin bir eksi gibi duruyor koltuk genisligi cok iyi ancak koltugun uzun kullanimlarda rahat oldugunu soylememem yinede piyasada 8 saat ustu kullanim istiyorsaniz giris duzeyinde bir sandalye olmus keske eksiklerini giderselerdi ve biraz daha yuksek olsaydi fiyat",
+          "score": 3.0
         },
         {
-          "text": "ürün çok konforlu ve kullanışlı hızlı kargo için teşekkür ederim",
-          "score": 5.0
+          "text": "1 yildir kullaniyorum urun rahat ama bel bolgesinde cikintiyi cok geri gitmiyor daha geri cekilebilmeliydi belimi dayasamda sirtimi yaslayamiyorum sirtimi dayamak icin caba sarfetmem gerekiyor",
+          "score": 3.0
         }
       ],
       "icon": "💬"

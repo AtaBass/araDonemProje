@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**HLT JEANS Erkek Siyah Regular Boru Paça Esnek Likralı D** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: Bedenini aldık ve tam oldu çok güzel teşekkürler.\n• **Kalite & Alınabilir**: Çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici.\n• **Kalite & Fiyat**: 10 yorum incelendi; genel görüş olumlu.\n• **Kalite & Kalıb**: 10 yorum incelendi; genel görüş olumlu.\n• **Siyah**: Bedenini aldık ve tam oldu çok güzel teşekkürler.",
+  "summary": "Here is a concise, professional, and fluent summary:\n\n\"HLT JEANS Erkek Siyah Regular Boru Paça Esnek Likralı D ürününün genel değerlendirme özeti; fiyat performansını, kalitenin fiyatına ve alınabilirliğini, kaliteyi kabullenirlikleriyle ve renk seçimine dair pozitif yorumlar içeriyor. Ürünün 5.0/5.0 puanladığı 50 yorum arasından, 34'ünde fiyat performansına, 30'unda kalitenin fiyatına ve alınabilirliğine, 22'sinde kaliteyi kabullenirliklerine, 22'sinde de renk seçimine dair olumlu görüşler yer alıyor.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -19,7 +19,7 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 28,
+      "review_count": 34,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -43,11 +43,95 @@
       ],
       "all_reviews": [
         {
+          "text": "çok beğendim bir tık küçük bir beden büyük almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kalite kesim beden çok iyi üstüme şııp diyip oturuverdi herkese tavsiye ederim mağaza artık favorim",
+          "score": 5.0
+        },
+        {
+          "text": "babama almıştık üzerine dikilmiş gibi oldu tam beden alınmalı çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "cok güzel kendi bedeninizde alın kaliteli ürün",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli tam bedeninizi alın +9 siyah çelik giymiş gibi hissettiriyor",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım gerçekten kaliteli güzel ürün ben 34 bedenini aldım tam oldu tam bedeninizi almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden oldu kumaşı kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "harika beğendim kaliteli ürün",
+          "score": 5.0
+        },
+        {
           "text": "çok beğendim tam bedenimi aldım",
           "score": 5.0
         },
         {
           "text": "bedenini aldık ve tam oldu çok güzel teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir kot pantolon şiddetle tavsiye ederim tam bedeniniz alin",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+          "score": 5.0
+        },
+        {
+          "text": "170 boy 83 kilo 34 30 tam oldu çok kaliteli çok şık teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 30,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hlt jeans çok teşekkür ederim allah hayırlı bol bereketli kazançlar nasip etsin inşallah çok ürün aldım hepsinden çok memnun kaldım yine aldım gelen ürün yine tam istediğim gibi böyle üreticileri bulmak zor buluncada benim gibi hep o markadan alarak desteklemek gerekir diye düşünüyorum",
+        "eşime aldım gerçekten kaliteli güzel ürün ben 34 bedenini aldım tam oldu tam bedeninizi almanızı tavsiye ederim",
+        "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok beyendik esime almistim tam oldu rengi de cok güzel tafsiye ederim almak isteyen olursa",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+          "score": 5.0
+        },
+        {
+          "text": "cok güzel kendi bedeninizde alın kaliteli ürün",
           "score": 5.0
         },
         {
@@ -59,7 +143,71 @@
           "score": 5.0
         },
         {
-          "text": "harika bir kot pantolon şiddetle tavsiye ederim tam bedeniniz alin",
+          "text": "kalite kesim beden çok iyi üstüme şııp diyip oturuverdi herkese tavsiye ederim mağaza artık favorim",
+          "score": 5.0
+        },
+        {
+          "text": "harika beğendim kaliteli ürün",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden oldu kumaşı kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "hlt jeans çok teşekkür ederim allah hayırlı bol bereketli kazançlar nasip etsin inşallah çok ürün aldım hepsinden çok memnun kaldım yine aldım gelen ürün yine tam istediğim gibi böyle üreticileri bulmak zor buluncada benim gibi hep o markadan alarak desteklemek gerekir diye düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım gerçekten kaliteli güzel ürün ben 34 bedenini aldım tam oldu tam bedeninizi almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli tam bedeninizi alın +9 siyah çelik giymiş gibi hissettiriyor",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre çok iyi aşırı güzel erkek kardeşim için aldım çok beğendi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 22,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+        "eşime aldım gerçekten kaliteli güzel ürün ben 34 bedenini aldım tam oldu tam bedeninizi almanızı tavsiye ederim",
+        "kalite kesim beden çok iyi üstüme şııp diyip oturuverdi herkese tavsiye ederim mağaza artık favorim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+          "score": 5.0
+        },
+        {
+          "text": "170 boy 83 kilo 34 30 tam oldu çok kaliteli çok şık teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "babama almıştık üzerine dikilmiş gibi oldu tam beden alınmalı çok kaliteli",
           "score": 5.0
         },
         {
@@ -90,100 +238,8 @@
       "icon": "💬"
     },
     {
-      "name": "Kalite & Alınabilir",
-      "review_count": 13,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kalitesi",
-        "alınabilir",
-        "likralı",
-        "kalıp",
-        "beğenerek",
-        "birebir",
-        "yumuşacık",
-        "tşkler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
-        "170 boy 83 kilo 34 30 tam oldu çok kaliteli çok şık teşekkür ederim",
-        "cok güzel kendi bedeninizde alın kaliteli ürün"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
-          "score": 5.0
-        },
-        {
-          "text": "170 boy 83 kilo 34 30 tam oldu çok kaliteli çok şık teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "cok güzel kendi bedeninizde alın kaliteli ürün",
-          "score": 5.0
-        },
-        {
-          "text": "tam beden oldu kumaşı kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "harika beğendim kaliteli ürün",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Fiyat",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "düşünüyorum",
-        "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "170 boy 83 kilo 34 30 tam oldu çok kaliteli çok şık teşekkür ederim",
-        "cok güzel kendi bedeninizde alın kaliteli ürün",
-        "tam beden oldu kumaşı kaliteli"
-      ],
-      "all_reviews": [
-        {
-          "text": "170 boy 83 kilo 34 30 tam oldu çok kaliteli çok şık teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "cok güzel kendi bedeninizde alın kaliteli ürün",
-          "score": 5.0
-        },
-        {
-          "text": "tam beden oldu kumaşı kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "harika beğendim kaliteli ürün",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Kalite & Kalıb",
-      "review_count": 10,
+      "review_count": 22,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -201,17 +257,29 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "170 boy 83 kilo 34 30 tam oldu çok kaliteli çok şık teşekkür ederim",
-        "cok güzel kendi bedeninizde alın kaliteli ürün",
-        "tam beden oldu kumaşı kaliteli"
+        "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+        "kalite kesim beden çok iyi üstüme şııp diyip oturuverdi herkese tavsiye ederim mağaza artık favorim",
+        "eşime aldım gerçekten kaliteli güzel ürün ben 34 bedenini aldım tam oldu tam bedeninizi almanızı tavsiye ederim"
       ],
       "all_reviews": [
+        {
+          "text": "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+          "score": 5.0
+        },
         {
           "text": "170 boy 83 kilo 34 30 tam oldu çok kaliteli çok şık teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "cok güzel kendi bedeninizde alın kaliteli ürün",
+          "text": "babama almıştık üzerine dikilmiş gibi oldu tam beden alınmalı çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kalite kesim beden çok iyi üstüme şııp diyip oturuverdi herkese tavsiye ederim mağaza artık favorim",
+          "score": 5.0
+        },
+        {
+          "text": "harika beğendim kaliteli ürün",
           "score": 5.0
         },
         {
@@ -219,7 +287,15 @@
           "score": 5.0
         },
         {
-          "text": "harika beğendim kaliteli ürün",
+          "text": "eşime aldım gerçekten kaliteli güzel ürün ben 34 bedenini aldım tam oldu tam bedeninizi almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli tam bedeninizi alın +9 siyah çelik giymiş gibi hissettiriyor",
+          "score": 5.0
+        },
+        {
+          "text": "cok güzel kendi bedeninizde alın kaliteli ürün",
           "score": 5.0
         }
       ],
@@ -227,7 +303,7 @@
     },
     {
       "name": "Siyah",
-      "review_count": 8,
+      "review_count": 13,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -242,9 +318,9 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "cok beyendik esime almistim tam oldu rengi de cok güzel tafsiye ederim almak isteyen olursa",
         "babama almıştık üzerine dikilmiş gibi oldu tam beden alınmalı çok kaliteli",
-        "bedenini aldık ve tam oldu çok güzel teşekkürler",
-        "babama aldık çok beğendi"
+        "kaliteli tam bedeninizi alın +9 siyah çelik giymiş gibi hissettiriyor"
       ],
       "all_reviews": [
         {
@@ -252,7 +328,15 @@
           "score": 5.0
         },
         {
+          "text": "cok beyendik esime almistim tam oldu rengi de cok güzel tafsiye ederim almak isteyen olursa",
+          "score": 5.0
+        },
+        {
           "text": "babama almıştık üzerine dikilmiş gibi oldu tam beden alınmalı çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli tam bedeninizi alın +9 siyah çelik giymiş gibi hissettiriyor",
           "score": 5.0
         },
         {
@@ -263,8 +347,48 @@
       "icon": "💬"
     },
     {
+      "name": "Kalıp",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alin",
+        "aynı",
+        "kalıp",
+        "iade",
+        "istediğim",
+        "super",
+        "kocama",
+        "birebir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hlt jeans çok teşekkür ederim allah hayırlı bol bereketli kazançlar nasip etsin inşallah çok ürün aldım hepsinden çok memnun kaldım yine aldım gelen ürün yine tam istediğim gibi böyle üreticileri bulmak zor buluncada benim gibi hep o markadan alarak desteklemek gerekir diye düşünüyorum",
+        "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+        "harika bir kot pantolon şiddetle tavsiye ederim tam bedeniniz alin"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bir kot pantolon şiddetle tavsiye ederim tam bedeniniz alin",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+          "score": 5.0
+        },
+        {
+          "text": "hlt jeans çok teşekkür ederim allah hayırlı bol bereketli kazançlar nasip etsin inşallah çok ürün aldım hepsinden çok memnun kaldım yine aldım gelen ürün yine tam istediğim gibi böyle üreticileri bulmak zor buluncada benim gibi hep o markadan alarak desteklemek gerekir diye düşünüyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Kumaş",
-      "review_count": 5,
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -282,6 +406,7 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "kalite kesim beden çok iyi üstüme şııp diyip oturuverdi herkese tavsiye ederim mağaza artık favorim",
         "cok beyendik esime almistim tam oldu rengi de cok güzel tafsiye ederim almak isteyen olursa",
         "tam beden oldu kumaşı kaliteli"
       ],
@@ -292,6 +417,110 @@
         },
         {
           "text": "tam beden oldu kumaşı kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kalite kesim beden çok iyi üstüme şııp diyip oturuverdi herkese tavsiye ederim mağaza artık favorim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Teslimat & Çorap",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teslimat",
+        "çorap",
+        "emeğinize",
+        "istediğim",
+        "paça",
+        "istediğim bedeni",
+        "kilo",
+        "emeği"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+        "hlt jeans çok teşekkür ederim allah hayırlı bol bereketli kazançlar nasip etsin inşallah çok ürün aldım hepsinden çok memnun kaldım yine aldım gelen ürün yine tam istediğim gibi böyle üreticileri bulmak zor buluncada benim gibi hep o markadan alarak desteklemek gerekir diye düşünüyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
+          "score": 5.0
+        },
+        {
+          "text": "hlt jeans çok teşekkür ederim allah hayırlı bol bereketli kazançlar nasip etsin inşallah çok ürün aldım hepsinden çok memnun kaldım yine aldım gelen ürün yine tam istediğim gibi böyle üreticileri bulmak zor buluncada benim gibi hep o markadan alarak desteklemek gerekir diye düşünüyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Likral",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dokusu",
+        "likralı",
+        "istediğim",
+        "aynısı",
+        "kumaşı",
+        "farklı",
+        "kilo",
+        "firmaya"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hlt jeans çok teşekkür ederim allah hayırlı bol bereketli kazançlar nasip etsin inşallah çok ürün aldım hepsinden çok memnun kaldım yine aldım gelen ürün yine tam istediğim gibi böyle üreticileri bulmak zor buluncada benim gibi hep o markadan alarak desteklemek gerekir diye düşünüyorum",
+        "tam beden oldu kumaşı kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "hlt jeans çok teşekkür ederim allah hayırlı bol bereketli kazançlar nasip etsin inşallah çok ürün aldım hepsinden çok memnun kaldım yine aldım gelen ürün yine tam istediğim gibi böyle üreticileri bulmak zor buluncada benim gibi hep o markadan alarak desteklemek gerekir diye düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden oldu kumaşı kaliteli",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Dilerim",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dilerim",
+        "tane",
+        "emeği",
+        "çorap",
+        "teslimat",
+        "firmaya",
+        "emeğinize",
+        "hoşuma"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel ve kaliteli emeğinize sağlık olsun oğluma almıştık çup oturdu kalıp gibi teşekkürler satici",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 4.74,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Fossil Kadın Omuz Çantası 05FO25Y5030** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **geniş** ve **boyutu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gerçekten harika ve kaliteli kesinlikle dolabımızda olması gereken bir çanta\"\n• **Kaliteli & Yumuşacık Derisi**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kullanışlı** ve **anneler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kaç yidiz varsa hepsini hak ediyor yorum yapan biri değilim ama yapmak istedim çok ka…\"\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **ideal** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gorundugu gibi geldi normal baget cantalara gore daha buyuk ve kullanışlı\"\n• **Rengi & Boyutu Ideal** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **boyutta** ve **ideal** başta olmak üzere. Örnek kullanıcı ifadesi: \"Rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi\"\n• Müşteri yorumlarında **Yumuşacık Derisi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **okulda** ve **hayatta** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel bir ürün kendime aldıktan sonra kuzenim ve arkadaşım çok beğendi onlara da…\"",
+  "summary": "Fossil Kadın Omuz Çantası 05FO25Y5030, kullanıcıların %94'ü onayladığı, yüksek memnuniyet oranına sahip bir ürün. Ürünün en övülen özellikleri, geniş ve boyuta sahip olması (4.57/5.0), zarif bir tasarım (5.0/5.0), fiyat performansına sahip olması (5.0/5.0) ve yumuşak deri malzemeye dayanması (4.33-4.5/5.0) olarak belirtildi. Bu ürün, kullanıcıların beklentilerini fazlasıyla karşılıyor ve yüksek memnuniyet oranına sahiptir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Rahat",
-      "review_count": 16,
-      "avg_score": 4.62,
+      "name": "Geniş & Boyut",
+      "review_count": 14,
+      "avg_score": 4.57,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
         "spor",
-        "rahat",
         "geniş",
         "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
         "bayıldım",
-        "kullanışlı",
-        "çantası"
+        "kalitesi"
       ],
-      "positive_pct": 62.5,
+      "positive_pct": 57.1,
       "negative_pct": 0.0,
-      "neutral_pct": 37.5,
+      "neutral_pct": 42.9,
       "sample_reviews": [
         "boyutu iyi güzel kullanışlı bir çanta çok beğendim",
-        "gerçekten harika ve kaliteli kesinlikle dolabımızda olması gereken bir çanta",
-        "boyutu büyük geldi sadece güzel çanta"
+        "boyutu büyük geldi sadece güzel çanta",
+        "çanta çok güzel çok tarz durdu fotoğraftaki gibi deriside yumuşacık alabilirsiniz"
       ],
       "all_reviews": [
         {
@@ -59,10 +59,6 @@
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel ayrıca resimde sanki bir tık küçük gözüküyor ama aksine gayet büyük ve çok hoş kesinlikle almalısınız",
-          "score": 5.0
-        },
-        {
           "text": "boyutu iyi güzel kullanışlı bir çanta çok beğendim",
           "score": 4.0
         },
@@ -74,167 +70,8 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kaç yidiz varsa hepsini hak ediyor yorum yapan biri değilim ama yapmak istedim çok kaliteli zaten hep aldığım bir marka",
-        "cok kaliteli ve güzel",
-        "arkadaşıma aldım çok beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "kaç yidiz varsa hepsini hak ediyor yorum yapan biri değilim ama yapmak istedim çok kaliteli zaten hep aldığım bir marka",
-          "score": 5.0
-        },
-        {
-          "text": "arkadaşıma aldım çok beğendi",
-          "score": 5.0
-        },
-        {
-          "text": "cok kaliteli ve güzel",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel beğendim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "performans",
-        "fiyat performans",
-        "fiyat",
-        "ideal",
-        "fiyata",
-        "buyuk",
-        "kaliteli",
-        "uygun"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel bir ürün fiyatı da gayet uygun",
-        "gorundugu gibi geldi normal baget cantalara gore daha buyuk ve kullanışlı",
-        "çok beğendim büyüklüğü ideal"
-      ],
-      "all_reviews": [
-        {
-          "text": "gorundugu gibi geldi normal baget cantalara gore daha buyuk ve kullanışlı",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim büyüklüğü ideal",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel bir ürün fiyatı da gayet uygun",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rengi & Boyutu Ideal",
-      "review_count": 7,
-      "avg_score": 4.43,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "rengi",
-        "icin",
-        "gözüküyor",
-        "boyutta",
-        "sert",
-        "ideal",
-        "başka",
-        "boyutu"
-      ],
-      "positive_pct": 71.4,
-      "negative_pct": 0.0,
-      "neutral_pct": 28.6,
-      "sample_reviews": [
-        "rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi",
-        "bayıldımmm fiyatına göre kalite şahane diğer renklerini de alacağım",
-        "bayıldım böyle bir renk arıyordum hep"
-      ],
-      "all_reviews": [
-        {
-          "text": "bayıldımmm fiyatına göre kalite şahane diğer renklerini de alacağım",
-          "score": 5.0
-        },
-        {
-          "text": "bayıldım böyle bir renk arıyordum hep",
-          "score": 5.0
-        },
-        {
-          "text": "rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Yumuşacık Derisi",
-      "review_count": 6,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "aynı",
-        "tane",
-        "okulda",
-        "yumuşacık derisi",
-        "bayildim",
-        "hayatta",
-        "paketleme",
-        "kelimeyle"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "çok güzel bir ürün kendime aldıktan sonra kuzenim ve arkadaşım çok beğendi onlara da hediye aldım",
-        "hediye olarak aldım çok beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel bir ürün kendime aldıktan sonra kuzenim ve arkadaşım çok beğendi onlara da hediye aldım",
-          "score": 5.0
-        },
-        {
-          "text": "hediye olarak aldım çok beğendi",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Zarif & Kelimeyle",
-      "review_count": 3,
+      "name": "Zarif",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -252,11 +89,255 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel 24 saat içinde elime ulaştı"
+        "bayıldımmm fiyatına göre kalite şahane diğer renklerini de alacağım",
+        "kaç yidiz varsa hepsini hak ediyor yorum yapan biri değilim ama yapmak istedim çok kaliteli zaten hep aldığım bir marka",
+        "çanta çok güzel çok tarz durdu fotoğraftaki gibi deriside yumuşacık alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel 24 saat içinde elime ulaştı",
+          "text": "kaç yidiz varsa hepsini hak ediyor yorum yapan biri değilim ama yapmak istedim çok kaliteli zaten hep aldığım bir marka",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldımmm fiyatına göre kalite şahane diğer renklerini de alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten harika ve kaliteli kesinlikle dolabımızda olması gereken bir çanta",
+          "score": 5.0
+        },
+        {
+          "text": "cok kaliteli ve güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çanta çok güzel çok tarz durdu fotoğraftaki gibi deriside yumuşacık alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "performans",
+        "fiyat performans",
+        "fiyat",
+        "ideal",
+        "buyuk",
+        "uygun",
+        "gore",
+        "boyutu"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gorundugu gibi geldi normal baget cantalara gore daha buyuk ve kullanışlı",
+        "çok güzel bir ürün fiyatı da gayet uygun",
+        "bayıldımmm fiyatına göre kalite şahane diğer renklerini de alacağım"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldımmm fiyatına göre kalite şahane diğer renklerini de alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "gorundugu gibi geldi normal baget cantalara gore daha buyuk ve kullanışlı",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim büyüklüğü ideal",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir ürün fiyatı da gayet uygun",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Deri Yumuşak",
+      "review_count": 8,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "giderken",
+        "kullanıma uygun",
+        "kullanıma",
+        "alınmalı",
+        "derisi yumuşak",
+        "asla",
+        "fena",
+        "göründüğünden"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "sample_reviews": [
+        "ürün poşetle gönderilmiş bir kutu ile gönderim yapılabilirdi çanta fena sayılmaz",
+        "rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi",
+        "çanta çok güzel çok tarz durdu fotoğraftaki gibi deriside yumuşacık alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel bir ürün fiyatı da gayet uygun",
+          "score": 5.0
+        },
+        {
+          "text": "çanta çok güzel çok tarz durdu fotoğraftaki gibi deriside yumuşacık alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün poşetle gönderilmiş bir kutu ile gönderim yapılabilirdi çanta fena sayılmaz",
+          "score": 5.0
+        },
+        {
+          "text": "rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Yumuşacık Deri",
+      "review_count": 6,
+      "avg_score": 4.33,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "aynı",
+        "tane",
+        "okulda",
+        "yumuşacık derisi",
+        "bayildim",
+        "hayatta",
+        "paketleme",
+        "kelimeyle"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi",
+        "çanta çok güzel çok tarz durdu fotoğraftaki gibi deriside yumuşacık alabilirsiniz",
+        "ürün poşetle gönderilmiş bir kutu ile gönderim yapılabilirdi çanta fena sayılmaz"
+      ],
+      "all_reviews": [
+        {
+          "text": "çanta çok güzel çok tarz durdu fotoğraftaki gibi deriside yumuşacık alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün poşetle gönderilmiş bir kutu ile gönderim yapılabilirdi çanta fena sayılmaz",
+          "score": 5.0
+        },
+        {
+          "text": "rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Cüzdan Telefon",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alır",
+        "bayıldım",
+        "alıyor",
+        "cüzdan telefon",
+        "cüzdan",
+        "rahatlıkla",
+        "sert",
+        "şeyi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bayıldımmm fiyatına göre kalite şahane diğer renklerini de alacağım",
+        "bayıldım böyle bir renk arıyordum hep"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldımmm fiyatına göre kalite şahane diğer renklerini de alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım böyle bir renk arıyordum hep",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rengi / Boyut Ideal",
+      "review_count": 4,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "rengi",
+        "icin",
+        "gözüküyor",
+        "boyutta",
+        "sert",
+        "başka",
+        "ideal",
+        "beklediğim"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "ürün çok güzel ayrıca resimde sanki bir tık küçük gözüküyor ama aksine gayet büyük ve çok hoş kesinlikle almalısınız",
+        "rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün çok güzel ayrıca resimde sanki bir tık küçük gözüküyor ama aksine gayet büyük ve çok hoş kesinlikle almalısınız",
+          "score": 5.0
+        },
+        {
+          "text": "rengi güzel ama hem büyük hem de derisi şimdiden kırıştı uzun ömürlü olmayacak gibi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Resimdek",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "adet",
+        "resimdeki",
+        "istediğim",
+        "canta",
+        "göründüğü"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gorundugu gibi geldi normal baget cantalara gore daha buyuk ve kullanışlı"
+      ],
+      "all_reviews": [
+        {
+          "text": "gorundugu gibi geldi normal baget cantalara gore daha buyuk ve kullanışlı",
           "score": 5.0
         }
       ],

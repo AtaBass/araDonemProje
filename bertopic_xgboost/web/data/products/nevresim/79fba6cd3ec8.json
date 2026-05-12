@@ -8,7 +8,7 @@
   "overall_score": 4.9,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Bella Maison %100 Pamuk Line Çift kişilik Nevresim Takı** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Rengi & Renkleri Canlı** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **renkler** ve **dokusu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel taş gibi bir nevresim takımı renkleri içimi açtı çok sevdim\"\n• **Kumaşı Kaliteli**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kumaş** ve **rengi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Harıkalar zaten kumaşı soylemeye gerek yok kombınleyınce baska marka urunlerle de cok…\"\n• Kullanıcılar **Dokusu & Kalitesi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir. Örnek kullanıcı ifadesi: \"Çok kaliteli çıktı memnunuz\"\n• **Fiyata Kalite** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım a…\"\n• Müşteri yorumlarında **Kişilik** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Muhteşem tek kelimeyle canlı cıvıl cıvıl ve kaliteli bir ürün\"",
+  "summary": "**Bella Maison %100 Pamuk Line Çift kişilik Nevresim Takı** için 40 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Renk Canlı**: Kullanıcılar renk canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Canlı Kumaş**: Kullanıcılar canlı kumaş konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat / Lastikl Çarşaf**: Kullanıcılar fiyat / lastikl çarşaf konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kumaş / Rengi Canlı**: Kullanıcılar kumaş / rengi canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,9 +18,9 @@
   },
   "aspects": [
     {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 16,
-      "avg_score": 5.0,
+      "name": "Renk Canlı",
+      "review_count": 24,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,21 +33,217 @@
         "dokusu",
         "aynı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 91.7,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 8.3,
       "sample_reviews": [
         "hi açmadan direkt çeyize kaldırdım ama renkleri canlı güzel",
-        "renkleri ve dokusu çok güzel",
-        "çok güzel taş gibi bir nevresim takımı renkleri içimi açtı çok sevdim"
+        "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+        "renkleri ve dokusu çok güzel"
       ],
       "all_reviews": [
+        {
+          "text": "çoook güzel tam bir yaz rengi içim ferahlıyor böyle nevresim kullanınca paketleme ve kargo başarılı rengi de canlı",
+          "score": 5.0
+        },
         {
           "text": "harika bir nevresim takımı kesinlikle tavsiye ediyorum odaya renk kattı",
           "score": 5.0
         },
         {
+          "text": "bayılllldım neşem yerine geliyor renkleri gorunce",
+          "score": 5.0
+        },
+        {
+          "text": "renkleri o kadar güzel kiiii",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldımm resmen aşk yaşıyorum çok güzel kumaşı renkleri",
+          "score": 5.0
+        },
+        {
+          "text": "muhteşem tek kelimeyle canlı cıvıl cıvıl ve kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "hi açmadan direkt çeyize kaldırdım ama renkleri canlı güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel taş gibi bir nevresim takımı renkleri içimi açtı çok sevdim",
+          "score": 5.0
+        },
+        {
+          "text": "renkleri ve dokusu çok güzel",
+          "score": 5.0
+        },
+        {
           "text": "uzun zamandır aldığım en güzel nevresim kesinlikle hiç tereddüt etmeden alın yıkadım ne solma ne çekme oldu muhteşem",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
+      "review_count": 20,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 90.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 10.0,
+      "sample_reviews": [
+        "çoook güzel tam bir yaz rengi içim ferahlıyor böyle nevresim kullanınca paketleme ve kargo başarılı rengi de canlı",
+        "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+        "harıkalar zaten kumaşı soylemeye gerek yok kombınleyınce baska marka urunlerle de cok guzel oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "çoook güzel tam bir yaz rengi içim ferahlıyor böyle nevresim kullanınca paketleme ve kargo başarılı rengi de canlı",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir nevresim takımı kesinlikle tavsiye ediyorum odaya renk kattı",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldımm resmen aşk yaşıyorum çok güzel kumaşı renkleri",
+          "score": 5.0
+        },
+        {
+          "text": "muhteşem tek kelimeyle canlı cıvıl cıvıl ve kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "hi açmadan direkt çeyize kaldırdım ama renkleri canlı güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel taş gibi bir nevresim takımı renkleri içimi açtı çok sevdim",
+          "score": 5.0
+        },
+        {
+          "text": "harıkalar zaten kumaşı soylemeye gerek yok kombınleyınce baska marka urunlerle de cok guzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "benim yatağım 180 kucuk oldu ve kumaşı çok ince yapılı olduğu için iade ettim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
+      "review_count": 16,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
+      ],
+      "positive_pct": 87.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 12.5,
+      "sample_reviews": [
+        "çoook güzel tam bir yaz rengi içim ferahlıyor böyle nevresim kullanınca paketleme ve kargo başarılı rengi de canlı",
+        "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+        "henüz kullanmadım ama güzel görünüyor indirimden aldım turuncu seven kesinlikle alsın"
+      ],
+      "all_reviews": [
+        {
+          "text": "çoook güzel tam bir yaz rengi içim ferahlıyor böyle nevresim kullanınca paketleme ve kargo başarılı rengi de canlı",
+          "score": 5.0
+        },
+        {
+          "text": "henüz kullanmadım ama güzel görünüyor indirimden aldım turuncu seven kesinlikle alsın",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli çıktı memnunuz",
+          "score": 5.0
+        },
+        {
+          "text": "hi açmadan direkt çeyize kaldırdım ama renkleri canlı güzel",
+          "score": 5.0
+        },
+        {
+          "text": "muhteşem tek kelimeyle canlı cıvıl cıvıl ve kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
+          "score": 5.0
+        },
+        {
+          "text": "gayet kaliteli kumasi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel taş gibi bir nevresim takımı renkleri içimi açtı çok sevdim",
+        "harika bir nevresim takımı kesinlikle tavsiye ediyorum odaya renk kattı",
+        "hi açmadan direkt çeyize kaldırdım ama renkleri canlı güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bir nevresim takımı kesinlikle tavsiye ediyorum odaya renk kattı",
           "score": 5.0
         },
         {
@@ -60,6 +256,10 @@
         },
         {
           "text": "hi açmadan direkt çeyize kaldırdım ama renkleri canlı güzel",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldımm resmen aşk yaşıyorum çok güzel kumaşı renkleri",
           "score": 5.0
         },
         {
@@ -78,28 +278,28 @@
       "icon": "💬"
     },
     {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 10,
-      "avg_score": 5.0,
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 12,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "kumaşı",
         "kumaş",
-        "rengi",
         "pamuklu",
+        "rengi",
         "lastikli",
         "takım",
         "dokusu",
         "ayrı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
+        "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
         "harıkalar zaten kumaşı soylemeye gerek yok kombınleyınce baska marka urunlerle de cok guzel oldu",
-        "benim yatağım 180 kucuk oldu ve kumaşı çok ince yapılı olduğu için iade ettim",
-        "bayıldımm resmen aşk yaşıyorum çok güzel kumaşı renkleri"
+        "benim yatağım 180 kucuk oldu ve kumaşı çok ince yapılı olduğu için iade ettim"
       ],
       "all_reviews": [
         {
@@ -115,76 +315,11 @@
           "score": 5.0
         },
         {
-          "text": "gayet kaliteli kumasi",
+          "text": "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
           "score": 5.0
         },
         {
           "text": "benim yatağım 180 kucuk oldu ve kumaşı çok ince yapılı olduğu için iade ettim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Dokusu & Kalitesi",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "dokusu",
-        "kalitesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok kaliteli çıktı memnunuz",
-        "gerçekten çok güzeller",
-        "çok güzeller"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok kaliteli çıktı memnunuz",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzeller",
-          "score": 5.0
-        },
-        {
-          "text": "gerçekten çok güzeller",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 4,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
-        "henüz kullanmadım ama güzel görünüyor indirimden aldım turuncu seven kesinlikle alsın"
-      ],
-      "all_reviews": [
-        {
-          "text": "henüz kullanmadım ama güzel görünüyor indirimden aldım turuncu seven kesinlikle alsın",
           "score": 5.0
         },
         {
@@ -195,35 +330,182 @@
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 4,
+      "name": "Doku & Kalite",
+      "review_count": 12,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 83.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 16.7,
+      "sample_reviews": [
+        "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+        "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
+        "renkleri ve dokusu çok güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "renkleri ve dokusu çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli çıktı memnunuz",
+          "score": 5.0
+        },
+        {
+          "text": "muhteşem tek kelimeyle canlı cıvıl cıvıl ve kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
+          "score": 5.0
+        },
+        {
+          "text": "gayet kaliteli kumasi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Solma",
+      "review_count": 10,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "takımı",
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+        "harika bir nevresim takımı kesinlikle tavsiye ediyorum odaya renk kattı",
+        "çok güzel taş gibi bir nevresim takımı renkleri içimi açtı çok sevdim"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bir nevresim takımı kesinlikle tavsiye ediyorum odaya renk kattı",
+          "score": 5.0
+        },
+        {
+          "text": "uzun zamandır aldığım en güzel nevresim kesinlikle hiç tereddüt etmeden alın yıkadım ne solma ne çekme oldu muhteşem",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel taş gibi bir nevresim takımı renkleri içimi açtı çok sevdim",
+          "score": 5.0
+        },
+        {
+          "text": "hi açmadan direkt çeyize kaldırdım ama renkleri canlı güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel dokusu ama rengi bu kadar canlı değil çeyizim için aldım daha kullanmadım ama değiştirmiycem",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "muhteşem tek kelimeyle canlı cıvıl cıvıl ve kaliteli bir ürün",
-        "cok guzel yumusacik"
+        "harıkalar zaten kumaşı soylemeye gerek yok kombınleyınce baska marka urunlerle de cok guzel oldu",
+        "benim yatağım 180 kucuk oldu ve kumaşı çok ince yapılı olduğu için iade ettim",
+        "bayıldımm resmen aşk yaşıyorum çok güzel kumaşı renkleri"
       ],
       "all_reviews": [
         {
-          "text": "cok guzel yumusacik",
+          "text": "harıkalar zaten kumaşı soylemeye gerek yok kombınleyınce baska marka urunlerle de cok guzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldımm resmen aşk yaşıyorum çok güzel kumaşı renkleri",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
+          "score": 5.0
+        },
+        {
+          "text": "benim yatağım 180 kucuk oldu ve kumaşı çok ince yapılı olduğu için iade ettim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
+        "muhteşem tek kelimeyle canlı cıvıl cıvıl ve kaliteli bir ürün",
+        "çok kaliteli çıktı memnunuz"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok kaliteli çıktı memnunuz",
           "score": 5.0
         },
         {
           "text": "muhteşem tek kelimeyle canlı cıvıl cıvıl ve kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel renkler kumaş kalitesi her şeyi 5 yıldız",
+          "score": 5.0
+        },
+        {
+          "text": "gayet kaliteli kumasi",
           "score": 5.0
         }
       ],

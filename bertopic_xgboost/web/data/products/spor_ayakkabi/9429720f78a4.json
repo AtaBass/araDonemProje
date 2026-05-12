@@ -8,7 +8,7 @@
   "overall_score": 3.58,
   "overall_sentiment": "neutral",
   "stars": "★★★½☆",
-  "summary": "**Liger Unisex Bağcıklı Spor Sneaker Ayakkabı BEYAZ** için 19 müşteri yorumu değerlendirilmiştir. Kullanıcı görüşleri karma bir tablo ortaya koymakta, hem olumlu hem eleştirel değerlendirmeler bulunmaktadır.\n• **Numaramı & Kalıbı Rahat** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **derim** ve **kalip** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Biz çok begendik tesekkur ederiz bir numara büyük alin derim baska bi sikintisi yok\"\n• **Fiyata & Numaranıza** başlığında olumsuz deneyimler ön plana çıkmakta; müşteriler çeşitli sıkıntılar bildirmektedir, **taraklı** ve **rahatlığıyla** başta olmak üzere.\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **uygun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Fiyat performans ürünü bence\"\n• **Duruşu Rahat** başlığında olumsuz deneyimler ön plana çıkmakta; müşteriler çeşitli sıkıntılar bildirmektedir, **geniş** ve **kalitesi** başta olmak üzere.\n• **Rahat Kaliteli** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **alınır** ve **duruşu** konusu özellikle vurgulanmaktadır.",
+  "summary": "**Liger Unisex Bağcıklı Spor Sneaker Ayakkabı BEYAZ** için 19 yorum incelenmiştir.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Numaranıza**: Ürünün numaranıza özelliği hakkında karışık görüşler mevcut. Bazı kullanıcılar memnun kalırken, bazıları çeşitli eksiklikler olduğunu belirtmiş.\n• **Numaranıza & Tarakl**: Kullanıcılar genel olarak numaranıza & tarakl açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Numaram**: Kullanıcılar numaram konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Numaraniz**: Kullanıcılar numaraniz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar genel olarak fiyat performans açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.",
   "score_distribution": {
     "1": 4,
     "2": 1,
@@ -18,24 +18,124 @@
   },
   "aspects": [
     {
-      "name": "Numaramı & Kalıbı Rahat",
+      "name": "Numaranıza",
       "review_count": 6,
-      "avg_score": 3.83,
+      "avg_score": 3.5,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "ayak",
+        "numaranıza",
+        "kibar",
+        "biri",
+        "numaramı",
+        "tarakli",
+        "sıktı",
+        "ayağımı"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 33.3,
+      "neutral_pct": 16.7,
+      "sample_reviews": [
+        "çok rahat bir ayakkabı ancak numaralarda bir sorun var normalde 37 5 giyiyorum olmadığından 38 aldım o bile 37 numara gibi küçük parmağım dayandı 38 giyen biri 39 alsa bu sefer de büyük gelecek bence tam numaranızı almayın 1 numara büyük alın ve içine keçe falan koyun daha denemeden bu 37 dedim ama altında 38 yazıyor üretim hatası olduğunu düşünüyorum",
+        "iyi ürün göründüğü gibi bide uygun kendi ayakabı numaranıza göre alın",
+        "ayakkabı fotoğraflarda nasıl güzel duruyor sipariş verdim beş kuruş etmez insan iplerini takar yollar sanki siparişi hazırlayan personel zorla yaptırılmış gibi"
+      ],
+      "all_reviews": [
+        {
+          "text": "gercekten çok güzel ayakkabı tşk ederim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel ayakabi harika dokusu falan",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat bir ayakkabı ancak numaralarda bir sorun var normalde 37 5 giyiyorum olmadığından 38 aldım o bile 37 numara gibi küçük parmağım dayandı 38 giyen biri 39 alsa bu sefer de büyük gelecek bence tam numaranızı almayın 1 numara büyük alın ve içine keçe falan koyun daha denemeden bu 37 dedim ama altında 38 yazıyor üretim hatası olduğunu düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "iyi ürün göründüğü gibi bide uygun kendi ayakabı numaranıza göre alın",
+          "score": 4.0
+        },
+        {
+          "text": "bu kadar özensiz bir paketleme göç görmemiştim biri farklı numara nasıl yollanabiliyor anlamış değilim müşterilerinize karşı saygı özen göz kamaştırıyor",
+          "score": 1.0
+        },
+        {
+          "text": "ayakkabı fotoğraflarda nasıl güzel duruyor sipariş verdim beş kuruş etmez insan iplerini takar yollar sanki siparişi hazırlayan personel zorla yaptırılmış gibi",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaranıza & Tarakl",
+      "review_count": 5,
+      "avg_score": 4.0,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "ayak",
+        "almışım",
+        "numaranıza",
+        "taraklı",
+        "rahatlığıyla",
+        "geniş",
+        "paketleme",
+        "numaranizi"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 20.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "iyi ürün göründüğü gibi bide uygun kendi ayakabı numaranıza göre alın",
+        "çok rahat bir ayakkabı ancak numaralarda bir sorun var normalde 37 5 giyiyorum olmadığından 38 aldım o bile 37 numara gibi küçük parmağım dayandı 38 giyen biri 39 alsa bu sefer de büyük gelecek bence tam numaranızı almayın 1 numara büyük alın ve içine keçe falan koyun daha denemeden bu 37 dedim ama altında 38 yazıyor üretim hatası olduğunu düşünüyorum",
+        "ayakkabı fotoğraflarda nasıl güzel duruyor sipariş verdim beş kuruş etmez insan iplerini takar yollar sanki siparişi hazırlayan personel zorla yaptırılmış gibi"
+      ],
+      "all_reviews": [
+        {
+          "text": "gercekten çok güzel ayakkabı tşk ederim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel ayakabi harika dokusu falan",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat bir ayakkabı ancak numaralarda bir sorun var normalde 37 5 giyiyorum olmadığından 38 aldım o bile 37 numara gibi küçük parmağım dayandı 38 giyen biri 39 alsa bu sefer de büyük gelecek bence tam numaranızı almayın 1 numara büyük alın ve içine keçe falan koyun daha denemeden bu 37 dedim ama altında 38 yazıyor üretim hatası olduğunu düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "iyi ürün göründüğü gibi bide uygun kendi ayakabı numaranıza göre alın",
+          "score": 4.0
+        },
+        {
+          "text": "ayakkabı fotoğraflarda nasıl güzel duruyor sipariş verdim beş kuruş etmez insan iplerini takar yollar sanki siparişi hazırlayan personel zorla yaptırılmış gibi",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaram",
+      "review_count": 4,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
         "numaramı",
         "tane",
         "kalıbı",
         "derim",
-        "bayıldım",
         "almışım",
+        "bayıldım",
         "kalip",
-        "sağlam"
+        "paketleme"
       ],
-      "positive_pct": 33.3,
-      "negative_pct": 16.7,
-      "neutral_pct": 50.0,
+      "positive_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
       "sample_reviews": [
         "biz çok begendik tesekkur ederiz bir numara büyük alin derim baska bi sikintisi yok",
         "beğendim güzel geldi ama 38 olmasına rağmen küçük geldi herhalde kalıbı küçük",
@@ -51,96 +151,78 @@
           "score": 5.0
         },
         {
+          "text": "gercekten çok güzel ayakkabı tşk ederim",
+          "score": 5.0
+        },
+        {
           "text": "beğendim güzel geldi ama 38 olmasına rağmen küçük geldi herhalde kalıbı küçük",
           "score": 4.0
-        },
-        {
-          "text": "güzelll parasına göre yani çok bir şey beklemeyin",
-          "score": 4.0
-        },
-        {
-          "text": "hediye aldım beğenilmiş fakat boş kutu gönderilmiş not yazılmıştı not yok o yüzden 3yıldız verdim",
-          "score": 3.0
-        },
-        {
-          "text": "kargo hızlıydı bi günde elime ulaştı paketleme de güzeldi ama defolu geldi",
-          "score": 2.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata & Numaranıza",
-      "review_count": 3,
-      "avg_score": 2.33,
-      "sentiment": "negative",
-      "sentiment_label": "Olumsuz",
+      "name": "Numaraniz",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "ayak",
-        "almışım",
-        "fiyata",
-        "numaranıza",
-        "taraklı",
-        "rahatlığıyla",
-        "paketleme",
-        "geniş"
+        "numaranizi",
+        "alin",
+        "alınmalı",
+        "aldık",
+        "zamanla",
+        "aynı zamanda",
+        "öncede",
+        "kalıbı"
       ],
-      "positive_pct": 33.3,
-      "negative_pct": 66.7,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ayakkabı fotoğraflarda nasıl güzel duruyor sipariş verdim beş kuruş etmez insan iplerini takar yollar sanki siparişi hazırlayan personel zorla yaptırılmış gibi",
-        "bu kadar özensiz bir paketleme göç görmemiştim biri farklı numara nasıl yollanabiliyor anlamış değilim müşterilerinize karşı saygı özen göz kamaştırıyor",
-        "gercekten çok güzel ayakkabı tşk ederim"
+        "biz çok begendik tesekkur ederiz bir numara büyük alin derim baska bi sikintisi yok",
+        "kızıma aldım çok güzel biz tam kalıp aldık olsu"
       ],
       "all_reviews": [
         {
-          "text": "gercekten çok güzel ayakkabı tşk ederim",
+          "text": "biz çok begendik tesekkur ederiz bir numara büyük alin derim baska bi sikintisi yok",
           "score": 5.0
         },
         {
-          "text": "bu kadar özensiz bir paketleme göç görmemiştim biri farklı numara nasıl yollanabiliyor anlamış değilim müşterilerinize karşı saygı özen göz kamaştırıyor",
-          "score": 1.0
-        },
-        {
-          "text": "ayakkabı fotoğraflarda nasıl güzel duruyor sipariş verdim beş kuruş etmez insan iplerini takar yollar sanki siparişi hazırlayan personel zorla yaptırılmış gibi",
-          "score": 1.0
+          "text": "kızıma aldım çok güzel biz tam kalıp aldık olsu",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 3,
-      "avg_score": 4.67,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "review_count": 2,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "performans",
         "fiyat performans",
         "fiyat",
-        "fiyata",
         "uygun",
         "emeği",
         "kibar",
-        "arkadaşlar"
+        "arkadaşlar",
+        "kalitesi"
       ],
-      "positive_pct": 66.7,
+      "positive_pct": 0.0,
       "negative_pct": 0.0,
-      "neutral_pct": 33.3,
+      "neutral_pct": 100.0,
       "sample_reviews": [
         "fiyat performans ürünü bence",
-        "çok iyi tavsiye edilir",
-        "fiya perfonmans ürünü"
+        "iyi ürün göründüğü gibi bide uygun kendi ayakabı numaranıza göre alın"
       ],
       "all_reviews": [
         {
-          "text": "çok iyi tavsiye edilir",
-          "score": 5.0
-        },
-        {
-          "text": "fiya perfonmans ürünü",
-          "score": 5.0
+          "text": "iyi ürün göründüğü gibi bide uygun kendi ayakabı numaranıza göre alın",
+          "score": 4.0
         },
         {
           "text": "fiyat performans ürünü bence",
@@ -150,7 +232,7 @@
       "icon": "💬"
     },
     {
-      "name": "Duruşu Rahat",
+      "name": "Geniş",
       "review_count": 2,
       "avg_score": 3.0,
       "sentiment": "neutral",
@@ -160,21 +242,21 @@
         "kalitesi",
         "olduğunu",
         "zamanla",
-        "duruşu rahat",
-        "rahat rahat",
+        "çokk",
         "numaram",
-        "çokk"
+        "yumuşak",
+        "fakat"
       ],
       "positive_pct": 50.0,
       "negative_pct": 50.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kalitesiz iki gün bile giyemezsin verdiğim paraya yazık",
-        "kızıma aldım çok güzel biz tam kalıp aldık olsu"
+        "çok rahat bir ayakkabı ancak numaralarda bir sorun var normalde 37 5 giyiyorum olmadığından 38 aldım o bile 37 numara gibi küçük parmağım dayandı 38 giyen biri 39 alsa bu sefer de büyük gelecek bence tam numaranızı almayın 1 numara büyük alın ve içine keçe falan koyun daha denemeden bu 37 dedim ama altında 38 yazıyor üretim hatası olduğunu düşünüyorum",
+        "kalitesiz iki gün bile giyemezsin verdiğim paraya yazık"
       ],
       "all_reviews": [
         {
-          "text": "kızıma aldım çok güzel biz tam kalıp aldık olsu",
+          "text": "çok rahat bir ayakkabı ancak numaralarda bir sorun var normalde 37 5 giyiyorum olmadığından 38 aldım o bile 37 numara gibi küçük parmağım dayandı 38 giyen biri 39 alsa bu sefer de büyük gelecek bence tam numaranızı almayın 1 numara büyük alın ve içine keçe falan koyun daha denemeden bu 37 dedim ama altında 38 yazıyor üretim hatası olduğunu düşünüyorum",
           "score": 5.0
         },
         {
@@ -185,35 +267,35 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat Kaliteli",
+      "name": "Duruyo",
       "review_count": 2,
       "avg_score": 3.0,
       "sentiment": "neutral",
       "sentiment_label": "Karışık",
       "top_terms": [
-        "rahat kaliteli",
-        "alınır",
-        "duruşu",
-        "bayıldım rahat",
-        "rahat bayıldım",
-        "hafif",
-        "sağlam",
+        "alınmalı",
+        "duruyo",
+        "asla",
+        "alin",
+        "yumuşak",
+        "istediğim",
+        "kalıp kalıp",
         "bayıldım"
       ],
       "positive_pct": 50.0,
       "negative_pct": 50.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel ayakabi harika dokusu falan",
-        "lekeli ve dikisleri sökük"
+        "ayakkabı fotoğraflarda nasıl güzel duruyor sipariş verdim beş kuruş etmez insan iplerini takar yollar sanki siparişi hazırlayan personel zorla yaptırılmış gibi",
+        "biz çok begendik tesekkur ederiz bir numara büyük alin derim baska bi sikintisi yok"
       ],
       "all_reviews": [
         {
-          "text": "güzel ayakabi harika dokusu falan",
+          "text": "biz çok begendik tesekkur ederiz bir numara büyük alin derim baska bi sikintisi yok",
           "score": 5.0
         },
         {
-          "text": "lekeli ve dikisleri sökük",
+          "text": "ayakkabı fotoğraflarda nasıl güzel duruyor sipariş verdim beş kuruş etmez insan iplerini takar yollar sanki siparişi hazırlayan personel zorla yaptırılmış gibi",
           "score": 1.0
         }
       ],

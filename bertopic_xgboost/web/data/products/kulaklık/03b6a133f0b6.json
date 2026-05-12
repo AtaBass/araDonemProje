@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**TARÇIN Taşınabilir 4K Destekli Full HD Projektör Oda Ne** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata Kalite** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kullanışlı** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim görüntü süper hediyeniz için çok teşekkürler paketleme çok iyi zarar gör…\"\n• **Kaliteli & Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sorun** ve **paketlemesi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix yo…\"\n• Kullanıcılar **Görüntü Kalitesi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kullanışlı** ve **oglum** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgil…\"\n• **Kalitesi & Fiyata Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kılıf** ve **kaliteli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özell…\"\n• Müşteri yorumlarında **Kılıfı & Çıktı** başlığı altında yoğun bir memnuniyet gözlemlenmektedir. Örnek kullanıcı ifadesi: \"Urune bayildik cocuklar nerdeyse her aksam duvara yansitarak film keyfi yapiyor\"",
+  "summary": "**TARÇIN Taşınabilir 4K Destekli Full HD Projektör Oda Ne** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Şarja & Hiçbir**: Kullanıcılar şarja & hiçbir konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Görünt Kalite**: Kullanıcılar görünt kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Müzik Dinlerken**: Kullanıcılar müzik dinlerken konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,40 +18,36 @@
   },
   "aspects": [
     {
-      "name": "Fiyata Kalite",
-      "review_count": 16,
+      "name": "Şarja & Hiçbir",
+      "review_count": 36,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "paketleme",
-        "kullanışlı",
-        "sağlam",
         "şarja",
-        "fiyata kalite",
         "hiçbir",
-        "kaliteli",
-        "üründen"
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
         "çok beğendim görüntü süper hediyeniz için çok teşekkürler paketleme çok iyi zarar görmeden gelmiş elinize emeğinize sağlık",
-        "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler",
-        "beklentimi gerçekten karşılayan çok güzel bir ürün yanında gönderilen hediye için de teşekkürler içiniz rahat tercih edebilirsiniz"
+        "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler",
+          "text": "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim",
           "score": 5.0
         },
         {
-          "text": "beklentimi gerçekten karşılayan çok güzel bir ürün yanında gönderilen hediye için de teşekkürler içiniz rahat tercih edebilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel paketlenmiş satıcı da gayet ilgili okul projem için almıştım çok memnun kaldım teşekkür ederim",
+          "text": "ürün güzel paketlenmiş beklediğimden çok daha iyi çıktı tam bir fiyat ürünü",
           "score": 5.0
         },
         {
@@ -59,87 +55,15 @@
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel geldi iyi paketlenmiş hediye için de teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "harika bir denyim çok güzel hediye içinde ayrıca teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Fiyat Performans",
-      "review_count": 12,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "beklediğimden",
-        "sorun",
-        "paketleme",
-        "paketlemesi",
-        "performans",
-        "tane",
-        "orijinal"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
-        "netlik çok güzel hoparlöre bağlayınca efsane oluyor şuan öğleden sonra 15.01 gibi çektim ama eminim akşam daha güzel olacak dedim vede öyle oldu paketeleme güzeldi inşallah sorun çıkarmaz ayrıca satıcıya önerimdir kumandaya sesli konuşma eklenebilir fiyat farkıda olsa güzel ve cazibeli bir özellik olabilir teşekkür ediyorum hayırlı işler",
-        "ailecek keyifli vakit geçirebileceğiniz kaliteli bi ürün paketlemiside çok güzeldi hızlı bir şekilde geldi"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün güzel paketlenmiş beklediğimden çok daha iyi çıktı tam bir fiyat ürünü",
-          "score": 5.0
-        },
-        {
-          "text": "netlik çok güzel hoparlöre bağlayınca efsane oluyor şuan öğleden sonra 15.01 gibi çektim ama eminim akşam daha güzel olacak dedim vede öyle oldu paketeleme güzeldi inşallah sorun çıkarmaz ayrıca satıcıya önerimdir kumandaya sesli konuşma eklenebilir fiyat farkıda olsa güzel ve cazibeli bir özellik olabilir teşekkür ediyorum hayırlı işler",
-          "score": 5.0
-        },
-        {
-          "text": "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
-          "score": 5.0
-        },
-        {
           "text": "ailecek keyifli vakit geçirebileceğiniz kaliteli bi ürün paketlemiside çok güzeldi hızlı bir şekilde geldi",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Görüntü Kalitesi",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "oglum",
-        "görüntü kalitesi",
-        "iyii",
-        "bende",
-        "görüntü",
-        "ilgili",
-        "alınabilecek"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum",
-        "ürün gerçekten beklentimin cok cok üzerinde cok teşekkür ederim hediyesi için ve ilgi alakalarından dolayı ayrıca kullanmaya başladık görüntülerinide ekliyorum cok kaliteli",
-        "ürün kalitesi çok güzel kolayca kurulum gerçekleştirdim yanında gönderilen hediyeyi de çok beğendim"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum",
+          "text": "gayet kullanışlı bir ürün hızlı elime ulaştı beklentimin çok üzerinde kaliteli teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel geldi iyi paketlenmiş hediye için de teşekkürler",
           "score": 5.0
         },
         {
@@ -151,35 +75,55 @@
           "score": 5.0
         },
         {
+          "text": "ürün hızlıca elime ulaştı kendinden uygulamaları olması çok iyi avantaj görüntü kalitesi gayet iyi yüksek sesli değil fiyatına göre çok iyi",
+          "score": 5.0
+        },
+        {
           "text": "ürün kalitesi çok güzel kolayca kurulum gerçekleştirdim yanında gönderilen hediyeyi de çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "beklentimi gerçekten karşılayan çok güzel bir ürün yanında gönderilen hediye için de teşekkürler içiniz rahat tercih edebilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kalitesi & Fiyata Performans",
-      "review_count": 7,
+      "name": "Fiyat Performans",
+      "review_count": 31,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kalitesi",
-        "sesi",
-        "şarj",
-        "kılıf",
-        "fiyata",
-        "kalitesi kalitesi",
-        "bayıldım",
-        "kaliteli"
+        "fiyat performans",
+        "performans",
+        "performans fiyat",
+        "kalitesi baya",
+        "alin",
+        "sorunsuz",
+        "diye",
+        "tane"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim",
-        "ürün hızlıca elime ulaştı kendinden uygulamaları olması çok iyi avantaj görüntü kalitesi gayet iyi yüksek sesli değil fiyatına göre çok iyi",
-        "gayet kullanışlı bir ürün hızlı elime ulaştı beklentimin çok üzerinde kaliteli teşekkür ediyorum"
+        "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler",
+        "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+        "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim"
       ],
       "all_reviews": [
         {
@@ -187,42 +131,287 @@
           "score": 5.0
         },
         {
-          "text": "gayet kullanışlı bir ürün hızlı elime ulaştı beklentimin çok üzerinde kaliteli teşekkür ediyorum",
+          "text": "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+          "score": 5.0
+        },
+        {
+          "text": "netlik çok güzel hoparlöre bağlayınca efsane oluyor şuan öğleden sonra 15.01 gibi çektim ama eminim akşam daha güzel olacak dedim vede öyle oldu paketeleme güzeldi inşallah sorun çıkarmaz ayrıca satıcıya önerimdir kumandaya sesli konuşma eklenebilir fiyat farkıda olsa güzel ve cazibeli bir özellik olabilir teşekkür ediyorum hayırlı işler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel paketlenmiş beklediğimden çok daha iyi çıktı tam bir fiyat ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalitesi çok güzel kolayca kurulum gerçekleştirdim yanında gönderilen hediyeyi de çok beğendim",
           "score": 5.0
         },
         {
           "text": "ürün hızlıca elime ulaştı kendinden uygulamaları olması çok iyi avantaj görüntü kalitesi gayet iyi yüksek sesli değil fiyatına göre çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "hediye olarak aldım gayet güzel fiyatıma göre çok güzel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten beklentimin cok cok üzerinde cok teşekkür ederim hediyesi için ve ilgi alakalarından dolayı ayrıca kullanmaya başladık görüntülerinide ekliyorum cok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "gayet kullanışlı bir ürün hızlı elime ulaştı beklentimin çok üzerinde kaliteli teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ailecek keyifli vakit geçirebileceğiniz kaliteli bi ürün paketlemiside çok güzeldi hızlı bir şekilde geldi",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kılıfı & Çıktı",
-      "review_count": 4,
+      "name": "Görünt Kalite",
+      "review_count": 26,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "para",
-        "kılıfı",
-        "yeğenime",
-        "çıktı",
-        "öneriyorum",
-        "defa"
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "urune bayildik cocuklar nerdeyse her aksam duvara yansitarak film keyfi yapiyor",
-        "kalıtelı erkek arkadaşımın evıne aldım"
+        "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum",
+        "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+        "ürün gerçekten beklentimin cok cok üzerinde cok teşekkür ederim hediyesi için ve ilgi alakalarından dolayı ayrıca kullanmaya başladık görüntülerinide ekliyorum cok kaliteli"
       ],
       "all_reviews": [
         {
-          "text": "urune bayildik cocuklar nerdeyse her aksam duvara yansitarak film keyfi yapiyor",
+          "text": "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim görüntü süper hediyeniz için çok teşekkürler paketleme çok iyi zarar görmeden gelmiş elinize emeğinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel paketlenmiş satıcı da gayet ilgili okul projem için almıştım çok memnun kaldım teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalitesi çok güzel kolayca kurulum gerçekleştirdim yanında gönderilen hediyeyi de çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün hızlıca elime ulaştı kendinden uygulamaları olması çok iyi avantaj görüntü kalitesi gayet iyi yüksek sesli değil fiyatına göre çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten beklentimin cok cok üzerinde cok teşekkür ederim hediyesi için ve ilgi alakalarından dolayı ayrıca kullanmaya başladık görüntülerinide ekliyorum cok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "gayet kullanışlı bir ürün hızlı elime ulaştı beklentimin çok üzerinde kaliteli teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ailecek keyifli vakit geçirebileceğiniz kaliteli bi ürün paketlemiside çok güzeldi hızlı bir şekilde geldi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Müzik Dinlerken",
+      "review_count": 23,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklediğimden",
+        "aldık",
+        "kalitesi",
+        "sesi",
+        "müzik dinlerken",
+        "iyidi",
+        "sesim",
+        "dinlerken"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+        "ürün hızlıca elime ulaştı kendinden uygulamaları olması çok iyi avantaj görüntü kalitesi gayet iyi yüksek sesli değil fiyatına göre çok iyi",
+        "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+          "score": 5.0
+        },
+        {
+          "text": "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel paketlenmiş beklediğimden çok daha iyi çıktı tam bir fiyat ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalitesi çok güzel kolayca kurulum gerçekleştirdim yanında gönderilen hediyeyi de çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün hızlıca elime ulaştı kendinden uygulamaları olması çok iyi avantaj görüntü kalitesi gayet iyi yüksek sesli değil fiyatına göre çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten beklentimin cok cok üzerinde cok teşekkür ederim hediyesi için ve ilgi alakalarından dolayı ayrıca kullanmaya başladık görüntülerinide ekliyorum cok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "gayet kullanışlı bir ürün hızlı elime ulaştı beklentimin çok üzerinde kaliteli teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ailecek keyifli vakit geçirebileceğiniz kaliteli bi ürün paketlemiside çok güzeldi hızlı bir şekilde geldi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
+      "review_count": 20,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "sesi",
+        "şarj",
+        "kalitesi kalitesi",
+        "kılıf",
+        "bayıldım",
+        "dışarı",
+        "paketlemesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+        "ürün hızlıca elime ulaştı kendinden uygulamaları olması çok iyi avantaj görüntü kalitesi gayet iyi yüksek sesli değil fiyatına göre çok iyi",
+        "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "kargo hızlı geldi kurulum çok kolaydı 1080p çözünürlük gerçekten fark yaratıyor özellikle maç izlerken çok keyifli android arayüzü akıcı wifi bağlantısı güçlü hediye nemlendirici de ofisimde kullanıyorum hem şık hem de güzel çalışıyor ürün fiyatına göre fazlasıyla kaliteli gözüm kapalı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "görüntü kalitesi güzel bu fiyata alınabilecek güzel ve kaliteli bir ürün satıcı ilgili teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalitesi çok güzel kolayca kurulum gerçekleştirdim yanında gönderilen hediyeyi de çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün hızlıca elime ulaştı kendinden uygulamaları olması çok iyi avantaj görüntü kalitesi gayet iyi yüksek sesli değil fiyatına göre çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten beklentimin cok cok üzerinde cok teşekkür ederim hediyesi için ve ilgi alakalarından dolayı ayrıca kullanmaya başladık görüntülerinide ekliyorum cok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "gayet kullanışlı bir ürün hızlı elime ulaştı beklentimin çok üzerinde kaliteli teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ailecek keyifli vakit geçirebileceğiniz kaliteli bi ürün paketlemiside çok güzeldi hızlı bir şekilde geldi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Marka / Fiyat Performans",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "marka",
+        "süresi",
+        "efsane",
+        "beyendi",
+        "aldı",
+        "kargolama",
+        "aydır",
+        "saglam"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+        "netlik çok güzel hoparlöre bağlayınca efsane oluyor şuan öğleden sonra 15.01 gibi çektim ama eminim akşam daha güzel olacak dedim vede öyle oldu paketeleme güzeldi inşallah sorun çıkarmaz ayrıca satıcıya önerimdir kumandaya sesli konuşma eklenebilir fiyat farkıda olsa güzel ve cazibeli bir özellik olabilir teşekkür ediyorum hayırlı işler",
+        "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "netlik çok güzel hoparlöre bağlayınca efsane oluyor şuan öğleden sonra 15.01 gibi çektim ama eminim akşam daha güzel olacak dedim vede öyle oldu paketeleme güzeldi inşallah sorun çıkarmaz ayrıca satıcıya önerimdir kumandaya sesli konuşma eklenebilir fiyat farkıda olsa güzel ve cazibeli bir özellik olabilir teşekkür ediyorum hayırlı işler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel paketlenmiş satıcı da gayet ilgili okul projem için almıştım çok memnun kaldım teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+          "score": 5.0
+        },
+        {
+          "text": "hediye olarak aldım gayet güzel fiyatıma göre çok güzel bir ürün",
           "score": 5.0
         },
         {
@@ -233,30 +422,70 @@
       "icon": "💬"
     },
     {
-      "name": "Telefon & Uygun",
-      "review_count": 2,
+      "name": "Sorunsuz & Uygun",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "icin",
-        "aynı",
-        "telefon",
-        "beklemiyordum",
+        "almak",
+        "sorunsuz",
         "uygun",
-        "performans",
-        "bağlantı",
-        "sıkıntı"
+        "valla",
+        "paketleme",
+        "direk",
+        "yapılmış",
+        "herşey"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "cok iyi gercekden bekledigiimde ustunde hediye icin tesekkurler isik yansimasina rahmen cok iyi"
+        "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+        "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler",
+        "çok beğendim görüntü süper hediyeniz için çok teşekkürler paketleme çok iyi zarar görmeden gelmiş elinize emeğinize sağlık"
       ],
       "all_reviews": [
         {
-          "text": "cok iyi gercekden bekledigiimde ustunde hediye icin tesekkurler isik yansimasina rahmen cok iyi",
+          "text": "ürün tam bir fiyat performans ürünü çok memnun kaldım sorunsuz elime ulaştı yanında gönderdiğiniz hediyeniz içinde ayrıca teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "uzun araştırmalardan sonra bu projektörü aldım android tv olması sayesinde netflix youtube prime hepsi içinde geliyor ekstra cihaz bağlamaya gerek kalmadı görüntü kalitesi gündüz bile gayet iyi fan sesi çok az paketlemesi sağlamdı yanında hediye olarak gelen h2o oda nemlendiricisi çok tatlı ve kaliteli böyle hediyeler markaya güveni artırıyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim görüntü süper hediyeniz için çok teşekkürler paketleme çok iyi zarar görmeden gelmiş elinize emeğinize sağlık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kılıf & Çıktı",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "para",
+        "yeğenime",
+        "kılıfı",
+        "çıktı",
+        "öneriyorum",
+        "defa",
+        "saglam"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün güzel paketlenmiş beklediğimden çok daha iyi çıktı tam bir fiyat ürünü"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün güzel paketlenmiş beklediğimden çok daha iyi çıktı tam bir fiyat ürünü",
           "score": 5.0
         }
       ],

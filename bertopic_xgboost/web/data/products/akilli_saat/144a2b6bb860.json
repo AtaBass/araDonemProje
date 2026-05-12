@@ -8,7 +8,7 @@
   "overall_score": 4.5,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Spovan Electro Air Basınçlı Tansiyon Kan Şeker Yağ Ölçe** için 8 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Sağlam** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok başarılı buldum ürünü satıcı çok iyi kurulum için de çok yardımcı oldular ölçümle…\"\n• **Kullanışlı & Asuman Hanım** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **güvenilir** ve **farklı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Tansiyon ölçerken kolu titremesi halde kolu titriyor diyor\"",
+  "summary": "Spovan Electro Air Basınçlı Tansiyon Kan Şeker Yağ Ölçe, kullanıcı memnuniyetini yüksek oranlarda sunuyor. Ürün kurulumu kolay ve hızlı bir şekilde gerçekleştirilebiliyor, olumlu yorumlar bu yönüyle hakimdir. Ayrıca, ürünün özellikleri de kullanıcıların beğenmesini sağlıyor ve olumsuz yorum yok denecek kadar az. Overall, Spovan Electro Air Basınçlı Tansiyon Kan Şeker Yağ Ölçe, yüksek puanına ulaşan bir üründür.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Sağlam",
+      "name": "Kurulum Kolay",
       "review_count": 3,
-      "avg_score": 5.0,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "sesli",
+        "ürünler",
+        "aydır",
+        "kurulumu kolay",
+        "ogluma",
+        "kurulumu",
+        "şimdilik",
+        "fiyat"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 66.7,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 33.3,
       "sample_reviews": [
+        "sürekli olarak parmaklarımı delmekten sıkıldığım için böyle bir ürün arayışındaydım sosyal medyadan reklamlarını görünce merak ettim ve satın aldım ürün sağlık ölçümleri konusunda gerçekten doğruya yakın sonuçlar veriyor ayrıca donanımsal olarak da çok hoşuma gitti kolda da çok şık duruyor",
         "çok başarılı buldum ürünü satıcı çok iyi kurulum için de çok yardımcı oldular ölçümleri kuralına uygun yaptırdı ve hızlıca çözümlendi iyi ve yakın değerler sunuyor kullanımı çok basit teşekkürler",
-        "gayet güzel ölçümleri iphone ile tam uyumlu ayrıca hediyesi ile geldi çok teşekkür ederim iphone 16 pro max ile tam uyumlu çalışıyor spovan gerçekten başarmış sağlık asistanı",
-        "harika bir saat tüm fonksiyonları çalışıyor çok teşekkür ediyorum"
+        "iyidir kulanlmı kolay"
       ],
       "all_reviews": [
         {
@@ -47,52 +47,45 @@
           "score": 5.0
         },
         {
-          "text": "gayet güzel ölçümleri iphone ile tam uyumlu ayrıca hediyesi ile geldi çok teşekkür ederim iphone 16 pro max ile tam uyumlu çalışıyor spovan gerçekten başarmış sağlık asistanı",
-          "score": 5.0
-        },
-        {
-          "text": "harika bir saat tüm fonksiyonları çalışıyor çok teşekkür ediyorum",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı & Asuman Hanım",
-      "review_count": 3,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "güvenilir",
-        "farklı",
-        "gerek",
-        "sağlam",
-        "hanım",
-        "asuman hanım",
-        "rahatlıkla"
-      ],
-      "positive_pct": 33.3,
-      "negative_pct": 0.0,
-      "neutral_pct": 66.7,
-      "sample_reviews": [
-        "tansiyon ölçerken kolu titremesi halde kolu titriyor diyor",
-        "harika bşi saat parasını sonuna kadar hak ediyor",
-        "iyidir kulanlmı kolay"
-      ],
-      "all_reviews": [
-        {
-          "text": "harika bşi saat parasını sonuna kadar hak ediyor",
+          "text": "sürekli olarak parmaklarımı delmekten sıkıldığım için böyle bir ürün arayışındaydım sosyal medyadan reklamlarını görünce merak ettim ve satın aldım ürün sağlık ölçümleri konusunda gerçekten doğruya yakın sonuçlar veriyor ayrıca donanımsal olarak da çok hoşuma gitti kolda da çok şık duruyor",
           "score": 5.0
         },
         {
           "text": "iyidir kulanlmı kolay",
           "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellik",
+      "review_count": 2,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
+        "paketleme",
+        "bayıldım"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "ölçümlerin doğruluğu şüpheli saglamasi manuel cihazlarla yapıldığında arada epey fark oluyor verdiği sonuçlara itibar edemiyorum o nedenle",
+        "harika bir saat tüm fonksiyonları çalışıyor çok teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bir saat tüm fonksiyonları çalışıyor çok teşekkür ediyorum",
+          "score": 5.0
         },
         {
-          "text": "tansiyon ölçerken kolu titremesi halde kolu titriyor diyor",
-          "score": 3.0
+          "text": "ölçümlerin doğruluğu şüpheli saglamasi manuel cihazlarla yapıldığında arada epey fark oluyor verdiği sonuçlara itibar edemiyorum o nedenle",
+          "score": 4.0
         }
       ],
       "icon": "💬"

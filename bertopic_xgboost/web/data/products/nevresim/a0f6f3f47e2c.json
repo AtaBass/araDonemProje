@@ -8,7 +8,7 @@
   "overall_score": 4.62,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Bella Maison Olwen Pamuklu Çift Kişilik Nevresim Takımı** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok kaliteli bir ürün çok beğendim gönül rahatlığıyla alabilirsiniz\"\n• **Fiyata Kalite** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün güzel çeyiz için aldım henüz açıp bakma fırsatım olmadı ama keşke kutulu olsaydı\"\n• Kullanıcılar **Çekme Solma** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **takımı** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Hediye aldım çok beğendim arkadaşım da çok beğendi çok güzel deseni\"\n• **Çekme Yapmadı** başlığında olumsuz deneyimler ön plana çıkmakta; müşteriler çeşitli sıkıntılar bildirmektedir, **lastikli** ve **pamuk** başta olmak üzere.\n• Müşteri yorumlarında **Kumaşı Kaliteli** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kumaş** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım\"",
+  "summary": "**Bella Maison Olwen Pamuklu Çift Kişilik Nevresim Takımı** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kalite**: Kullanıcılar genel olarak kalite açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Çekme Solma**: Kullanıcılar çekme solma konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketlenme & Kalite**: Kullanıcılar genel olarak paketlenme & kalite açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Kişilik & Alma**: Kullanıcılar kişilik & alma konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Doku & Kalite**: Ürünün doku & kalite özelliği hakkında karışık görüşler mevcut. Bazı kullanıcılar memnun kalırken, bazıları çeşitli eksiklikler olduğunu belirtmiş.",
   "score_distribution": {
     "1": 3,
     "2": 0,
@@ -18,36 +18,36 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 28,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Kalite",
+      "review_count": 36,
+      "avg_score": 4.47,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "positive_pct": 72.2,
+      "negative_pct": 8.3,
+      "neutral_pct": 19.4,
       "sample_reviews": [
-        "çok kaliteli bir ürün çok beğendim gönül rahatlığıyla alabilirsiniz",
-        "çok beğendim çeyizime aldım günlük kullanıma uygun",
-        "ben çok beğendim çeyizime abdım"
+        "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım",
+        "ürün güzel çeyiz için aldım henüz açıp bakma fırsatım olmadı ama keşke kutulu olsaydı",
+        "çeyizim için aldım henüz kullanmadım ama dokusu yumuşacıktı beğendim"
       ],
       "all_reviews": [
         {
-          "text": "çok beğendim çeyizime aldım",
+          "text": "görümceme çeyiz hediyesi aldım beğendi teşekkür ederimm",
           "score": 5.0
         },
         {
-          "text": "çeyizim için aldım güzel",
+          "text": "çok beğendim çeyizime aldım",
           "score": 5.0
         },
         {
@@ -55,23 +55,19 @@
           "score": 5.0
         },
         {
-          "text": "bayıldım o kadar güzel duruyor ki severek kullanıyorum modeli harika",
+          "text": "çeyizim için aldım güzel",
           "score": 5.0
         },
         {
-          "text": "harika düşünmeden alın",
+          "text": "yumuşacık kaliteli bir ürün",
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel çok beğendim",
+          "text": "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım",
           "score": 5.0
         },
         {
           "text": "çok beğendim çeyizime aldım günlük kullanıma uygun",
-          "score": 5.0
-        },
-        {
-          "text": "gayet güzel beğenerek kullanıyorum",
           "score": 5.0
         },
         {
@@ -81,37 +77,77 @@
         {
           "text": "çeyizime aldım çok güzel",
           "score": 5.0
+        },
+        {
+          "text": "çeyizim için aldım henüz kullanmadım ama dokusu yumuşacıktı beğendim",
+          "score": 4.0
+        },
+        {
+          "text": "ürün güzel çeyiz için aldım henüz açıp bakma fırsatım olmadı ama keşke kutulu olsaydı",
+          "score": 4.0
+        },
+        {
+          "text": "güzel paketlenmiş çeyiz için aldım",
+          "score": 4.0
+        },
+        {
+          "text": "pamuk değil kalitesi kötü",
+          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata Kalite",
-      "review_count": 9,
-      "avg_score": 4.22,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Çekme Solma",
+      "review_count": 29,
+      "avg_score": 4.76,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
+        "takımı",
+        "sorunsuz",
         "çeyiz",
-        "beklemiyordum"
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
       ],
-      "positive_pct": 22.2,
+      "positive_pct": 75.9,
       "negative_pct": 0.0,
-      "neutral_pct": 77.8,
+      "neutral_pct": 24.1,
       "sample_reviews": [
         "ürün güzel çeyiz için aldım henüz açıp bakma fırsatım olmadı ama keşke kutulu olsaydı",
         "çeyizim için aldım henüz kullanmadım ama dokusu yumuşacıktı beğendim",
-        "güzel paketlenmiş çeyiz için aldım"
+        "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım"
       ],
       "all_reviews": [
         {
-          "text": "yumuşacık kaliteli bir ürün",
+          "text": "görümceme çeyiz hediyesi aldım beğendi teşekkür ederimm",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim çeyizime aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ben çok beğendim çeyizime abdım",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için aldım güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim çeyizime aldım günlük kullanıma uygun",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım çok güzel",
           "score": 5.0
         },
         {
@@ -130,42 +166,188 @@
       "icon": "💬"
     },
     {
-      "name": "Çekme Solma",
-      "review_count": 6,
+      "name": "Paketlenme & Kalite",
+      "review_count": 23,
+      "avg_score": 4.48,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 87.0,
+      "negative_pct": 13.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok beğendim çeyizime aldım günlük kullanıma uygun",
+        "ben çok beğendim çeyizime abdım",
+        "çok beğendim çeyizime aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok beğendim çeyizime aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ben çok beğendim çeyizime abdım",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşacık kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim çeyizime aldım günlük kullanıma uygun",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli bir ürün çok beğendim gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "pamuk değil kalitesi kötü",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik & Alma",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "takımı",
-        "sorunsuz",
-        "çeyiz",
-        "çekme solma",
-        "beklediğimden",
-        "almak",
-        "yapmadı",
-        "asla"
+        "çeyizime",
+        "çift kişilik",
+        "kişilik",
+        "almayı",
+        "almayı düşünüyorum",
+        "düşünüyorum",
+        "çift",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "görümceme çeyiz hediyesi aldım beğendi teşekkür ederimm",
-        "hediye aldım çok beğendim arkadaşım da çok beğendi çok güzel deseni"
+        "çok beğendim çeyizime aldım günlük kullanıma uygun",
+        "ben çok beğendim çeyizime abdım",
+        "çok beğendim çeyizime aldım"
       ],
       "all_reviews": [
         {
-          "text": "görümceme çeyiz hediyesi aldım beğendi teşekkür ederimm",
+          "text": "çok beğendim çeyizime aldım",
           "score": 5.0
         },
         {
-          "text": "hediye aldım çok beğendim arkadaşım da çok beğendi çok güzel deseni",
+          "text": "ben çok beğendim çeyizime abdım",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim çeyizime aldım günlük kullanıma uygun",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Çekme Yapmadı",
+      "name": "Doku & Kalite",
+      "review_count": 11,
+      "avg_score": 3.73,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 54.5,
+      "negative_pct": 27.3,
+      "neutral_pct": 18.2,
+      "sample_reviews": [
+        "çeyizim için aldım henüz kullanmadım ama dokusu yumuşacıktı beğendim",
+        "pamuk değil kalitesi kötü",
+        "çok kaliteli bir ürün çok beğendim gönül rahatlığıyla alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok kaliteli bir ürün çok beğendim gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşacık kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için aldım henüz kullanmadım ama dokusu yumuşacıktı beğendim",
+          "score": 4.0
+        },
+        {
+          "text": "pamuk değil kalitesi kötü",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım",
+        "bayıldım o kadar güzel duruyor ki severek kullanıyorum modeli harika"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldım o kadar güzel duruyor ki severek kullanıyorum modeli harika",
+          "score": 5.0
+        },
+        {
+          "text": "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
       "review_count": 3,
       "avg_score": 1.0,
       "sentiment": "negative",
@@ -175,10 +357,10 @@
         "lastikli",
         "yapmadı",
         "pamuk",
-        "görseldeki",
         "alıcam",
         "solma",
-        "çekme"
+        "çekme",
+        "çekme yapmadı"
       ],
       "positive_pct": 0.0,
       "negative_pct": 100.0,
@@ -190,63 +372,6 @@
         {
           "text": "pamuk değil kalitesi kötü",
           "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "kumaş",
-        "rengi",
-        "pamuklu",
-        "lastikli",
-        "takım",
-        "dokusu",
-        "ayrı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım"
-      ],
-      "all_reviews": [
-        {
-          "text": "çeyize aldım kumaşı çok da kaliteli değil ama desenine bayıldım",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Canlı Kumaşı",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "canlı kumaşı",
-        "takım",
-        "sağlam",
-        "canlı",
-        "kumaşı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok beğendim çok güzel geldi çok da uyguna aldım teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendim çok güzel geldi çok da uyguna aldım teşekkürler",
-          "score": 5.0
         }
       ],
       "icon": "💬"

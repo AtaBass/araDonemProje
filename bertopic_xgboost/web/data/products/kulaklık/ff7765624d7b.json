@@ -8,7 +8,7 @@
   "overall_score": 4.8,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Sorizo Bluetooth Kulaklık Powerbankli Kulakiçi Çift Mik** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Marka & Süresi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **efsane** ve **beyendi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Daha önce eşim için almıştım şimdi ise abime aldım ses kalıtesi çok güzel begendim ta…\"\n• **Kılıfı & Çıktı** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır. Örnek kullanıcı ifadesi: \"Kardeşim için almıştım kendim içinde sipariş vereceğim çok memnun kaldık teşekkür ede…\"\n• Kullanıcılar **Kaliteli & Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **sorun** ve **paketlemesi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel ve güzel paketlenmiş sorunsuz kullanıyorum bi tane aldım ondsn sonra iki ta…\"\n• **Müzik Dinlerken** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kalitesi** ve **iyidi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Eşim için aldık kendisi çok memnun an itibari ile kullanımı kolay sesi hiç fena değil…\"\n• Müşteri yorumlarında **Görüntü Kalitesi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kullanışlı** ve **oglum** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Anlatıldığı gibi gayet şık ve güzel hediye aldim çok beğendiler\"",
+  "summary": "Sorizo Bluetooth Kulaklık Powerbankli Kulakiçi Çift Mik, genel memnuniyet puanını 4.8/5.0 olarak koruyor. Ürünün öne çıkan özellikleri arasında marka/fiyat performansı, kılıf ve çıktısı, müzik dinlerken, kalite ve şarja/hiçbir gibi konularda oldukça yüksek puanlar alıyor. Müşterilerin ortak yorumları, ürünün kaliteli bir ses kalitesi sunması, uzun kullanımlarda da şarja yetmesi ve pratik bir tasarıma sahip olmasını onaylıyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,9 +18,9 @@
   },
   "aspects": [
     {
-      "name": "Marka & Süresi",
-      "review_count": 13,
-      "avg_score": 5.0,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 35,
+      "avg_score": 4.71,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -30,68 +30,32 @@
         "beyendi",
         "aldı",
         "kargolama",
-        "kullanıyor",
-        "aydır"
+        "aydır",
+        "saglam"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 77.1,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 22.9,
       "sample_reviews": [
-        "daha önce eşim için almıştım şimdi ise abime aldım ses kalıtesi çok güzel begendim tavsiye ediyorum",
-        "gerçekten güzel ürün eşim şöför hediye olarak aldım çok beğendi",
-        "kızlarım için aldım teşekkür ederim"
+        "kardeşim için aldım beyendi",
+        "çok güzel ve güzel paketlenmiş sorunsuz kullanıyorum bi tane aldım ondsn sonra iki tane daha sipariş verdim çok teşekkür ederim",
+        "eşim için aldık kendisi çok memnun an itibari ile kullanımı kolay sesi hiç fena değil telefon ile konuşmak için yeterli"
       ],
       "all_reviews": [
+        {
+          "text": "ses kalitesi güzel memnun kaldım kutusuda şık tasarıma sahip sevdim herkese tavsiye ederim",
+          "score": 5.0
+        },
         {
           "text": "daha önce eşim için almıştım şimdi ise abime aldım ses kalıtesi çok güzel begendim tavsiye ediyorum",
           "score": 5.0
         },
         {
-          "text": "kızım için aldım çok memnun",
+          "text": "sevdim hem eşime hem kendime aldım yorumlar güzeldi gayet güzel bir ürün",
           "score": 5.0
         },
         {
-          "text": "gerçekten güzel ürün eşim şöför hediye olarak aldım çok beğendi",
-          "score": 5.0
-        },
-        {
-          "text": "kızlarım için aldım teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kılıfı & Çıktı",
-      "review_count": 12,
-      "avg_score": 4.17,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "para",
-        "kılıfı",
-        "yeğenime",
-        "çıktı",
-        "öneriyorum",
-        "defa"
-      ],
-      "positive_pct": 33.3,
-      "negative_pct": 0.0,
-      "neutral_pct": 66.7,
-      "sample_reviews": [
-        "kardeşim için almıştım kendim içinde sipariş vereceğim çok memnun kaldık teşekkür ederiz",
-        "yeğenime doğum günü hediyesi olarak aldım güzel",
-        "kardeşime doğum günü hediyesi olarak almıştım çok beğendim bitanede kendime aldım"
-      ],
-      "all_reviews": [
-        {
-          "text": "kardeşime doğum günü hediyesi olarak almıştım çok beğendim bitanede kendime aldım",
+          "text": "eşim için aldık kendisi çok memnun an itibari ile kullanımı kolay sesi hiç fena değil telefon ile konuşmak için yeterli",
           "score": 5.0
         },
         {
@@ -99,11 +63,35 @@
           "score": 5.0
         },
         {
-          "text": "kardeşime aldım beğendi hızlı kargo için çok teşekkür ederim",
-          "score": 4.0
+          "text": "çok güzel ve güzel paketlenmiş sorunsuz kullanıyorum bi tane aldım ondsn sonra iki tane daha sipariş verdim çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşime doğum günü hediyesi olarak almıştım çok beğendim bitanede kendime aldım",
+          "score": 5.0
+        },
+        {
+          "text": "kızlarım için aldım teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten güzel ürün eşim şöför hediye olarak aldım çok beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım çok memnun",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel",
+          "score": 5.0
         },
         {
           "text": "yeğenime doğum günü hediyesi olarak aldım güzel",
+          "score": 4.0
+        },
+        {
+          "text": "kardeşime aldım beğendi hızlı kargo için çok teşekkür ederim",
           "score": 4.0
         },
         {
@@ -114,28 +102,28 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Fiyat Performans",
-      "review_count": 10,
-      "avg_score": 5.0,
+      "name": "Kılıf & Çıktı",
+      "review_count": 13,
+      "avg_score": 4.77,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "beklediğimden",
-        "sorun",
-        "paketleme",
-        "paketlemesi",
-        "performans",
-        "tane",
-        "orijinal"
+        "aldık",
+        "para",
+        "yeğenime",
+        "kılıfı",
+        "çıktı",
+        "öneriyorum",
+        "defa",
+        "saglam"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 76.9,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 23.1,
       "sample_reviews": [
-        "çok güzel ve güzel paketlenmiş sorunsuz kullanıyorum bi tane aldım ondsn sonra iki tane daha sipariş verdim çok teşekkür ederim",
         "ürün çok hoşuma gitti ve zaten ücret olarakta hiç bir şey ve verdiğiniz paraya gerçekten değiyor ben bayıldım size de tavsiye ederim ben bu hafta 2 adet daha alacağım hediye olarak",
-        "çok beğendim üstelik çok yardımcı oldular bağlama bilgi konusunda tesekur ediyorum güzel paketlenmişti ve çok hızlı geldi"
+        "eşim için aldık kendisi çok memnun an itibari ile kullanımı kolay sesi hiç fena değil telefon ile konuşmak için yeterli",
+        "kardeşim için almıştım kendim içinde sipariş vereceğim çok memnun kaldık teşekkür ederiz"
       ],
       "all_reviews": [
         {
@@ -143,23 +131,27 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendim üstelik çok yardımcı oldular bağlama bilgi konusunda tesekur ediyorum güzel paketlenmişti ve çok hızlı geldi",
+          "text": "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel",
           "score": 5.0
         },
         {
-          "text": "çok güzel ve güzel paketlenmiş sorunsuz kullanıyorum bi tane aldım ondsn sonra iki tane daha sipariş verdim çok teşekkür ederim",
+          "text": "kardeşim için almıştım kendim içinde sipariş vereceğim çok memnun kaldık teşekkür ederiz",
           "score": 5.0
         },
         {
-          "text": "sevdim hem eşime hem kendime aldım yorumlar güzeldi gayet güzel bir ürün",
+          "text": "eşim için aldık kendisi çok memnun an itibari ile kullanımı kolay sesi hiç fena değil telefon ile konuşmak için yeterli",
           "score": 5.0
+        },
+        {
+          "text": "yeğenime doğum günü hediyesi olarak aldım güzel",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Müzik Dinlerken",
-      "review_count": 5,
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -168,21 +160,34 @@
         "aldık",
         "kalitesi",
         "sesi",
-        "iyidi",
         "müzik dinlerken",
+        "iyidi",
         "sesim",
-        "kulağa"
+        "dinlerken"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "eşim için aldık kendisi çok memnun an itibari ile kullanımı kolay sesi hiç fena değil telefon ile konuşmak için yeterli",
-        "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel"
+        "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel",
+        "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik"
       ],
       "all_reviews": [
         {
           "text": "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi güzel memnun kaldım kutusuda şık tasarıma sahip sevdim herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için almıştım kendim içinde sipariş vereceğim çok memnun kaldık teşekkür ederiz",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik",
           "score": 5.0
         },
         {
@@ -193,38 +198,8 @@
       "icon": "💬"
     },
     {
-      "name": "Görüntü Kalitesi",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "oglum",
-        "görüntü kalitesi",
-        "iyii",
-        "bende",
-        "görüntü",
-        "ilgili",
-        "alınabilecek"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "anlatıldığı gibi gayet şık ve güzel hediye aldim çok beğendiler"
-      ],
-      "all_reviews": [
-        {
-          "text": "anlatıldığı gibi gayet şık ve güzel hediye aldim çok beğendiler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalitesi & Fiyata Performans",
-      "review_count": 3,
+      "name": "Kalite",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -232,49 +207,77 @@
         "kalitesi",
         "sesi",
         "şarj",
-        "kılıf",
-        "fiyata",
         "kalitesi kalitesi",
+        "kılıf",
         "bayıldım",
-        "kaliteli"
+        "dışarı",
+        "paketlemesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "eşim için aldık kendisi çok memnun an itibari ile kullanımı kolay sesi hiç fena değil telefon ile konuşmak için yeterli",
+        "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik",
         "ses kalitesi güzel memnun kaldım kutusuda şık tasarıma sahip sevdim herkese tavsiye ederim"
       ],
       "all_reviews": [
         {
+          "text": "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel",
+          "score": 5.0
+        },
+        {
           "text": "ses kalitesi güzel memnun kaldım kutusuda şık tasarıma sahip sevdim herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik",
+          "score": 5.0
+        },
+        {
+          "text": "eşim için aldık kendisi çok memnun an itibari ile kullanımı kolay sesi hiç fena değil telefon ile konuşmak için yeterli",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata Kalite",
-      "review_count": 2,
+      "name": "Şarja & Hiçbir",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "paketleme",
-        "kullanışlı",
-        "sağlam",
         "şarja",
-        "fiyata kalite",
         "hiçbir",
-        "kaliteli",
-        "üründen"
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "sipariş verdiğim gün kargoya verildi mükemmel bir hız kargo paketlemesi harika ekstra olarak ürün de harika ve çok fonksiyonel başka ürünlerde alacağım satıcıdan hızınız ve ilginiz için çok teşekkür ederim gözdenette"
+        "sipariş verdiğim gün kargoya verildi mükemmel bir hız kargo paketlemesi harika ekstra olarak ürün de harika ve çok fonksiyonel başka ürünlerde alacağım satıcıdan hızınız ve ilginiz için çok teşekkür ederim gözdenette",
+        "ürün çok hoşuma gitti ve zaten ücret olarakta hiç bir şey ve verdiğiniz paraya gerçekten değiyor ben bayıldım size de tavsiye ederim ben bu hafta 2 adet daha alacağım hediye olarak",
+        "sevdim hem eşime hem kendime aldım yorumlar güzeldi gayet güzel bir ürün"
       ],
       "all_reviews": [
+        {
+          "text": "ürün çok hoşuma gitti ve zaten ücret olarakta hiç bir şey ve verdiğiniz paraya gerçekten değiyor ben bayıldım size de tavsiye ederim ben bu hafta 2 adet daha alacağım hediye olarak",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten güzel ürün eşim şöför hediye olarak aldım çok beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "sevdim hem eşime hem kendime aldım yorumlar güzeldi gayet güzel bir ürün",
+          "score": 5.0
+        },
         {
           "text": "sipariş verdiğim gün kargoya verildi mükemmel bir hız kargo paketlemesi harika ekstra olarak ürün de harika ve çok fonksiyonel başka ürünlerde alacağım satıcıdan hızınız ve ilginiz için çok teşekkür ederim gözdenette",
           "score": 5.0
@@ -283,30 +286,115 @@
       "icon": "💬"
     },
     {
-      "name": "Sağlam & Sorunsuz",
-      "review_count": 2,
+      "name": "Fiyat Performans",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "almak",
-        "sağlam",
+        "fiyat performans",
+        "performans",
+        "performans fiyat",
+        "kalitesi baya",
+        "alin",
         "sorunsuz",
-        "uygun",
-        "paketleme",
-        "valla",
-        "yapılmış",
-        "direk"
+        "diye",
+        "tane"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel tam zamanında geldi teşekkür ediyorum"
+        "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik",
+        "ses kalitesi güzel memnun kaldım kutusuda şık tasarıma sahip sevdim herkese tavsiye ederim",
+        "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel tam zamanında geldi teşekkür ediyorum",
+          "text": "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi güzel memnun kaldım kutusuda şık tasarıma sahip sevdim herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Görünt Kalite",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik",
+        "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel",
+        "ses kalitesi güzel memnun kaldım kutusuda şık tasarıma sahip sevdim herkese tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşime aldık çok beğendi ses kalitesi de görüntüsü de çok guzel",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi güzel memnun kaldım kutusuda şık tasarıma sahip sevdim herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi guzel ve güzel kargolamışlar saglam bir şekilde elime ulaştı eşim ile çok begendik",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Uygun",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "almak",
+        "sorunsuz",
+        "uygun",
+        "valla",
+        "paketleme",
+        "direk",
+        "yapılmış",
+        "herşey"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "sipariş verdiğim gün kargoya verildi mükemmel bir hız kargo paketlemesi harika ekstra olarak ürün de harika ve çok fonksiyonel başka ürünlerde alacağım satıcıdan hızınız ve ilginiz için çok teşekkür ederim gözdenette",
+        "çok güzel ve güzel paketlenmiş sorunsuz kullanıyorum bi tane aldım ondsn sonra iki tane daha sipariş verdim çok teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel ve güzel paketlenmiş sorunsuz kullanıyorum bi tane aldım ondsn sonra iki tane daha sipariş verdim çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "sipariş verdiğim gün kargoya verildi mükemmel bir hız kargo paketlemesi harika ekstra olarak ürün de harika ve çok fonksiyonel başka ürünlerde alacağım satıcıdan hızınız ve ilginiz için çok teşekkür ederim gözdenette",
           "score": 5.0
         }
       ],

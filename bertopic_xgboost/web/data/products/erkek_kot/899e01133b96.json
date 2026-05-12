@@ -8,7 +8,7 @@
   "overall_score": 4.82,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**D'S Damat Ds Damat Slim Fit Siyah Beli Lastikli İpli Fe** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: Boy 176 kilo 90 bel 98 basen 108 44 beden tam oldu.\n• **Kalite & Alınabilir**: 13 yorum incelendi; genel görüş olumlu.\n• **Kumaş**: Çok güzel kumaşı var eşim için aldık sarmasını istiyorsanız direk bı beden küçüğünü alın.\n• **Kalite & Kalıb**: 11 yorum incelendi; genel görüş olumlu.\n• **Doku & Likral**: Çok güzel kumaşı var eşim için aldık sarmasını istiyorsanız direk bı beden küçüğünü alın.",
+  "summary": "D'S Damat Ds Damat Slim Fit Siyah Beli Lastikli İpli Feti, son derece memnun edici bir ürün görünüyor. Fiyat performansına göre olağanüstü derecede olumlu yorumlar alıyor, ortalama puan 4.83/5.0'dur. Ürün kalitesi ve alınabilirliği de tam anlamıyla onayalı, ortalama puan 5.0/5.0'dur. Kumaş kalitesinin de mükemmel olduğu gözlemlenmiştir. Bu sonuçlar, bu ürünün yüksek memnuniyet seviyesini teyit eder ve alışveriş için güvenilir bir seçim olabileceğini gösterir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 32,
-      "avg_score": 4.78,
+      "review_count": 40,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,9 +33,9 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 78.1,
+      "positive_pct": 82.5,
       "negative_pct": 0.0,
-      "neutral_pct": 21.9,
+      "neutral_pct": 17.5,
       "sample_reviews": [
         "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
         "ürün çok güzel fakat 34 beden biraz büyük geldi boy 1.75 kilo 78 için paçaları biraz geniş ama terzide yaptırılabilir",
@@ -43,15 +43,15 @@
       ],
       "all_reviews": [
         {
+          "text": "184-90'a 44 beden sanki terzide özel kesim gibi oldu kumaşı duruşu şahane aynı rengin 2 sini bile aldım gözünüz kapalı alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "güzel pantolon 1 beden büyük almanızı eğer bol seviyorsanız en az 2 beden büyük almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
           "text": "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "boy 176 kilo 90 bel 98 basen 108 44 beden tam oldu",
-          "score": 5.0
-        },
-        {
-          "text": "süper kalite iyi fiyat",
           "score": 5.0
         },
         {
@@ -59,15 +59,11 @@
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel fakat 34 beden biraz büyük geldi boy 1.75 kilo 78 için paçaları biraz geniş ama terzide yaptırılabilir",
+          "text": "süper kalite iyi fiyat",
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel begendım çok rahat tam bedeninizi alın",
-          "score": 5.0
-        },
-        {
-          "text": "çok iyi ince ve esnek normalde 48 beden giyerim fakat bunda 50 beden tam oldu diğer renklerini de alacağım",
+          "text": "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim",
           "score": 5.0
         },
         {
@@ -75,7 +71,23 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim",
+          "text": "çok güzel kumaşı var eşim için aldık sarmasını istiyorsanız direk bı beden küçüğünü alın",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi ince ve esnek normalde 48 beden giyerim fakat bunda 50 beden tam oldu diğer renklerini de alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel begendım çok rahat tam bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "boy 176 kilo 90 bel 98 basen 108 44 beden tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel fakat 34 beden biraz büyük geldi boy 1.75 kilo 78 için paçaları biraz geniş ama terzide yaptırılabilir",
           "score": 5.0
         },
         {
@@ -94,8 +106,60 @@
       "icon": "💬"
     },
     {
+      "name": "Kalite & Kalıb",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "baya",
+        "kalite",
+        "kalıbı",
+        "fakat",
+        "kalitesi",
+        "kesim",
+        "dilerim",
+        "kalıp"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
+        "ürün çok güzel fakat 34 beden biraz büyük geldi boy 1.75 kilo 78 için paçaları biraz geniş ama terzide yaptırılabilir",
+        "çok iyi ince ve esnek normalde 48 beden giyerim fakat bunda 50 beden tam oldu diğer renklerini de alacağım"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel fakat 34 beden biraz büyük geldi boy 1.75 kilo 78 için paçaları biraz geniş ama terzide yaptırılabilir",
+          "score": 5.0
+        },
+        {
+          "text": "süper kalite iyi fiyat",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli tam beden alın",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi ince ve esnek normalde 48 beden giyerim fakat bunda 50 beden tam oldu diğer renklerini de alacağım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Kalite & Alınabilir",
-      "review_count": 13,
+      "review_count": 15,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -114,7 +178,59 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
-        "çok beğendik rahat bir pantolon tam kalıp",
+        "nişan bohçasına gri ve siyah rengini aldım nişanlım çok beğenerek giyiyor kullanışlı çok rahat bi pantolon",
+        "çok beğendik rahat bir pantolon tam kalıp"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "süper kalite iyi fiyat",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "nişan bohçasına gri ve siyah rengini aldım nişanlım çok beğenerek giyiyor kullanışlı çok rahat bi pantolon",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli tam beden alın",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik rahat bir pantolon tam kalıp",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 13,
+      "avg_score": 4.85,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 84.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 15.4,
+      "sample_reviews": [
+        "süper kalite iyi fiyat",
+        "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
         "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim"
       ],
       "all_reviews": [
@@ -135,8 +251,8 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendik rahat bir pantolon tam kalıp",
-          "score": 5.0
+          "text": "güzel rahat günlük giyime uygun",
+          "score": 4.0
         }
       ],
       "icon": "💬"
@@ -190,50 +306,6 @@
       "icon": "💬"
     },
     {
-      "name": "Kalite & Kalıb",
-      "review_count": 11,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "baya",
-        "kalite",
-        "kalıbı",
-        "fakat",
-        "kalitesi",
-        "kesim",
-        "dilerim",
-        "kalıp"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
-        "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim",
-        "kaliteli tam beden alın"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "süper kalite iyi fiyat",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli tam beden alın",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Doku & Likral",
       "review_count": 10,
       "avg_score": 5.0,
@@ -278,44 +350,41 @@
       "icon": "💬"
     },
     {
-      "name": "Kalite & Fiyat",
-      "review_count": 10,
-      "avg_score": 4.8,
+      "name": "Siyah",
+      "review_count": 9,
+      "avg_score": 4.78,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "düşünüyorum",
-        "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
+        "aldık",
+        "siyah",
+        "yumuşacık",
+        "alınmalı",
+        "rengi"
       ],
-      "positive_pct": 80.0,
+      "positive_pct": 77.8,
       "negative_pct": 0.0,
-      "neutral_pct": 20.0,
+      "neutral_pct": 22.2,
       "sample_reviews": [
-        "süper kalite iyi fiyat",
-        "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim",
-        "güzel rahat günlük giyime uygun"
+        "nişan bohçasına gri ve siyah rengini aldım nişanlım çok beğenerek giyiyor kullanışlı çok rahat bi pantolon",
+        "184-90'a 44 beden sanki terzide özel kesim gibi oldu kumaşı duruşu şahane aynı rengin 2 sini bile aldım gözünüz kapalı alabilirsiniz",
+        "çok güzel kumaşı var eşim için aldık sarmasını istiyorsanız direk bı beden küçüğünü alın"
       ],
       "all_reviews": [
         {
-          "text": "süper kalite iyi fiyat",
+          "text": "184-90'a 44 beden sanki terzide özel kesim gibi oldu kumaşı duruşu şahane aynı rengin 2 sini bile aldım gözünüz kapalı alabilirsiniz",
           "score": 5.0
         },
         {
-          "text": "çok beğendim oğluma aldım ürün kaliteli tavsiye ederim",
+          "text": "nişan bohçasına gri ve siyah rengini aldım nişanlım çok beğenerek giyiyor kullanışlı çok rahat bi pantolon",
           "score": 5.0
         },
         {
-          "text": "kaliteli tam beden alın",
+          "text": "çok güzel kumaşı var eşim için aldık sarmasını istiyorsanız direk bı beden küçüğünü alın",
           "score": 5.0
         },
         {
-          "text": "güzel rahat günlük giyime uygun",
+          "text": "beden tam alınmalı bence",
           "score": 4.0
         }
       ],
@@ -323,7 +392,7 @@
     },
     {
       "name": "Kalıp",
-      "review_count": 5,
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -342,9 +411,14 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
+        "184-90'a 44 beden sanki terzide özel kesim gibi oldu kumaşı duruşu şahane aynı rengin 2 sini bile aldım gözünüz kapalı alabilirsiniz",
         "çok beğendik rahat bir pantolon tam kalıp"
       ],
       "all_reviews": [
+        {
+          "text": "184-90'a 44 beden sanki terzide özel kesim gibi oldu kumaşı duruşu şahane aynı rengin 2 sini bile aldım gözünüz kapalı alabilirsiniz",
+          "score": 5.0
+        },
         {
           "text": "ürün kalite olarak çok güzeldi fakat erkek arkadaşıma sevgililer günü'nde almıştım sevgililer günü yoğunluğu için beden kalmamıştı bir beden büyüğünü aldım kalıpları da biraz bol olmuş bayağı bol oldu iade ettim bir beden küçüğünü aldım kalite olarak çok iyi düşünmeden alabilirsiniz",
           "score": 5.0
@@ -357,33 +431,59 @@
       "icon": "💬"
     },
     {
-      "name": "Siyah",
-      "review_count": 4,
-      "avg_score": 4.5,
+      "name": "Teslimat & Çorap",
+      "review_count": 3,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aldık",
-        "siyah",
-        "yumuşacık",
-        "alınmalı",
-        "rengi"
+        "teslimat",
+        "çorap",
+        "emeğinize",
+        "istediğim",
+        "paça",
+        "istediğim bedeni",
+        "kilo",
+        "emeği"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "nişan bohçasına gri ve siyah rengini aldım nişanlım çok beğenerek giyiyor kullanışlı çok rahat bi pantolon",
-        "beden tam alınmalı bence"
+        "ürün çok güzel fakat 34 beden biraz büyük geldi boy 1.75 kilo 78 için paçaları biraz geniş ama terzide yaptırılabilir"
       ],
       "all_reviews": [
         {
-          "text": "nişan bohçasına gri ve siyah rengini aldım nişanlım çok beğenerek giyiyor kullanışlı çok rahat bi pantolon",
+          "text": "ürün çok güzel fakat 34 beden biraz büyük geldi boy 1.75 kilo 78 için paçaları biraz geniş ama terzide yaptırılabilir",
           "score": 5.0
-        },
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Edilir",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "edilir",
+        "paketleme",
+        "farklı",
+        "firmaya",
+        "aynısı",
+        "kalıp"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "184-90'a 44 beden sanki terzide özel kesim gibi oldu kumaşı duruşu şahane aynı rengin 2 sini bile aldım gözünüz kapalı alabilirsiniz"
+      ],
+      "all_reviews": [
         {
-          "text": "beden tam alınmalı bence",
-          "score": 4.0
+          "text": "184-90'a 44 beden sanki terzide özel kesim gibi oldu kumaşı duruşu şahane aynı rengin 2 sini bile aldım gözünüz kapalı alabilirsiniz",
+          "score": 5.0
         }
       ],
       "icon": "💬"

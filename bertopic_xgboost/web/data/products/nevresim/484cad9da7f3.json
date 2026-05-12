@@ -8,7 +8,7 @@
   "overall_score": 4.52,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**conzaliza Çift Kişilik Lastikli Çarşaflı Nevresim Takım** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Rengi & Renkleri Canlı** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **renkler** ve **dokusu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güzel rengi yıkadım solmadı kurutmaya attım küçülmedi rengi çok güzel canlı\"\n• **Kişilik**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **rahat** ve **almayı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel çift kişilik olanı kendim için aldım tek kişilik olanları çocuklarımın çeyi…\"\n• Kullanıcılar **Fiyat & Lastikli Çarşafı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **renkler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünler güzel indirimdeyken almıştım fiyat performans açısından hem kullanışlı hem gü…\"\n• **Kumaşı Kaliteli** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **odası** ve **modeli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade e…\"\n• Müşteri yorumlarında **Fiyata Kalite** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **indirimde** ve **çeyiz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"5 yıldız az bile bayıldim bu fiyata bu kalite cok iyi kimse tereddüt etmeden alsin yı…\"",
+  "summary": "**conzaliza Çift Kişilik Lastikli Çarşaflı Nevresim Takım** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat / Lastikl Çarşaf**: Kullanıcılar genel olarak fiyat / lastikl çarşaf açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Renk Canlı**: Kullanıcılar genel olarak renk canlı açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Canlı Kumaş**: Kullanıcılar genel olarak canlı kumaş açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Çekme Solma**: Kullanıcılar çekme solma konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 4,
     "2": 2,
@@ -18,9 +18,85 @@
   },
   "aspects": [
     {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 14,
-      "avg_score": 4.43,
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 30,
+      "avg_score": 4.47,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 86.7,
+      "negative_pct": 13.3,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "harika bir nevresim takımı bu fiyata bu kalite bence mükemmel",
+        "arkadaşıma hediye aldım kendime de alayım dedim ana alakasız bir nevresim takımı geldi yeni doğum yaptığım için de çıkıp iade edemedim elimde kaldı beni mağdur ettiniz hakkımı helal etmiyorum",
+        "ürünler güzel indirimdeyken almıştım fiyat performans açısından hem kullanışlı hem güzel renkler canli"
+      ],
+      "all_reviews": [
+        {
+          "text": "çarşafı yatağıma büyük geldi bı tık tek eksisi bu oldu benim için 300 tl gibi bı fiyata aldım gayet güzel beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "resimde göründüğü gibi çok güzel canlı renkli çok beğendim teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler güzel indirimdeyken almıştım fiyat performans açısından hem kullanışlı hem güzel renkler canli",
+          "score": 5.0
+        },
+        {
+          "text": "5 yıldız az bile bayıldim bu fiyata bu kalite cok iyi kimse tereddüt etmeden alsin yıkayıp hemen yaydim bile teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "alın aldırın kargom biraz önce geldi bu fiyata bu kalite başka yerde bulunmaz ikinci siparişi verdim gelsin hediye edicem teyzem gördü çok beyendi kendisine aldım",
+          "score": 5.0
+        },
+        {
+          "text": "bu ürüne bayıldım harika ve renkleri çok canlı",
+          "score": 5.0
+        },
+        {
+          "text": "renkleri çok canlı çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans kesinlikle alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "renkli canlı",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir nevresim takımı bu fiyata bu kalite bence mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "arkadaşıma hediye aldım kendime de alayım dedim ana alakasız bir nevresim takımı geldi yeni doğum yaptığım için de çıkıp iade edemedim elimde kaldı beni mağdur ettiniz hakkımı helal etmiyorum",
+          "score": 1.0
+        },
+        {
+          "text": "çok ince rengi krem çarşaf defolu çizgi çizgi hep ama renkleri canlı",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Renk Canlı",
+      "review_count": 21,
+      "avg_score": 4.33,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
       "top_terms": [
@@ -33,8 +109,8 @@
         "dokusu",
         "aynı"
       ],
-      "positive_pct": 85.7,
-      "negative_pct": 14.3,
+      "positive_pct": 81.0,
+      "negative_pct": 19.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "çok ince rengi krem çarşaf defolu çizgi çizgi hep ama renkleri canlı",
@@ -51,7 +127,11 @@
           "score": 5.0
         },
         {
-          "text": "renkli canlı",
+          "text": "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+          "score": 5.0
+        },
+        {
+          "text": "bu ürüne bayıldım harika ve renkleri çok canlı",
           "score": 5.0
         },
         {
@@ -59,8 +139,16 @@
           "score": 5.0
         },
         {
-          "text": "bu ürüne bayıldım harika ve renkleri çok canlı",
+          "text": "renkli canlı",
           "score": 5.0
+        },
+        {
+          "text": "ürünler güzel indirimdeyken almıştım fiyat performans açısından hem kullanışlı hem güzel renkler canli",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade edeceğim ve rengi canlı diyenler olmuş onuda anlamadım kirli bir rengi var beyaz değil",
+          "score": 2.0
         },
         {
           "text": "çok ince rengi krem çarşaf defolu çizgi çizgi hep ama renkleri canlı",
@@ -70,72 +158,44 @@
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 8,
-      "avg_score": 4.75,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Canlı Kumaş",
+      "review_count": 21,
+      "avg_score": 3.95,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
       ],
-      "positive_pct": 75.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 25.0,
-      "sample_reviews": [
-        "çok güzel çift kişilik olanı kendim için aldım tek kişilik olanları çocuklarımın çeyizi için misafir nevresimi olarak aldım",
-        "çok güzel beğendim ve çok kullanışlı battaniye geçirdim çok sıcak tutuyor teşekkürler",
-        "ben beğendim severek kullanacağım"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel çift kişilik olanı kendim için aldım tek kişilik olanları çocuklarımın çeyizi için misafir nevresimi olarak aldım",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel beğendim ve çok kullanışlı battaniye geçirdim çok sıcak tutuyor teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "ben beğendim severek kullanacağım",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat & Lastikli Çarşafı",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat",
-        "fiyata",
-        "renkler",
-        "aldık",
-        "takımı",
-        "sağlam",
-        "fermuarlı",
-        "takım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
+      "positive_pct": 71.4,
+      "negative_pct": 28.6,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "harika bir nevresim takımı bu fiyata bu kalite bence mükemmel",
-        "ürünler güzel indirimdeyken almıştım fiyat performans açısından hem kullanışlı hem güzel renkler canli",
-        "fiyat performans kesinlikle alın aldırın"
+        "yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade edeceğim ve rengi canlı diyenler olmuş onuda anlamadım kirli bir rengi var beyaz değil",
+        "arkadaşıma hediye aldım kendime de alayım dedim ana alakasız bir nevresim takımı geldi yeni doğum yaptığım için de çıkıp iade edemedim elimde kaldı beni mağdur ettiniz hakkımı helal etmiyorum",
+        "güzel rengi yıkadım solmadı kurutmaya attım küçülmedi rengi çok güzel canlı"
       ],
       "all_reviews": [
         {
-          "text": "ürünler güzel indirimdeyken almıştım fiyat performans açısından hem kullanışlı hem güzel renkler canli",
+          "text": "resimde göründüğü gibi çok güzel canlı renkli çok beğendim teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel rengi yıkadım solmadı kurutmaya attım küçülmedi rengi çok güzel canlı",
+          "score": 5.0
+        },
+        {
+          "text": "bu ürüne bayıldım harika ve renkleri çok canlı",
+          "score": 5.0
+        },
+        {
+          "text": "renkleri çok canlı çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "renkli canlı",
           "score": 5.0
         },
         {
@@ -143,74 +203,43 @@
           "score": 5.0
         },
         {
-          "text": "fiyat performans kesinlikle alın aldırın",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 7,
-      "avg_score": 4.14,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "kullanacağım",
-        "odası",
-        "modeli",
-        "yatağıma",
-        "kumaşı kaliteli",
-        "deseni",
-        "bayıldım kumaşı"
-      ],
-      "positive_pct": 71.4,
-      "negative_pct": 28.6,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade edeceğim ve rengi canlı diyenler olmuş onuda anlamadım kirli bir rengi var beyaz değil",
-        "çarşafı yatağıma büyük geldi bı tık tek eksisi bu oldu benim için 300 tl gibi bı fiyata aldım gayet güzel beğendim",
-        "çok güzel geniş yataklara göre tam"
-      ],
-      "all_reviews": [
-        {
-          "text": "çarşafı yatağıma büyük geldi bı tık tek eksisi bu oldu benim için 300 tl gibi bı fiyata aldım gayet güzel beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel geniş yataklara göre tam",
-          "score": 5.0
-        },
-        {
           "text": "yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade edeceğim ve rengi canlı diyenler olmuş onuda anlamadım kirli bir rengi var beyaz değil",
           "score": 2.0
+        },
+        {
+          "text": "çok ince rengi krem çarşaf defolu çizgi çizgi hep ama renkleri canlı",
+          "score": 1.0
+        },
+        {
+          "text": "arkadaşıma hediye aldım kendime de alayım dedim ana alakasız bir nevresim takımı geldi yeni doğum yaptığım için de çıkıp iade edemedim elimde kaldı beni mağdur ettiniz hakkımı helal etmiyorum",
+          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata Kalite",
-      "review_count": 6,
+      "name": "Kalite",
+      "review_count": 20,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
         "kalite",
         "tane",
         "paketleme",
         "indirimde",
-        "fiyata kalite",
         "çeyiz",
-        "beklemiyordum"
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "alın aldırın kargom biraz önce geldi bu fiyata bu kalite başka yerde bulunmaz ikinci siparişi verdim gelsin hediye edicem teyzem gördü çok beyendi kendisine aldım",
-        "5 yıldız az bile bayıldim bu fiyata bu kalite cok iyi kimse tereddüt etmeden alsin yıkayıp hemen yaydim bile teşekkürler"
+        "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+        "çok güzel çift kişilik olanı kendim için aldım tek kişilik olanları çocuklarımın çeyizi için misafir nevresimi olarak aldım"
       ],
       "all_reviews": [
         {
@@ -220,16 +249,36 @@
         {
           "text": "5 yıldız az bile bayıldim bu fiyata bu kalite cok iyi kimse tereddüt etmeden alsin yıkayıp hemen yaydim bile teşekkürler",
           "score": 5.0
+        },
+        {
+          "text": "harika bir nevresim takımı bu fiyata bu kalite bence mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "ürünler güzel indirimdeyken almıştım fiyat performans açısından hem kullanışlı hem güzel renkler canli",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çift kişilik olanı kendim için aldım tek kişilik olanları çocuklarımın çeyizi için misafir nevresimi olarak aldım",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+          "score": 5.0
+        },
+        {
+          "text": "çocuk karın çeyizine aldım güzel teşekkürler",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Çekme Solma",
-      "review_count": 5,
-      "avg_score": 3.4,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
+      "review_count": 16,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
         "takımı",
         "sorunsuz",
@@ -240,16 +289,33 @@
         "yapmadı",
         "asla"
       ],
-      "positive_pct": 60.0,
-      "negative_pct": 40.0,
+      "positive_pct": 87.5,
+      "negative_pct": 12.5,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "arkadaşıma hediye aldım kendime de alayım dedim ana alakasız bir nevresim takımı geldi yeni doğum yaptığım için de çıkıp iade edemedim elimde kaldı beni mağdur ettiniz hakkımı helal etmiyorum",
-        "çocuk karın çeyizine aldım güzel teşekkürler"
+        "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+        "çok güzel çift kişilik olanı kendim için aldım tek kişilik olanları çocuklarımın çeyizi için misafir nevresimi olarak aldım"
       ],
       "all_reviews": [
         {
+          "text": "güzel rengi yıkadım solmadı kurutmaya attım küçülmedi rengi çok güzel canlı",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çift kişilik olanı kendim için aldım tek kişilik olanları çocuklarımın çeyizi için misafir nevresimi olarak aldım",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir nevresim takımı bu fiyata bu kalite bence mükemmel",
+          "score": 5.0
+        },
+        {
           "text": "çocuk karın çeyizine aldım güzel teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
           "score": 5.0
         },
         {
@@ -260,8 +326,174 @@
       "icon": "💬"
     },
     {
-      "name": "Çekme Yapmadı",
-      "review_count": 2,
+      "name": "Paketlenme & Kalite",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "alın aldırın kargom biraz önce geldi bu fiyata bu kalite başka yerde bulunmaz ikinci siparişi verdim gelsin hediye edicem teyzem gördü çok beyendi kendisine aldım",
+        "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+        "5 yıldız az bile bayıldim bu fiyata bu kalite cok iyi kimse tereddüt etmeden alsin yıkayıp hemen yaydim bile teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "alın aldırın kargom biraz önce geldi bu fiyata bu kalite başka yerde bulunmaz ikinci siparişi verdim gelsin hediye edicem teyzem gördü çok beyendi kendisine aldım",
+          "score": 5.0
+        },
+        {
+          "text": "5 yıldız az bile bayıldim bu fiyata bu kalite cok iyi kimse tereddüt etmeden alsin yıkayıp hemen yaydim bile teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir nevresim takımı bu fiyata bu kalite bence mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Kalite",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "alın aldırın kargom biraz önce geldi bu fiyata bu kalite başka yerde bulunmaz ikinci siparişi verdim gelsin hediye edicem teyzem gördü çok beyendi kendisine aldım",
+        "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+        "5 yıldız az bile bayıldim bu fiyata bu kalite cok iyi kimse tereddüt etmeden alsin yıkayıp hemen yaydim bile teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "alın aldırın kargom biraz önce geldi bu fiyata bu kalite başka yerde bulunmaz ikinci siparişi verdim gelsin hediye edicem teyzem gördü çok beyendi kendisine aldım",
+          "score": 5.0
+        },
+        {
+          "text": "5 yıldız az bile bayıldim bu fiyata bu kalite cok iyi kimse tereddüt etmeden alsin yıkayıp hemen yaydim bile teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir nevresim takımı bu fiyata bu kalite bence mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 9,
+      "avg_score": 3.44,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
+      ],
+      "positive_pct": 55.6,
+      "negative_pct": 44.4,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade edeceğim ve rengi canlı diyenler olmuş onuda anlamadım kirli bir rengi var beyaz değil",
+        "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+        "güzel rengi yıkadım solmadı kurutmaya attım küçülmedi rengi çok güzel canlı"
+      ],
+      "all_reviews": [
+        {
+          "text": "güzel rengi yıkadım solmadı kurutmaya attım küçülmedi rengi çok güzel canlı",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade edeceğim ve rengi canlı diyenler olmuş onuda anlamadım kirli bir rengi var beyaz değil",
+          "score": 2.0
+        },
+        {
+          "text": "çok ince rengi krem çarşaf defolu çizgi çizgi hep ama renkleri canlı",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 7,
+      "avg_score": 3.86,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 42.9,
+      "negative_pct": 28.6,
+      "neutral_pct": 28.6,
+      "sample_reviews": [
+        "yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade edeceğim ve rengi canlı diyenler olmuş onuda anlamadım kirli bir rengi var beyaz değil",
+        "çarşafı yatağıma büyük geldi bı tık tek eksisi bu oldu benim için 300 tl gibi bı fiyata aldım gayet güzel beğendim",
+        "ben beğendim severek kullanacağım"
+      ],
+      "all_reviews": [
+        {
+          "text": "çarşafı yatağıma büyük geldi bı tık tek eksisi bu oldu benim için 300 tl gibi bı fiyata aldım gayet güzel beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ben beğendim severek kullanacağım",
+          "score": 4.0
+        },
+        {
+          "text": "yorumlara aldanıp aldım hiç beğenmedim kumaşı incecik naylon gibi bişe malesef iade edeceğim ve rengi canlı diyenler olmuş onuda anlamadım kirli bir rengi var beyaz değil",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -270,18 +502,23 @@
         "lastikli",
         "yapmadı",
         "pamuk",
-        "görseldeki",
         "alıcam",
         "solma",
-        "çekme"
+        "çekme",
+        "çekme yapmadı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı"
+        "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
+        "güzel rengi yıkadım solmadı kurutmaya attım küçülmedi rengi çok güzel canlı"
       ],
       "all_reviews": [
+        {
+          "text": "güzel rengi yıkadım solmadı kurutmaya attım küçülmedi rengi çok güzel canlı",
+          "score": 5.0
+        },
         {
           "text": "o kadar güzel ki ve çarşafı büyük çok kaliteli kesinlikle alınması gerek ben bayıldım ayrıca yıkadım makinada rengi atma solma bulaşma yapmadı",
           "score": 5.0

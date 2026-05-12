@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Apple iPhone 16 Pro Max 256GB Siyah Titanyum** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kullanışlı & Asuman Hanım** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **güvenilir** ve **farklı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzelll çok sağlam geldi teşekkür ederim\"\n• **Kaliteli & Rahatlıkla**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kullanışlı** ve **performans** başta olmak üzere.\n• Kullanıcılar **Kurulumu Kolay** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **sesli** ve **ürünler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür eder…\"\n• **Şarjı** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **telefon** ve **arama** başta olmak üzere. Örnek kullanıcı ifadesi: \"Güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı\"\n• Müşteri yorumlarında **Sağlam** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Teşekkürler güzel ve tasarruflu bir alışveriş oldu\"",
+  "summary": "Apple iPhone 16 Pro Max 256GB Siyah Titanyum, kullanıcılarının genel memnuniyetini %100 oranında fazlasıyla karşılayan bir ürün. Kurulumu kolay, fiyat performansını dengeli ve şarj edimi sorunsuz olarak yorumlanan bu ürün, ekran ve kordon konularında da aynı derecede olumlu görüşlere sahiptir. Ürün, paketlenme ve sorun yaşamamasına dair 3 yorumda da 5 puan almıştır. Bu veriler, Apple iPhone 16 Pro Max 256GB Siyah Titanyum'un kullanıcılarının olağanüstü memnuniyetini gözler önüne sermektedir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,113 +18,8 @@
   },
   "aspects": [
     {
-      "name": "Kullanışlı & Asuman Hanım",
-      "review_count": 23,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "güvenilir",
-        "farklı",
-        "gerek",
-        "sağlam",
-        "hanım",
-        "asuman hanım",
-        "rahatlıkla"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzelll çok sağlam geldi teşekkür ederim",
-        "anlatmaya gerek yok on numara",
-        "sağlam geldi sıkıntı yok"
-      ],
-      "all_reviews": [
-        {
-          "text": "anlatmaya gerek yok on numara",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok çok beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "fena süper her zamna ki gibi",
-          "score": 5.0
-        },
-        {
-          "text": "çok hızlı elime ulaştı teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı geldi teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "sağlam geldi sıkıntı yok",
-          "score": 5.0
-        },
-        {
-          "text": "çok memnun kaldım teşekkür ederimmm",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzelll çok sağlam geldi teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "gayet hızlı ulaştı elime çok güzel çok beğendim teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Rahatlıkla",
-      "review_count": 12,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "kaliteli kaliteli",
-        "rahatlıkla",
-        "kullanışlı",
-        "performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güzel kaliteli",
-        "çok iyi ve güzel",
-        "mükemmel ürün"
-      ],
-      "all_reviews": [
-        {
-          "text": "mükemmel ürün",
-          "score": 5.0
-        },
-        {
-          "text": "çok iyi ve güzel",
-          "score": 5.0
-        },
-        {
-          "text": "güzel kaliteli",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kurulumu Kolay",
-      "review_count": 7,
+      "name": "Kurulum Kolay",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -142,17 +37,42 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "uygun fiyat hızlı kargo",
-        "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
-        "kargo hızlıydı"
+        "mükemmel ürün"
       ],
       "all_reviews": [
         {
-          "text": "kargo hızlıydı",
+          "text": "mükemmel ürün",
           "score": 5.0
-        },
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "fiyat",
+        "performans",
+        "kalite",
+        "bayıldı",
+        "teslimat",
+        "ideal",
+        "kargolama"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "uygun fiyat hızlı kargo",
+        "güzel kaliteli"
+      ],
+      "all_reviews": [
         {
-          "text": "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
+          "text": "güzel kaliteli",
           "score": 5.0
         },
         {
@@ -171,12 +91,12 @@
       "top_terms": [
         "şarjı",
         "şarj",
-        "gidiyor",
         "uzun",
         "telefon",
         "arama",
-        "şarjı gidiyor",
-        "kullanisli"
+        "kullanisli",
+        "fazlasıyla",
+        "çıktı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -198,30 +118,60 @@
       "icon": "💬"
     },
     {
-      "name": "Sağlam",
+      "name": "Sorunsuz & Paketlenme",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
+        "aldık",
         "kısa",
+        "sorunsuz",
         "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "kullanmaya",
+        "almak isteyenlere",
+        "isteyenlere",
+        "bayıldı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "teşekkürler güzel ve tasarruflu bir alışveriş oldu"
+        "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı"
       ],
       "all_reviews": [
         {
-          "text": "teşekkürler güzel ve tasarruflu bir alışveriş oldu",
+          "text": "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ekran & Kordon",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ekran",
+        "kordon",
+        "kalitesi",
+        "kullanımı",
+        "akıcı",
+        "uzun",
+        "özelliği",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "güzel kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "güzel kaliteli",
           "score": 5.0
         }
       ],

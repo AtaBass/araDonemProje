@@ -8,7 +8,7 @@
   "overall_score": 4.92,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**KATAR Beyaz Plastik Napolyon Sandalye** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürü…\"\n• **Sorunsuz & Sağlam Kaliteli**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kalitesi** ve **oldular** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok iyi geldi sağlam ve kusursuz teşekkür ederim tavsiye ederim\"\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **uygun** ve **ilgili** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gayet güzel fiyatta diğer sitelere göre uygun\"\n• **Rahat Koltuk** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı…\"\n• Müşteri yorumlarında **Kolay & Rahatlığıyla** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **tesekkurler** ve **kurulumuda** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok kullanışlı mutfak icin aldim minderle kullaniyorum\"",
+  "summary": "**KATAR Beyaz Plastik Napolyon Sandalye** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Takım / Kurulum Kolay**: Kullanıcılar takım / kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Alınabilir**: Kullanıcılar alınabilir konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,44 +18,40 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 27,
-      "avg_score": 4.85,
+      "name": "Fiyat Kalite",
+      "review_count": 20,
+      "avg_score": 4.9,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
       ],
-      "positive_pct": 85.2,
+      "positive_pct": 90.0,
       "negative_pct": 0.0,
-      "neutral_pct": 14.8,
+      "neutral_pct": 10.0,
       "sample_reviews": [
-        "paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürünü kesinlikle tavsiye ederim",
         "çocuğumun ders masası işin aldım kaliteli bir ürün sağlam bir sekilde teslim edildi",
+        "sağlam bir şekilde elimize ulaştı kaliteli ve güzel",
         "ürün kaliteli kullanışlı sağlam hızlı gönderim"
       ],
       "all_reviews": [
         {
-          "text": "paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürünü kesinlikle tavsiye ederim",
+          "text": "kusursuz olarak geldi fiyat gayet iyi",
           "score": 5.0
         },
         {
-          "text": "ürün çok hızlı geldi mutfak masamız için 3 tane aldık çok şık durdu",
+          "text": "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
           "score": 5.0
         },
         {
-          "text": "ürün çok iyi ve kaliteli malzemesi harika",
-          "score": 5.0
-        },
-        {
-          "text": "ürün gayet güzel hızlı ve hasarsız geldi teşekkür ederim",
+          "text": "sağlam bir şekilde elimize ulaştı kaliteli ve güzel",
           "score": 5.0
         },
         {
@@ -63,24 +59,16 @@
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel tsk edrm",
-          "score": 5.0
-        },
-        {
           "text": "çocuğumun ders masası işin aldım kaliteli bir ürün sağlam bir sekilde teslim edildi",
           "score": 5.0
         },
         {
-          "text": "satıcı gayet ilgiliydi memnun kaldım ürün de kullanışlı",
+          "text": "gayet güzel fiyatta diğer sitelere göre uygun",
           "score": 5.0
         },
         {
-          "text": "sorunsuz 2 günde geldi teşekürler hayırlı müşteriler",
+          "text": "ürün çok iyi ve kaliteli malzemesi harika",
           "score": 5.0
-        },
-        {
-          "text": "guzel kullanisli kargolama iyiydi saglam geldi",
-          "score": 4.0
         },
         {
           "text": "fiyat performans ürünü ortaokulu giden çocuklar için aldım ders çalışma masasında kullanıyorlar",
@@ -90,36 +78,32 @@
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Sağlam Kaliteli",
-      "review_count": 13,
+      "name": "Sorunsuz",
+      "review_count": 18,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "sorunsuz",
-        "sağlam kaliteli",
         "kalitesi",
-        "severek",
-        "oldular",
         "evime",
-        "sağlam",
-        "hava"
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok iyi geldi sağlam ve kusursuz teşekkür ederim tavsiye ederim",
-        "sağlam bir şekilde elimize ulaştı kaliteli ve güzel",
-        "sorunsuz geldi teşekkürler katar"
+        "sorunsuz 2 günde geldi teşekürler hayırlı müşteriler",
+        "sorunsuz geldi teşekkürler katar",
+        "paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürünü kesinlikle tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "çok iyi geldi sağlam ve kusursuz teşekkür ederim tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "gösterildiği gibiydi herhangi bir sorun olmadan kapıma geldi teşekkür ederim",
+          "text": "paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürünü kesinlikle tavsiye ederim",
           "score": 5.0
         },
         {
@@ -127,11 +111,23 @@
           "score": 5.0
         },
         {
-          "text": "ürün elime gayet güzel geldi çok memnunum",
+          "text": "ürün çok iyi ve kaliteli malzemesi harika",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kaliteli kullanışlı sağlam hızlı gönderim",
+          "score": 5.0
+        },
+        {
+          "text": "çocuğumun ders masası işin aldım kaliteli bir ürün sağlam bir sekilde teslim edildi",
           "score": 5.0
         },
         {
           "text": "sorunsuz geldi teşekkürler katar",
+          "score": 5.0
+        },
+        {
+          "text": "sorunsuz 2 günde geldi teşekürler hayırlı müşteriler",
           "score": 5.0
         }
       ],
@@ -139,8 +135,8 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 5,
-      "avg_score": 5.0,
+      "review_count": 12,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -150,15 +146,16 @@
         "uygun",
         "ilgili",
         "kalite",
-        "rahatlığı",
-        "kusursuz"
+        "kusursuz",
+        "kalitesi"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "gayet güzel fiyatta diğer sitelere göre uygun",
-        "kusursuz olarak geldi fiyat gayet iyi"
+        "fiyat performans ürünü ortaokulu giden çocuklar için aldım ders çalışma masasında kullanıyorlar",
+        "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
+        "gayet güzel fiyatta diğer sitelere göre uygun"
       ],
       "all_reviews": [
         {
@@ -166,67 +163,134 @@
           "score": 5.0
         },
         {
+          "text": "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
+          "score": 5.0
+        },
+        {
           "text": "gayet güzel fiyatta diğer sitelere göre uygun",
+          "score": 5.0
+        },
+        {
+          "text": "satıcı gayet ilgiliydi memnun kaldım ürün de kullanışlı",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans ürünü ortaokulu giden çocuklar için aldım ders çalışma masasında kullanıyorlar",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "takım",
+        "paketleme",
+        "teşekürler",
+        "yaptım",
+        "olsaydı",
+        "istediğim",
+        "sürekli",
+        "kazançlar"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
+        "paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürünü kesinlikle tavsiye ederim",
+        "sorunsuz 2 günde geldi teşekürler hayırlı müşteriler"
+      ],
+      "all_reviews": [
+        {
+          "text": "paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürünü kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
+          "score": 5.0
+        },
+        {
+          "text": "sorunsuz 2 günde geldi teşekürler hayırlı müşteriler",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat Koltuk",
-      "review_count": 3,
-      "avg_score": 5.0,
+      "name": "Alınabilir",
+      "review_count": 7,
+      "avg_score": 4.71,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat",
-        "koltuk",
-        "sağlam",
-        "çalışma",
-        "kurulumu",
-        "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
+        "alınabilir",
+        "çocuk",
+        "halı",
+        "uygun",
+        "göründüğü",
+        "bayıldım",
+        "aldık",
+        "sorun"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 71.4,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 28.6,
       "sample_reviews": [
-        "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye"
+        "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
+        "fiyat performans ürünü ortaokulu giden çocuklar için aldım ders çalışma masasında kullanıyorlar",
+        "gayet güzel fiyatta diğer sitelere göre uygun"
       ],
       "all_reviews": [
         {
           "text": "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
           "score": 5.0
+        },
+        {
+          "text": "gayet güzel fiyatta diğer sitelere göre uygun",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans ürünü ortaokulu giden çocuklar için aldım ders çalışma masasında kullanıyorlar",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kolay & Rahatlığıyla",
-      "review_count": 2,
+      "name": "Kurulum Kolay",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "paketleme",
         "kolay",
-        "rahatlığıyla",
-        "tesekkurler",
-        "kaldik",
-        "kurulumuda",
-        "yaptım",
-        "rağmen",
-        "çıktı"
+        "kurulumu",
+        "kurulumu kolay",
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok kullanışlı mutfak icin aldim minderle kullaniyorum"
+        "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
+        "paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürünü kesinlikle tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "çok kullanışlı mutfak icin aldim minderle kullaniyorum",
+          "text": "paketleme çok güzeldi çok hızlı teslimat oldu biz çokça memnun kaldım satıcıya ve ürünü kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "biz çok beğendik sağlam ve paketlemesi güzel bir şekilde elimize ulaştı uygun fiyatlı alabileceğiniz en güzel sandalye",
           "score": 5.0
         }
       ],

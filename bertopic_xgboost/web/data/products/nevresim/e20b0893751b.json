@@ -8,7 +8,7 @@
   "overall_score": 4.96,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**BESTİNA GOLD Harmony Hues İpliği Boyalı Doğal Çift Kişi** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata Kalite** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **indirimde** ve **çeyiz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bu kadar hızlı kargo ve böyle kaliteli bir şey beklemiyordum gerçekten çok memnun kal…\"\n• **Rengi & Renkleri Canlı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **renkler** ve **dokusu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Renk kumaş boyut tam istediğim gibi çok teşekkür ederim üç ayrı renk aldım hepsi birb…\"\n• Kullanıcılar **Kumaşı Kaliteli** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kumaş** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaş…\"\n• **Çekme Yapmadı** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **lastikli** ve **pamuk** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel alır almaz yıkadım hiç bozulma olmadı çarşaf lastikli ve çok kullanışlı tav…\"\n• Müşteri yorumlarında **Bende & Paketlenmesi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kalitesi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Siparisim cok çabuk geldi siparis verildikten ertesi gün elimdeydi paketlemeside iyiy…\"",
+  "summary": "BESTİNA GOLD Harmony Hues İpliği Boyalı Doğal Çift Kişi, kullanıcı memnuniyetine sahip bir ürün olarak öne çıkıyor. Ürün, kalitesi ve paketlenme kalitesiyle birlikte pozitif yorumlar alıyor. Ayrıca, dokusu ve rengin canlıliği ile çekme solma özelliği de beğeni toplamıştır. Bütün yönleriyle 5.0/5.0 genel memnuniyet puanına sahip olan bu ürün, müşterilerin güvenini kazanmıştır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,100 @@
   },
   "aspects": [
     {
-      "name": "Fiyata Kalite",
-      "review_count": 20,
-      "avg_score": 5.0,
+      "name": "Kalite",
+      "review_count": 27,
+      "avg_score": 4.93,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
         "kalite",
         "tane",
         "paketleme",
         "indirimde",
-        "fiyata kalite",
         "çeyiz",
-        "beklemiyordum"
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 92.6,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 7.4,
       "sample_reviews": [
         "bu kadar hızlı kargo ve böyle kaliteli bir şey beklemiyordum gerçekten çok memnun kaldım tereddütlerim vardı çünkü yatağım çok yüksek olmamasından endişe etmiştim alırken ama tam oturdu yatağıma tam istediğim gibi oldu ayrıca minik hediyeniz icinde çok teşekkür ederim",
         "çok beğendim muhteşem kaynanama aldım oda çok beğendi alırsam kendime alıcam kalitesi normal ne çok kalın ne çok ince ama sonuç tabikide harika paketleme özenliydi kargomda erken geldi teşekkürler",
-        "hediyenize teşekkür ederim bu fiata bu kalite beklemiyordum cok beğendim bol kazançlar"
+        "siparisim cok çabuk geldi siparis verildikten ertesi gün elimdeydi paketlemeside iyiydi tesekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "hediyenize teşekkür ederim bu fiata bu kalite beklemiyordum cok beğendim bol kazançlar",
+          "score": 5.0
+        },
+        {
+          "text": "bu kadar hızlı kargo ve böyle kaliteli bir şey beklemiyordum gerçekten çok memnun kaldım tereddütlerim vardı çünkü yatağım çok yüksek olmamasından endişe etmiştim alırken ama tam oturdu yatağıma tam istediğim gibi oldu ayrıca minik hediyeniz icinde çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kaliteli düşünceli hediyeniz için de çok teşekkürler bir set de anneme hediye alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü almadan önce yorumlara çok baktım ancak beklediğimden de iyi bir ürün elime ulaştı yastığın düğme detayları çok hoş duruyor nazik hediyeniz için de çok teşekkür ederim çok incesiniz hem hızlı hem özenli ve kaliteli ürün satıcısı şu zamanda neredeyse zor emeklerinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "ürünlerim elime ulaştı kalitesi oldukça iyi ebatları güzel teşekkür ederim menmun kaldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim muhteşem kaynanama aldım oda çok beğendi alırsam kendime alıcam kalitesi normal ne çok kalın ne çok ince ama sonuç tabikide harika paketleme özenliydi kargomda erken geldi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "fiyata göre çok kaliteli çekme yapmadı ebatları büyük",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım çeyizim için aldım göründüğü gibi geldi kargo da hızlıydı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "siparisim cok çabuk geldi siparis verildikten ertesi gün elimdeydi paketlemeside iyiydi tesekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 20,
+      "avg_score": 4.9,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 90.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 10.0,
+      "sample_reviews": [
+        "çok beğendim muhteşem kaynanama aldım oda çok beğendi alırsam kendime alıcam kalitesi normal ne çok kalın ne çok ince ama sonuç tabikide harika paketleme özenliydi kargomda erken geldi teşekkürler",
+        "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+        "ürünlerim elime ulaştı kalitesi oldukça iyi ebatları güzel teşekkür ederim menmun kaldım"
       ],
       "all_reviews": [
         {
@@ -67,20 +139,74 @@
           "score": 5.0
         },
         {
-          "text": "efsane bir ürün kumaşı dikişi resmen aradığım ürünü buldum bundan sonra tüm nevresimleri sizden alacağım zarif hediyeniz için de ayrıca çok teşekkür ederim gözünüz kapalı alın",
+          "text": "ürün çok güzel ve kaliteli düşünceli hediyeniz için de çok teşekkürler bir set de anneme hediye alacağım",
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel ve kaliteli düşünceli hediyeniz için de çok teşekkürler bir set de anneme hediye alacağım",
-          "score": 5.0
+          "text": "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 8,
-      "avg_score": 5.0,
+      "name": "Doku & Kalite",
+      "review_count": 20,
+      "avg_score": 4.9,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 90.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 10.0,
+      "sample_reviews": [
+        "çok beğendim muhteşem kaynanama aldım oda çok beğendi alırsam kendime alıcam kalitesi normal ne çok kalın ne çok ince ama sonuç tabikide harika paketleme özenliydi kargomda erken geldi teşekkürler",
+        "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+        "ürünlerim elime ulaştı kalitesi oldukça iyi ebatları güzel teşekkür ederim menmun kaldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "hediyenize teşekkür ederim bu fiata bu kalite beklemiyordum cok beğendim bol kazançlar",
+          "score": 5.0
+        },
+        {
+          "text": "bu kadar hızlı kargo ve böyle kaliteli bir şey beklemiyordum gerçekten çok memnun kaldım tereddütlerim vardı çünkü yatağım çok yüksek olmamasından endişe etmiştim alırken ama tam oturdu yatağıma tam istediğim gibi oldu ayrıca minik hediyeniz icinde çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü almadan önce yorumlara çok baktım ancak beklediğimden de iyi bir ürün elime ulaştı yastığın düğme detayları çok hoş duruyor nazik hediyeniz için de çok teşekkür ederim çok incesiniz hem hızlı hem özenli ve kaliteli ürün satıcısı şu zamanda neredeyse zor emeklerinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "ürünlerim elime ulaştı kalitesi oldukça iyi ebatları güzel teşekkür ederim menmun kaldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim muhteşem kaynanama aldım oda çok beğendi alırsam kendime alıcam kalitesi normal ne çok kalın ne çok ince ama sonuç tabikide harika paketleme özenliydi kargomda erken geldi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "fiyata göre çok kaliteli çekme yapmadı ebatları büyük",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ve kaliteli düşünceli hediyeniz için de çok teşekkürler bir set de anneme hediye alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Renk Canlı",
+      "review_count": 17,
+      "avg_score": 4.88,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -93,17 +219,29 @@
         "dokusu",
         "aynı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 88.2,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 11.8,
       "sample_reviews": [
-        "çok güzel ben beğendim rengi vs çok tatlı duruyor bir kusuru yoktu teşekkür ederim",
-        "renk kumaş boyut tam istediğim gibi çok teşekkür ederim üç ayrı renk aldım hepsi birbirinden güzel ayrıca hediyeniz için teşekkür ederim",
-        "güzel görünüyor daha öncede sarısını almistim"
+        "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+        "görseldeki ile aynı yıkadım kırışma bile olmadı hemen tek kişiliğinide sipariş verdim",
+        "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr"
       ],
       "all_reviews": [
         {
+          "text": "görseldeki ile aynı yıkadım kırışma bile olmadı hemen tek kişiliğinide sipariş verdim",
+          "score": 5.0
+        },
+        {
           "text": "renk kumaş boyut tam istediğim gibi çok teşekkür ederim üç ayrı renk aldım hepsi birbirinden güzel ayrıca hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel alır almaz yıkadım hiç bozulma olmadı çarşaf lastikli ve çok kullanışlı tavsiye ederim",
           "score": 5.0
         },
         {
@@ -111,39 +249,159 @@
           "score": 5.0
         },
         {
-          "text": "güzel görünüyor daha öncede sarısını almistim",
+          "text": "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Solma",
+      "review_count": 17,
+      "avg_score": 4.88,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "takımı",
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
+      ],
+      "positive_pct": 88.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.8,
+      "sample_reviews": [
+        "ürünü almadan önce yorumlara çok baktım ancak beklediğimden de iyi bir ürün elime ulaştı yastığın düğme detayları çok hoş duruyor nazik hediyeniz için de çok teşekkür ederim çok incesiniz hem hızlı hem özenli ve kaliteli ürün satıcısı şu zamanda neredeyse zor emeklerinize sağlık",
+        "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+        "bayıldım çeyizim için aldım göründüğü gibi geldi kargo da hızlıydı tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü almadan önce yorumlara çok baktım ancak beklediğimden de iyi bir ürün elime ulaştı yastığın düğme detayları çok hoş duruyor nazik hediyeniz için de çok teşekkür ederim çok incesiniz hem hızlı hem özenli ve kaliteli ürün satıcısı şu zamanda neredeyse zor emeklerinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "fiyata göre çok kaliteli çekme yapmadı ebatları büyük",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım çeyizim için aldım göründüğü gibi geldi kargo da hızlıydı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bu nevresim takımından 3 alışım çok beğendim firma ilgili teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "efsane bir ürün kumaşı dikişi resmen aradığım ürünü buldum bundan sonra tüm nevresimleri sizden alacağım zarif hediyeniz için de ayrıca çok teşekkür ederim gözünüz kapalı alın",
+        "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
+        "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "renk kumaş boyut tam istediğim gibi çok teşekkür ederim üç ayrı renk aldım hepsi birbirinden güzel ayrıca hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel alır almaz yıkadım hiç bozulma olmadı çarşaf lastikli ve çok kullanışlı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ben beğendim rengi vs çok tatlı duruyor bir kusuru yoktu teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "efsane bir ürün kumaşı dikişi resmen aradığım ürünü buldum bundan sonra tüm nevresimleri sizden alacağım zarif hediyeniz için de ayrıca çok teşekkür ederim gözünüz kapalı alın",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 7,
-      "avg_score": 4.71,
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 15,
+      "avg_score": 4.87,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "kumaşı",
-        "kumaş",
-        "rengi",
-        "pamuklu",
-        "lastikli",
-        "takım",
-        "dokusu",
-        "ayrı"
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
       ],
-      "positive_pct": 71.4,
+      "positive_pct": 86.7,
       "negative_pct": 0.0,
-      "neutral_pct": 28.6,
+      "neutral_pct": 13.3,
       "sample_reviews": [
-        "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
+        "bu kadar hızlı kargo ve böyle kaliteli bir şey beklemiyordum gerçekten çok memnun kaldım tereddütlerim vardı çünkü yatağım çok yüksek olmamasından endişe etmiştim alırken ama tam oturdu yatağıma tam istediğim gibi oldu ayrıca minik hediyeniz icinde çok teşekkür ederim",
         "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
-        "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr"
+        "efsane bir ürün kumaşı dikişi resmen aradığım ürünü buldum bundan sonra tüm nevresimleri sizden alacağım zarif hediyeniz için de ayrıca çok teşekkür ederim gözünüz kapalı alın"
       ],
       "all_reviews": [
         {
+          "text": "bu kadar hızlı kargo ve böyle kaliteli bir şey beklemiyordum gerçekten çok memnun kaldım tereddütlerim vardı çünkü yatağım çok yüksek olmamasından endişe etmiştim alırken ama tam oturdu yatağıma tam istediğim gibi oldu ayrıca minik hediyeniz icinde çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "renk kumaş boyut tam istediğim gibi çok teşekkür ederim üç ayrı renk aldım hepsi birbirinden güzel ayrıca hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
           "text": "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "efsane bir ürün kumaşı dikişi resmen aradığım ürünü buldum bundan sonra tüm nevresimleri sizden alacağım zarif hediyeniz için de ayrıca çok teşekkür ederim gözünüz kapalı alın",
           "score": 5.0
         },
         {
@@ -158,9 +416,101 @@
       "icon": "💬"
     },
     {
-      "name": "Çekme Yapmadı",
-      "review_count": 6,
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 13,
       "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+        "bu nevresim takımından 3 alışım çok beğendim firma ilgili teşekkür ederim",
+        "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık"
+      ],
+      "all_reviews": [
+        {
+          "text": "renk kumaş boyut tam istediğim gibi çok teşekkür ederim üç ayrı renk aldım hepsi birbirinden güzel ayrıca hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bu nevresim takımından 3 alışım çok beğendim firma ilgili teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "fiyata göre çok kaliteli çekme yapmadı ebatları büyük",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
+        "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+        "efsane bir ürün kumaşı dikişi resmen aradığım ürünü buldum bundan sonra tüm nevresimleri sizden alacağım zarif hediyeniz için de ayrıca çok teşekkür ederim gözünüz kapalı alın"
+      ],
+      "all_reviews": [
+        {
+          "text": "renk kumaş boyut tam istediğim gibi çok teşekkür ederim üç ayrı renk aldım hepsi birbirinden güzel ayrıca hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "3 nevresim aldım ben açık renkleri sevdiğim için tercih ettim mavi renk favorim kumaşı çok güzel kızımın çeyizine ve arkadaşıma doğum günü hediyesi aldım fiyatıda çok iyi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bu nevresim takımından 3 alışım çok beğendim firma ilgili teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "efsane bir ürün kumaşı dikişi resmen aradığım ürünü buldum bundan sonra tüm nevresimleri sizden alacağım zarif hediyeniz için de ayrıca çok teşekkür ederim gözünüz kapalı alın",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten harika ev arkadaşım ve kendim için aldım kumaşı duruşu herşeyi muhteşem en favori nevresim takımcımız siz oldunuz emeğinize sağlık",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 12,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -168,17 +518,18 @@
         "lastikli",
         "yapmadı",
         "pamuk",
-        "görseldeki",
         "alıcam",
         "solma",
-        "çekme"
+        "çekme",
+        "çekme yapmadı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "çok güzel alır almaz yıkadım hiç bozulma olmadı çarşaf lastikli ve çok kullanışlı tavsiye ederim",
-        "görseldeki ile aynı yıkadım kırışma bile olmadı hemen tek kişiliğinide sipariş verdim"
+        "fiyata göre çok kaliteli çekme yapmadı ebatları büyük",
+        "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+        "çok güzel alır almaz yıkadım hiç bozulma olmadı çarşaf lastikli ve çok kullanışlı tavsiye ederim"
       ],
       "all_reviews": [
         {
@@ -188,98 +539,18 @@
         {
           "text": "çok güzel alır almaz yıkadım hiç bozulma olmadı çarşaf lastikli ve çok kullanışlı tavsiye ederim",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Bende & Paketlenmesi",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "aldık",
-        "bende",
-        "almışım",
-        "paketlenmesi",
-        "kalitesi",
-        "kullanıyor",
-        "çeyizime",
-        "beğenerek"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "siparisim cok çabuk geldi siparis verildikten ertesi gün elimdeydi paketlemeside iyiydi tesekkürler",
-        "bayıldım çeyizim için aldım göründüğü gibi geldi kargo da hızlıydı tavsiye ederim"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "siparisim cok çabuk geldi siparis verildikten ertesi gün elimdeydi paketlemeside iyiydi tesekkürler",
+          "text": "fiyata göre çok kaliteli çekme yapmadı ebatları büyük",
           "score": 5.0
         },
         {
-          "text": "bayıldım çeyizim için aldım göründüğü gibi geldi kargo da hızlıydı tavsiye ederim",
+          "text": "çok beğendim muhteşem kaynanama aldım oda çok beğendi alırsam kendime alıcam kalitesi normal ne çok kalın ne çok ince ama sonuç tabikide harika paketleme özenliydi kargomda erken geldi teşekkürler",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Canlı Kumaşı",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "canlı kumaşı",
-        "takım",
-        "sağlam",
-        "canlı",
-        "kumaşı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bu nevresim takımından 3 alışım çok beğendim firma ilgili teşekkür ederim"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "bu nevresim takımından 3 alışım çok beğendim firma ilgili teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kişilik",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "resimdeki ile aynı geldi çok güzel beğendim"
-      ],
-      "all_reviews": [
-        {
-          "text": "resimdeki ile aynı geldi çok güzel beğendim",
-          "score": 5.0
+          "text": "ürünün kalitesini çok beğendim tam yatağıma göre oldu severek kullanıyorum yıkadım bir tık çekme oldu çarşafda tşklr",
+          "score": 4.0
         }
       ],
       "icon": "💬"

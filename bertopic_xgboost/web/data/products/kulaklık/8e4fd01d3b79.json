@@ -8,7 +8,7 @@
   "overall_score": 4.86,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**FABRON K55 Kablosuz Oyuncu Kulaklığı Android Ios Uyumlu** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kalitesi & Fiyata Performans** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kılıf** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Hediye için teşekkürler sıkıntısız çalışıyo sesi yansıtma şekli paketlemesi baştan so…\"\n• **Fiyata Kalite**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kullanışlı** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün çok güzel 5 saat kullandım şarz 70 oldu paketleme de çok iyi hediyeniz için de t…\"\n• Kullanıcılar **Kılıfı & Çıktı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir. Örnek kullanıcı ifadesi: \"Ürünü kardeşime aldım kendisi daha önce 2 defa almış bu sefer ben aldım gayet güzel t…\"\n• **Kaliteli & Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sorun** ve **paketlemesi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye…\"\n• Müşteri yorumlarında **Marka & Süresi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **efsane** ve **beyendi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de…\"",
+  "summary": "FABRON K55 Kablosuz Oyuncu Kulaklığı, kullanıcıların büyük bir çoğunluğuna hitap ederken, özellikle şarja ve fiyat performansı olarak öne çıkmaktadır. Ürün, kalite ve müzik dinlerken deneyimi de oldukça olumlu bulmaktadır. Kullanıcılar, marka ile fiyat performansı arasında da iyi bir denge kurarak, genel memnuniyet oranı 4.9/5.0 seviyesinde kalırken, ürünün güçlü yanlarını takdir etmektedir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,7 +18,147 @@
   },
   "aspects": [
     {
-      "name": "Kalitesi & Fiyata Performans",
+      "name": "Şarja & Hiçbir",
+      "review_count": 27,
+      "avg_score": 4.93,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "şarja",
+        "hiçbir",
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
+      ],
+      "positive_pct": 92.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 7.4,
+      "sample_reviews": [
+        "ürün çok güzel herkese tavsiye ederim ayrıca satıcının ilgisi özenli kargolama hızlı teslimat emeği geçen herkese çok çok teşekkür ederim ayriyeten göndermiş olduğunuz hediyeler için çok çok teşekkür ederim",
+        "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+        "hediye için teşekkürler sıkıntısız çalışıyo sesi yansıtma şekli paketlemesi baştan sona her detayı o kadar güzel ki iyi ki almışım diyorum teşekkürler fabronnn"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün elime ulaştı telefon standı hediyesiyle hiç bir problem yaşamadık zaten 4 yıldır bu ürünü kullaniyordum tekrar istemistim sorunsuz geldi satıcıya teşekkürlerimi sunuyorum",
+          "score": 5.0
+        },
+        {
+          "text": "hediye için teşekkürler sıkıntısız çalışıyo sesi yansıtma şekli paketlemesi baştan sona her detayı o kadar güzel ki iyi ki almışım diyorum teşekkürler fabronnn",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü kardeşime aldım kendisi daha önce 2 defa almış bu sefer ben aldım gayet güzel tavsiye ederim f p",
+          "score": 5.0
+        },
+        {
+          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+          "score": 5.0
+        },
+        {
+          "text": "böyle kaliteli bir ürün beklemiyordum cidden premium hissiyatını yaşatıyor çok güzel paketlenmesi de güzel kesinlikle tavsiye ediyorum harika bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel herkese tavsiye ederim ayrıca satıcının ilgisi özenli kargolama hızlı teslimat emeği geçen herkese çok çok teşekkür ederim ayriyeten göndermiş olduğunuz hediyeler için çok çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm geldi tavsiye üzerine almıştım son kelime ile mükemmel ötesi çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "hediye için teşekkürler on numara 5 yıldız bir ürün ses kalitesi gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel 5 saat kullandım şarz 70 oldu paketleme de çok iyi hediyeniz için de teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "hepinize çok teşekkür ederim gönül rahatlığıyla kullanıyorum gerçekten 5 yıldızlık bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ablamın tavsiyesi ile aldım daha önce kullanmış güzel ürün gerçekten alınmalı",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 24,
+      "avg_score": 4.92,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
+        "performans fiyat",
+        "kalitesi baya",
+        "alin",
+        "sorunsuz",
+        "diye",
+        "tane"
+      ],
+      "positive_pct": 91.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 8.3,
+      "sample_reviews": [
+        "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+        "begenere kulandıgım bir kulaklık 2 senedir kulanıyorum sevgilimede aynısını aldım oda çok begendi çok güzel kulaklık ses performansı çok iyi dışardan gürültü engelleyici özeligi çok iyi",
+        "hediye için teşekkürler on numara 5 yıldız bir ürün ses kalitesi gayet iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ses kalitesı 10 numara anneme almkstım cok guzell bayadır bozulmadı kırılmadı bı yerlere dusmesıne ragmen",
+          "score": 5.0
+        },
+        {
+          "text": "begenere kulandıgım bir kulaklık 2 senedir kulanıyorum sevgilimede aynısını aldım oda çok begendi çok güzel kulaklık ses performansı çok iyi dışardan gürültü engelleyici özeligi çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+          "score": 5.0
+        },
+        {
+          "text": "böyle kaliteli bir ürün beklemiyordum cidden premium hissiyatını yaşatıyor çok güzel paketlenmesi de güzel kesinlikle tavsiye ediyorum harika bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre süper ses harika bir kulaklık gerçekten şimdi elime ulaştı şazartesi sipariş vermiştim hızlı kargo",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata çok güzel bi kulaklık teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi falan 10 numara kesin öneririm kesinlikle üzmez gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "hediye için teşekkürler on numara 5 yıldız bir ürün ses kalitesi gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
+          "text": "arkadaşıma aldım çok beğendim ses kalitesi güzel o da çok beğenmiş tavsiye ederim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
       "review_count": 20,
       "avg_score": 4.9,
       "sentiment": "positive",
@@ -27,11 +167,11 @@
         "kalitesi",
         "sesi",
         "şarj",
-        "kılıf",
-        "fiyata",
         "kalitesi kalitesi",
+        "kılıf",
         "bayıldım",
-        "kaliteli"
+        "dışarı",
+        "paketlemesi"
       ],
       "positive_pct": 90.0,
       "negative_pct": 0.0,
@@ -51,11 +191,11 @@
           "score": 5.0
         },
         {
-          "text": "begenere kulandıgım bir kulaklık 2 senedir kulanıyorum sevgilimede aynısını aldım oda çok begendi çok güzel kulaklık ses performansı çok iyi dışardan gürültü engelleyici özeligi çok iyi",
+          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
           "score": 5.0
         },
         {
-          "text": "fiyatına göre süper ses harika bir kulaklık gerçekten şimdi elime ulaştı şazartesi sipariş vermiştim hızlı kargo",
+          "text": "böyle kaliteli bir ürün beklemiyordum cidden premium hissiyatını yaşatıyor çok güzel paketlenmesi de güzel kesinlikle tavsiye ediyorum harika bir ürün",
           "score": 5.0
         },
         {
@@ -67,7 +207,7 @@
           "score": 5.0
         },
         {
-          "text": "hepinize çok teşekkür ederim gönül rahatlığıyla kullanıyorum gerçekten 5 yıldızlık bir ürün",
+          "text": "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz",
           "score": 5.0
         },
         {
@@ -78,72 +218,88 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyata Kalite",
-      "review_count": 10,
-      "avg_score": 4.7,
+      "name": "Müzik Dinlerken",
+      "review_count": 20,
+      "avg_score": 4.9,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "kullanışlı",
-        "sağlam",
-        "şarja",
-        "fiyata kalite",
-        "hiçbir",
-        "kaliteli",
-        "üründen"
+        "beklediğimden",
+        "aldık",
+        "kalitesi",
+        "sesi",
+        "müzik dinlerken",
+        "iyidi",
+        "sesim",
+        "dinlerken"
       ],
-      "positive_pct": 70.0,
+      "positive_pct": 90.0,
       "negative_pct": 0.0,
-      "neutral_pct": 30.0,
+      "neutral_pct": 10.0,
       "sample_reviews": [
-        "ürün çok güzel 5 saat kullandım şarz 70 oldu paketleme de çok iyi hediyeniz için de teşekkür ederim",
-        "güzel kutulu sağlam geldi hediye anahtarlık için teşekkür ederiz",
-        "ürün elime ulaştı telefon standı hediyesiyle hiç bir problem yaşamadık zaten 4 yıldır bu ürünü kullaniyordum tekrar istemistim sorunsuz geldi satıcıya teşekkürlerimi sunuyorum"
+        "hediye için teşekkürler sıkıntısız çalışıyo sesi yansıtma şekli paketlemesi baştan sona her detayı o kadar güzel ki iyi ki almışım diyorum teşekkürler fabronnn",
+        "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz",
+        "ses kalitesi falan 10 numara kesin öneririm kesinlikle üzmez gönül rahatlığıyla alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "ürün elime ulaştı telefon standı hediyesiyle hiç bir problem yaşamadık zaten 4 yıldır bu ürünü kullaniyordum tekrar istemistim sorunsuz geldi satıcıya teşekkürlerimi sunuyorum",
+          "text": "ses kalitesı 10 numara anneme almkstım cok guzell bayadır bozulmadı kırılmadı bı yerlere dusmesıne ragmen",
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel 5 saat kullandım şarz 70 oldu paketleme de çok iyi hediyeniz için de teşekkür ederim",
+          "text": "hediye için teşekkürler sıkıntısız çalışıyo sesi yansıtma şekli paketlemesi baştan sona her detayı o kadar güzel ki iyi ki almışım diyorum teşekkürler fabronnn",
           "score": 5.0
         },
         {
-          "text": "bu fiyata çok güzel bi kulaklık teşekkür ederim",
+          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
           "score": 5.0
         },
         {
-          "text": "güzel kutulu sağlam geldi hediye anahtarlık için teşekkür ederiz",
+          "text": "böyle kaliteli bir ürün beklemiyordum cidden premium hissiyatını yaşatıyor çok güzel paketlenmesi de güzel kesinlikle tavsiye ediyorum harika bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi falan 10 numara kesin öneririm kesinlikle üzmez gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "hediye için teşekkürler on numara 5 yıldız bir ürün ses kalitesi gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
+          "text": "arkadaşıma aldım çok beğendim ses kalitesi güzel o da çok beğenmiş tavsiye ederim",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kılıfı & Çıktı",
-      "review_count": 8,
-      "avg_score": 4.75,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 19,
+      "avg_score": 4.79,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "para",
-        "kılıfı",
-        "yeğenime",
-        "çıktı",
-        "öneriyorum",
-        "defa"
+        "marka",
+        "süresi",
+        "efsane",
+        "beyendi",
+        "aldı",
+        "kargolama",
+        "aydır",
+        "saglam"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 78.9,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 21.1,
       "sample_reviews": [
-        "ürünü kardeşime aldım kendisi daha önce 2 defa almış bu sefer ben aldım gayet güzel tavsiye ederim f p",
-        "ablamın tavsiyesi ile aldım daha önce kullanmış güzel ürün gerçekten alınmalı",
-        "kardeşime aldım bayıldı"
+        "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+        "begenere kulandıgım bir kulaklık 2 senedir kulanıyorum sevgilimede aynısını aldım oda çok begendi çok güzel kulaklık ses performansı çok iyi dışardan gürültü engelleyici özeligi çok iyi",
+        "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz"
       ],
       "all_reviews": [
         {
@@ -151,42 +307,163 @@
           "score": 5.0
         },
         {
+          "text": "begenere kulandıgım bir kulaklık 2 senedir kulanıyorum sevgilimede aynısını aldım oda çok begendi çok güzel kulaklık ses performansı çok iyi dışardan gürültü engelleyici özeligi çok iyi",
+          "score": 5.0
+        },
+        {
           "text": "ürünü kardeşime aldım kendisi daha önce 2 defa almış bu sefer ben aldım gayet güzel tavsiye ederim f p",
           "score": 5.0
         },
         {
+          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+          "score": 5.0
+        },
+        {
+          "text": "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
           "text": "ablamın tavsiyesi ile aldım daha önce kullanmış güzel ürün gerçekten alınmalı",
+          "score": 4.0
+        },
+        {
+          "text": "arkadaşıma aldım çok beğendim ses kalitesi güzel o da çok beğenmiş tavsiye ederim",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Fiyat Performans",
-      "review_count": 5,
+      "name": "Görünt Kalite",
+      "review_count": 17,
+      "avg_score": 4.88,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
+      ],
+      "positive_pct": 88.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.8,
+      "sample_reviews": [
+        "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+        "böyle kaliteli bir ürün beklemiyordum cidden premium hissiyatını yaşatıyor çok güzel paketlenmesi de güzel kesinlikle tavsiye ediyorum harika bir ürün",
+        "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz"
+      ],
+      "all_reviews": [
+        {
+          "text": "ses kalitesı 10 numara anneme almkstım cok guzell bayadır bozulmadı kırılmadı bı yerlere dusmesıne ragmen",
+          "score": 5.0
+        },
+        {
+          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+          "score": 5.0
+        },
+        {
+          "text": "böyle kaliteli bir ürün beklemiyordum cidden premium hissiyatını yaşatıyor çok güzel paketlenmesi de güzel kesinlikle tavsiye ediyorum harika bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi falan 10 numara kesin öneririm kesinlikle üzmez gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "hediye için teşekkürler on numara 5 yıldız bir ürün ses kalitesi gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
+          "text": "arkadaşıma aldım çok beğendim ses kalitesi güzel o da çok beğenmiş tavsiye ederim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Uygun",
+      "review_count": 11,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "beklediğimden",
-        "sorun",
+        "almak",
+        "sorunsuz",
+        "uygun",
+        "valla",
         "paketleme",
-        "paketlemesi",
-        "performans",
-        "tane",
-        "orijinal"
+        "direk",
+        "yapılmış",
+        "herşey"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+        "ürün elime ulaştı telefon standı hediyesiyle hiç bir problem yaşamadık zaten 4 yıldır bu ürünü kullaniyordum tekrar istemistim sorunsuz geldi satıcıya teşekkürlerimi sunuyorum",
+        "hediye için teşekkürler sıkıntısız çalışıyo sesi yansıtma şekli paketlemesi baştan sona her detayı o kadar güzel ki iyi ki almışım diyorum teşekkürler fabronnn"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün elime ulaştı telefon standı hediyesiyle hiç bir problem yaşamadık zaten 4 yıldır bu ürünü kullaniyordum tekrar istemistim sorunsuz geldi satıcıya teşekkürlerimi sunuyorum",
+          "score": 5.0
+        },
+        {
+          "text": "hediye için teşekkürler sıkıntısız çalışıyo sesi yansıtma şekli paketlemesi baştan sona her detayı o kadar güzel ki iyi ki almışım diyorum teşekkürler fabronnn",
+          "score": 5.0
+        },
+        {
+          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel 5 saat kullandım şarz 70 oldu paketleme de çok iyi hediyeniz için de teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Telefon",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "icin",
+        "aynı",
+        "telefon",
+        "beklemiyordum",
+        "uygun",
+        "bağlantı",
+        "sıkıntı",
+        "telefonla"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "begenere kulandıgım bir kulaklık 2 senedir kulanıyorum sevgilimede aynısını aldım oda çok begendi çok güzel kulaklık ses performansı çok iyi dışardan gürültü engelleyici özeligi çok iyi",
+        "ürün elime ulaştı telefon standı hediyesiyle hiç bir problem yaşamadık zaten 4 yıldır bu ürünü kullaniyordum tekrar istemistim sorunsuz geldi satıcıya teşekkürlerimi sunuyorum",
         "böyle kaliteli bir ürün beklemiyordum cidden premium hissiyatını yaşatıyor çok güzel paketlenmesi de güzel kesinlikle tavsiye ediyorum harika bir ürün"
       ],
       "all_reviews": [
         {
-          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+          "text": "ürün elime ulaştı telefon standı hediyesiyle hiç bir problem yaşamadık zaten 4 yıldır bu ürünü kullaniyordum tekrar istemistim sorunsuz geldi satıcıya teşekkürlerimi sunuyorum",
+          "score": 5.0
+        },
+        {
+          "text": "begenere kulandıgım bir kulaklık 2 senedir kulanıyorum sevgilimede aynısını aldım oda çok begendi çok güzel kulaklık ses performansı çok iyi dışardan gürültü engelleyici özeligi çok iyi",
           "score": 5.0
         },
         {
@@ -197,90 +474,35 @@
       "icon": "💬"
     },
     {
-      "name": "Marka & Süresi",
-      "review_count": 3,
+      "name": "Kılıf & Çıktı",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "marka",
-        "süresi",
-        "efsane",
-        "beyendi",
-        "aldı",
-        "kargolama",
-        "kullanıyor",
-        "aydır"
+        "aldık",
+        "para",
+        "yeğenime",
+        "kılıfı",
+        "çıktı",
+        "öneriyorum",
+        "defa",
+        "saglam"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz"
+        "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz",
+        "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun"
       ],
       "all_reviews": [
+        {
+          "text": "aldığım kaliteli güzel bir ürün sorunsuz sağlam bir paketleme ile geldi gelen hediye anahtarlık ile müşteriyi memnun eden bir firma teşekkürler normalde yorum yapmam pek aldığınız para helal olsun",
+          "score": 5.0
+        },
         {
           "text": "baya memnun kaldık 1 ay önce kendime sipariş etmiştim şimdi yeğenime ettim kendisi de çok sevdi baya kaliteli satıcıya teşekkür ediyoruz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sağlam & Sorunsuz",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "almak",
-        "sağlam",
-        "sorunsuz",
-        "uygun",
-        "paketleme",
-        "valla",
-        "yapılmış",
-        "direk"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürünüm geldi tavsiye üzerine almıştım son kelime ile mükemmel ötesi çok teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürünüm geldi tavsiye üzerine almıştım son kelime ile mükemmel ötesi çok teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Şarjı & Fiyat Performans",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "uzun",
-        "şarjı",
-        "gidiyor",
-        "performans",
-        "fiyat performans",
-        "rengi",
-        "fiyata",
-        "bakarak"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün çok güzel herkese tavsiye ederim ayrıca satıcının ilgisi özenli kargolama hızlı teslimat emeği geçen herkese çok çok teşekkür ederim ayriyeten göndermiş olduğunuz hediyeler için çok çok teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün çok güzel herkese tavsiye ederim ayrıca satıcının ilgisi özenli kargolama hızlı teslimat emeği geçen herkese çok çok teşekkür ederim ayriyeten göndermiş olduğunuz hediyeler için çok çok teşekkür ederim",
           "score": 5.0
         }
       ],

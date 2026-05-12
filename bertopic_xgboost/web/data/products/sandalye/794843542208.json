@@ -8,7 +8,7 @@
   "overall_score": 4.96,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**mhrgroup cma Ofis Koltuğu,büro Koltuğu,çalışma Sandalye** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı pak…\"\n• **Rahat Koltuk**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün kurulumu kolaydı paketleme güzeldi sandalye rahat alacak arkadaşlara tavsiye ede…\"\n• Kullanıcılar **Yıldız & Fiyat Kalite** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **alırken** ve **tesekkurler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim\"\n• **Takım & Kurulumu Kolay** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **teşekürler** ve **sürekli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Oğlum için aldım gayet güzel rahat tavsiye ederim\"\n• Müşteri yorumlarında **Alınabilir & Çocuk** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **uygun** ve **göründüğü** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok beğendim kardeşime de aldım\"",
+  "summary": "**mhrgroup cma Ofis Koltuğu,büro Koltuğu,çalışma Sandalye** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Koltuk**: Kullanıcılar koltuk konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,44 +18,32 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 28,
-      "avg_score": 5.0,
+      "name": "Fiyat Kalite",
+      "review_count": 23,
+      "avg_score": 4.91,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 91.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 8.7,
       "sample_reviews": [
-        "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
-        "oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı paketleme güzel ve kurulumuda kolaydi kılavuza bakmadan hallettik tereddüt etmeden alabilirsiniz",
-        "çocuklarıma aldım çok begendiler sağlam geldi çok rahat kalitesi iyi"
+        "yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim",
+        "kargo çok hızlı ve ambalaj çok düzgündü fiyatına göre çok kaliteli bir ürün güven ile alıp kullanabilirsiniz eczanemde çok şık durdu firmaya teşekkür ederim",
+        "ürün gerçekten çok iyi çok kaliteli duruşu olsun oturuşu olsun çok rahat gerçekten tavsiye ederim bu fiyata gerçekten inanılmaz alın aldırın"
       ],
       "all_reviews": [
         {
-          "text": "ürün gayet iyi satıcıya teşekkür ederim paketlemesi de güzeldi oğlum için almıştım çok beğendim teşekkür ederim herkese tavsiye ederim",
-          "score": 5.0
-        },
-        {
           "text": "beklediğimden çok daha kaliteli 7 yaşındaki oğlum için aldım kesinlikle ödediğiniz parayi fazlasıyla karşılıyor",
-          "score": 5.0
-        },
-        {
-          "text": "kargo çok hızlı ve ambalaj çok düzgündü fiyatına göre çok kaliteli bir ürün güven ile alıp kullanabilirsiniz eczanemde çok şık durdu firmaya teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "ablamın emlakçı dükkanı için 2 tane aldık çok rahat ve kullanışlı",
           "score": 5.0
         },
         {
@@ -63,11 +51,135 @@
           "score": 5.0
         },
         {
+          "text": "kargo çok hızlı ve ambalaj çok düzgündü fiyatına göre çok kaliteli bir ürün güven ile alıp kullanabilirsiniz eczanemde çok şık durdu firmaya teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim",
+          "score": 5.0
+        },
+        {
           "text": "çocuklarıma aldım çok begendiler sağlam geldi çok rahat kalitesi iyi",
           "score": 5.0
         },
         {
-          "text": "cocuklar için aldık gayet kullanışlı güzel sevdiler",
+          "text": "ürün gerçekten çok iyi çok kaliteli duruşu olsun oturuşu olsun çok rahat gerçekten tavsiye ederim bu fiyata gerçekten inanılmaz alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "sanırım tek rakibiniz türk hava yolları dün akşam sipariş verdim bugün sabah ürün geldi çok teşekkür ederim çok da güzel paketlenmiş tavsiye ediyorum herkese fiyatı da çok uygun şu an",
+          "score": 5.0
+        },
+        {
+          "text": "basit ama güzel bir fiyat performans ürünü dükkanınızda evinizde rahatça kullanabilirsiniz kilolu arkadaşlar için çok önermem kırılmaya biraz müsait yapısı var",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 21,
+      "avg_score": 4.9,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
+      ],
+      "positive_pct": 90.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 9.5,
+      "sample_reviews": [
+        "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+        "basit ama güzel bir fiyat performans ürünü dükkanınızda evinizde rahatça kullanabilirsiniz kilolu arkadaşlar için çok önermem kırılmaya biraz müsait yapısı var",
+        "ve evet ofisime bir daha aldım o kadar güzel bir ürün fiyat performans zirvede fıtığıma çok iyi geliyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "ve evet ofisime bir daha aldım o kadar güzel bir ürün fiyat performans zirvede fıtığıma çok iyi geliyi",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "sanırım tek rakibiniz türk hava yolları dün akşam sipariş verdim bugün sabah ürün geldi çok teşekkür ederim çok da güzel paketlenmiş tavsiye ediyorum herkese fiyatı da çok uygun şu an",
+          "score": 5.0
+        },
+        {
+          "text": "kargo çok hızlı ve ambalaj çok düzgündü fiyatına göre çok kaliteli bir ürün güven ile alıp kullanabilirsiniz eczanemde çok şık durdu firmaya teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok iyi çok kaliteli duruşu olsun oturuşu olsun çok rahat gerçekten tavsiye ederim bu fiyata gerçekten inanılmaz alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "anlatıldığı gibi çok teşekkür ederim çok hızlı kargoladi çok şaşırdım 1 günde evde kurulum çok kolay çocuklara aldım profesyonel bir iş için uygun değil çalışma masasına gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "basit ama güzel bir fiyat performans ürünü dükkanınızda evinizde rahatça kullanabilirsiniz kilolu arkadaşlar için çok önermem kırılmaya biraz müsait yapısı var",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 19,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "kolay",
+        "kurulumu",
+        "kurulumu kolay",
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+        "ürün kurulumu kolaydı paketleme güzeldi sandalye rahat alacak arkadaşlara tavsiye ederim",
+        "oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı paketleme güzel ve kurulumuda kolaydi kılavuza bakmadan hallettik tereddüt etmeden alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gayet iyi satıcıya teşekkür ederim paketlemesi de güzeldi oğlum için almıştım çok beğendim teşekkür ederim herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kurulumu çok pratik çok rahat çocuğuma ders calişma koltuğu olarak aldım çok sağlam",
+          "score": 5.0
+        },
+        {
+          "text": "anlatıldığı gibi çok teşekkür ederim çok hızlı kargoladi çok şaşırdım 1 günde evde kurulum çok kolay çocuklara aldım profesyonel bir iş için uygun değil çalışma masasına gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kurulumu kolaydi gayet sağlam paketlenmişti kardeşim için aldım çok da rahat",
           "score": 5.0
         },
         {
@@ -79,39 +191,91 @@
           "score": 5.0
         },
         {
-          "text": "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+          "text": "ürün kurulumu kolaydı paketleme güzeldi sandalye rahat alacak arkadaşlara tavsiye ederim",
           "score": 5.0
         },
         {
-          "text": "sanırım tek rakibiniz türk hava yolları dün akşam sipariş verdim bugün sabah ürün geldi çok teşekkür ederim çok da güzel paketlenmiş tavsiye ediyorum herkese fiyatı da çok uygun şu an",
+          "text": "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat Koltuk",
-      "review_count": 14,
-      "avg_score": 4.86,
+      "name": "Sorunsuz",
+      "review_count": 16,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat",
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "sanırım tek rakibiniz türk hava yolları dün akşam sipariş verdim bugün sabah ürün geldi çok teşekkür ederim çok da güzel paketlenmiş tavsiye ediyorum herkese fiyatı da çok uygun şu an",
+        "çocuklarıma aldım çok begendiler sağlam geldi çok rahat kalitesi iyi",
+        "kargo çok hızlı ve ambalaj çok düzgündü fiyatına göre çok kaliteli bir ürün güven ile alıp kullanabilirsiniz eczanemde çok şık durdu firmaya teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "beklediğimden çok daha kaliteli 7 yaşındaki oğlum için aldım kesinlikle ödediğiniz parayi fazlasıyla karşılıyor",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kargo çok hızlı ve ambalaj çok düzgündü fiyatına göre çok kaliteli bir ürün güven ile alıp kullanabilirsiniz eczanemde çok şık durdu firmaya teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "sanırım tek rakibiniz türk hava yolları dün akşam sipariş verdim bugün sabah ürün geldi çok teşekkür ederim çok da güzel paketlenmiş tavsiye ediyorum herkese fiyatı da çok uygun şu an",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok iyi çok kaliteli duruşu olsun oturuşu olsun çok rahat gerçekten tavsiye ederim bu fiyata gerçekten inanılmaz alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "çocuklarıma aldım çok begendiler sağlam geldi çok rahat kalitesi iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk",
+      "review_count": 14,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
         "koltuk",
-        "sağlam",
         "çalışma",
         "kurulumu",
         "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
       ],
-      "positive_pct": 85.7,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 14.3,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "kurulumu çok pratik çok rahat çocuğuma ders calişma koltuğu olarak aldım çok sağlam",
-        "ürünün kurulumu kolaydi gayet sağlam paketlenmişti kardeşim için aldım çok da rahat",
-        "ürün kurulumu kolaydı paketleme güzeldi sandalye rahat alacak arkadaşlara tavsiye ederim"
+        "oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı paketleme güzel ve kurulumuda kolaydi kılavuza bakmadan hallettik tereddüt etmeden alabilirsiniz",
+        "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+        "anlatıldığı gibi çok teşekkür ederim çok hızlı kargoladi çok şaşırdım 1 günde evde kurulum çok kolay çocuklara aldım profesyonel bir iş için uygun değil çalışma masasına gayet güzel"
       ],
       "all_reviews": [
         {
@@ -123,57 +287,27 @@
           "score": 5.0
         },
         {
+          "text": "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+          "score": 5.0
+        },
+        {
           "text": "ürün kurulumu kolaydı paketleme güzeldi sandalye rahat alacak arkadaşlara tavsiye ederim",
           "score": 5.0
         },
         {
-          "text": "ürün gerçekten çok iyi çok kaliteli duruşu olsun oturuşu olsun çok rahat gerçekten tavsiye ederim bu fiyata gerçekten inanılmaz alın aldırın",
+          "text": "oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı paketleme güzel ve kurulumuda kolaydi kılavuza bakmadan hallettik tereddüt etmeden alabilirsiniz",
           "score": 5.0
         },
         {
           "text": "ürünün kurulumu kolaydi gayet sağlam paketlenmişti kardeşim için aldım çok da rahat",
           "score": 5.0
-        },
-        {
-          "text": "basit ama güzel bir fiyat performans ürünü dükkanınızda evinizde rahatça kullanabilirsiniz kilolu arkadaşlar için çok önermem kırılmaya biraz müsait yapısı var",
-          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Yıldız & Fiyat Kalite",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "yıldız",
-        "kalite",
-        "fiyat kalite",
-        "bakarak",
-        "olsa",
-        "alırken",
-        "tesekkurler",
-        "dikkat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Takım & Kurulumu Kolay",
-      "review_count": 3,
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 11,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -191,19 +325,85 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "oğlum için aldım gayet güzel rahat tavsiye ederim"
+        "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+        "oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı paketleme güzel ve kurulumuda kolaydi kılavuza bakmadan hallettik tereddüt etmeden alabilirsiniz",
+        "ürün gayet iyi satıcıya teşekkür ederim paketlemesi de güzeldi oğlum için almıştım çok beğendim teşekkür ederim herkese tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "oğlum için aldım gayet güzel rahat tavsiye ederim",
+          "text": "ürün gayet iyi satıcıya teşekkür ederim paketlemesi de güzeldi oğlum için almıştım çok beğendim teşekkür ederim herkese tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kurulumu kolaydı paketleme güzeldi sandalye rahat alacak arkadaşlara tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı paketleme güzel ve kurulumuda kolaydi kılavuza bakmadan hallettik tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir ürün kızımın odasına aldım çok kullanışlı paketlemeside çok özenliydi",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Alınabilir & Çocuk",
-      "review_count": 2,
+      "name": "Kolay & Rahatlığıyla",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kolay",
+        "rahatlığıyla",
+        "tesekkurler",
+        "kaldik",
+        "kurulumuda",
+        "yaptım",
+        "rağmen",
+        "icin"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı paketleme güzel ve kurulumuda kolaydi kılavuza bakmadan hallettik tereddüt etmeden alabilirsiniz",
+        "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+        "anlatıldığı gibi çok teşekkür ederim çok hızlı kargoladi çok şaşırdım 1 günde evde kurulum çok kolay çocuklara aldım profesyonel bir iş için uygun değil çalışma masasına gayet güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "anlatıldığı gibi çok teşekkür ederim çok hızlı kargoladi çok şaşırdım 1 günde evde kurulum çok kolay çocuklara aldım profesyonel bir iş için uygun değil çalışma masasına gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kargo hızlıydı 3 günde geldi ama paketleme biraz daha iyi olabilirdi beklediğim gibi geldi tam bir fiyat performans ürünü üniversite öğrencisiyim ve rahatlıkla kullanabilirim çok şık ve rahat kurulumu da çok kolay almak isteyenler tereddüt etmesin bu fiyata çok iyi bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kurulumu kolaydı paketleme güzeldi sandalye rahat alacak arkadaşlara tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "oğlumun ders çalışması için gayet kullanışlı ve rahat beklediğim gibi kargo hızlı paketleme güzel ve kurulumuda kolaydi kılavuza bakmadan hallettik tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kurulumu kolaydi gayet sağlam paketlenmişti kardeşim için aldım çok da rahat",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınabilir",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -221,11 +421,51 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok beğendim kardeşime de aldım"
+        "anlatıldığı gibi çok teşekkür ederim çok hızlı kargoladi çok şaşırdım 1 günde evde kurulum çok kolay çocuklara aldım profesyonel bir iş için uygun değil çalışma masasına gayet güzel",
+        "sanırım tek rakibiniz türk hava yolları dün akşam sipariş verdim bugün sabah ürün geldi çok teşekkür ederim çok da güzel paketlenmiş tavsiye ediyorum herkese fiyatı da çok uygun şu an",
+        "çocuklarıma aldım çok begendiler sağlam geldi çok rahat kalitesi iyi"
       ],
       "all_reviews": [
         {
-          "text": "çok beğendim kardeşime de aldım",
+          "text": "sanırım tek rakibiniz türk hava yolları dün akşam sipariş verdim bugün sabah ürün geldi çok teşekkür ederim çok da güzel paketlenmiş tavsiye ediyorum herkese fiyatı da çok uygun şu an",
+          "score": 5.0
+        },
+        {
+          "text": "anlatıldığı gibi çok teşekkür ederim çok hızlı kargoladi çok şaşırdım 1 günde evde kurulum çok kolay çocuklara aldım profesyonel bir iş için uygun değil çalışma masasına gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çocuklarıma aldım çok begendiler sağlam geldi çok rahat kalitesi iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Hafif",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "hafif",
+        "almışım",
+        "icin",
+        "göründüğü",
+        "görünüyor",
+        "rahatlığıyla",
+        "konforlu",
+        "kolay"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "yorumlara bakarak aldım iyiki almışım fiyatına göre çok iyi kaliteli teşekkür ederim",
           "score": 5.0
         }
       ],

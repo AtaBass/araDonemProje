@@ -1,277 +1,250 @@
 {
-  "erkek_kot": {
-    "category_label": "Erkek Kot Pantolon",
-    "product_count": 30,
+  "kadin_canta": {
+    "category_label": "Kadın Çanta",
+    "product_count": 27,
     "products": [
       {
-        "product_id": "d7b278f18b81",
-        "product_name": "HLT JEANS Erkek Bej Regular Fit Esnek Likralı Denim Jeans Kot Pantolon Hlthe0019",
-        "product_url": "https://www.trendyol.com/hlt-jeans/erkek-bej-regular-fit-esnek-likrali-denim-jeans-kot-pantolon-hlthe001933-regular-bej-p-257723648",
-        "total_reviews": 50,
-        "overall_score": 4.94,
-        "overall_sentiment": "positive",
-        "aspect_count": 9
-      },
-      {
-        "product_id": "bbcc9bf4dfa0",
-        "product_name": "HLT JEANS Erkek Taşlamalı Mavi Regular Fit Rahat Kesim Esnek Likralı Denim Jeans",
-        "product_url": "https://www.trendyol.com/hlt-jeans/erkek-taslamali-mavi-regular-fit-rahat-kesim-esnek-likrali-denim-jeans-kot-pantolon-hlthe003001-p-771596916",
-        "total_reviews": 50,
-        "overall_score": 4.94,
-        "overall_sentiment": "positive",
-        "aspect_count": 9
-      },
-      {
-        "product_id": "04ed904d88f9",
-        "product_name": "HLT JEANS Erkek Okyanus Mavisi Regular Fit Boru Paça Esnek Likralı Denim Jeans K",
-        "product_url": "https://www.trendyol.com/hlt-jeans/erkek-okyanus-mavisi-regular-fit-boru-paca-esnek-likrali-denim-jeans-kot-pantolon-hlthe001976-p-810256277",
+        "product_id": "29f3d549d3cd",
+        "product_name": "Apple iPhone 16 Pro Max 256GB Siyah Titanyum - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/apple/iphone-16-pro-max-256gb-siyah-titanyum-p-857296077",
         "total_reviews": 50,
         "overall_score": 5.0,
+        "overall_sentiment": "positive",
+        "aspect_count": 4
+      },
+      {
+        "product_id": "b8a6e56cd295",
+        "product_name": "BAGLOVİS Anne-Bebek Kullanımına Uygun, Laptop Taşınabilir Kadın Omuz Çantası EN4",
+        "product_url": "https://www.trendyol.com/baglovis/anne-bebek-kullanimina-uygun-laptop-tasinabilir-kadin-omuz-cantasi-en40-boy30-p-1090463431",
+        "total_reviews": 50,
+        "overall_score": 4.96,
+        "overall_sentiment": "positive",
+        "aspect_count": 8
+      },
+      {
+        "product_id": "be817575ea57",
+        "product_name": "Shule Bags Farme Monogram Baget ve Çapraz Çanta Kahverengi - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/shule-bags/farme-monogram-baget-ve-capraz-canta-kahverengi-p-787747307",
+        "total_reviews": 50,
+        "overall_score": 4.94,
+        "overall_sentiment": "positive",
+        "aspect_count": 8
+      },
+      {
+        "product_id": "38ddb786bf7f",
+        "product_name": "Rimense Kadın Acı Kahverengi El ve Omuz Çantası - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/rimense/kadin-aci-kahverengi-el-ve-omuz-cantasi-p-976649962",
+        "total_reviews": 50,
+        "overall_score": 4.92,
+        "overall_sentiment": "positive",
+        "aspect_count": 9
+      },
+      {
+        "product_id": "c2d8dddb85c8",
+        "product_name": "MYSTOBAG Fularlı(degişkenlik göstermektedir)Fermuarlı Ve Çıtçıt Kapamalı Shopper",
+        "product_url": "https://www.trendyol.com/mystobag/fularli-degiskenlik-gostermektedir-fermuarli-ve-citcit-kapamali-shopper-el-ve-omuz-cantasi-p-1015243251",
+        "total_reviews": 50,
+        "overall_score": 4.8,
+        "overall_sentiment": "positive",
+        "aspect_count": 7
+      },
+      {
+        "product_id": "4df195c5393f",
+        "product_name": "Mojeva Mona Siyah Uzun Saplı Baget El Ve Omuz Kadın Çantası - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/mojeva/mona-siyah-uzun-sapli-baget-el-ve-omuz-kadin-cantasi-p-886119673",
+        "total_reviews": 50,
+        "overall_score": 4.9,
+        "overall_sentiment": "positive",
+        "aspect_count": 7
+      },
+      {
+        "product_id": "69b1e2da2d40",
+        "product_name": "METEBAGS Siyah,Krem,Acı kahve 3'lü Paket Suni Deri Fular Detaylı Omuz& El Çantas",
+        "product_url": "https://www.trendyol.com/metebags/siyah-krem-aci-kahve-3-lu-paket-suni-deri-fular-detayli-omuz-el-cantasi-p-1098179229",
+        "total_reviews": 50,
+        "overall_score": 3.82,
+        "overall_sentiment": "neutral",
+        "aspect_count": 8
+      },
+      {
+        "product_id": "f648941ad164",
+        "product_name": "Kontes Kadın fularlı Fermuarlı Shopper El Ve Omuz Çantası - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/kontes/kadin-fularli-fermuarli-shopper-el-ve-omuz-cantasi-p-898198883",
+        "total_reviews": 50,
+        "overall_score": 4.82,
         "overall_sentiment": "positive",
         "aspect_count": 6
       },
       {
-        "product_id": "2c3bba58028f",
-        "product_name": "AC&Co / Altınyıldız Classics Erkek Petrol Mavisi Ekstra Slim Fit Dar Kesim Pamuk",
-        "product_url": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-petrol-mavisi-ekstra-slim-fit-dar-kesim-pamuklu-esnek-riss-jean-kot-denim-pantolon-p-664945364",
+        "product_id": "be176f9c7f47",
+        "product_name": "İAMBTŞY Kutu Üç Gözlü El Ve Omuz Çantası - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/iambtsy/kutu-uc-gozlu-el-ve-omuz-cantasi-p-890306393",
+        "total_reviews": 50,
+        "overall_score": 4.74,
+        "overall_sentiment": "positive",
+        "aspect_count": 7
+      },
+      {
+        "product_id": "10a24a2b7a40",
+        "product_name": "İAMBTŞY Kadın şık tasarımlı çapraz askılı çantası - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/iambtsy/kadin-sik-tasarimli-capraz-askili-cantasi-p-830880572",
+        "total_reviews": 50,
+        "overall_score": 4.54,
+        "overall_sentiment": "positive",
+        "aspect_count": 7
+      },
+      {
+        "product_id": "c05eb2d87ef8",
+        "product_name": "Housebags Kahverengi Süet Çok Yönlü PU Deri Omuz Asklı Çanta - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/housebags/kahverengi-suet-cok-yonlu-pu-deri-omuz-askli-canta-p-878101961",
         "total_reviews": 50,
         "overall_score": 5.0,
         "overall_sentiment": "positive",
         "aspect_count": 8
       },
       {
-        "product_id": "eef18e2836f4",
-        "product_name": "MD MARSHALL DENIM MD DENIM erkek regular kalıp siyah taşlamalı esnek kumaş likra",
-        "product_url": "https://www.trendyol.com/md-marshall-denim/md-denim-erkek-regular-kalip-siyah-taslamali-esnek-kumas-likrali-kot-pantolon-ro-4296-p-882389992",
+        "product_id": "46feb1935c87",
+        "product_name": "Housebags Kadın Siyah Shopper Çanta 217 - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/housebags/kadin-siyah-shopper-canta-217-p-367073992",
+        "total_reviews": 50,
+        "overall_score": 4.94,
+        "overall_sentiment": "positive",
+        "aspect_count": 9
+      },
+      {
+        "product_id": "67e6aeb68b21",
+        "product_name": "HAPBUY Kadın Siyah Omuz Çantası Yumuşak Iç Ve Dış Dokulu Kaliteli Işçilik Ve Yum",
+        "product_url": "https://www.trendyol.com/hapbuy/kadin-siyah-omuz-cantasi-yumusak-ic-ve-dis-dokulu-kaliteli-iscilik-ve-yumusak-suni-deri-el-cantasi-p-826407400",
         "total_reviews": 50,
         "overall_score": 4.96,
         "overall_sentiment": "positive",
         "aspect_count": 9
       },
       {
-        "product_id": "5c3ee202d962",
-        "product_name": "Gussi Erkek Gri Tırnaklı Slim Fit Likralı Esnek Jeans Kot Pantolon - Fiyatı, Yor",
-        "product_url": "https://www.trendyol.com/gussi/erkek-gri-tirnakli-slim-fit-likrali-esnek-jeans-kot-pantolon-p-931884586",
+        "product_id": "15ea1d519143",
+        "product_name": "Genel Markalar Koyu Kahve Mini El & Omuz Çantası – Altın Detaylı, Fular Aksesuar",
+        "product_url": "https://www.trendyol.com/genel-markalar/koyu-kahve-mini-el-omuz-cantasi-altin-detayli-fular-aksesuarli-p-982509702",
         "total_reviews": 50,
-        "overall_score": 4.8,
-        "overall_sentiment": "positive",
-        "aspect_count": 8
-      },
-      {
-        "product_id": "69dd97534403",
-        "product_name": "Gussi Erkek Buz Mavi Tırnaklı Slim Fit Likralı Esnek Jeans Kot Pantolon - Fiyatı",
-        "product_url": "https://www.trendyol.com/gussi/erkek-buz-mavi-tirnakli-slim-fit-likrali-esnek-jeans-kot-pantolon-p-936433920",
-        "total_reviews": 50,
-        "overall_score": 4.44,
+        "overall_score": 4.46,
         "overall_sentiment": "neutral",
-        "aspect_count": 9
+        "aspect_count": 7
       },
       {
-        "product_id": "f8579b1b891d",
-        "product_name": "MYRAB DENİM Erkek Lacivert Regular Fit Rahat Kesim Denim Zift Mavi Jeans - Fiyat",
-        "product_url": "https://www.trendyol.com/myrab-denim/erkek-lacivert-regular-fit-rahat-kesim-denim-zift-mavi-jeans-p-882274004",
+        "product_id": "90bc345d0a9b",
+        "product_name": "Fossil Kadın Omuz Çantası 05FO25Y5030 - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/fossil/kadin-omuz-cantasi-05fo25y5030-p-889698269",
         "total_reviews": 50,
-        "overall_score": 4.92,
+        "overall_score": 4.74,
         "overall_sentiment": "positive",
         "aspect_count": 8
       },
       {
-        "product_id": "c48eb2a85994",
-        "product_name": "ElitWear Erkek Siyah Slim Fit Kot Pantolon - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/elitwear/erkek-siyah-slim-fit-kot-pantolon-p-128132193",
+        "product_id": "dc1775366f28",
+        "product_name": "Çınar Bez Çanta Kanvas Huzurlu Kedi Baskılı Bez Çanta - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/cinar-bez-canta/kanvas-huzurlu-kedi-baskili-bez-canta-p-939736291",
         "total_reviews": 50,
-        "overall_score": 4.62,
-        "overall_sentiment": "positive",
-        "aspect_count": 8
-      },
-      {
-        "product_id": "bd82ae9edbd1",
-        "product_name": "OneZero Erkek Lycralı Kot Pantolon Tırnaklı Dar Kesim Skinny Fit Mavi Yeşil Tint",
-        "product_url": "https://www.trendyol.com/onezero/erkek-lycrali-kot-pantolon-tirnakli-dar-kesim-skinny-fit-mavi-yesil-tint-dugmeli-jeans-p-635053138",
-        "total_reviews": 50,
-        "overall_score": 4.9,
-        "overall_sentiment": "positive",
-        "aspect_count": 8
-      },
-      {
-        "product_id": "306ffb167609",
-        "product_name": "D'S Damat Slim Fit Siyah Düz Boru Paça Denim Pantolon - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/d-s-damat/slim-fit-siyah-duz-boru-paca-denim-pantolon-p-96040027",
-        "total_reviews": 50,
-        "overall_score": 4.9,
+        "overall_score": 5.0,
         "overall_sentiment": "positive",
         "aspect_count": 7
       },
       {
-        "product_id": "899e01133b96",
-        "product_name": "D'S Damat Ds Damat Slim Fit Siyah Beli Lastikli İpli Fermuarlı Likralı Rahat Jog",
-        "product_url": "https://www.trendyol.com/d-s-damat/ds-damat-slim-fit-siyah-beli-lastikli-ipli-fermuarli-likrali-rahat-jogger-pantolon-p-801056262",
+        "product_id": "e6c4ec14f910",
+        "product_name": "BAGLOVİS YAVRU ÇANTA EKSTRALI ÖNÜ KİLİT DETAYLI SİYAH KADIN OMUZ ÇANTASI - Fiyat",
+        "product_url": "https://www.trendyol.com/baglovis/yavru-canta-ekstrali-onu-kilit-detayli-siyah-kadin-omuz-cantasi-p-881294358",
+        "total_reviews": 50,
+        "overall_score": 4.94,
+        "overall_sentiment": "positive",
+        "aspect_count": 6
+      },
+      {
+        "product_id": "f4fa376128a5",
+        "product_name": "BAGLOVİS KANVAS KUMAŞ NAKIŞ DETAYLI BÜYÜK OMUZ ÇANTASI EN32 BOY28 - Fiyatı, Yoru",
+        "product_url": "https://www.trendyol.com/baglovis/kanvas-kumas-nakis-detayli-buyuk-omuz-cantasi-en32-boy28-p-773055306",
+        "total_reviews": 50,
+        "overall_score": 4.96,
+        "overall_sentiment": "positive",
+        "aspect_count": 7
+      },
+      {
+        "product_id": "a558a7fbe001",
+        "product_name": "BAGLOVİS Büyük Boy Yumuşak Derili Kadın Çantası En42 Uzn28 - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/baglovis/buyuk-boy-yumusak-derili-kadin-cantasi-en42-uzn28-p-803491722",
+        "total_reviews": 50,
+        "overall_score": 4.94,
+        "overall_sentiment": "positive",
+        "aspect_count": 8
+      },
+      {
+        "product_id": "161c2c95d6d9",
+        "product_name": "BAGLOVİS Askısı Toka Detaylı Mini Cüzdanlı Siyah Kadın Suni Deri Omuz Çantası EN",
+        "product_url": "https://www.trendyol.com/baglovis/askisi-toka-detayli-mini-cuzdanli-siyah-kadin-suni-deri-omuz-cantasi-en34-boy22-p-1007361216",
+        "total_reviews": 50,
+        "overall_score": 4.94,
+        "overall_sentiment": "positive",
+        "aspect_count": 7
+      },
+      {
+        "product_id": "e9a6cd087edf",
+        "product_name": "BAGLOVİS ASKISI DÜĞÜM DETAYLI ORTA BOY KAHVE KADIN OMUZ ÇANTASI EN35 BOY20 - Fiy",
+        "product_url": "https://www.trendyol.com/baglovis/askisi-dugum-detayli-orta-boy-kahve-kadin-omuz-cantasi-en35-boy20-p-1061086178",
+        "total_reviews": 50,
+        "overall_score": 4.6,
+        "overall_sentiment": "positive",
+        "aspect_count": 7
+      },
+      {
+        "product_id": "3250efd19141",
+        "product_name": "BAGLOVİS ASKILARI AYARLANABİLİR TOKA DETAYLI SİYAH KADIN OMUZ ÇANTASI En25 Boy15",
+        "product_url": "https://www.trendyol.com/baglovis/askilari-ayarlanabilir-toka-detayli-siyah-kadin-omuz-cantasi-en25-boy15-p-938917476",
+        "total_reviews": 50,
+        "overall_score": 4.76,
+        "overall_sentiment": "positive",
+        "aspect_count": 7
+      },
+      {
+        "product_id": "79e1b7f3dafa",
+        "product_name": "torime Kadın Pembe Peluş Mini Boy Zincir Askılı Omuz Çantası - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/torime/kadin-pembe-pelus-mini-boy-zincir-askili-omuz-cantasi-p-996466504",
         "total_reviews": 50,
         "overall_score": 4.82,
         "overall_sentiment": "positive",
-        "aspect_count": 8
-      },
-      {
-        "product_id": "4f35e78c139e",
-        "product_name": "D'S Damat Ds Damat Slim Fit Antrasit Beli Lastikli İpli Fermuarlı Likralı Rahat ",
-        "product_url": "https://www.trendyol.com/d-s-damat/ds-damat-slim-fit-antrasit-beli-lastikli-ipli-fermuarli-likrali-rahat-jogger-pantolon-p-801377717",
-        "total_reviews": 50,
-        "overall_score": 4.44,
-        "overall_sentiment": "neutral",
         "aspect_count": 6
       },
       {
-        "product_id": "d73efcf485c4",
-        "product_name": "D'S Damat Ds Damat Slim Fit Açık Lacivert Beli Lastikli İpli Fermuarlı Likralı R",
-        "product_url": "https://www.trendyol.com/d-s-damat/ds-damat-slim-fit-acik-lacivert-beli-lastikli-ipli-fermuarli-likrali-rahat-jogger-pantolon-p-928498193",
-        "total_reviews": 50,
-        "overall_score": 4.68,
-        "overall_sentiment": "positive",
-        "aspect_count": 8
-      },
-      {
-        "product_id": "b65ee75da215",
-        "product_name": "viking's line Erkek Buz Mavi Baggy Jeans - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/viking-s-line/erkek-buz-mavi-baggy-jeans-p-805693212",
-        "total_reviews": 50,
-        "overall_score": 4.84,
-        "overall_sentiment": "positive",
-        "aspect_count": 6
-      },
-      {
-        "product_id": "45d33b848257",
-        "product_name": "wamoss Kışlık Boyfriend Asit Yıkamalı Taşlamalı Buz Mavisi Kot Pantolon - Fiyatı",
-        "product_url": "https://www.trendyol.com/wamoss/kislik-boyfriend-asit-yikamali-taslamali-buz-mavisi-kot-pantolon-p-764460657",
-        "total_reviews": 50,
-        "overall_score": 4.78,
-        "overall_sentiment": "positive",
-        "aspect_count": 6
-      },
-      {
-        "product_id": "ca50d5afae37",
-        "product_name": "AC&Co / Altınyıldız Classics Erkek Siyah Diz İzi Yapmayan Pamuklu Esnek Denim Je",
-        "product_url": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-siyah-diz-izi-yapmayan-pamuklu-esnek-denim-jean-kot-pantolon-ekstra-slim-fit-dar-kesim-riss-p-383458367",
-        "total_reviews": 50,
-        "overall_score": 5.0,
-        "overall_sentiment": "positive",
-        "aspect_count": 6
-      },
-      {
-        "product_id": "593a687f7b29",
-        "product_name": "HLT JEANS Erkek Siyah Regular Boru Paça Esnek Likralı Denim Jeans Kot Pantolon H",
-        "product_url": "https://www.trendyol.com/hlt-jeans/erkek-siyah-regular-boru-paca-esnek-likrali-denim-jeans-kot-pantolon-hlthe001973-siyah-p-70374768",
-        "total_reviews": 50,
-        "overall_score": 5.0,
-        "overall_sentiment": "positive",
-        "aspect_count": 6
-      },
-      {
-        "product_id": "008484abe407",
-        "product_name": "AC&Co / Altınyıldız Classics Erkek Lacivert Ekstra Slim Fit Dar Kesim Rıss Pamuk",
-        "product_url": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-lacivert-ekstra-slim-fit-dar-kesim-riss-pamuklu-esnek-denim-jean-kot-pantolon-p-1064342525",
+        "product_id": "90f7b9af235c",
+        "product_name": "Fossil Siyah Kadın El ve Çapraz Omuz Çantası 05FO25K5088 - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/fossil/siyah-kadin-el-ve-capraz-omuz-cantasi-05fo25k5088-p-1062976604",
         "total_reviews": 40,
         "overall_score": 4.35,
         "overall_sentiment": "neutral",
-        "aspect_count": 7
+        "aspect_count": 6
       },
       {
-        "product_id": "d575546f9a84",
-        "product_name": "Gussi Erkek Siyah Taşlamalı Slim Fit Likralı Esnek Jeans Kot Pantolon - Fiyatı, ",
-        "product_url": "https://www.trendyol.com/gussi/erkek-siyah-taslamali-slim-fit-likrali-esnek-jeans-kot-pantolon-p-931884654",
+        "product_id": "468747ca3e64",
+        "product_name": "MANGO Logo desenli jakar bucket çanta - Fiyatı, Yorumları",
+        "product_url": "https://www.trendyol.com/mango/logo-desenli-jakar-bucket-canta-p-1094794289",
         "total_reviews": 40,
-        "overall_score": 4.75,
+        "overall_score": 4.3,
+        "overall_sentiment": "neutral",
+        "aspect_count": 6
+      },
+      {
+        "product_id": "63a262a7a510",
+        "product_name": "BAGLOVİS Anne-Bebek Kullanımına Uygun, Laptop Taşınabilir Kadın Omuz Çantası EN4",
+        "product_url": "https://www.trendyol.com/baglovis/anne-bebek-kullanimina-uygun-laptop-tasinabilir-kadin-omuz-cantasi-en40-boy30-p-1090463463",
+        "total_reviews": 40,
+        "overall_score": 4.85,
         "overall_sentiment": "positive",
         "aspect_count": 7
       },
       {
-        "product_id": "3c1bbf56a97b",
-        "product_name": "wanted Erkek Düz Kesim Likralı Erkek Kot Pantolon Erkek Likralı Kot Pantolon - F",
-        "product_url": "https://www.trendyol.com/wanted/erkek-duz-kesim-likrali-erkek-kot-pantolon-erkek-likrali-kot-pantolon-p-972492586",
-        "total_reviews": 15,
-        "overall_score": 3.93,
-        "overall_sentiment": "neutral",
-        "aspect_count": 0
-      },
-      {
-        "product_id": "03bf03a55433",
-        "product_name": "DOPPİO'N DENİM Erkek Yeşil Slim Fit Jean Pantolon - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/doppio-n-denim/erkek-yesil-slim-fit-jean-pantolon-p-353546429",
-        "total_reviews": 14,
-        "overall_score": 4.36,
-        "overall_sentiment": "neutral",
-        "aspect_count": 5
-      },
-      {
-        "product_id": "daa8d4e6ec1a",
-        "product_name": "Genel Markalar Big Size Jeans Lyrca Yüksek Bel Regular Fit Battal Boy Erkek Kot ",
-        "product_url": "https://www.trendyol.com/genel-markalar/big-size-jeans-lyrca-yuksek-bel-regular-fit-battal-boy-erkek-kot-pantolon-yeni-sezon-p-792102721",
-        "total_reviews": 12,
-        "overall_score": 4.0,
-        "overall_sentiment": "neutral",
-        "aspect_count": 0
-      },
-      {
-        "product_id": "e8f81b0344b9",
-        "product_name": "REDCODE ERKEK LİKRALI SLİM FİT KOT PANTOLON - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/redcode/erkek-likrali-slim-fit-kot-pantolon-p-858940773",
+        "product_id": "0aa100c2615d",
+        "product_name": "mèche atelier since 2024 Merlin Kadın Deri El Ve Omuz Çantası - Fiyatı, Yorumlar",
+        "product_url": "https://www.trendyol.com/meche-atelier-since-2024/merlin-kadin-deri-el-ve-omuz-cantasi-p-1076077790",
         "total_reviews": 10,
-        "overall_score": 4.6,
-        "overall_sentiment": "positive",
-        "aspect_count": 4
-      },
-      {
-        "product_id": "d6e5d4e46a7d",
-        "product_name": "blayn jeans Erkek Regular Kalıp Likralı Esnek Kot Pantolon - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/blayn-jeans/erkek-regular-kalip-likrali-esnek-kot-pantolon-p-1042856784",
-        "total_reviews": 9,
-        "overall_score": 4.56,
-        "overall_sentiment": "positive",
-        "aspect_count": 0
-      },
-      {
-        "product_id": "8c2e2c8294a1",
-        "product_name": "blayn jeans Erkek Regular Kalıp Likralı Esnek Kot Pantolon - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/blayn-jeans/erkek-regular-kalip-likrali-esnek-kot-pantolon-p-1042856917",
-        "total_reviews": 5,
-        "overall_score": 3.8,
+        "overall_score": 3.9,
         "overall_sentiment": "neutral",
-        "aspect_count": 0
-      },
-      {
-        "product_id": "cee68d929475",
-        "product_name": "Lufian Carlo Smart Jean Erkek Pantolon Slim Fit Mavi - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/lufian/carlo-smart-jean-erkek-pantolon-slim-fit-mavi-p-944508154",
-        "total_reviews": 4,
-        "overall_score": 3.0,
-        "overall_sentiment": "neutral",
-        "aspect_count": 0
-      },
-      {
-        "product_id": "63f26944c7e9",
-        "product_name": "Lufian Salvator Smart Jean Erkek Pantolon Slim Fit Mavi - Fiyatı, Yorumları",
-        "product_url": "https://www.trendyol.com/lufian/salvator-smart-jean-erkek-pantolon-slim-fit-mavi-p-948524639",
-        "total_reviews": 3,
-        "overall_score": 4.33,
-        "overall_sentiment": "neutral",
-        "aspect_count": 1
-      },
-      {
-        "product_id": "e3c20350c2e7",
-        "product_name": "Lufian 112200250 Santo Smart Jean Erkek Pantolon Slim Fit Erkek Kot Pantolon KOT",
-        "product_url": "https://www.trendyol.com/lufian/112200250-santo-smart-jean-erkek-pantolon-slim-fit-erkek-kot-pantolon-kot-p-981749521",
-        "total_reviews": 1,
-        "overall_score": 5.0,
-        "overall_sentiment": "positive",
-        "aspect_count": 0
-      },
-      {
-        "product_id": "1d7ef537ece1",
-        "product_name": "Lufian 112200260 Anton Spor Jean Erkek Pantolon Slim Fit Erkek Kot Pantolon SİYA",
-        "product_url": "https://www.trendyol.com/lufian/112200260-anton-spor-jean-erkek-pantolon-slim-fit-erkek-kot-pantolon-siyah-p-982445928",
-        "total_reviews": 1,
-        "overall_score": 5.0,
-        "overall_sentiment": "positive",
-        "aspect_count": 0
+        "aspect_count": 3
       }
     ]
   }

@@ -8,7 +8,7 @@
   "overall_score": 4.3,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "**Ricco Lifes Fırfırlı %100 Pamuk Sarı Pötikare Tek Kişil** için 40 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Kumaşı Kaliteli** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **kumaş** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu k…\"\n• **Rengi & Renkleri Canlı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **renkler** ve **dokusu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gö…\"\n• Kullanıcılar **Kişilik** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Lastikli çarşafı olmaması çok üzücü onun haricinde bayıldımm\"\n• **Fiyata Kalite** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Parayı sonuna kadar hakediyorsunuz olumsuz yorumlara bakmayin sakın daha çok alışveri…\"",
+  "summary": "**Ricco Lifes Fırfırlı %100 Pamuk Sarı Pötikare Tek Kişil** için 40 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kumaş / Rengi Canlı**: Kullanıcılar genel olarak kumaş / rengi canlı açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Renk Canlı**: Kullanıcılar renk canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Canlı Kumaş**: Kullanıcılar genel olarak canlı kumaş açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Kumaş / Çarşaf Lastikl**: Kullanıcılar genel olarak kumaş / çarşaf lastikl açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Doku & Kalite**: Kullanıcılar doku & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 4,
     "2": 0,
@@ -18,16 +18,16 @@
   },
   "aspects": [
     {
-      "name": "Kumaşı Kaliteli",
+      "name": "Kumaş / Rengi Canlı",
       "review_count": 18,
-      "avg_score": 4.11,
+      "avg_score": 4.22,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "kumaşı",
         "kumaş",
-        "rengi",
         "pamuklu",
+        "rengi",
         "lastikli",
         "takım",
         "dokusu",
@@ -47,19 +47,19 @@
           "score": 5.0
         },
         {
-          "text": "ürün aynı göründüğü gibi çok şık ve güzel kızım begendi kaliteli tsk ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok tatlı şeker ürün çok tşk ederim saglıklı mıtlu kalın iyi ramazanlar",
-          "score": 5.0
-        },
-        {
-          "text": "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim",
+          "text": "bayıldım dokusu rengi o kadar güzel kii",
           "score": 5.0
         },
         {
           "text": "çok tatlııı kumaşı falan güzel fermuarlı keşke çarşafı da olsaydı",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım çok tatlı çok güzell ve rengi canlııı",
+          "score": 5.0
+        },
+        {
+          "text": "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim",
           "score": 5.0
         },
         {
@@ -71,8 +71,8 @@
           "score": 4.0
         },
         {
-          "text": "ürün güzel gibi ben yatak örtüsü gibi kullanıyorum",
-          "score": 3.0
+          "text": "lastikli çarşafı olmaması çok üzücü onun haricinde bayıldımm",
+          "score": 4.0
         },
         {
           "text": "polyester kumaş begenmedim",
@@ -82,9 +82,9 @@
       "icon": "💬"
     },
     {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 8,
-      "avg_score": 5.0,
+      "name": "Renk Canlı",
+      "review_count": 16,
+      "avg_score": 4.75,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -97,17 +97,21 @@
         "dokusu",
         "aynı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 75.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 25.0,
       "sample_reviews": [
         "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
         "renkleri aynı geldi çok güzel görselle aynı",
-        "bayıldım çok tatlı çok güzell ve rengi canlııı"
+        "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim"
       ],
       "all_reviews": [
         {
           "text": "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+          "score": 5.0
+        },
+        {
+          "text": "mükeemmmmel bir ürün rengi o kadar güzel ve canlı ki kumaşına da bayıldım süper",
           "score": 5.0
         },
         {
@@ -119,92 +123,325 @@
           "score": 5.0
         },
         {
+          "text": "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
           "text": "bayıldım çok tatlı çok güzell ve rengi canlııı",
           "score": 5.0
+        },
+        {
+          "text": "çok kalın bir şey beklemeyin ince bir kumaşı var ama rengi çok güzel oldu",
+          "score": 4.0
+        },
+        {
+          "text": "ürün baya dandik fermuar kısmı kopuk geldi dikişleri de açılcak gibi ama rengi deseni tam resimdeki gibi ondan iade etmicem güzel zaten 600 e amca bu kadar",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 8,
-      "avg_score": 4.5,
+      "name": "Canlı Kumaş",
+      "review_count": 14,
+      "avg_score": 4.29,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 71.4,
+      "negative_pct": 14.3,
+      "neutral_pct": 14.3,
+      "sample_reviews": [
+        "mükeemmmmel bir ürün rengi o kadar güzel ve canlı ki kumaşına da bayıldım süper",
+        "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+        "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+          "score": 5.0
+        },
+        {
+          "text": "mükeemmmmel bir ürün rengi o kadar güzel ve canlı ki kumaşına da bayıldım süper",
+          "score": 5.0
+        },
+        {
+          "text": "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım çok tatlı çok güzell ve rengi canlııı",
+          "score": 5.0
+        },
+        {
+          "text": "çok tatlııı kumaşı falan güzel fermuarlı keşke çarşafı da olsaydı",
+          "score": 5.0
+        },
+        {
+          "text": "çok kalın bir şey beklemeyin ince bir kumaşı var ama rengi çok güzel oldu",
+          "score": 4.0
+        },
+        {
+          "text": "polyester kumaş begenmedim",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 10,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 20.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim",
+        "mükeemmmmel bir ürün rengi o kadar güzel ve canlı ki kumaşına da bayıldım süper",
+        "çok kalın bir şey beklemeyin ince bir kumaşı var ama rengi çok güzel oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükeemmmmel bir ürün rengi o kadar güzel ve canlı ki kumaşına da bayıldım süper",
+          "score": 5.0
+        },
+        {
+          "text": "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok tatlııı kumaşı falan güzel fermuarlı keşke çarşafı da olsaydı",
+          "score": 5.0
+        },
+        {
+          "text": "çok kalın bir şey beklemeyin ince bir kumaşı var ama rengi çok güzel oldu",
+          "score": 4.0
+        },
+        {
+          "text": "polyester kumaş begenmedim",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Kalite",
+      "review_count": 10,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "dokusu",
+        "kalitesi"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "lastikli çarşafı olmaması çok üzücü onun haricinde bayıldımm",
-        "ay çok tatlı çok hoş ama keşke çarşafıda olsaydı",
-        "çok hoş kaliteli bir ürün"
+        "bayıldım dokusu rengi o kadar güzel kii",
+        "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+        "ürün aynı göründüğü gibi çok şık ve güzel kızım begendi kaliteli tsk ederim"
       ],
       "all_reviews": [
+        {
+          "text": "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+          "score": 5.0
+        },
         {
           "text": "çok hoş kaliteli bir ürün",
           "score": 5.0
         },
         {
-          "text": "çok güzel çok beğendim",
+          "text": "bayıldım dokusu rengi o kadar güzel kii",
           "score": 5.0
         },
-        {
-          "text": "lastikli çarşafı olmaması çok üzücü onun haricinde bayıldımm",
-          "score": 4.0
-        },
-        {
-          "text": "ay çok tatlı çok hoş ama keşke çarşafıda olsaydı",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 6,
-      "avg_score": 3.67,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
-      "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
-      ],
-      "positive_pct": 66.7,
-      "negative_pct": 33.3,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün harika ve kaliteli satıcıya teşekkürler",
-        "parayı sonuna kadar hakediyorsunuz olumsuz yorumlara bakmayin sakın daha çok alışverişim olucak teşekkürler ricco lifes",
-        "istediğim ürünle gelen ürünün alakası yok fırfırlı istemiştim düz gelmiş ayrıca çarşafı da yok bu nasıl bir özen"
-      ],
-      "all_reviews": [
         {
           "text": "ürün harika ve kaliteli satıcıya teşekkürler",
           "score": 5.0
         },
         {
-          "text": "parayı sonuna kadar hakediyorsunuz olumsuz yorumlara bakmayin sakın daha çok alışverişim olucak teşekkürler ricco lifes",
+          "text": "ürün aynı göründüğü gibi çok şık ve güzel kızım begendi kaliteli tsk ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+        "ürün aynı göründüğü gibi çok şık ve güzel kızım begendi kaliteli tsk ederim",
+        "ürün harika ve kaliteli satıcıya teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
           "score": 5.0
         },
         {
-          "text": "istediğim ürünle gelen ürünün alakası yok fırfırlı istemiştim düz gelmiş ayrıca çarşafı da yok bu nasıl bir özen",
-          "score": 1.0
+          "text": "çok hoş kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika ve kaliteli satıcıya teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün aynı göründüğü gibi çok şık ve güzel kızım begendi kaliteli tsk ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün aynı göründüğü gibi çok şık ve güzel kızım begendi kaliteli tsk ederim",
+        "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+        "ürün harika ve kaliteli satıcıya teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+          "score": 5.0
+        },
+        {
+          "text": "çok hoş kaliteli bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürün harika ve kaliteli satıcıya teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün aynı göründüğü gibi çok şık ve güzel kızım begendi kaliteli tsk ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+        "çok tatlııı kumaşı falan güzel fermuarlı keşke çarşafı da olsaydı",
+        "renkleri aynı geldi çok güzel görselle aynı"
+      ],
+      "all_reviews": [
+        {
+          "text": "nevresim fiyatına göre gerçekten kaliteli renkleri de oldukça canlı ben çok sevdim gönül rahatlığı ile alabilirsiniz hanımlar",
+          "score": 5.0
+        },
+        {
+          "text": "renkleri aynı geldi çok güzel görselle aynı",
+          "score": 5.0
+        },
+        {
+          "text": "çok tatlııı kumaşı falan güzel fermuarlı keşke çarşafı da olsaydı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 4,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim",
+        "lastikli çarşafı olmaması çok üzücü onun haricinde bayıldımm"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün göründüğü gibi yıkadım iki defa farklı zamanlarda rengi değişim olmadı pamuklu kumaşı da çok güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "lastikli çarşafı olmaması çok üzücü onun haricinde bayıldımm",
+          "score": 4.0
         }
       ],
       "icon": "💬"

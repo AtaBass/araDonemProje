@@ -8,7 +8,7 @@
   "overall_score": 4.4,
   "overall_sentiment": "neutral",
   "stars": "★★★★½",
-  "summary": "**Bella Maison %100 Pamuk Daisy Çift Kişilik Nevresim Set** için 10 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Kişilik** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakaca…\"\n• **Rengi & Renkleri Canlı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **renkler** ve **dokusu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alın…\"\n• Kullanıcılar **Canlı Kumaşı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **takım** ve **sağlam** konusu özellikle vurgulanmaktadır.\n• **Fiyata Kalite** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün güzel fiyatı biraz şişirme sadece ben kampanyaya ve kuponla 800 tl civarı bir fi…\"",
+  "summary": "**Bella Maison %100 Pamuk Daisy Çift Kişilik Nevresim Set** için 10 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Doku & Kalite**: Kullanıcılar doku & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Renk Canlı**: Kullanıcılar renk canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kumaş / Rengi Canlı**: Kullanıcılar kumaş / rengi canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat / Lastikl Çarşaf**: Kullanıcılar fiyat / lastikl çarşaf konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 1,
     "2": 0,
@@ -18,28 +18,22 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 4,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Doku & Kalite",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "dokusu",
+        "kalitesi"
       ],
-      "positive_pct": 75.0,
-      "negative_pct": 25.0,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
-        "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel",
-        "ürün harika dostlar almak isteyen hiiiccc düşünmeden alsin"
+        "renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alınmalı 10 numara",
+        "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel"
       ],
       "all_reviews": [
         {
@@ -47,22 +41,18 @@
           "score": 5.0
         },
         {
+          "text": "renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alınmalı 10 numara",
+          "score": 5.0
+        },
+        {
           "text": "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
           "score": 5.0
-        },
-        {
-          "text": "ürün harika dostlar almak isteyen hiiiccc düşünmeden alsin",
-          "score": 5.0
-        },
-        {
-          "text": "içinden çarşaf çıkmadı şaka mı",
-          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rengi & Renkleri Canlı",
+      "name": "Renk Canlı",
       "review_count": 2,
       "avg_score": 4.5,
       "sentiment": "positive",
@@ -97,68 +87,141 @@
       "icon": "💬"
     },
     {
-      "name": "Canlı Kumaşı",
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 2,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
+        "rengi biraz soğuk geldi ama deseni güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "rengi biraz soğuk geldi ama deseni güzel",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
       "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "canlı kumaşı",
-        "takım",
-        "sağlam",
-        "canlı",
-        "kumaşı"
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel tavsiye ederim",
-        "teşekkürler"
+        "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel",
+        "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel"
       ],
       "all_reviews": [
         {
-          "text": "teşekkürler",
+          "text": "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel",
           "score": 5.0
         },
         {
-          "text": "çok güzel tavsiye ederim",
+          "text": "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata Kalite",
+      "name": "Fiyat / Lastikl Çarşaf",
       "review_count": 2,
       "avg_score": 4.5,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
       ],
       "positive_pct": 50.0,
       "negative_pct": 0.0,
       "neutral_pct": 50.0,
       "sample_reviews": [
-        "ürün güzel fiyatı biraz şişirme sadece ben kampanyaya ve kuponla 800 tl civarı bir fiyata aldim",
-        "korunakli geldi paketinde teşekkürler"
+        "renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alınmalı 10 numara",
+        "ürün güzel fiyatı biraz şişirme sadece ben kampanyaya ve kuponla 800 tl civarı bir fiyata aldim"
       ],
       "all_reviews": [
         {
-          "text": "korunakli geldi paketinde teşekkürler",
+          "text": "renkler dokusu harika tekrar aynı firmadan farklı desende istiyeceğim kesinlikle alınmalı 10 numara",
           "score": 5.0
         },
         {
           "text": "ürün güzel fiyatı biraz şişirme sadece ben kampanyaya ve kuponla 800 tl civarı bir fiyata aldim",
           "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
+        "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel"
+      ],
+      "all_reviews": [
+        {
+          "text": "çoooooook beğendim çeyize eve yazlığa her yere gider çarşafı yok ama olsun kalitesi mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "çarşafı yok ona göre alın ben bilerek aldım içindeki tonlardan lastikli çarşaf bakacağım deseni kalitesi çok güzel",
+          "score": 5.0
         }
       ],
       "icon": "💬"

@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Xiaomi Mi Smart Air Fryer Oled Ekran 3.5 Litre Yağsız F** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **ideal** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketle…\"\n• **Fiyatı Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **fiyat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bayıldım bayıldım kargosu çok özenliydi ürün de fiyatıda çok iyi teşekkür ederim satı…\"\n• Kullanıcılar **Patates & Tavuk** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **vardı** ve **karaca** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de b…\"\n• **Ideal** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **diyebilirim** ve **sorunsuz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çeyizime aldım çok güzel paketlemesi de aynı şekilde elinize sağlık\"\n• Müşteri yorumlarında **Patates** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fakat** ve **hacmi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Tek yaşayan birisi için mükemmel bir şey patatesi gayet güzel yapıyor kahvalti akşam…\"",
+  "summary": "**Xiaomi Mi Smart Air Fryer Oled Ekran 3.5 Litre Yağsız F** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Özellikle**: Kullanıcılar özellikle konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Diyebilirim**: Kullanıcılar diyebilirim konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kişilik / Fiyat Performans**: Kullanıcılar kişilik / fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sıkınt**: Kullanıcılar sıkınt konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,40 +18,44 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 21,
+      "name": "Özellikle",
+      "review_count": 27,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
+        "özellikle",
+        "evde",
         "anneler",
-        "kaliteli"
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
-        "çok pratik özellikle küçük aileler için ideal indirimde yakaladım çok uygun fiyattı",
-        "1 yılı aşkın süredir kullanıyorum çok memnunum 2 kişiyiz bize çok rahat yetiyor 3-4 kişiye de yeteceğini düşünüyorum şimdi de anneme ve ablama aldık gayet memnunlar"
+        "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
+        "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın",
+        "tek yaşayan birisi için mükemmel bir şey patatesi gayet güzel yapıyor kahvalti akşam yemeği her şeyi bundan yapiyorum"
       ],
       "all_reviews": [
         {
-          "text": "1 yılı aşkın süredir kullanıyorum çok memnunum 2 kişiyiz bize çok rahat yetiyor 3-4 kişiye de yeteceğini düşünüyorum şimdi de anneme ve ablama aldık gayet memnunlar",
+          "text": "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
           "score": 5.0
         },
         {
-          "text": "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
+          "text": "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın",
           "score": 5.0
         },
         {
           "text": "anneme hediye olarak aldım çok severek kullanıyor sorunsuz ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "1 yılı aşkın süredir kullanıyorum çok memnunum 2 kişiyiz bize çok rahat yetiyor 3-4 kişiye de yeteceğini düşünüyorum şimdi de anneme ve ablama aldık gayet memnunlar",
           "score": 5.0
         },
         {
@@ -77,45 +81,109 @@
         {
           "text": "anneme indirimden aldım çok kullanışlı",
           "score": 5.0
+        },
+        {
+          "text": "tek yaşayan birisi için mükemmel bir şey patatesi gayet güzel yapıyor kahvalti akşam yemeği her şeyi bundan yapiyorum",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 12,
+      "name": "Diyebilirim",
+      "review_count": 25,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
-        "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "bayıldım bayıldım kargosu çok özenliydi ürün de fiyatıda çok iyi teşekkür ederim satıcıya",
-        "ürün elime sağlam ulaştı çok güzel paketlenmiş çalıştırdım her hangi bir sorun yok bu fiyata harika",
-        "fiyat uygun baya iyiii kızım için aldım ve kulanişlii"
+        "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
+        "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
+        "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın"
       ],
       "all_reviews": [
         {
-          "text": "uzun zamandır favorilerimde indirim beklediğim bir üründü arkadaşlarımın tavsiyesi üzerine aldım çok beğendim çok zarif duruyor ve çokta ihtiyaç olan bir üründür",
+          "text": "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
           "score": 5.0
         },
         {
-          "text": "bayıldım bayıldım kargosu çok özenliydi ürün de fiyatıda çok iyi teşekkür ederim satıcıya",
+          "text": "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
+          "score": 5.0
+        },
+        {
+          "text": "anneme hediye olarak aldım çok severek kullanıyor sorunsuz ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "sorunsuz geldi ilk denememi yaptım başarılı tam bir çalışan kadın olayı anında pişiriyor hızlı ve pratik ayrıca çokda lezzetli oldu kurutmadı yiyecekleri diyet yapanlara sağlıklı beslenenlere ve çalışan kadınlara çok yardımcı bir ürün ne buluyorsan at içine pişirsin",
+          "score": 5.0
+        },
+        {
+          "text": "1 yılı aşkın süredir kullanıyorum çok memnunum 2 kişiyiz bize çok rahat yetiyor 3-4 kişiye de yeteceğini düşünüyorum şimdi de anneme ve ablama aldık gayet memnunlar",
+          "score": 5.0
+        },
+        {
+          "text": "anneme aldık kullanımı kolay pişirmesi harika çok memnun kaldık",
           "score": 5.0
         },
         {
           "text": "indirimdeyken aldım en iyisi diyebilirim yer kaplamiyor gayet ideal ve güzel",
+          "score": 5.0
+        },
+        {
+          "text": "tek yaşayan birisi için mükemmel bir şey patatesi gayet güzel yapıyor kahvalti akşam yemeği her şeyi bundan yapiyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
+        "fiyat",
+        "rahatlığıyla",
+        "çıtır",
+        "pratik",
+        "yağsız",
+        "çıtır çıtır"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
+        "çok pratik özellikle küçük aileler için ideal indirimde yakaladım çok uygun fiyattı",
+        "ürün elime sağlam ulaştı çok güzel paketlenmiş çalıştırdım her hangi bir sorun yok bu fiyata harika"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bayıldım kargosu çok özenliydi ürün de fiyatıda çok iyi teşekkür ederim satıcıya",
           "score": 5.0
         },
         {
@@ -125,21 +193,117 @@
         {
           "text": "ürün elime sağlam ulaştı çok güzel paketlenmiş çalıştırdım her hangi bir sorun yok bu fiyata harika",
           "score": 5.0
+        },
+        {
+          "text": "çok pratik özellikle küçük aileler için ideal indirimde yakaladım çok uygun fiyattı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik / Fiyat Performans",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aile",
+        "aldık",
+        "kişilik",
+        "ideal",
+        "kişilik aile",
+        "anneler",
+        "aydır",
+        "sorunsuz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
+        "çok pratik özellikle küçük aileler için ideal indirimde yakaladım çok uygun fiyattı",
+        "1 yılı aşkın süredir kullanıyorum çok memnunum 2 kişiyiz bize çok rahat yetiyor 3-4 kişiye de yeteceğini düşünüyorum şimdi de anneme ve ablama aldık gayet memnunlar"
+      ],
+      "all_reviews": [
+        {
+          "text": "1 yılı aşkın süredir kullanıyorum çok memnunum 2 kişiyiz bize çok rahat yetiyor 3-4 kişiye de yeteceğini düşünüyorum şimdi de anneme ve ablama aldık gayet memnunlar",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
+          "score": 5.0
+        },
+        {
+          "text": "indirimdeyken aldım en iyisi diyebilirim yer kaplamiyor gayet ideal ve güzel",
+          "score": 5.0
+        },
+        {
+          "text": "anneme aldık kullanımı kolay pişirmesi harika çok memnun kaldık",
+          "score": 5.0
+        },
+        {
+          "text": "çok pratik özellikle küçük aileler için ideal indirimde yakaladım çok uygun fiyattı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıkınt",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "sorunsuz geldi ilk denememi yaptım başarılı tam bir çalışan kadın olayı anında pişiriyor hızlı ve pratik ayrıca çokda lezzetli oldu kurutmadı yiyecekleri diyet yapanlara sağlıklı beslenenlere ve çalışan kadınlara çok yardımcı bir ürün ne buluyorsan at içine pişirsin",
+        "1 yılı aşkın süredir kullanıyorum çok memnunum 2 kişiyiz bize çok rahat yetiyor 3-4 kişiye de yeteceğini düşünüyorum şimdi de anneme ve ablama aldık gayet memnunlar",
+        "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli"
+      ],
+      "all_reviews": [
+        {
+          "text": "1 yılı aşkın süredir kullanıyorum çok memnunum 2 kişiyiz bize çok rahat yetiyor 3-4 kişiye de yeteceğini düşünüyorum şimdi de anneme ve ablama aldık gayet memnunlar",
+          "score": 5.0
+        },
+        {
+          "text": "uzun zamandır favorilerimde indirim beklediğim bir üründü arkadaşlarımın tavsiyesi üzerine aldım çok beğendim çok zarif duruyor ve çokta ihtiyaç olan bir üründür",
+          "score": 5.0
+        },
+        {
+          "text": "sorunsuz geldi ilk denememi yaptım başarılı tam bir çalışan kadın olayı anında pişiriyor hızlı ve pratik ayrıca çokda lezzetli oldu kurutmadı yiyecekleri diyet yapanlara sağlıklı beslenenlere ve çalışan kadınlara çok yardımcı bir ürün ne buluyorsan at içine pişirsin",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Patates & Tavuk",
-      "review_count": 9,
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "pişiriyor",
         "yaptım",
-        "patates",
         "denedim",
+        "patates",
         "tavuk",
         "vardı",
         "karaca",
@@ -165,32 +329,37 @@
         {
           "text": "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın",
           "score": 5.0
+        },
+        {
+          "text": "tek yaşayan birisi için mükemmel bir şey patatesi gayet güzel yapıyor kahvalti akşam yemeği her şeyi bundan yapiyorum",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Ideal",
-      "review_count": 5,
+      "name": "Paketleme",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "diyebilirim",
-        "yorum",
+        "defa",
+        "görünüyor",
+        "denemedim",
+        "kullanıyoruz",
+        "paketlemesi",
+        "hasarsız",
         "sorunsuz",
-        "şimdilik",
-        "severek",
-        "sağlam",
-        "kolay",
-        "paketlemesi"
+        "çeyiz"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
         "çeyizime aldım çok güzel paketlemesi de aynı şekilde elinize sağlık",
-        "en sevdiğim ürün oldu"
+        "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın"
       ],
       "all_reviews": [
         {
@@ -198,7 +367,11 @@
           "score": 5.0
         },
         {
-          "text": "en sevdiğim ürün oldu",
+          "text": "değerlendirmek için birkaç çeşit kullanmayı bekledim kararımı verdim daha önce neden almamışım diye pişman olduğum bir ürün özellikle et tavuk balık efsane yapıyor ben koku hassasiyetli olduğum yiyecekler için aldım genellikle pişirmesi aşırı iyi içine bir de silikon kalıp alırsanız mis gibi yağ sıçrama derdi koku derdi vs hiçbir şey yok sabahları eşime bayat ekmekten kaşar sucuk koyuyorum 5 dk da efsane tost gibi oluyor her alan da çok iyi bugün de ilk defa kek yaptım bebeğime kadar az tam pişirmişti alacaklar hiç düşünmeden alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm sorunsuz geldi 4 kişilik aile için bence ideal şuanlık bir sıkıntı yok paketlemesi de gayet özenli",
           "score": 5.0
         }
       ],
@@ -206,7 +379,7 @@
     },
     {
       "name": "Patates",
-      "review_count": 3,
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -224,11 +397,46 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
         "tek yaşayan birisi için mükemmel bir şey patatesi gayet güzel yapıyor kahvalti akşam yemeği her şeyi bundan yapiyorum"
       ],
       "all_reviews": [
         {
+          "text": "ürünü 1 hafta oldu alalı şimdilik tavuk balık kırmızı et ve patates yaptım hepsi de birbirinden güzel oldu dışı çıtır içi löp yumuşacık 20 dk da balık pişirdi ve koku falan asla olmadı ve bunların hepsini sıfır yağla yaptım patates hariç ona 1 kaşık yağ koydum ve gerçekten sağlıklı ve pratik yemekler ortaya çıktı phılıps ile arasında kalmıştım ama xiaominin içinden çoktan ızgara tel sayesinde 2 katlı kullanabiliyorsun yani daha fazla ürünü tek seferde yapmış olursun bu yüzden çok memnunum çalışan eşlere kesinlikle tavsiye ediyorum artık dışarda zorda kalmadıkça yemek yemem",
+          "score": 5.0
+        },
+        {
           "text": "tek yaşayan birisi için mükemmel bir şey patatesi gayet güzel yapıyor kahvalti akşam yemeği her şeyi bundan yapiyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çeyiz",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çeyizime aldım çok güzel paketlemesi de aynı şekilde elinize sağlık"
+      ],
+      "all_reviews": [
+        {
+          "text": "çeyizime aldım çok güzel paketlemesi de aynı şekilde elinize sağlık",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 4.8,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Schafer Friprofi Yağlı Fritöz-Beyaz** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **ideal** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kesinlikle tavsiye ediyorum 4 kişilik bir aile için yeterli geldi bize ısıtması çok i…\"\n• **Fiyatı Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **fiyat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Harika bir ürün çok kullanışlı ve çok memnunum alın derim ben tereddütle aldım açıkça…\"\n• Kullanıcılar **Ideal** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **diyebilirim** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Beklediğimden daha guzel kesinlikle her evde bulunmali\"\n• **Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kaliteli** ve **rahatlığıyla** başta olmak üzere. Örnek kullanıcı ifadesi: \"Görümceme aldık beklediğimizden iyi çıktı yağ sıçramasına son saat ve derece ayarı va…\"\n• Müşteri yorumlarında **Patates & Tavuk** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **vardı** ve **karaca** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok çok çooookkkkk güzel bir fritöz ben çok beğendim ve çok memnunum yemeğe misafirle…\"",
+  "summary": "Schafer Friprofi Yağlı Fritöz-Beyaz, genel memnuniyet puanının 4.8/5.0 olmasında etkili olan özellikleri sunuyor. Ürünün özellikle beğenilen yanıları arasında diyebilirim, kişilik/fiyat performansı ve fiyat performansına dair yorumlar yer alıyor. Yorumcuların çoğu, ürünün olağanüstü kalitesini ve fiyatlının iyi bir performansını onaylıyor. Overall performance'un yüksek puanı, Schafer Friprofi Yağlı Fritöz-Beyaz'in kalitesinin ve müşteri memnuniyetinin yüksek seviyesine işaret ediyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,36 +18,36 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 19,
-      "avg_score": 5.0,
+      "name": "Diyebilirim",
+      "review_count": 16,
+      "avg_score": 4.88,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aile",
-        "aldık",
-        "kişilik",
-        "severek",
-        "ideal",
-        "kişilik aile",
-        "anneler",
-        "kaliteli"
+        "diyebilirim",
+        "yorum",
+        "sorunsuz",
+        "şimdilik",
+        "kolay",
+        "paketlemesi",
+        "büyükmüş",
+        "kullanınca"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 87.5,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 12.5,
       "sample_reviews": [
-        "kesinlikle tavsiye ediyorum 4 kişilik bir aile için yeterli geldi bize ısıtması çok iyi çok beğendim kaliteli güzel 1 aydır kullanıyorum çok memnun kaldım",
         "1 aydık kullanıyorum temizliği ve pişirmesi kolay 4 kişilik bir aile için büyüklüğü ideal bence",
-        "ben başka ürün bakıyordum kızım bu ürünü bulup bana gösterdi çok güzel ve kaliteli bir ürün gayet memnun kaldık"
+        "yorumlara bakarak aldimm beğendim genişlik olarak büyük hızlı kızartma şimdilik memnunummm",
+        "ba yıl dıkk kullanıp sonra yorum yapmak istedim bence kesinlikle alın anneme hediye aldık benim el lezzetim var diyor ama bence marifet fritöz de neyse aramızda kalsın yoksa benide kızartır"
       ],
       "all_reviews": [
         {
-          "text": "veee iyiki almışım tereddüt etmeden alın derim cehizime aldım annemde çok beğendi onada istiyecem",
+          "text": "kesinlikle tavsiye ediyorum 4 kişilik bir aile için yeterli geldi bize ısıtması çok iyi çok beğendim kaliteli güzel 1 aydır kullanıyorum çok memnun kaldım",
           "score": 5.0
         },
         {
-          "text": "hem anneme hem teyzeme aldım",
+          "text": "yorumlara bakarak aldimm beğendim genişlik olarak büyük hızlı kızartma şimdilik memnunummm",
           "score": 5.0
         },
         {
@@ -55,7 +55,7 @@
           "score": 5.0
         },
         {
-          "text": "kesinlikle tavsiye ediyorum 4 kişilik bir aile için yeterli geldi bize ısıtması çok iyi çok beğendim kaliteli güzel 1 aydır kullanıyorum çok memnun kaldım",
+          "text": "1 aydık kullanıyorum temizliği ve pişirmesi kolay 4 kişilik bir aile için büyüklüğü ideal bence",
           "score": 5.0
         },
         {
@@ -63,51 +63,55 @@
           "score": 5.0
         },
         {
-          "text": "ben başka ürün bakıyordum kızım bu ürünü bulup bana gösterdi çok güzel ve kaliteli bir ürün gayet memnun kaldık",
-          "score": 5.0
-        },
-        {
-          "text": "1 aydık kullanıyorum temizliği ve pişirmesi kolay 4 kişilik bir aile için büyüklüğü ideal bence",
-          "score": 5.0
+          "text": "çok sevdim kendisini aşk yaşıyoruz kendisiyle şimdilik hiç bir sorun yok gayet başarılı",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 11,
-      "avg_score": 4.45,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Kişilik / Fiyat Performans",
+      "review_count": 15,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
-        "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
+        "aile",
+        "aldık",
+        "kişilik",
+        "ideal",
+        "kişilik aile",
+        "anneler",
+        "aydır",
+        "sorunsuz"
       ],
-      "positive_pct": 72.7,
+      "positive_pct": 80.0,
       "negative_pct": 0.0,
-      "neutral_pct": 27.3,
+      "neutral_pct": 20.0,
       "sample_reviews": [
-        "harika bir ürün çok kullanışlı ve çok memnunum alın derim ben tereddütle aldım açıkçası ama gerçekten fiyatına göre aşırı iyi bir ürün",
-        "çok guzellllll ve uygun fiyatli",
-        "çok hızlı ve sağlam teslim edildi içi çok büyük değil ama 4 kişilik aile için yeterli gibi teşekkür ederim"
+        "kesinlikle tavsiye ediyorum 4 kişilik bir aile için yeterli geldi bize ısıtması çok iyi çok beğendim kaliteli güzel 1 aydır kullanıyorum çok memnun kaldım",
+        "çok hızlı ve sağlam teslim edildi içi çok büyük değil ama 4 kişilik aile için yeterli gibi teşekkür ederim",
+        "1 aydık kullanıyorum temizliği ve pişirmesi kolay 4 kişilik bir aile için büyüklüğü ideal bence"
       ],
       "all_reviews": [
         {
-          "text": "yıllar önce kendim için almıştım o kadar memnun kaldım ki gören istiyor bu 5 siparişimiz çabuk kızartıyor tabi 2 litre yağ alıyor haznesi",
+          "text": "kesinlikle tavsiye ediyorum 4 kişilik bir aile için yeterli geldi bize ısıtması çok iyi çok beğendim kaliteli güzel 1 aydır kullanıyorum çok memnun kaldım",
           "score": 5.0
         },
         {
-          "text": "harika bir ürün çok kullanışlı ve çok memnunum alın derim ben tereddütle aldım açıkçası ama gerçekten fiyatına göre aşırı iyi bir ürün",
+          "text": "1 aydık kullanıyorum temizliği ve pişirmesi kolay 4 kişilik bir aile için büyüklüğü ideal bence",
           "score": 5.0
         },
         {
-          "text": "çok guzellllll ve uygun fiyatli",
+          "text": "ben başka ürün bakıyordum kızım bu ürünü bulup bana gösterdi çok güzel ve kaliteli bir ürün gayet memnun kaldık",
+          "score": 5.0
+        },
+        {
+          "text": "ba yıl dıkk kullanıp sonra yorum yapmak istedim bence kesinlikle alın anneme hediye aldık benim el lezzetim var diyor ama bence marifet fritöz de neyse aramızda kalsın yoksa benide kızartır",
+          "score": 5.0
+        },
+        {
+          "text": "görümceme aldık beklediğimizden iyi çıktı yağ sıçramasına son saat ve derece ayarı var iç haznesi baya geniş fiyat performans ürünü",
           "score": 5.0
         },
         {
@@ -118,52 +122,56 @@
       "icon": "💬"
     },
     {
-      "name": "Ideal",
-      "review_count": 8,
-      "avg_score": 4.75,
+      "name": "Özellikle",
+      "review_count": 13,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "diyebilirim",
-        "yorum",
-        "sorunsuz",
-        "şimdilik",
-        "severek",
-        "sağlam",
-        "kolay",
-        "paketlemesi"
+        "özellikle",
+        "evde",
+        "anneler",
+        "biri",
+        "yemekler",
+        "yurtta",
+        "bayıldım",
+        "görünüyor"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
         "beklediğimden daha guzel kesinlikle her evde bulunmali",
-        "çok çok güzel beyendim kizartmasi gayet iyi memnunum",
-        "ürünü yenğeme aldım çok beğendi"
+        "ba yıl dıkk kullanıp sonra yorum yapmak istedim bence kesinlikle alın anneme hediye aldık benim el lezzetim var diyor ama bence marifet fritöz de neyse aramızda kalsın yoksa benide kızartır",
+        "veee iyiki almışım tereddüt etmeden alın derim cehizime aldım annemde çok beğendi onada istiyecem"
       ],
       "all_reviews": [
         {
-          "text": "ürünü yenğeme aldım çok beğendi",
+          "text": "veee iyiki almışım tereddüt etmeden alın derim cehizime aldım annemde çok beğendi onada istiyecem",
           "score": 5.0
         },
         {
-          "text": "çok çok güzel beyendim kizartmasi gayet iyi memnunum",
+          "text": "annem kullanıyordu aldım çok ama çok güzel tavsiye ediyorum harika ötesi",
+          "score": 5.0
+        },
+        {
+          "text": "hem anneme hem teyzeme aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ba yıl dıkk kullanıp sonra yorum yapmak istedim bence kesinlikle alın anneme hediye aldık benim el lezzetim var diyor ama bence marifet fritöz de neyse aramızda kalsın yoksa benide kızartır",
           "score": 5.0
         },
         {
           "text": "beklediğimden daha guzel kesinlikle her evde bulunmali",
           "score": 5.0
-        },
-        {
-          "text": "çok iyi çeyizine aldım beğendim",
-          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 5,
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -171,92 +179,32 @@
         "fiyat performans",
         "performans",
         "fiyat",
-        "kaliteli",
         "rahatlığıyla",
         "çıtır",
         "pratik",
-        "yağsız"
+        "yağsız",
+        "çıtır çıtır"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "görümceme aldık beklediğimizden iyi çıktı yağ sıçramasına son saat ve derece ayarı var iç haznesi baya geniş fiyat performans ürünü",
-        "yorumlara bakarak aldimm beğendim genişlik olarak büyük hızlı kızartma şimdilik memnunummm"
+        "harika bir ürün çok kullanışlı ve çok memnunum alın derim ben tereddütle aldım açıkçası ama gerçekten fiyatına göre aşırı iyi bir ürün",
+        "çok guzellllll ve uygun fiyatli"
       ],
       "all_reviews": [
         {
-          "text": "yorumlara bakarak aldimm beğendim genişlik olarak büyük hızlı kızartma şimdilik memnunummm",
+          "text": "harika bir ürün çok kullanışlı ve çok memnunum alın derim ben tereddütle aldım açıkçası ama gerçekten fiyatına göre aşırı iyi bir ürün",
           "score": 5.0
         },
         {
           "text": "görümceme aldık beklediğimizden iyi çıktı yağ sıçramasına son saat ve derece ayarı var iç haznesi baya geniş fiyat performans ürünü",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Patates & Tavuk",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "pişiriyor",
-        "yaptım",
-        "patates",
-        "denedim",
-        "tavuk",
-        "vardı",
-        "karaca",
-        "lezzetli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok çok çooookkkkk güzel bir fritöz ben çok beğendim ve çok memnunum yemeğe misafirlerim vardı yarım saatte 5 sepet kızarttım harikaydı",
-        "coook güzel tek seferde de hızlı bir şekilde pişiriliyor çok işime yaradı"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok çok çooookkkkk güzel bir fritöz ben çok beğendim ve çok memnunum yemeğe misafirlerim vardı yarım saatte 5 sepet kızarttım harikaydı",
-          "score": 5.0
         },
         {
-          "text": "coook güzel tek seferde de hızlı bir şekilde pişiriliyor çok işime yaradı",
+          "text": "çok guzellllll ve uygun fiyatli",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Köfte & Patates Kızartması",
-      "review_count": 2,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "elim",
-        "köfte",
-        "tavuk",
-        "börek",
-        "para gerek",
-        "kullanmak",
-        "markalara",
-        "yemekler"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
-        "çok sevdim kendisini aşk yaşıyoruz kendisiyle şimdilik hiç bir sorun yok gayet başarılı"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok sevdim kendisini aşk yaşıyoruz kendisiyle şimdilik hiç bir sorun yok gayet başarılı",
-          "score": 4.0
         }
       ],
       "icon": "💬"

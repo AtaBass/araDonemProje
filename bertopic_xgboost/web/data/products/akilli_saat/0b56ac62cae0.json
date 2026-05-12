@@ -8,7 +8,7 @@
   "overall_score": 4.85,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**HARVOX Watch HX-4 Pro Akıllı Saat Iphone Ve Android Tüm** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Ekran & Kordon** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kaliteli** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Şık ve klasik bir model kutusunda diğer kordonlarda oldukça kullanışlı yani eşofman t…\"\n• **Kullanışlı & Asuman Hanım**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **güvenilir** ve **farklı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Farklı kolları olması çok güzel teşekkür ederim\"\n• Kullanıcılar **Sağlam** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zate…\"\n• **Kaliteli & Rahatlıkla** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kullanışlı** ve **performans** başta olmak üzere.\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kalite** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gerçekten mükemmel kalite çok teşekkür ediyorum arkadaşıma hediye almıştım şimdi kend…\"",
+  "summary": "Harvox Watch HX-4 Pro, akıllı saat kategorisinde beğeni topluyor. Ürün genel memnuniyet puanını 4.8/5.0 olarak buluyor ve yorumcuların %95'i ürünün ekran, özellik ve fiyat performansına olumlu yönde yorumda bulundu. Ayrıca kurulum kolaylığı da ürünün güçlü yanlarından biri olarak görülmüş. Overall, Harvox Watch HX-4 Pro'nun kalitesi ve performansı, customers' satisfaction'u yüksek bir seviye de buluyor.",
   "score_distribution": {
     "1": 0,
     "2": 2,
@@ -26,12 +26,12 @@
       "top_terms": [
         "ekran",
         "kordon",
-        "kaliteli",
-        "fiyata",
         "kalitesi",
         "kullanımı",
         "akıcı",
-        "uzun"
+        "uzun",
+        "özelliği",
+        "bayıldım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -43,11 +43,11 @@
       ],
       "all_reviews": [
         {
-          "text": "erkek kardeşime aldım babamada farklı bir model almıştım hemen yorum yapmak istedim tasarımı ve özellikleri garika bir model eğer akıllı saat alma fikriniz varsa bu modeli tercih edebilirsiniz görsellerde gözüken özeliklerin hepsi birebir mevcut",
+          "text": "gerçekten mükemmel kalite çok teşekkür ediyorum arkadaşıma hediye almıştım şimdi kendime de alacağım kesinlikle bu fiyata bu kalite",
           "score": 5.0
         },
         {
-          "text": "arkadaşımdan görüp tavsiye üzerine aldım iyikide almışım 3 kişi aynı saatten kullanıyoruz",
+          "text": "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm",
           "score": 5.0
         },
         {
@@ -70,88 +70,46 @@
       "icon": "💬"
     },
     {
-      "name": "Kullanışlı & Asuman Hanım",
-      "review_count": 10,
-      "avg_score": 4.4,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "güvenilir",
-        "farklı",
-        "gerek",
-        "sağlam",
-        "hanım",
-        "asuman hanım",
-        "rahatlıkla"
-      ],
-      "positive_pct": 80.0,
-      "negative_pct": 20.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "farklı kolları olması çok güzel teşekkür ederim",
-        "çok beğendim çok kullanışlı",
-        "saat başka marka geldi neyseki saat geldi"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok iyi beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim çok kullanışlı",
-          "score": 5.0
-        },
-        {
-          "text": "farklı kolları olması çok güzel teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "gayet başarılı teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "saat başka marka geldi neyseki saat geldi",
-          "score": 2.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sağlam",
-      "review_count": 8,
+      "name": "Özellik",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
         "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "bayıldım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "erkek kardeşime aldım babamada farklı bir model almıştım hemen yorum yapmak istedim tasarımı ve özellikleri garika bir model eğer akıllı saat alma fikriniz varsa bu modeli tercih edebilirsiniz görsellerde gözüken özeliklerin hepsi birebir mevcut",
         "gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zaten bildirim alabilme ve arama özellikleri çok kullanışlı oluyor günlük hayatta bu bile yeterli olur bizim için teşekkür ederiz",
-        "çok güzel ürün elinize sağlık paketleme için teşekkür ederim",
-        "ürün sağlam paketlenmişti şimdilik memnunum"
+        "gerçekten mükemmel kalite çok teşekkür ediyorum arkadaşıma hediye almıştım şimdi kendime de alacağım kesinlikle bu fiyata bu kalite"
       ],
       "all_reviews": [
+        {
+          "text": "gerçekten mükemmel kalite çok teşekkür ediyorum arkadaşıma hediye almıştım şimdi kendime de alacağım kesinlikle bu fiyata bu kalite",
+          "score": 5.0
+        },
         {
           "text": "gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zaten bildirim alabilme ve arama özellikleri çok kullanışlı oluyor günlük hayatta bu bile yeterli olur bizim için teşekkür ederiz",
           "score": 5.0
         },
         {
-          "text": "çok güzel geldi paketleme de harika",
+          "text": "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm",
           "score": 5.0
         },
         {
-          "text": "ürün sağlam paketlenmişti şimdilik memnunum",
+          "text": "erkek kardeşime aldım babamada farklı bir model almıştım hemen yorum yapmak istedim tasarımı ve özellikleri garika bir model eğer akıllı saat alma fikriniz varsa bu modeli tercih edebilirsiniz görsellerde gözüken özeliklerin hepsi birebir mevcut",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel geldi paketleme de harika",
           "score": 5.0
         },
         {
@@ -162,40 +120,8 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Rahatlıkla",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "kaliteli kaliteli",
-        "rahatlıkla",
-        "kullanışlı",
-        "performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün gerçekten çok güzel",
-        "güzel şık fonksiyonel"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün gerçekten çok güzel",
-          "score": 5.0
-        },
-        {
-          "text": "güzel şık fonksiyonel",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Fiyat Performans",
-      "review_count": 2,
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -204,20 +130,170 @@
         "fiyat",
         "performans",
         "kalite",
-        "fiyata",
         "bayıldı",
         "teslimat",
-        "ideal"
+        "ideal",
+        "kargolama"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "gerçekten mükemmel kalite çok teşekkür ediyorum arkadaşıma hediye almıştım şimdi kendime de alacağım kesinlikle bu fiyata bu kalite"
+        "gerçekten mükemmel kalite çok teşekkür ediyorum arkadaşıma hediye almıştım şimdi kendime de alacağım kesinlikle bu fiyata bu kalite",
+        "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm",
+        "şık ve klasik bir model kutusunda diğer kordonlarda oldukça kullanışlı yani eşofman takımıylada kullanabilirsiniz takım elbiseylede kullanabilirsiniz saati öyle bir şey ekranı baya akıcı fiyatının fazlasını hakediyor"
       ],
       "all_reviews": [
         {
           "text": "gerçekten mükemmel kalite çok teşekkür ediyorum arkadaşıma hediye almıştım şimdi kendime de alacağım kesinlikle bu fiyata bu kalite",
+          "score": 5.0
+        },
+        {
+          "text": "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "bu modelin başka markasını satın almıştım ama bu efsane birşey görüntü kalitesi mükemmel dokunmatiği süper şık görünüş daha ne olsun yüksek paralar vermeyin arkadaşlar bu saat bu paraya gerçekten bedava",
+          "score": 5.0
+        },
+        {
+          "text": "saati beğendim kaliteli duruyor kargo daha hızlı olabilirdi",
+          "score": 5.0
+        },
+        {
+          "text": "şık ve klasik bir model kutusunda diğer kordonlarda oldukça kullanışlı yani eşofman takımıylada kullanabilirsiniz takım elbiseylede kullanabilirsiniz saati öyle bir şey ekranı baya akıcı fiyatının fazlasını hakediyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Marka / Fiyat Performans",
+      "review_count": 10,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "marka",
+        "sorunsuz",
+        "ilgili",
+        "fiyat",
+        "tane",
+        "bide",
+        "eksiksiz",
+        "başka"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 20.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bu modelin başka markasını satın almıştım ama bu efsane birşey görüntü kalitesi mükemmel dokunmatiği süper şık görünüş daha ne olsun yüksek paralar vermeyin arkadaşlar bu saat bu paraya gerçekten bedava",
+        "saat başka marka geldi neyseki saat geldi",
+        "şık ve klasik bir model kutusunda diğer kordonlarda oldukça kullanışlı yani eşofman takımıylada kullanabilirsiniz takım elbiseylede kullanabilirsiniz saati öyle bir şey ekranı baya akıcı fiyatının fazlasını hakediyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten mükemmel kalite çok teşekkür ediyorum arkadaşıma hediye almıştım şimdi kendime de alacağım kesinlikle bu fiyata bu kalite",
+          "score": 5.0
+        },
+        {
+          "text": "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "bu modelin başka markasını satın almıştım ama bu efsane birşey görüntü kalitesi mükemmel dokunmatiği süper şık görünüş daha ne olsun yüksek paralar vermeyin arkadaşlar bu saat bu paraya gerçekten bedava",
+          "score": 5.0
+        },
+        {
+          "text": "şık ve klasik bir model kutusunda diğer kordonlarda oldukça kullanışlı yani eşofman takımıylada kullanabilirsiniz takım elbiseylede kullanabilirsiniz saati öyle bir şey ekranı baya akıcı fiyatının fazlasını hakediyor",
+          "score": 5.0
+        },
+        {
+          "text": "saat başka marka geldi neyseki saat geldi",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sesli",
+        "ürünler",
+        "aydır",
+        "kurulumu kolay",
+        "ogluma",
+        "kurulumu",
+        "şimdilik",
+        "fiyat"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm",
+        "ürün sağlam paketlenmişti şimdilik memnunum",
+        "çok güzel ürün elinize sağlık paketleme için teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sağlam paketlenmişti şimdilik memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ürün elinize sağlık paketleme için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok güzel",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Asuman Hanım",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "hanım",
+        "asuman hanım",
+        "asuman",
+        "farklı",
+        "rengi",
+        "veriyor",
+        "rengini",
+        "sorunsuz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zaten bildirim alabilme ve arama özellikleri çok kullanışlı oluyor günlük hayatta bu bile yeterli olur bizim için teşekkür ederiz",
+        "erkek kardeşime aldım babamada farklı bir model almıştım hemen yorum yapmak istedim tasarımı ve özellikleri garika bir model eğer akıllı saat alma fikriniz varsa bu modeli tercih edebilirsiniz görsellerde gözüken özeliklerin hepsi birebir mevcut",
+        "farklı kolları olması çok güzel teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zaten bildirim alabilme ve arama özellikleri çok kullanışlı oluyor günlük hayatta bu bile yeterli olur bizim için teşekkür ederiz",
+          "score": 5.0
+        },
+        {
+          "text": "erkek kardeşime aldım babamada farklı bir model almıştım hemen yorum yapmak istedim tasarımı ve özellikleri garika bir model eğer akıllı saat alma fikriniz varsa bu modeli tercih edebilirsiniz görsellerde gözüken özeliklerin hepsi birebir mevcut",
+          "score": 5.0
+        },
+        {
+          "text": "farklı kolları olması çok güzel teşekkür ederim",
           "score": 5.0
         }
       ],
@@ -225,59 +301,74 @@
     },
     {
       "name": "Şarjı",
-      "review_count": 2,
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "şarjı",
         "şarj",
-        "gidiyor",
         "uzun",
         "telefon",
         "arama",
-        "şarjı gidiyor",
-        "kullanisli"
+        "kullanisli",
+        "fazlasıyla",
+        "çıktı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "kavisli ekranı çok hoşuma gitti tüm bildirimleri alıyor bluetooth arama gayet net adım nabız gibi sağlık verileri düzgün çalışıyor günlük kullanım için fazlasıyla yeterli",
+        "gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zaten bildirim alabilme ve arama özellikleri çok kullanışlı oluyor günlük hayatta bu bile yeterli olur bizim için teşekkür ederiz",
         "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm"
       ],
       "all_reviews": [
         {
+          "text": "gümüş rengini kendime siyahını da kardeşime almıştım o da bi benim kadar beğendi zaten bildirim alabilme ve arama özellikleri çok kullanışlı oluyor günlük hayatta bu bile yeterli olur bizim için teşekkür ederiz",
+          "score": 5.0
+        },
+        {
           "text": "şarj ömrü kullanım kolaylığından memnunum performansı fiyatın üzerinde şık bir görünümü de olduğu için öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "kavisli ekranı çok hoşuma gitti tüm bildirimleri alıyor bluetooth arama gayet net adım nabız gibi sağlık verileri düzgün çalışıyor günlük kullanım için fazlasıyla yeterli",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kullanışlı & Isteyenlere",
-      "review_count": 2,
+      "name": "Paketleme",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "kullanışlı",
+        "paketleme",
+        "paketlemesi",
+        "ürünüm",
         "kısa",
-        "sorunsuz",
-        "kaliteli",
         "paketlenmesi",
-        "isteyenlere"
+        "özellikle",
+        "sürede",
+        "kısa sürede"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kuzenime aldım çok beğendi"
+        "çok güzel ürün elinize sağlık paketleme için teşekkür ederim",
+        "çok güzel geldi paketleme de harika"
       ],
       "all_reviews": [
         {
-          "text": "kuzenime aldım çok beğendi",
+          "text": "çok güzel geldi paketleme de harika",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ürün elinize sağlık paketleme için teşekkür ederim",
           "score": 5.0
         }
       ],

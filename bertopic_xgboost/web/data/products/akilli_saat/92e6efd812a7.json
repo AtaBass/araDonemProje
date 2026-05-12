@@ -8,7 +8,7 @@
   "overall_score": 4.82,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Xiaomi Redmi Watch 5 Active Akıllı Saat Siyah (Xiaomi T** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyat Performans** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kalite** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat perform…\"\n• **Ekran & Kordon**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kaliteli** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bu üründen 3 alisimiz ailesi herkese hemen hemen aldık çok güzel çok hoş ve şık güven…\"\n• Kullanıcılar **Kullanışlı & Isteyenlere** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **sorunsuz** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün çok güzel çok kaliteli oğluma aldım çok beğendi tavsiye ediyorum\"\n• **Sağlam** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **paketlemesi** ve **ürünüm** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanla…\"\n• Müşteri yorumlarında **Kurulumu Kolay** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sesli** ve **ürünler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Önce ogluma aldim daha sonra eşimle kendime aldım sesli görüşme de ses kalitesi çok i…\"",
+  "summary": "Xiaomi Redmi Watch 5 Active, kullanıcıların beğenisine layık bir ürün olduğunu göstermektedir. Fiyat performansına ve kurulum kolaylığına sahip olduğu yorumlar, ürünün olumlu olarak değerlendirildiğini ortaya koymaktadır. Marka fiyat performansı ve özellikler方面ında da olumlu yorumlar almıştır. Ürün, ekran ve kordon方面ında da olumlu eleştiriler almaktadır. Genel olarak, Xiaomi Redmi Watch 5 Active, 4.8/5.0 genel memnuniyet puanına sahip olduğunu göstermektedir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 10,
-      "avg_score": 4.7,
+      "review_count": 21,
+      "avg_score": 4.57,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -28,18 +28,18 @@
         "fiyat",
         "performans",
         "kalite",
-        "fiyata",
         "bayıldı",
         "teslimat",
-        "ideal"
+        "ideal",
+        "kargolama"
       ],
-      "positive_pct": 70.0,
+      "positive_pct": 71.4,
       "negative_pct": 0.0,
-      "neutral_pct": 30.0,
+      "neutral_pct": 28.6,
       "sample_reviews": [
+        "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün",
         "annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat performans ürünü",
-        "indirimli fiyattan 2 adet aldım fiyatı dahada yükselmeden almanızı tavsiye ederim",
-        "anneme aldım gayet kullanışlı fiyatıda çok uygun"
+        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım"
       ],
       "all_reviews": [
         {
@@ -47,136 +47,28 @@
           "score": 5.0
         },
         {
-          "text": "annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat performans ürünü",
+          "text": "ürün çok güzel çok kaliteli oğluma aldım çok beğendi tavsiye ediyorum",
           "score": 5.0
         },
         {
-          "text": "hediye olarak aldık çok beğenildi tavsiye ederiz",
-          "score": 5.0
-        },
-        {
-          "text": "anneme aldım gayet kullanışlı fiyatıda çok uygun",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Ekran & Kordon",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "ekran",
-        "kordon",
-        "kaliteli",
-        "fiyata",
-        "kalitesi",
-        "kullanımı",
-        "akıcı",
-        "uzun"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bu üründen 3 alisimiz ailesi herkese hemen hemen aldık çok güzel çok hoş ve şık güven rahatligiyla alabilirsiniz bı iki tane daha alicaz sanırım",
-        "eşim için aldım birkaç aydır kullaniyor herhangi bir sorun yok temel işleri için gayet kullanışlı bir ürün teşekkür ederim",
-        "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün"
-      ],
-      "all_reviews": [
-        {
-          "text": "bu üründen 3 alisimiz ailesi herkese hemen hemen aldık çok güzel çok hoş ve şık güven rahatligiyla alabilirsiniz bı iki tane daha alicaz sanırım",
-          "score": 5.0
-        },
-        {
-          "text": "eşim için aldım birkaç aydır kullaniyor herhangi bir sorun yok temel işleri için gayet kullanışlı bir ürün teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok hoşuma gitti alığıma gerçekten memnun kaldım",
+          "text": "önce ogluma aldim daha sonra eşimle kendime aldım sesli görüşme de ses kalitesi çok iyi karşı taraf saatten konuştuğumu anlamıyor 1 aydır kullaniyorum cok begendim",
           "score": 5.0
         },
         {
           "text": "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı & Isteyenlere",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "kullanışlı",
-        "kısa",
-        "sorunsuz",
-        "kaliteli",
-        "paketlenmesi",
-        "isteyenlere"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "oğlum için aldık hızlı ve sorunsuz elimize ulaştı",
-        "ürün çok güzel çok kaliteli oğluma aldım çok beğendi tavsiye ediyorum",
-        "anneme hediye aldım çok çok beğendi teşekkürler"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "ürün çok güzel çok kaliteli oğluma aldım çok beğendi tavsiye ediyorum",
+          "text": "nişanlımm aşırı beğendiii harika bir sürü özellikleri var çok ama çok kaliteli",
           "score": 5.0
         },
         {
-          "text": "anneme hediye aldım çok çok beğendi teşekkürler",
+          "text": "annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat performans ürünü",
           "score": 5.0
         },
         {
-          "text": "oğlum için aldık hızlı ve sorunsuz elimize ulaştı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sağlam",
-      "review_count": 7,
-      "avg_score": 4.14,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
-      ],
-      "positive_pct": 57.1,
-      "negative_pct": 0.0,
-      "neutral_pct": 42.9,
-      "sample_reviews": [
-        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
-        "boyle bir canavar nasıl var olur çok güzel çok hoş öyle düşünüldüğü gibi ağır değil siyah rengini aldim harika güzel paketlenmiş herkese tavsiye ederim kargo 24 saatte geldi cuma 16 da de sipariş verdim cumartesi 4de geldi",
-        "nişanlıma hediye aldım kendisi mağazacı mesaj attığımda artık anında cevap verebiliyor yopun bile olsa canım nişanlım tavsiye ederim iletişim açısından işimizi çok çözdü"
-      ],
-      "all_reviews": [
-        {
-          "text": "boyle bir canavar nasıl var olur çok güzel çok hoş öyle düşünüldüğü gibi ağır değil siyah rengini aldim harika güzel paketlenmiş herkese tavsiye ederim kargo 24 saatte geldi cuma 16 da de sipariş verdim cumartesi 4de geldi",
-          "score": 5.0
-        },
-        {
-          "text": "nişanlıma hediye aldım kendisi mağazacı mesaj attığımda artık anında cevap verebiliyor yopun bile olsa canım nişanlım tavsiye ederim iletişim açısından işimizi çok çözdü",
-          "score": 5.0
+          "text": "anneme aldım gayet kullanışlı fiyatıda çok uygun",
+          "score": 4.0
         },
         {
           "text": "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
@@ -186,9 +78,9 @@
       "icon": "💬"
     },
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 5,
-      "avg_score": 5.0,
+      "name": "Kurulum Kolay",
+      "review_count": 18,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -201,12 +93,119 @@
         "şimdilik",
         "fiyat"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
         "önce ogluma aldim daha sonra eşimle kendime aldım sesli görüşme de ses kalitesi çok iyi karşı taraf saatten konuştuğumu anlamıyor 1 aydır kullaniyorum cok begendim",
-        "eşime almıştım çok güzel görselle birebir şık duruyor kargo hızlı ve güvenli mutlaka alın satıcıya teşekkürler"
+        "eşim için aldım birkaç aydır kullaniyor herhangi bir sorun yok temel işleri için gayet kullanışlı bir ürün teşekkür ederim",
+        "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu üründen 3 alisimiz ailesi herkese hemen hemen aldık çok güzel çok hoş ve şık güven rahatligiyla alabilirsiniz bı iki tane daha alicaz sanırım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel çok kaliteli oğluma aldım çok beğendi tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "önce ogluma aldim daha sonra eşimle kendime aldım sesli görüşme de ses kalitesi çok iyi karşı taraf saatten konuştuğumu anlamıyor 1 aydır kullaniyorum cok begendim",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "eşim için aldım birkaç aydır kullaniyor herhangi bir sorun yok temel işleri için gayet kullanışlı bir ürün teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Marka / Fiyat Performans",
+      "review_count": 15,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "marka",
+        "sorunsuz",
+        "ilgili",
+        "fiyat",
+        "tane",
+        "bide",
+        "eksiksiz",
+        "başka"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "bu üründen 3 alisimiz ailesi herkese hemen hemen aldık çok güzel çok hoş ve şık güven rahatligiyla alabilirsiniz bı iki tane daha alicaz sanırım",
+        "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün",
+        "annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat performans ürünü"
+      ],
+      "all_reviews": [
+        {
+          "text": "indirimli fiyattan 2 adet aldım fiyatı dahada yükselmeden almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bu üründen 3 alisimiz ailesi herkese hemen hemen aldık çok güzel çok hoş ve şık güven rahatligiyla alabilirsiniz bı iki tane daha alicaz sanırım",
+          "score": 5.0
+        },
+        {
+          "text": "annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "oğlum için aldık hızlı ve sorunsuz elimize ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "anneme aldım gayet kullanışlı fiyatıda çok uygun",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellik",
+      "review_count": 14,
+      "avg_score": 4.57,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
+        "paketleme",
+        "bayıldım"
+      ],
+      "positive_pct": 78.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 21.4,
+      "sample_reviews": [
+        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+        "saatim geldi ve bu saati iyi ki almışım böyle bir cihaz yok muhteşem bişey gayet sağlam telefon gibi arama yapıp konuşabiliyorum su geçirmiyor şiddetle tavsiye ederim çok çok teşekkür ederim",
+        "önce ogluma aldim daha sonra eşimle kendime aldım sesli görüşme de ses kalitesi çok iyi karşı taraf saatten konuştuğumu anlamıyor 1 aydır kullaniyorum cok begendim"
       ],
       "all_reviews": [
         {
@@ -214,42 +213,103 @@
           "score": 5.0
         },
         {
-          "text": "eşime almıştım çok güzel görselle birebir şık duruyor kargo hızlı ve güvenli mutlaka alın satıcıya teşekkürler",
+          "text": "saatim geldi ve bu saati iyi ki almışım böyle bir cihaz yok muhteşem bişey gayet sağlam telefon gibi arama yapıp konuşabiliyorum su geçirmiyor şiddetle tavsiye ederim çok çok teşekkür ederim",
           "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel çok kaliteli oğluma aldım çok beğendi tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "nişanlımm aşırı beğendiii harika bir sürü özellikleri var çok ama çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Ulasti & Bende",
-      "review_count": 5,
+      "name": "Ekran & Kordon",
+      "review_count": 11,
+      "avg_score": 4.45,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "ekran",
+        "kordon",
+        "kalitesi",
+        "kullanımı",
+        "akıcı",
+        "uzun",
+        "özelliği",
+        "bayıldım"
+      ],
+      "positive_pct": 72.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 27.3,
+      "sample_reviews": [
+        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+        "önce ogluma aldim daha sonra eşimle kendime aldım sesli görüşme de ses kalitesi çok iyi karşı taraf saatten konuştuğumu anlamıyor 1 aydır kullaniyorum cok begendim",
+        "nişanlımm aşırı beğendiii harika bir sürü özellikleri var çok ama çok kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "önce ogluma aldim daha sonra eşimle kendime aldım sesli görüşme de ses kalitesi çok iyi karşı taraf saatten konuştuğumu anlamıyor 1 aydır kullaniyorum cok begendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel çok kaliteli oğluma aldım çok beğendi tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "nişanlımm aşırı beğendiii harika bir sürü özellikleri var çok ama çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Paketlenme",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "beni",
-        "etti",
-        "ulasti",
-        "bende",
-        "severek kullanıyor",
-        "gidiyor",
-        "şarj",
-        "severek"
+        "aldık",
+        "kısa",
+        "sorunsuz",
+        "paketlenmesi",
+        "kullanmaya",
+        "almak isteyenlere",
+        "isteyenlere",
+        "bayıldı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "eşime ve kendime aldım güzel paketlenmisti iki günde ulasti çok da şık oldu çok beğendik",
-        "nişanlımm aşırı beğendiii harika bir sürü özellikleri var çok ama çok kaliteli"
+        "oğlum için aldık hızlı ve sorunsuz elimize ulaştı",
+        "bu üründen 3 alisimiz ailesi herkese hemen hemen aldık çok güzel çok hoş ve şık güven rahatligiyla alabilirsiniz bı iki tane daha alicaz sanırım",
+        "hediye olarak aldık çok beğenildi tavsiye ederiz"
       ],
       "all_reviews": [
         {
-          "text": "eşime ve kendime aldım güzel paketlenmisti iki günde ulasti çok da şık oldu çok beğendik",
+          "text": "bu üründen 3 alisimiz ailesi herkese hemen hemen aldık çok güzel çok hoş ve şık güven rahatligiyla alabilirsiniz bı iki tane daha alicaz sanırım",
           "score": 5.0
         },
         {
-          "text": "nişanlımm aşırı beğendiii harika bir sürü özellikleri var çok ama çok kaliteli",
+          "text": "oğlum için aldık hızlı ve sorunsuz elimize ulaştı",
+          "score": 5.0
+        },
+        {
+          "text": "hediye olarak aldık çok beğenildi tavsiye ederiz",
           "score": 5.0
         }
       ],
@@ -257,60 +317,94 @@
     },
     {
       "name": "Şarjı",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "review_count": 6,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "şarjı",
         "şarj",
-        "gidiyor",
         "uzun",
         "telefon",
         "arama",
-        "şarjı gidiyor",
-        "kullanisli"
+        "kullanisli",
+        "fazlasıyla",
+        "çıktı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 50.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 50.0,
       "sample_reviews": [
+        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
         "saatim geldi ve bu saati iyi ki almışım böyle bir cihaz yok muhteşem bişey gayet sağlam telefon gibi arama yapıp konuşabiliyorum su geçirmiyor şiddetle tavsiye ederim çok çok teşekkür ederim"
       ],
       "all_reviews": [
         {
           "text": "saatim geldi ve bu saati iyi ki almışım böyle bir cihaz yok muhteşem bişey gayet sağlam telefon gibi arama yapıp konuşabiliyorum su geçirmiyor şiddetle tavsiye ederim çok çok teşekkür ederim",
           "score": 5.0
+        },
+        {
+          "text": "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+          "score": 3.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kullanışlı & Asuman Hanım",
-      "review_count": 3,
+      "name": "Rahatlıkla",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanışlı",
-        "güvenilir",
-        "farklı",
-        "gerek",
-        "sağlam",
-        "hanım",
-        "asuman hanım",
-        "rahatlıkla"
+        "rahatlıkla",
+        "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "sevgilime aldım çok kullanışlı"
+        "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün",
+        "annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat performans ürünü"
       ],
       "all_reviews": [
         {
-          "text": "sevgilime aldım çok kullanışlı",
+          "text": "annem ve babama aldım inanılmaz memnunlar keyifle kullanıyorlar tam bir fiyat performans ürünü",
           "score": 5.0
+        },
+        {
+          "text": "kesinlikleeee fiyat performans ürünü bayıldım eşime hediye almıştım oda çok sevdi fonksiyonel bir ürün",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 3,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "paketleme",
+        "paketlemesi",
+        "ürünüm",
+        "kısa",
+        "paketlenmesi",
+        "özellikle",
+        "sürede",
+        "kısa sürede"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "sample_reviews": [
+        "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün kalite olarak güzel paketleme ve hızlı kargo için teşekkürler bileği ince olanlar bu ürünün whac 3 activi tercih edebilirler ekran parlaklığı ve görüntüsü güzel benin telefon ıphone 11 eşledim ayarlarını yaptım aramalarda bildirimlerde sorun yok ama sürekli gün içinde kopmalar oluyor saatle telefon yan yana iken bile bundan dolayı maalesef iade etmek zorundayım",
+          "score": 3.0
         }
       ],
       "icon": "💬"

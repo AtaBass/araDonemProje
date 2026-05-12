@@ -27,6 +27,7 @@ import hashlib
 import json
 import re
 import warnings
+import requests
 from collections import defaultdict
 from dataclasses import asdict, dataclass
 from pathlib import Path
@@ -160,14 +161,16 @@ _NOISE: set[str] = {
     "geldi","geldik","gitti","gelen","geliyor","götürdüm",
     "beğendim","begendim","begendik","beğendik","beğendi","begendi",
     "bekliyorum","bekliyordum","ettim","etmek","ettik",
-    "kullandım","kullanıyorum","kullandık",
+    "kullandım","kullanıyorum","kullandık","kullanıyor","severek",
     "kaldım","kaldık","kaldı","verdi","verdim","verdik",
     "gördüm","gördük","düşündüm","sevdim","seviyorum",
     "geçti","geçen","çalışıyorum","çalışmadı","ediyorum","ediyoruz",
+    "etti","ettim","ettik","ediyor","edecek",
     # Kişi / aile / ilişki
     "oğlum","kızım","eşim","annem","babam","arkadaşım","arkadaşıma",
     "arkadasim","oğluma","kızıma","kardeşim","kardeşime","kardeşimin",
     "kendim","kendi","bana","sana","bize","size","onlara",
+    "beni","bende","benden","bizi","bizde","bizden","seni","sende",
     "abim","abime","ablam","ablama","amcam","teyzem","dayım",
     # Sahiplik ekleri (bağlamdan kopuk)
     "içinde","içindeki","içine","üstünde","yanında","altında",
@@ -176,8 +179,8 @@ _NOISE: set[str] = {
     "ilkinde","başta","henüz","daha","artık","şimdi",
     "geçmeden","geçmişte","bugün","dün","yarın",
     # Teslimat / ulaşım fiil ve zarfları
-    "ulastı","ulaştı","ulaşmadı","ulaşmış","ulaştırdı",
-    "gelince","gelir","gelmez","geldiğinde","geldikten",
+    "ulastı","ulaştı","ulaşmadı","ulaşmış","ulaştırdı","ulasti","ulaşti",
+    "gelince","gelir","gelmez","geldiğinde","geldikten","gidiyor",
     "günde","günü","günlük","gününde","günler","günlerdir",
     "hızlıca","çabuk","beklemeden","beklenmeden",
     # Yön / şekil / beden parçaları
@@ -683,73 +686,21 @@ def _sentence_score(sent: str, term_set: set[str]) -> float:
 
 def _extractive_aspect_bullet(asp: AspectResult) -> str:
     """
-    Aspect için review'lardan doğrudan en bilgilendirici cümleyi çıkar.
-    Template KULLANMAZ — yorumların gerçek içeriğini yansıtır.
-
-    Çıktı örneği:
-      "**Kumaş**: Ürün kumaşı kaliteli ve likralı, esnek bir yapıya sahip."
-      "**Kalıp**: Kalıplar dar olduğundan bir beden büyük alınması öneriliyor."
+    Aspect için genel değerlendirme özeti üretir.
+    Doğrudan kullanıcı yorumunu kopyalamak yerine, ortalama puana göre 
+    durumu özetleyen bir cümle kurar.
     """
-    term_set = {tr_lower(t) for t in asp.top_terms[:8]}
-    # Aspect adının kök kelimelerini de ekle (normalize)
-    name_kws = {
-        _normalize_label_word(tr_lower(w))
-        for w in asp.name.replace("&", " ").replace("/", " ").split()
-        if len(w) >= 4
-    }
-    term_set |= name_kws
+    name_lower = asp.name.lower()
+    if asp.avg_score >= 4.5:
+        desc = f"Kullanıcılar {name_lower} konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor."
+    elif asp.avg_score >= 3.8:
+        desc = f"Kullanıcılar genel olarak {name_lower} açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor."
+    elif asp.avg_score >= 2.5:
+        desc = f"Ürünün {name_lower} özelliği hakkında karışık görüşler mevcut. Bazı kullanıcılar memnun kalırken, bazıları çeşitli eksiklikler olduğunu belirtmiş."
+    else:
+        desc = f"Kullanıcı yorumlarına göre {name_lower} konusunda yoğun eleştiriler bulunuyor. Bu özelliğin beklentilerin oldukça altında kaldığı görülüyor."
 
-    candidates: list[tuple[float, str]] = []
-    seen_fp: set[str] = set()          # duplikat cümle filtresi
-
-    # Tüm yorumlardan cümle havuzu oluştur (en fazla 25 yorum)
-    for rev_dict in asp.all_reviews[:25]:
-        review = rev_dict["text"]
-        rev_score = rev_dict.get("score", 3.0)
-
-        # Nokta, ünlem, soru işareti, virgül ve satır sonu ile böl
-        for sent in re.split(r"[.!?\n]+", review):
-            sent = sent.strip()
-            if len(sent) < 18:
-                continue
-
-            score = _sentence_score(sent, term_set)
-            if score <= 0:
-                continue
-
-            # Puan bonusu: olumlu review'dan gelen cümle biraz daha değerli
-            if rev_score >= 4.5:
-                score += 0.2
-            elif rev_score <= 2.0:
-                score += 0.15          # olumsuz aspect'lerde olumsuz yorumlar da değerli
-
-            # Basit fingerprint ile duplikat engelle (ilk 18 karakter)
-            fp = tr_lower(sent)[:18]
-            if fp in seen_fp:
-                continue
-            seen_fp.add(fp)
-
-            candidates.append((score, sent))
-
-    if not candidates:
-        # Hiç uygun cümle yoksa — en azından kısa bir durum ifadesi döndür
-        sentiment_word = (
-            "olumlu" if asp.avg_score >= 4.0
-            else ("karışık" if asp.avg_score >= 3.0 else "olumsuz")
-        )
-        return f"**{asp.name}**: {asp.review_count} yorum incelendi; genel görüş {sentiment_word}."
-
-    # En yüksek puanlı cümleyi seç
-    candidates.sort(key=lambda x: -x[0])
-    best = candidates[0][1].strip()
-
-    # Temizlik: baş harfi büyüt, nokta ekle
-    if best:
-        best = best[0].upper() + best[1:]
-    if best and not best[-1] in ".!?":
-        best += "."
-
-    return f"**{asp.name}**: {best}"
+    return f"**{asp.name}**: {desc}"
 
 
 def generate_summary(
@@ -763,22 +714,48 @@ def generate_summary(
 
     short = product_name.split(" - ")[0][:55]
 
-    # Kısa, tek cümlelik giriş (template burada kabul edilebilir — genel bağlam verir)
-    if overall >= 4.5:
-        intro = f"**{short}** için {n_reviews} müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur."
-    elif overall >= 4.0:
-        intro = f"**{short}** için {n_reviews} yorum analiz edilmiştir. Genel memnuniyet yüksek, bazı noktalarda farklı görüşler mevcuttur."
-    elif overall >= 3.0:
-        intro = f"**{short}** için {n_reviews} yorum incelenmiştir. Görüşler karma bir tablo ortaya koymaktadır."
-    else:
-        intro = f"**{short}** için {n_reviews} yorum incelenmiştir. Olumsuz geri bildirimler ön plandadır."
-
-    bullets: list[str] = []
+    # Hazırlanan prompt
+    aspect_lines = []
     for asp in aspects[:5]:
-        bullet = _extractive_aspect_bullet(asp)
-        bullets.append("• " + bullet)
+        sentiment_text = "Olumlu" if asp.avg_score >= 4.0 else ("Karışık" if asp.avg_score >= 2.5 else "Olumsuz")
+        aspect_lines.append(f"- {asp.name}: {asp.review_count} yorum, Ortalama Puan: {asp.avg_score}/5.0 ({sentiment_text})")
+    
+    aspect_str = "\n".join(aspect_lines)
 
-    return intro + "\n" + "\n".join(bullets)
+    prompt = f"""Sen e-ticaret sitesi için ürün değerlendirmeleri yazan profesyonel, tarafsız bir asistansın.
+Görev: Aşağıda verilen ürünün özellik (aspect) istatistiklerini kullanarak 3-4 cümlelik kısa, profesyonel, akıcı ve tek bir paragraftan oluşan bir "Genel Değerlendirme Özeti" yaz. Tıpkı profesyonel bir editör gibi maddeleme yapmadan, akıcı bir dil kullan.
+
+Ürün: {short}
+Genel Memnuniyet Puanı: {round(overall, 1)}/5.0 (Toplam {n_reviews} Yorum)
+
+Öne Çıkan Özellikler:
+{aspect_str}
+
+Lütfen sadece yukarıdaki verilere dayanarak akıcı bir Türkçe özet paragrafı yaz. Maddeleme (bullet point) KULLANMA. Sadece paragrafı ver:"""
+
+    try:
+        # Llama-3 gibi lokal bir modele istek atıyoruz (Ollama varsayılan port: 11434)
+        response = requests.post(
+            "http://localhost:11434/api/generate",
+            json={
+                "model": "llama3", # Kullanıcının indireceği model adı
+                "prompt": prompt,
+                "stream": False
+            },
+            timeout=60 # Llama-3'ün yazması bazen uzun sürebilir, timeout uzatıldı
+        )
+        if response.status_code == 200:
+            return response.json().get("response", "").strip()
+        else:
+            raise Exception(f"Ollama API error: {response.status_code}")
+    except Exception as e:
+        # Ollama çalışmıyorsa eski template sistemine geri dön (Fallback)
+        if overall >= 4.0:
+            intro = f"**{short}** için {n_reviews} müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur."
+        else:
+            intro = f"**{short}** için {n_reviews} yorum incelenmiştir."
+        bullets = ["• " + _extractive_aspect_bullet(a) for a in aspects[:5]]
+        return intro + "\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n" + "\n".join(bullets)
 
 # ─── KEYWORD TABANLI MULTI-LABEL ASPECT ATAMASI ───────────────────
 # BERTopic → aspect adları + keyword setleri keşfeder.
@@ -986,9 +963,9 @@ def analyze_category_bertopic(category: str, output_dir: Path, n_topics: int = 1
         }
         for local_idx, (_, r) in enumerate(prod_df.iterrows()):
             text_lower = tr_lower(clean(r["temiz urun yorum"]))
-            # Kısa yorumlar (< 60 karakter): 1 keyword yeterli
-            # Uzun yorumlar: en az 2 farklı keyword gerekir → yanlış eşleşme azalır
-            min_kw = 1 if len(text_lower) < 60 else 2
+            # Tüm yorumlar için (uzunluk fark etmeksizin) 1 keyword yeterli olsun
+            # Böylece az yorumlu ürünlerde aspectler elenmez
+            min_kw = 1
             matched_aspects = _assign_review_to_aspects(text_lower, aspect_kws, min_matches=min_kw)
             for label in matched_aspects:
                 if label in merged:
@@ -998,7 +975,9 @@ def analyze_category_bertopic(category: str, output_dir: Path, n_topics: int = 1
         aspect_results: list[AspectResult] = []
         for label, data in sorted(merged.items(), key=lambda x: -len(x[1]["indices"])):
             idxs = data["indices"]
-            if len(idxs) < 3:  # çok az yorumlu aspect'ler = gürültü, atla
+            # Eğer üründe toplam yorum sayısı 20'den az ise 2 yorum bile aspect için yeterli kabul edilsin
+            min_reviews_for_aspect = 2 if n_reviews < 20 else 3
+            if len(idxs) < min_reviews_for_aspect:  # çok az yorumlu aspect'ler = gürültü, atla
                 continue
             ar = compute_aspect(prod_df, label, idxs, data["terms"])
             aspect_results.append(ar)

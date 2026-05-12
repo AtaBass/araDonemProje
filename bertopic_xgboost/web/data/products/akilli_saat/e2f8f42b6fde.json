@@ -8,7 +8,7 @@
   "overall_score": 4.46,
   "overall_sentiment": "neutral",
   "stars": "★★★★½",
-  "summary": "**NİRVANA TEKNOLOJİ ELEKTRONİK WATCH800 ULTRA + AKILLI SA** için 50 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Kullanışlı & Isteyenlere** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **sorunsuz** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Öğrencime hediye için almıştım beğendi ve çok mutlu oldu ilkokul çocuğuna uygun bir s…\"\n• **Sağlam**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **paketlemesi** ve **ürünüm** başta olmak üzere. Örnek kullanıcı ifadesi: \"Parasına göre ürün orjinal beklentisi olanlar boşuna zaman kaybetmesin gayet güzel pa…\"\n• **Kullanışlı & Asuman Hanım** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **güvenilir** ve **farklı** konusu özellikle vurgulanmaktadır.\n• **Kaliteli & Rahatlıkla** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kullanışlı** ve **performans** başta olmak üzere.\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kalite** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bu fiyata göre iyi 8 yaşındaki yigenime almıştım onu memnun etti\"",
+  "summary": "Nirvana Teknoloji Elektronik Watch800 Ultra + Akilli Sa, toplam 50 yorumda 4.5/5.0 puan alırken, kurulumunu kolaylaştırmasıyla başlayan olumlu deneyimi sürdürüyor. Ürün, sorunsuz bir paketlenmeye ve fiyat performansına da sahik olarak değerlendiriliyor. Müşterilerin marka-fiyat performansı ve ürünün özelliklerine de büyük beğeni duyduklarını görmekteyiz. Overall, bu ürünü satın alan kişiler için yüksek memnuniyet oranı ve olumlu deneyimler bekliyoruz.",
   "score_distribution": {
     "1": 3,
     "2": 0,
@@ -18,80 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kullanışlı & Isteyenlere",
-      "review_count": 16,
-      "avg_score": 4.44,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "kullanışlı",
-        "kısa",
-        "sorunsuz",
-        "kaliteli",
-        "paketlenmesi",
-        "isteyenlere"
-      ],
-      "positive_pct": 62.5,
-      "negative_pct": 0.0,
-      "neutral_pct": 37.5,
-      "sample_reviews": [
-        "çok beğendik güzel ürün kardeşim seve seve kullanıyor",
-        "iyi ürün oğluma aldık takiyo",
-        "öğrencime hediye için almıştım beğendi ve çok mutlu oldu ilkokul çocuğuna uygun bir saat"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendik güzel ürün kardeşim seve seve kullanıyor",
-          "score": 5.0
-        },
-        {
-          "text": "iyi ürün oğluma aldık takiyo",
-          "score": 5.0
-        },
-        {
-          "text": "çocuğum için aldım çok güzel beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "oğluma aldım çok beğendi çok teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "gayet iyi oğluma aldım",
-          "score": 4.0
-        },
-        {
-          "text": "öğrencime hediye için almıştım beğendi ve çok mutlu oldu ilkokul çocuğuna uygun bir saat",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sağlam",
-      "review_count": 11,
+      "name": "Kurulum Kolay",
+      "review_count": 17,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "sesli",
+        "ürünler",
+        "aydır",
+        "kurulumu kolay",
+        "ogluma",
+        "kurulumu",
+        "şimdilik",
+        "fiyat"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "çok guzel kulanişli tavsiye edilir bir urun ogluma aldim çok memnun kaldi",
         "parasına göre ürün orjinal beklentisi olanlar boşuna zaman kaybetmesin gayet güzel paketlenmiş",
-        "tesekkurler urun paket guzeldi gorsel ile ayni tavsiye ederim daha kullanmadik",
-        "çok guzel kulanişli tavsiye edilir bir urun ogluma aldim çok memnun kaldi"
+        "ürün çokgüzel alın bence buradan nirivaraya teşekkür ediyorum"
       ],
       "all_reviews": [
         {
@@ -99,11 +47,15 @@
           "score": 5.0
         },
         {
-          "text": "ürün çokgüzel alın bence buradan nirivaraya teşekkür ediyorum",
+          "text": "iyi ürün oğluma aldık takiyo",
           "score": 5.0
         },
         {
-          "text": "ürün sorunsuz geldi güzeldi beğendik",
+          "text": "çok beğendik güzel ürün kardeşim seve seve kullanıyor",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel kaliteli",
           "score": 5.0
         },
         {
@@ -111,80 +63,77 @@
           "score": 5.0
         },
         {
-          "text": "tesekkurler urun paket guzeldi gorsel ile ayni tavsiye ederim daha kullanmadik",
+          "text": "ürün sorunsuz geldi güzeldi beğendik",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çokgüzel alın bence buradan nirivaraya teşekkür ediyorum",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kullanışlı & Asuman Hanım",
-      "review_count": 9,
-      "avg_score": 3.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
-      "top_terms": [
-        "kullanışlı",
-        "güvenilir",
-        "farklı",
-        "gerek",
-        "sağlam",
-        "hanım",
-        "asuman hanım",
-        "rahatlıkla"
-      ],
-      "positive_pct": 33.3,
-      "negative_pct": 33.3,
-      "neutral_pct": 33.3,
-      "sample_reviews": [
-        "bu fiyta harika bir saat alınır tavsiye ederim",
-        "kargom sorunuz elime ulaştı fakat açılmıyor",
-        "güzel beğendim ama keşke kılıfı olsaydı"
-      ],
-      "all_reviews": [
-        {
-          "text": "bu fiyta harika bir saat alınır tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "güzel beğendim ama keşke kılıfı olsaydı",
-          "score": 3.0
-        },
-        {
-          "text": "kargom sorunuz elime ulaştı fakat açılmıyor",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Rahatlıkla",
-      "review_count": 7,
+      "name": "Sorunsuz & Paketlenme",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "kaliteli kaliteli",
-        "rahatlıkla",
-        "kullanışlı",
-        "performans"
+        "aldık",
+        "kısa",
+        "sorunsuz",
+        "paketlenmesi",
+        "kullanmaya",
+        "almak isteyenlere",
+        "isteyenlere",
+        "bayıldı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün çok güzel kaliteli",
-        "güzel kullanışlı",
-        "cok güzel geldi"
+        "ürün sorunsuz geldi güzeldi beğendik",
+        "iyi ürün oğluma aldık takiyo"
       ],
       "all_reviews": [
         {
-          "text": "cok güzel geldi",
+          "text": "iyi ürün oğluma aldık takiyo",
           "score": 5.0
         },
         {
-          "text": "güzel kullanışlı",
+          "text": "ürün sorunsuz geldi güzeldi beğendik",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "fiyat",
+        "performans",
+        "kalite",
+        "bayıldı",
+        "teslimat",
+        "ideal",
+        "kargolama"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bu fiyata göre iyi 8 yaşındaki yigenime almıştım onu memnun etti",
+        "ürün çok güzel kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu fiyata göre iyi 8 yaşındaki yigenime almıştım onu memnun etti",
           "score": 5.0
         },
         {
@@ -195,63 +144,66 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 5,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyat performans",
+        "marka",
+        "sorunsuz",
+        "ilgili",
         "fiyat",
-        "performans",
-        "kalite",
-        "fiyata",
-        "bayıldı",
-        "teslimat",
-        "ideal"
+        "tane",
+        "bide",
+        "eksiksiz",
+        "başka"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "bu fiyata göre iyi 8 yaşındaki yigenime almıştım onu memnun etti",
-        "hediye aldım umarım beğenir"
+        "ürün sorunsuz geldi güzeldi beğendik"
       ],
       "all_reviews": [
         {
-          "text": "hediye aldım umarım beğenir",
+          "text": "bu fiyata göre iyi 8 yaşındaki yigenime almıştım onu memnun etti",
           "score": 5.0
         },
         {
-          "text": "bu fiyata göre iyi 8 yaşındaki yigenime almıştım onu memnun etti",
+          "text": "ürün sorunsuz geldi güzeldi beğendik",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Ekran & Kordon",
-      "review_count": 2,
+      "name": "Özellik",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "ekran",
-        "kordon",
-        "kaliteli",
-        "fiyata",
-        "kalitesi",
-        "kullanımı",
-        "akıcı",
-        "uzun"
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
+        "paketleme",
+        "bayıldım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kötü yorumlar için almaktan biraz korktum ama sıkıntısız ve güzeldi"
+        "kötü yorumlar için almaktan biraz korktum ama sıkıntısız ve güzeldi",
+        "ürün çokgüzel alın bence buradan nirivaraya teşekkür ediyorum"
       ],
       "all_reviews": [
+        {
+          "text": "ürün çokgüzel alın bence buradan nirivaraya teşekkür ediyorum",
+          "score": 5.0
+        },
         {
           "text": "kötü yorumlar için almaktan biraz korktum ama sıkıntısız ve güzeldi",
           "score": 5.0

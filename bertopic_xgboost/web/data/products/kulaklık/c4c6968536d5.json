@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Favors Pro Ios Android Uyumlu Yeni Nesil Wireless Charg** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kalitesi & Fiyata Performans** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kılıf** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kalitel…\"\n• **Fiyata Kalite**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kullanışlı** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Fiyatına göre çok iyi daha öncede almıştım bu sefer kardeşim için aldım çok beğendim\"\n• Kullanıcılar **Kaliteli & Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **sorun** ve **paketlemesi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünü çooook beğendik 2 tane daha sipariş ettik çok kaliteli tavsiye ederim\"\n• **Şarjı & Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **rengi** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kul…\"\n• **Telefon & Uygun** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **performans** ve **bağlantı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre bay…\"",
+  "summary": "Favors Pro, yeni nesil wireless şarj cihazı olarak yüksek memnuniyet oranına sahiptir. Fiyat performans, müzik dinlerken deneyimi ve kalite gibi özellikler için kullanıcılar neredeyse unanimously olumlu puan vermekte olup, ortalama puan 4.9/5.0'dur. Marka fiyat performansı ve görüntü kalitesi de oldukça takdir edilmektedir. Overall, Favors Pro, yüksek memnuniyet oranına sahip bir ürün olarak ortaya çıkmaktadır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,36 +18,36 @@
   },
   "aspects": [
     {
-      "name": "Kalitesi & Fiyata Performans",
-      "review_count": 26,
-      "avg_score": 5.0,
+      "name": "Fiyat Performans",
+      "review_count": 34,
+      "avg_score": 4.91,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kalitesi",
-        "sesi",
-        "şarj",
-        "kılıf",
-        "fiyata",
-        "kalitesi kalitesi",
-        "bayıldım",
-        "kaliteli"
+        "fiyat performans",
+        "performans",
+        "performans fiyat",
+        "kalitesi baya",
+        "alin",
+        "sorunsuz",
+        "diye",
+        "tane"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 91.2,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 8.8,
       "sample_reviews": [
-        "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
-        "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim",
-        "bu fiyata bu performans aşırı şaşırtıcı orijinalinden farksız sesi bile mükemmel"
+        "çok hızlı kargolara ve ses kalitesi mükemmel bir tane al ışmıştım kaybettim diye 2 tane daha aldım öneriyorum",
+        "bu fiyata bu performans aşırı şaşırtıcı orijinalinden farksız sesi bile mükemmel",
+        "tam bir fiyat performans ürünü"
       ],
       "all_reviews": [
         {
-          "text": "cok guzel bı paketlemeyle geldı cok sık duruyo ses kalıtesı cok ıyı gonlunuz rahat rahat alabılır sınız",
+          "text": "çok hızlı kargolara ve ses kalitesi mükemmel bir tane al ışmıştım kaybettim diye 2 tane daha aldım öneriyorum",
           "score": 5.0
         },
         {
-          "text": "çok hızlı kargolara ve ses kalitesi mükemmel bir tane al ışmıştım kaybettim diye 2 tane daha aldım öneriyorum",
+          "text": "ürün çok kaliteli kendime aldım bağlantısı çok kolay çok güzel ses aktarımı var donma kasma gibi bir sıkıntısı yok puanım 5 üzerinden 5 almanızı öneririm",
           "score": 5.0
         },
         {
@@ -59,11 +59,95 @@
           "score": 5.0
         },
         {
+          "text": "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü çooook beğendik 2 tane daha sipariş ettik çok kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ben yanlışlıkla orijinal airpods pro mu almışım bu nasıl bir kalite her şeyiyle ba yıl dım kesinlikle tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "cok begendim yaninda kilif da gelmis orijinaliyle birebir resmen sok oldum bu kadar iyi beklemiyodum ses kalitesi de harika",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten on numara çok iyi ben böyle bi performans beklemiyordum ama çok başarılı",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre çok iyi daha öncede almıştım bu sefer kardeşim için aldım çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre baya kaliteli",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Müzik Dinlerken",
+      "review_count": 32,
+      "avg_score": 4.91,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklediğimden",
+        "aldık",
+        "kalitesi",
+        "sesi",
+        "müzik dinlerken",
+        "iyidi",
+        "sesim",
+        "dinlerken"
+      ],
+      "positive_pct": 90.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 9.4,
+      "sample_reviews": [
+        "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+        "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+        "beklediğimden kat ve kat iyi güvenerek alabilirsiniz hediye olarak aldım ve parasını çok hakediyor bence daha çok satışınız olur umarım"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok hızlı kargolara ve ses kalitesi mükemmel bir tane al ışmıştım kaybettim diye 2 tane daha aldım öneriyorum",
+          "score": 5.0
+        },
+        {
           "text": "ürün çok kaliteli kendime aldım bağlantısı çok kolay çok güzel ses aktarımı var donma kasma gibi bir sıkıntısı yok puanım 5 üzerinden 5 almanızı öneririm",
           "score": 5.0
         },
         {
+          "text": "ses kalitesi inanılmaz ürün elime çabuk ulaştı hediye için teşekkürler herkesin almasını şiddetle tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu performans aşırı şaşırtıcı orijinalinden farksız sesi bile mükemmel",
+          "score": 5.0
+        },
+        {
           "text": "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü çooook beğendik 2 tane daha sipariş ettik çok kaliteli tavsiye ederim",
           "score": 5.0
         },
         {
@@ -79,140 +163,17 @@
           "score": 5.0
         },
         {
-          "text": "aşırı iyi sesi orjinal gibi ağırlığı falan alın aldırınnn",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "kullanışlı",
-        "sağlam",
-        "şarja",
-        "fiyata kalite",
-        "hiçbir",
-        "kaliteli",
-        "üründen"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "fiyatına göre çok iyi daha öncede almıştım bu sefer kardeşim için aldım çok beğendim",
-        "çok memnunuz ailemde herkese aldım hepsi çok memnun"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok memnunuz ailemde herkese aldım hepsi çok memnun",
+          "text": "beklediğimden kat ve kat iyi güvenerek alabilirsiniz hediye olarak aldım ve parasını çok hakediyor bence daha çok satışınız olur umarım",
           "score": 5.0
         },
-        {
-          "text": "fiyatına göre çok iyi daha öncede almıştım bu sefer kardeşim için aldım çok beğendim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Fiyat Performans",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "beklediğimden",
-        "sorun",
-        "paketleme",
-        "paketlemesi",
-        "performans",
-        "tane",
-        "orijinal"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürünü çooook beğendik 2 tane daha sipariş ettik çok kaliteli tavsiye ederim",
-        "muhteşem bir ürün iki tane aldım bu kadar iyi olacağını tahmin etmiyordum"
-      ],
-      "all_reviews": [
-        {
-          "text": "muhteşem bir ürün iki tane aldım bu kadar iyi olacağını tahmin etmiyordum",
-          "score": 5.0
-        },
-        {
-          "text": "ürünü çooook beğendik 2 tane daha sipariş ettik çok kaliteli tavsiye ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Şarjı & Fiyat Performans",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "uzun",
-        "şarjı",
-        "gidiyor",
-        "performans",
-        "fiyat performans",
-        "rengi",
-        "fiyata",
-        "bakarak"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
-        "ürün gerçekten on numara çok iyi ben böyle bi performans beklemiyordum ama çok başarılı"
-      ],
-      "all_reviews": [
         {
           "text": "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
           "score": 5.0
         },
         {
-          "text": "ürün gerçekten on numara çok iyi ben böyle bi performans beklemiyordum ama çok başarılı",
+          "text": "aşırı iyi sesi orjinal gibi ağırlığı falan alın aldırınnn",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Telefon & Uygun",
-      "review_count": 3,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "icin",
-        "aynı",
-        "telefon",
-        "beklemiyordum",
-        "uygun",
-        "performans",
-        "bağlantı",
-        "sıkıntı"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
-        "oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre baya kaliteli"
-      ],
-      "all_reviews": [
+        },
         {
           "text": "oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre baya kaliteli",
           "score": 4.0
@@ -221,39 +182,85 @@
       "icon": "💬"
     },
     {
-      "name": "Görüntü Kalitesi",
-      "review_count": 2,
-      "avg_score": 5.0,
+      "name": "Kalite",
+      "review_count": 30,
+      "avg_score": 4.9,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanışlı",
-        "oglum",
-        "görüntü kalitesi",
-        "iyii",
-        "bende",
-        "görüntü",
-        "ilgili",
-        "alınabilecek"
+        "kalitesi",
+        "sesi",
+        "şarj",
+        "kalitesi kalitesi",
+        "kılıf",
+        "bayıldım",
+        "dışarı",
+        "paketlemesi"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 90.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 10.0,
       "sample_reviews": [
-        "beklediğimden kat ve kat iyi güvenerek alabilirsiniz hediye olarak aldım ve parasını çok hakediyor bence daha çok satışınız olur umarım"
+        "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+        "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+        "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "beklediğimden kat ve kat iyi güvenerek alabilirsiniz hediye olarak aldım ve parasını çok hakediyor bence daha çok satışınız olur umarım",
+          "text": "çok hızlı kargolara ve ses kalitesi mükemmel bir tane al ışmıştım kaybettim diye 2 tane daha aldım öneriyorum",
           "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli kendime aldım bağlantısı çok kolay çok güzel ses aktarımı var donma kasma gibi bir sıkıntısı yok puanım 5 üzerinden 5 almanızı öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi inanılmaz ürün elime çabuk ulaştı hediye için teşekkürler herkesin almasını şiddetle tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu performans aşırı şaşırtıcı orijinalinden farksız sesi bile mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü çooook beğendik 2 tane daha sipariş ettik çok kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ben yanlışlıkla orijinal airpods pro mu almışım bu nasıl bir kalite her şeyiyle ba yıl dım kesinlikle tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "cok begendim yaninda kilif da gelmis orijinaliyle birebir resmen sok oldum bu kadar iyi beklemiyodum ses kalitesi de harika",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı iyi sesi orjinal gibi ağırlığı falan alın aldırınnn",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre baya kaliteli",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Marka & Süresi",
-      "review_count": 2,
-      "avg_score": 5.0,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 27,
+      "avg_score": 4.89,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -263,48 +270,298 @@
         "beyendi",
         "aldı",
         "kargolama",
-        "kullanıyor",
-        "aydır"
+        "aydır",
+        "saglam"
+      ],
+      "positive_pct": 88.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.1,
+      "sample_reviews": [
+        "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+        "ürün çok kaliteli kendime aldım bağlantısı çok kolay çok güzel ses aktarımı var donma kasma gibi bir sıkıntısı yok puanım 5 üzerinden 5 almanızı öneririm",
+        "beklediğimden kat ve kat iyi güvenerek alabilirsiniz hediye olarak aldım ve parasını çok hakediyor bence daha çok satışınız olur umarım"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok memnunuz ailemde herkese aldım hepsi çok memnun",
+          "score": 5.0
+        },
+        {
+          "text": "çok hızlı kargolara ve ses kalitesi mükemmel bir tane al ışmıştım kaybettim diye 2 tane daha aldım öneriyorum",
+          "score": 5.0
+        },
+        {
+          "text": "muhteşem bir ürün iki tane aldım bu kadar iyi olacağını tahmin etmiyordum",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre çok iyi daha öncede almıştım bu sefer kardeşim için aldım çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli kendime aldım bağlantısı çok kolay çok güzel ses aktarımı var donma kasma gibi bir sıkıntısı yok puanım 5 üzerinden 5 almanızı öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzeldi kızıma hediye aldım çok beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "beklediğimden kat ve kat iyi güvenerek alabilirsiniz hediye olarak aldım ve parasını çok hakediyor bence daha çok satışınız olur umarım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı iyi sesi orjinal gibi ağırlığı falan alın aldırınnn",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre baya kaliteli",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Görünt Kalite",
+      "review_count": 24,
+      "avg_score": 4.88,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
+      ],
+      "positive_pct": 87.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 12.5,
+      "sample_reviews": [
+        "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+        "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+        "ürün çok kaliteli kendime aldım bağlantısı çok kolay çok güzel ses aktarımı var donma kasma gibi bir sıkıntısı yok puanım 5 üzerinden 5 almanızı öneririm"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok hızlı kargolara ve ses kalitesi mükemmel bir tane al ışmıştım kaybettim diye 2 tane daha aldım öneriyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli kendime aldım bağlantısı çok kolay çok güzel ses aktarımı var donma kasma gibi bir sıkıntısı yok puanım 5 üzerinden 5 almanızı öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü çooook beğendik 2 tane daha sipariş ettik çok kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ben yanlışlıkla orijinal airpods pro mu almışım bu nasıl bir kalite her şeyiyle ba yıl dım kesinlikle tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "cok begendim yaninda kilif da gelmis orijinaliyle birebir resmen sok oldum bu kadar iyi beklemiyodum ses kalitesi de harika",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi inanılmaz ürün elime çabuk ulaştı hediye için teşekkürler herkesin almasını şiddetle tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre baya kaliteli",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Şarja & Hiçbir",
+      "review_count": 22,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "şarja",
+        "hiçbir",
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzeldi kızıma hediye aldım çok beğendi"
+        "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+        "cok guzel bı paketlemeyle geldı cok sık duruyo ses kalıtesı cok ıyı gonlunuz rahat rahat alabılır sınız",
+        "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "çok güzeldi kızıma hediye aldım çok beğendi",
+          "text": "cok guzel bı paketlemeyle geldı cok sık duruyo ses kalıtesı cok ıyı gonlunuz rahat rahat alabılır sınız",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli kendime aldım bağlantısı çok kolay çok güzel ses aktarımı var donma kasma gibi bir sıkıntısı yok puanım 5 üzerinden 5 almanızı öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "ses kalitesi inanılmaz ürün elime çabuk ulaştı hediye için teşekkürler herkesin almasını şiddetle tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü çooook beğendik 2 tane daha sipariş ettik çok kaliteli tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten on numara çok iyi ben böyle bi performans beklemiyordum ama çok başarılı",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel yaklaşık 1 aydır kullanıyorum sadece bir kere şarja taktım sürekli kullanmama rağmen şarjı çok iyi ses kalitesi de çok iyi çok beğendim tavsiye ederim herkese hediye içinde teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "muhteşem bir ürün iki tane aldım bu kadar iyi olacağını tahmin etmiyordum",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 2,
+      "name": "Sorunsuz & Uygun",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyat performans",
-        "performans",
-        "performans fiyat",
-        "alin",
-        "kalitesi baya",
+        "almak",
         "sorunsuz",
-        "fiyata",
-        "diye"
+        "uygun",
+        "valla",
+        "paketleme",
+        "direk",
+        "yapılmış",
+        "herşey"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "tam bir fiyat performans ürünü"
+        "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+        "cok guzel bı paketlemeyle geldı cok sık duruyo ses kalıtesı cok ıyı gonlunuz rahat rahat alabılır sınız",
+        "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "tam bir fiyat performans ürünü",
+          "text": "cok guzel bı paketlemeyle geldı cok sık duruyo ses kalıtesı cok ıyı gonlunuz rahat rahat alabılır sınız",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel ses kalitesi ve şarj kablosu uzun paketlemede çok güzel olmuş almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Telefon",
+      "review_count": 5,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "icin",
+        "aynı",
+        "telefon",
+        "beklemiyordum",
+        "uygun",
+        "bağlantı",
+        "sıkıntı",
+        "telefonla"
+      ],
+      "positive_pct": 40.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 60.0,
+      "sample_reviews": [
+        "oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre baya kaliteli",
+        "ürün gerçekten on numara çok iyi ben böyle bi performans beklemiyordum ama çok başarılı"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gerçekten on numara çok iyi ben böyle bi performans beklemiyordum ama çok başarılı",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldım sürpriz yaptım her telefona hemen uyum sağlıyor fiyatına göre baya kaliteli",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kılıf & Çıktı",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "para",
+        "yeğenime",
+        "kılıfı",
+        "çıktı",
+        "öneriyorum",
+        "defa",
+        "saglam"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "beklediğimden kat ve kat iyi güvenerek alabilirsiniz hediye olarak aldım ve parasını çok hakediyor bence daha çok satışınız olur umarım",
+        "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol"
+      ],
+      "all_reviews": [
+        {
+          "text": "beklediğimden kat ve kat iyi güvenerek alabilirsiniz hediye olarak aldım ve parasını çok hakediyor bence daha çok satışınız olur umarım",
+          "score": 5.0
+        },
+        {
+          "text": "elime çok hızlı ulaştı ses kalitesi ve bass'ı inanılmaz mükemmel bişey aşşırı kaliteli almak isteyen herkese tavsiye ederim ayrıca kılıf hediye edilmesi ayrı bir müq çok teşekkürler trendyol",
           "score": 5.0
         }
       ],

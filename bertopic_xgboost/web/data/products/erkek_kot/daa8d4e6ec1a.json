@@ -8,7 +8,7 @@
   "overall_score": 4.0,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "12 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
+  "summary": "Genel olarak, Big Size Jeans Lyrca Yüksek Bel Regular ürününün kalite ve fiyat performansına dair pozitif yorumlar gelmektedir. Ürün genel memnuniyet puanı 4.0/5.0 olan 12 yorumda, fiyat performansına dair 3 yorumda ortalama puan 4.0/5.0, kalıbına dair 3 yorumda ortalama puan 4.0/5.0, dokuma ve liralına dair 3 yorumda ortalama puan 4.33/5.0 olarak belirlenmiştir. Alınabilirlik yönünden de ürünün genel memnuniyetini artırdığı anlaşılmaktadır.",
   "score_distribution": {
     "1": 1,
     "2": 1,
@@ -16,7 +16,329 @@
     "4": 3,
     "5": 6
   },
-  "aspects": [],
+  "aspects": [
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 5,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 40.0,
+      "sample_reviews": [
+        "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+        "fiyat performans ürünü günlük kullanıma ideal tavsiye edilir kumaşı güzel ama yıkamaya dikkat edilmeli ve satıcının ı hızlı gönderimi için teşekkürler",
+        "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyatına göre çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans ürünü günlük kullanıma ideal tavsiye edilir kumaşı güzel ama yıkamaya dikkat edilmeli ve satıcının ı hızlı gönderimi için teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+          "score": 4.0
+        },
+        {
+          "text": "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "kilo",
+        "kalite",
+        "fakat",
+        "super",
+        "bedeni",
+        "fiyat",
+        "aldık",
+        "performans"
+      ],
+      "positive_pct": 33.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 66.7,
+      "sample_reviews": [
+        "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+        "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+        "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+          "score": 4.0
+        },
+        {
+          "text": "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "alin",
+        "aynı",
+        "kalıp",
+        "iade",
+        "istediğim",
+        "super",
+        "kocama",
+        "birebir"
+      ],
+      "positive_pct": 33.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 66.7,
+      "sample_reviews": [
+        "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+        "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+        "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+          "score": 4.0
+        },
+        {
+          "text": "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Likral",
+      "review_count": 3,
+      "avg_score": 4.33,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "dokusu",
+        "likralı",
+        "istediğim",
+        "aynısı",
+        "kumaşı",
+        "farklı",
+        "kilo",
+        "firmaya"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "fiyat performans ürünü günlük kullanıma ideal tavsiye edilir kumaşı güzel ama yıkamaya dikkat edilmeli ve satıcının ı hızlı gönderimi için teşekkürler",
+        "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+        "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyat performans ürünü günlük kullanıma ideal tavsiye edilir kumaşı güzel ama yıkamaya dikkat edilmeli ve satıcının ı hızlı gönderimi için teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+          "score": 5.0
+        },
+        {
+          "text": "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 33.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 66.7,
+      "sample_reviews": [
+        "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+        "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+        "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+          "score": 4.0
+        },
+        {
+          "text": "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Kalıb",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "baya",
+        "kalite",
+        "kalıbı",
+        "fakat",
+        "kalitesi",
+        "kesim",
+        "dilerim",
+        "kalıp"
+      ],
+      "positive_pct": 33.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 66.7,
+      "sample_reviews": [
+        "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+        "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+        "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+          "score": 4.0
+        },
+        {
+          "text": "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Teslimat & Çorap",
+      "review_count": 3,
+      "avg_score": 3.67,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "teslimat",
+        "çorap",
+        "emeğinize",
+        "istediğim",
+        "paça",
+        "istediğim bedeni",
+        "kilo",
+        "emeği"
+      ],
+      "positive_pct": 33.3,
+      "negative_pct": 33.3,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+        "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+        "paçası dönüyo ama güzel bi şekilde kullanılır gene"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gerçekten çok güzel ve kaliteli fakat siyah istediğim ürün gri gönderilmiş acaba neden",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
+          "score": 4.0
+        },
+        {
+          "text": "paçası dönüyo ama güzel bi şekilde kullanılır gene",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Edilir",
+      "review_count": 2,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "edilir",
+        "paketleme",
+        "farklı",
+        "firmaya",
+        "aynısı",
+        "kalıp"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "fiyat performans ürünü günlük kullanıma ideal tavsiye edilir kumaşı güzel ama yıkamaya dikkat edilmeli ve satıcının ı hızlı gönderimi için teşekkürler",
+        "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyat performans ürünü günlük kullanıma ideal tavsiye edilir kumaşı güzel ama yıkamaya dikkat edilmeli ve satıcının ı hızlı gönderimi için teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "2 kez aynı siparişi verdim yanlış beden gönderildi kalitesine lafım yok ama iade süreci yoruyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
   "top_reviews": [
     "ürün kalite iyi bel kısmı iyi ama bacak kısmı çok dar vücudu çok sıkı sarıyor hareket etmenizi engelliyor ve paça kısmı çok dar görseldeki ürün ile hiç benzerliği yok üzülerek iade",
     "fiyat performans ürünü günlük kullanıma ideal tavsiye edilir kumaşı güzel ama yıkamaya dikkat edilmeli ve satıcının ı hızlı gönderimi için teşekkürler",

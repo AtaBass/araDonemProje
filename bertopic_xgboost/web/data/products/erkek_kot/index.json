@@ -17,7 +17,7 @@
       "total_reviews": 50,
       "overall_score": 4.94,
       "overall_sentiment": "positive",
-      "aspect_count": 9
+      "aspect_count": 10
     },
     {
       "product_id": "04ed904d88f9",
@@ -26,7 +26,7 @@
       "total_reviews": 50,
       "overall_score": 5.0,
       "overall_sentiment": "positive",
-      "aspect_count": 6
+      "aspect_count": 10
     },
     {
       "product_id": "2c3bba58028f",
@@ -53,7 +53,7 @@
       "total_reviews": 50,
       "overall_score": 4.8,
       "overall_sentiment": "positive",
-      "aspect_count": 8
+      "aspect_count": 10
     },
     {
       "product_id": "69dd97534403",
@@ -89,7 +89,7 @@
       "total_reviews": 50,
       "overall_score": 4.9,
       "overall_sentiment": "positive",
-      "aspect_count": 8
+      "aspect_count": 9
     },
     {
       "product_id": "306ffb167609",
@@ -98,7 +98,7 @@
       "total_reviews": 50,
       "overall_score": 4.9,
       "overall_sentiment": "positive",
-      "aspect_count": 7
+      "aspect_count": 10
     },
     {
       "product_id": "899e01133b96",
@@ -107,7 +107,7 @@
       "total_reviews": 50,
       "overall_score": 4.82,
       "overall_sentiment": "positive",
-      "aspect_count": 8
+      "aspect_count": 10
     },
     {
       "product_id": "4f35e78c139e",
@@ -116,7 +116,7 @@
       "total_reviews": 50,
       "overall_score": 4.44,
       "overall_sentiment": "neutral",
-      "aspect_count": 6
+      "aspect_count": 8
     },
     {
       "product_id": "d73efcf485c4",
@@ -125,7 +125,7 @@
       "total_reviews": 50,
       "overall_score": 4.68,
       "overall_sentiment": "positive",
-      "aspect_count": 8
+      "aspect_count": 9
     },
     {
       "product_id": "b65ee75da215",
@@ -134,7 +134,7 @@
       "total_reviews": 50,
       "overall_score": 4.84,
       "overall_sentiment": "positive",
-      "aspect_count": 6
+      "aspect_count": 9
     },
     {
       "product_id": "45d33b848257",
@@ -143,7 +143,7 @@
       "total_reviews": 50,
       "overall_score": 4.78,
       "overall_sentiment": "positive",
-      "aspect_count": 6
+      "aspect_count": 7
     },
     {
       "product_id": "ca50d5afae37",
@@ -152,7 +152,7 @@
       "total_reviews": 50,
       "overall_score": 5.0,
       "overall_sentiment": "positive",
-      "aspect_count": 6
+      "aspect_count": 7
     },
     {
       "product_id": "593a687f7b29",
@@ -161,7 +161,7 @@
       "total_reviews": 50,
       "overall_score": 5.0,
       "overall_sentiment": "positive",
-      "aspect_count": 6
+      "aspect_count": 10
     },
     {
       "product_id": "008484abe407",
@@ -179,7 +179,7 @@
       "total_reviews": 40,
       "overall_score": 4.75,
       "overall_sentiment": "positive",
-      "aspect_count": 7
+      "aspect_count": 8
     },
     {
       "product_id": "3c1bbf56a97b",
@@ -188,7 +188,7 @@
       "total_reviews": 15,
       "overall_score": 3.93,
       "overall_sentiment": "neutral",
-      "aspect_count": 0
+      "aspect_count": 2
     },
     {
       "product_id": "03bf03a55433",
@@ -197,7 +197,7 @@
       "total_reviews": 14,
       "overall_score": 4.36,
       "overall_sentiment": "neutral",
-      "aspect_count": 5
+      "aspect_count": 7
     },
     {
       "product_id": "daa8d4e6ec1a",
@@ -206,7 +206,7 @@
       "total_reviews": 12,
       "overall_score": 4.0,
       "overall_sentiment": "neutral",
-      "aspect_count": 0
+      "aspect_count": 8
     },
     {
       "product_id": "e8f81b0344b9",
@@ -215,7 +215,7 @@
       "total_reviews": 10,
       "overall_score": 4.6,
       "overall_sentiment": "positive",
-      "aspect_count": 4
+      "aspect_count": 6
     },
     {
       "product_id": "d6e5d4e46a7d",
@@ -224,7 +224,7 @@
       "total_reviews": 9,
       "overall_score": 4.56,
       "overall_sentiment": "positive",
-      "aspect_count": 0
+      "aspect_count": 5
     },
     {
       "product_id": "8c2e2c8294a1",
@@ -233,7 +233,7 @@
       "total_reviews": 5,
       "overall_score": 3.8,
       "overall_sentiment": "neutral",
-      "aspect_count": 0
+      "aspect_count": 3
     },
     {
       "product_id": "cee68d929475",
@@ -251,7 +251,7 @@
       "total_reviews": 3,
       "overall_score": 4.33,
       "overall_sentiment": "neutral",
-      "aspect_count": 1
+      "aspect_count": 4
     },
     {
       "product_id": "e3c20350c2e7",

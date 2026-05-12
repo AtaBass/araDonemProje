@@ -8,7 +8,7 @@
   "overall_score": 4.54,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**İAMBTŞY Kadın şık tasarımlı çapraz askılı çantası** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **geniş** ve **boyutu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Fiyatina göre gayet iyi bir çanta içi birazcık küçük ama oyle seviyosaniz harika bir…\"\n• **Kaliteli & Yumuşacık Derisi** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **kullanışlı** ve **anneler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel ve sağlam geldi rahatlıkla alabilirsiniz\"\n• Kullanıcılar **Rahatlıkla** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kokusu** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel indirimde aldım alın kesinlikle\"\n• **Cüzdan Telefon** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **rahatlıkla** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bayıldım bayıldım böyle bir çanta olamaz aşırı beğendim alın aldırın durmayın\"\n• Müşteri yorumlarında **Resimdeki & Canta** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **göründüğü** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Göründüğü gibi geldi teşekkür ederim kolay gelsin\"",
+  "summary": "\"İAMBTŞY Kadın şık tasarımlı çapraz askılı çantası, genel memnuniyet puanını 4.5/5.0'dan almıştır. Ürün, geniş ve boyuttuğu alanında oldukça yüksek bir değerlendirme almıştır. Fiyat performansına da tam olarak olumlu değerlendirmeler gelmiştir. Ayrıca, zarif ve koku özellikleri de pozitif olarak yorumlanmıştır. Yumuşacık deri malzemesinin kullanıldığı ürün, genel olarak çok memnun edici olarak nitelendirilmiştir.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,26 +18,26 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Rahat",
-      "review_count": 16,
-      "avg_score": 4.38,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Geniş & Boyut",
+      "review_count": 18,
+      "avg_score": 4.78,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
         "spor",
-        "rahat",
         "geniş",
         "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
         "bayıldım",
-        "kullanışlı",
-        "çantası"
+        "kalitesi"
       ],
-      "positive_pct": 56.2,
+      "positive_pct": 77.8,
       "negative_pct": 0.0,
-      "neutral_pct": 43.8,
+      "neutral_pct": 22.2,
       "sample_reviews": [
-        "içine pek bişi sığdıramazsınız ama şık ve kullanışlı bi çanta",
+        "bayıldım bayıldım böyle bir çanta olamaz aşırı beğendim alın aldırın durmayın",
         "kullanışlı minik kibar çanta",
         "fiyatina göre gayet iyi bir çanta içi birazcık küçük ama oyle seviyosaniz harika bir çanta"
       ],
@@ -47,7 +47,7 @@
           "score": 5.0
         },
         {
-          "text": "fiyatina göre gayet iyi bir çanta içi birazcık küçük ama oyle seviyosaniz harika bir çanta",
+          "text": "çok zarif bir çanta",
           "score": 5.0
         },
         {
@@ -55,98 +55,51 @@
           "score": 5.0
         },
         {
-          "text": "çok zarif bir çanta",
+          "text": "fiyatina göre gayet iyi bir çanta içi birazcık küçük ama oyle seviyosaniz harika bir çanta",
           "score": 5.0
         },
         {
-          "text": "çanta çok güzel ama küçük",
-          "score": 4.0
+          "text": "çanta beklediğimden de güzel kesin alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bayıldım böyle bir çanta olamaz aşırı beğendim alın aldırın durmayın",
+          "score": 5.0
         },
         {
           "text": "içine pek bişi sığdıramazsınız ama şık ve kullanışlı bi çanta",
           "score": 4.0
         },
         {
-          "text": "çok güzel pantolon aşırı iyiii",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 16,
-      "avg_score": 4.19,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
-      ],
-      "positive_pct": 18.8,
-      "negative_pct": 0.0,
-      "neutral_pct": 81.2,
-      "sample_reviews": [
-        "güzel kullanışlı tatlı bi ürün beğendim",
-        "çok güzel severek kullanıyorum",
-        "çok güzel ve sağlam geldi rahatlıkla alabilirsiniz"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel çok beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel ve sağlam geldi rahatlıkla alabilirsiniz",
-          "score": 4.0
-        },
-        {
-          "text": "çok güzel severek kullanıyorum",
-          "score": 4.0
-        },
-        {
-          "text": "güzel kullanışlı tatlı bi ürün beğendim",
-          "score": 4.0
-        },
-        {
-          "text": "ürünün kalitesi güzel memnun kaldım",
-          "score": 4.0
-        },
-        {
-          "text": "teşekkürler kargo çok hızlıydı",
+          "text": "çanta çok güzel ama küçük",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahatlıkla",
-      "review_count": 6,
+      "name": "Fiyat Performans",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kokusu",
-        "fiyata",
-        "adet",
-        "fiyatı",
-        "minik",
-        "olacağını",
-        "rahatlıkla sığıyor",
-        "okulda"
+        "performans",
+        "fiyat performans",
+        "fiyat",
+        "ideal",
+        "buyuk",
+        "uygun",
+        "gore",
+        "boyutu"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel indirimde aldım alın kesinlikle",
-        "fiyatina gore aşırı iyi begendim"
+        "aynisi geldi kaliteli ama cok kucuk baya biraz buyuk olsa cok daha şık dururdu yinede sevdim iade etmiycem cuzdan sigar sadece ona gore alın",
+        "fiyatina gore aşırı iyi begendim",
+        "fiyatina göre gayet iyi bir çanta içi birazcık küçük ama oyle seviyosaniz harika bir çanta"
       ],
       "all_reviews": [
         {
@@ -154,7 +107,146 @@
           "score": 5.0
         },
         {
-          "text": "çok güzel indirimde aldım alın kesinlikle",
+          "text": "aynisi geldi kaliteli ama cok kucuk baya biraz buyuk olsa cok daha şık dururdu yinede sevdim iade etmiycem cuzdan sigar sadece ona gore alın",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatina göre gayet iyi bir çanta içi birazcık küçük ama oyle seviyosaniz harika bir çanta",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Zarif",
+      "review_count": 6,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "zarif",
+        "harikaaa",
+        "yumuşacık",
+        "kelimeyle",
+        "kalite",
+        "baya",
+        "kelimeyle bayıldım",
+        "bayıldım"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "aynisi geldi kaliteli ama cok kucuk baya biraz buyuk olsa cok daha şık dururdu yinede sevdim iade etmiycem cuzdan sigar sadece ona gore alın",
+        "ürünün kalitesi güzel memnun kaldım",
+        "çok zarif bir çanta"
+      ],
+      "all_reviews": [
+        {
+          "text": "aynisi geldi kaliteli ama cok kucuk baya biraz buyuk olsa cok daha şık dururdu yinede sevdim iade etmiycem cuzdan sigar sadece ona gore alın",
+          "score": 5.0
+        },
+        {
+          "text": "çok zarif bir çanta",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesi güzel memnun kaldım",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koku",
+      "review_count": 5,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "kokusu",
+        "adet",
+        "minik",
+        "olacağını",
+        "rahatlıkla sığıyor",
+        "okulda",
+        "diye",
+        "gore"
+      ],
+      "positive_pct": 40.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 60.0,
+      "sample_reviews": [
+        "kullanışlı minik kibar çanta",
+        "çok güzel ve sağlam geldi rahatlıkla alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "kullanışlı minik kibar çanta",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel ve sağlam geldi rahatlıkla alabilirsiniz",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Yumuşacık Deri",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aynı",
+        "tane",
+        "okulda",
+        "yumuşacık derisi",
+        "bayildim",
+        "hayatta",
+        "paketleme",
+        "kelimeyle"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "göründüğü gibi geldi teşekkür ederim kolay gelsin"
+      ],
+      "all_reviews": [
+        {
+          "text": "göründüğü gibi geldi teşekkür ederim kolay gelsin",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Deri Yumuşak",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "giderken",
+        "kullanıma uygun",
+        "kullanıma",
+        "alınmalı",
+        "derisi yumuşak",
+        "asla",
+        "fena",
+        "göründüğünden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "göründüğü gibi geldi teşekkür ederim kolay gelsin"
+      ],
+      "all_reviews": [
+        {
+          "text": "göründüğü gibi geldi teşekkür ederim kolay gelsin",
           "score": 5.0
         }
       ],
@@ -162,7 +254,7 @@
     },
     {
       "name": "Cüzdan Telefon",
-      "review_count": 5,
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -180,106 +272,11 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "bayıldım bayıldım böyle bir çanta olamaz aşırı beğendim alın aldırın durmayın",
-        "çanta beklediğimden de güzel kesin alın aldırın"
+        "bayıldım bayıldım böyle bir çanta olamaz aşırı beğendim alın aldırın durmayın"
       ],
       "all_reviews": [
         {
           "text": "bayıldım bayıldım böyle bir çanta olamaz aşırı beğendim alın aldırın durmayın",
-          "score": 5.0
-        },
-        {
-          "text": "çanta beklediğimden de güzel kesin alın aldırın",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Resimdeki & Canta",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "adet",
-        "resimdeki",
-        "istediğim",
-        "canta",
-        "göründüğü",
-        "sağlam",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "göründüğü gibi geldi teşekkür ederim kolay gelsin"
-      ],
-      "all_reviews": [
-        {
-          "text": "göründüğü gibi geldi teşekkür ederim kolay gelsin",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Zarif & Kelimeyle",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "zarif",
-        "harikaaa",
-        "yumuşacık",
-        "kelimeyle",
-        "kalite",
-        "baya",
-        "kelimeyle bayıldım",
-        "bayıldım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güzel geldi"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel geldi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Derisi Yumuşak",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "derisi",
-        "buyuk",
-        "yumuşak",
-        "derisi yumuşak",
-        "spor",
-        "beklediğimden",
-        "sürü",
-        "derisi kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "aynisi geldi kaliteli ama cok kucuk baya biraz buyuk olsa cok daha şık dururdu yinede sevdim iade etmiycem cuzdan sigar sadece ona gore alın"
-      ],
-      "all_reviews": [
-        {
-          "text": "aynisi geldi kaliteli ama cok kucuk baya biraz buyuk olsa cok daha şık dururdu yinede sevdim iade etmiycem cuzdan sigar sadece ona gore alın",
           "score": 5.0
         }
       ],

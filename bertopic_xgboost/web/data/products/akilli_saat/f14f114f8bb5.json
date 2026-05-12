@@ -8,7 +8,7 @@
   "overall_score": 4.96,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**TECHNOMEN Akıllı Saat Y60 Ultra Plus 7 Kordon Hediye Ka** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Sağlam** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu am…\"\n• **Kullanışlı & Isteyenlere**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sorunsuz** ve **kaliteli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürünü arkadaşım annesine hediye aldı çok güzel bayıldım\"\n• Kullanıcılar **Ekran & Kordon** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kaliteli** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı…\"\n• **Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kalite** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Iki tane aldım kargolama çok iyi cuma günü sipariş ettim pazartesi elimdeydi alınır\"\n• Müşteri yorumlarında **Marka & Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sorunsuz** ve **ilgili** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gerçekten hak ediyor o parayı alarak mükemmel bi saat ben 2 tane saat sipariş verdim…\"",
+  "summary": "**TECHNOMEN Akıllı Saat Y60 Ultra Plus 7 Kordon Hediye Ka** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Ekran & Kordon**: Kullanıcılar ekran & kordon konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Marka / Fiyat Performans**: Kullanıcılar marka / fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Özellik**: Kullanıcılar özellik konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Sağlam",
-      "review_count": 16,
+      "name": "Ekran & Kordon",
+      "review_count": 20,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "ekran",
+        "kordon",
+        "kalitesi",
+        "kullanımı",
+        "akıcı",
+        "uzun",
+        "özelliği",
+        "bayıldım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ikis adet aldım suna bir sıkıntı yok özenle paketlenmesidie guzeldisuan sorun yok",
-        "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler",
-        "ürün çok güzel telefona bağlaniyor içinde oyun hesapmakinası var ayricana 7 tane kardonu var kirilmazcam koruyucu kılıf var ve fiyatı oldukça uygun almanızı tercih ederim⌚⌚⌚⌚"
+        "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+        "ürün iyiydi fp olarak 7 kordon gelmesi de çok güzeldi ben bayıldım teşekkürler",
+        "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için"
       ],
       "all_reviews": [
         {
@@ -47,107 +47,23 @@
           "score": 5.0
         },
         {
-          "text": "çok iyi 1 gündür kullanıyorum kullanışli bir sıkıntı kıçkadj gelirken çok iyi paketlenmişti",
+          "text": "gerçekten hak ediyor o parayı alarak mükemmel bi saat ben 2 tane saat sipariş verdim bir bu marka bide başka bir marka bu kalitesi on numara tebrik ederim ses kapasitesi çok iyi",
           "score": 5.0
         },
-        {
-          "text": "ikis adet aldım suna bir sıkıntı yok özenle paketlenmesidie guzeldisuan sorun yok",
-          "score": 5.0
-        },
-        {
-          "text": "ürün çok güzel telefona bağlaniyor içinde oyun hesapmakinası var ayricana 7 tane kardonu var kirilmazcam koruyucu kılıf var ve fiyatı oldukça uygun almanızı tercih ederim⌚⌚⌚⌚",
-          "score": 5.0
-        },
-        {
-          "text": "teşekkürler çok güzel paketli olarak elime ulaştı iyi gunler diliyorum",
-          "score": 5.0
-        },
-        {
-          "text": "ürün iyiydi fp olarak 7 kordon gelmesi de çok güzeldi ben bayıldım teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı & Isteyenlere",
-      "review_count": 11,
-      "avg_score": 4.82,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "kullanışlı",
-        "kısa",
-        "sorunsuz",
-        "kaliteli",
-        "paketlenmesi",
-        "isteyenlere"
-      ],
-      "positive_pct": 81.8,
-      "negative_pct": 0.0,
-      "neutral_pct": 18.2,
-      "sample_reviews": [
-        "ürünü arkadaşım annesine hediye aldı çok güzel bayıldım",
-        "harika bir ürün çocuğum çok sevdi teşekür edrim",
-        "çok güzel 5 tane aldım her bir yeğenime"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel 5 tane aldım her bir yeğenime",
-          "score": 5.0
-        },
-        {
-          "text": "ürünü arkadaşım annesine hediye aldı çok güzel bayıldım",
-          "score": 5.0
-        },
-        {
-          "text": "harika bir ürün çocuğum çok sevdi teşekür edrim",
-          "score": 5.0
-        },
-        {
-          "text": "kız yeğenim için aldım çok memnun kaldı",
-          "score": 5.0
-        },
-        {
-          "text": "yeğenime aldım çok beğendi",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Ekran & Kordon",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "ekran",
-        "kordon",
-        "kaliteli",
-        "fiyata",
-        "kalitesi",
-        "kullanımı",
-        "akıcı",
-        "uzun"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
-        "cok beğendim cok güzel özellikle kordonlari cok iyi bu fiyata bu kadar kordon cok iyi",
-        "oğlum çok beğendi sağlam geldi kordonlar harika"
-      ],
-      "all_reviews": [
         {
           "text": "cok beğendim cok güzel özellikle kordonlari cok iyi bu fiyata bu kadar kordon cok iyi",
           "score": 5.0
         },
         {
-          "text": "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+          "text": "sağlam geldi kordon renkleri çok hoş",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
+          "score": 5.0
+        },
+        {
+          "text": "ürün iyiydi fp olarak 7 kordon gelmesi de çok güzeldi ben bayıldım teşekkürler",
           "score": 5.0
         },
         {
@@ -155,7 +71,7 @@
           "score": 5.0
         },
         {
-          "text": "sağlam geldi kordon renkleri çok hoş",
+          "text": "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
           "score": 5.0
         }
       ],
@@ -163,7 +79,7 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 6,
+      "review_count": 19,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -172,33 +88,54 @@
         "fiyat",
         "performans",
         "kalite",
-        "fiyata",
         "bayıldı",
         "teslimat",
-        "ideal"
+        "ideal",
+        "kargolama"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "iki tane aldım kargolama çok iyi cuma günü sipariş ettim pazartesi elimdeydi alınır",
-        "çok güzel hediye için teşekkürler"
+        "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+        "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler",
+        "gerçekten hak ediyor o parayı alarak mükemmel bi saat ben 2 tane saat sipariş verdim bir bu marka bide başka bir marka bu kalitesi on numara tebrik ederim ses kapasitesi çok iyi"
       ],
       "all_reviews": [
         {
-          "text": "iki tane aldım kargolama çok iyi cuma günü sipariş ettim pazartesi elimdeydi alınır",
+          "text": "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler",
           "score": 5.0
         },
         {
-          "text": "çok güzel hediye için teşekkürler",
+          "text": "cok beğendim cok güzel özellikle kordonlari cok iyi bu fiyata bu kadar kordon cok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel telefona bağlaniyor içinde oyun hesapmakinası var ayricana 7 tane kardonu var kirilmazcam koruyucu kılıf var ve fiyatı oldukça uygun almanızı tercih ederim⌚⌚⌚⌚",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten hak ediyor o parayı alarak mükemmel bi saat ben 2 tane saat sipariş verdim bir bu marka bide başka bir marka bu kalitesi on numara tebrik ederim ses kapasitesi çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün iyiydi fp olarak 7 kordon gelmesi de çok güzeldi ben bayıldım teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü arkadaşım annesine hediye aldı çok güzel bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Marka & Fiyat Performans",
-      "review_count": 3,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 18,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -216,19 +153,87 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "gerçekten hak ediyor o parayı alarak mükemmel bi saat ben 2 tane saat sipariş verdim bir bu marka bide başka bir marka bu kalitesi on numara tebrik ederim ses kapasitesi çok iyi"
+        "gerçekten hak ediyor o parayı alarak mükemmel bi saat ben 2 tane saat sipariş verdim bir bu marka bide başka bir marka bu kalitesi on numara tebrik ederim ses kapasitesi çok iyi",
+        "ürün çok güzel telefona bağlaniyor içinde oyun hesapmakinası var ayricana 7 tane kardonu var kirilmazcam koruyucu kılıf var ve fiyatı oldukça uygun almanızı tercih ederim⌚⌚⌚⌚",
+        "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler"
       ],
       "all_reviews": [
         {
+          "text": "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler",
+          "score": 5.0
+        },
+        {
           "text": "gerçekten hak ediyor o parayı alarak mükemmel bi saat ben 2 tane saat sipariş verdim bir bu marka bide başka bir marka bu kalitesi on numara tebrik ederim ses kapasitesi çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "cok beğendim cok güzel özellikle kordonlari cok iyi bu fiyata bu kadar kordon cok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "iki tane aldım kargolama çok iyi cuma günü sipariş ettim pazartesi elimdeydi alınır",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel telefona bağlaniyor içinde oyun hesapmakinası var ayricana 7 tane kardonu var kirilmazcam koruyucu kılıf var ve fiyatı oldukça uygun almanızı tercih ederim⌚⌚⌚⌚",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel 5 tane aldım her bir yeğenime",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 2,
+      "name": "Özellik",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
+        "paketleme",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
+        "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+        "çok iyi 1 gündür kullanıyorum kullanışli bir sıkıntı kıçkadj gelirken çok iyi paketlenmişti"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok iyi 1 gündür kullanıyorum kullanışli bir sıkıntı kıçkadj gelirken çok iyi paketlenmişti",
+          "score": 5.0
+        },
+        {
+          "text": "cok beğendim cok güzel özellikle kordonlari cok iyi bu fiyata bu kadar kordon cok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkürler çok güzel paketli olarak elime ulaştı iyi gunler diliyorum",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -246,11 +251,29 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "tşk ederiz kargo çok hızlıydı urunde özenle paketlenmişti oğlum için aldım çok beğendi teşekkür technomen"
+        "ürün çok güzel telefona bağlaniyor içinde oyun hesapmakinası var ayricana 7 tane kardonu var kirilmazcam koruyucu kılıf var ve fiyatı oldukça uygun almanızı tercih ederim⌚⌚⌚⌚",
+        "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler",
+        "ürün iyiydi fp olarak 7 kordon gelmesi de çok güzeldi ben bayıldım teşekkürler"
       ],
       "all_reviews": [
         {
-          "text": "tşk ederiz kargo çok hızlıydı urunde özenle paketlenmişti oğlum için aldım çok beğendi teşekkür technomen",
+          "text": "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel telefona bağlaniyor içinde oyun hesapmakinası var ayricana 7 tane kardonu var kirilmazcam koruyucu kılıf var ve fiyatı oldukça uygun almanızı tercih ederim⌚⌚⌚⌚",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü arkadaşım annesine hediye aldı çok güzel bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir ürün çocuğum çok sevdi teşekür edrim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün iyiydi fp olarak 7 kordon gelmesi de çok güzeldi ben bayıldım teşekkürler",
           "score": 5.0
         }
       ],
@@ -258,27 +281,116 @@
     },
     {
       "name": "Şarjı",
-      "review_count": 2,
+      "review_count": 11,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "şarjı",
         "şarj",
-        "gidiyor",
         "uzun",
         "telefon",
         "arama",
-        "şarjı gidiyor",
-        "kullanisli"
+        "kullanisli",
+        "fazlasıyla",
+        "çıktı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için"
+        "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
+        "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+        "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler"
       ],
       "all_reviews": [
+        {
+          "text": "ürün güzel paketlenmiş iki gunicinde elimize ulasti hattı taktik 1 gün sonra okudu ama ses güzel telefondan uygulamayı indirip kuruncada konum takibi yapabiliyoruz hem uygun ve kaliteli satıcıda ilgili teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel telefona bağlaniyor içinde oyun hesapmakinası var ayricana 7 tane kardonu var kirilmazcam koruyucu kılıf var ve fiyatı oldukça uygun almanızı tercih ederim⌚⌚⌚⌚",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "paketlemesi",
+        "ürünüm",
+        "kısa",
+        "paketlenmesi",
+        "özellikle",
+        "sürede",
+        "kısa sürede"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
+        "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+        "ikis adet aldım suna bir sıkıntı yok özenle paketlenmesidie guzeldisuan sorun yok"
+      ],
+      "all_reviews": [
+        {
+          "text": "ikis adet aldım suna bir sıkıntı yok özenle paketlenmesidie guzeldisuan sorun yok",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel çok beğendim hızlı şarj alıyor çok ekran kardani var yanında koruma kılıfı ve kırılmaz cami da geldi kordonlarinin kaliteside çok iyiydi beğendim paketlemeside oldukça iyi ben coooooooooooook begendimmmmmmmm",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Paketlenme",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "kısa",
+        "sorunsuz",
+        "paketlenmesi",
+        "kullanmaya",
+        "almak isteyenlere",
+        "isteyenlere",
+        "bayıldı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
+        "ikis adet aldım suna bir sıkıntı yok özenle paketlenmesidie guzeldisuan sorun yok"
+      ],
+      "all_reviews": [
+        {
+          "text": "ikis adet aldım suna bir sıkıntı yok özenle paketlenmesidie guzeldisuan sorun yok",
+          "score": 5.0
+        },
         {
           "text": "hızlı ve sağlam geldi şimdilik şarj sorunu yok bir saat içerisinde full doldu şarjı ne kadar gidecek bilmiyorum eğer kısa sürede biterse yorumumu düzeltirim beğendim kordonları tam ve boyutu iyi geldi teşekkürler özeniniz için",
           "score": 5.0

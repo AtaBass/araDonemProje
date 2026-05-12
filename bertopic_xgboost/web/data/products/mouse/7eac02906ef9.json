@@ -8,7 +8,7 @@
   "overall_score": 4.96,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**logitech M171 USB Alıcılı Kablosuz Kompakt Mouse, Pembe** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kullanımı Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kalite** ve **hoşuma** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel kullanımı indirimdeyken almıştım tavsiye ederim şimdi klavyesinide alacağım…\"\n• **Fiyatı Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **fiyata** ve **performans** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kulla…\"\n• Kullanıcılar **Sessiz Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kaliteli** ve **teslimat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Satıcı özenli paketlemiş her detayını bana sms ile haber verdikleri için teşekkür ede…\"\n• **Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sessiz** ve **kablosuz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel harika işimi görüyor tam bi fiyat performans gidipte bi mouse o kadar para…\"\n• Müşteri yorumlarında **North & Sağlam** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **farklı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel bi mouse rengide çok tatlı hızlı ve sağlam bi şekilde elime ulaştı teşekkür…\"",
+  "summary": "\"Logitech M171 USB Wireless Compact Mouse, Pink'te kullanıcıları tatmin eden bir ürün olarak öne çıkıyor. Ürünün tüm yönleri, kullanım ve kalite, paketleme ve sağlam gibi konularda mükemmel puanlar almasına neden oluyor. Müşterilerin büyük çoğunluğu sorunsuzluğunu da onaylıyor. Fiyat performans oranına da göz kırpacak kadar iyi performans sergilediği belirtiliyor. Bu genel değerlendirme özeti, ürünün profesyonelce tasarlandığı ve işlevselliğini tam olarak yerine getirdiği yönünde yorum yapmaktadır.\"",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,96 +18,32 @@
   },
   "aspects": [
     {
-      "name": "Kullanımı Rahat",
-      "review_count": 22,
+      "name": "Sorunsuz",
+      "review_count": 27,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanımı",
-        "kalite",
+        "aldık",
+        "sorunsuz",
         "paketleme",
-        "kaliteli",
-        "kullanımı rahat",
+        "bunu",
+        "rengi",
         "baya",
-        "kalitesi",
-        "hoşuma"
+        "sıkıntı",
+        "kalite"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel kullanımı indirimdeyken almıştım tavsiye ederim şimdi klavyesinide alacağım çalışırken çok rahat",
-        "çok sevdim kullanımı da çok rahat ve hızlı teslimat için teşekkür ederim",
-        "gayet güzel bir ürün paketleme de oldukça özenliydi teşekkürler"
+        "çok tatlış bir ürün rengini bayıldım avuç içine tam oturuyor herhangi bir sıkıntısı yok kargoda baya sağlam geldi",
+        "çok güzel harika işimi görüyor tam bi fiyat performans gidipte bi mouse o kadar para dökmeye gerek yok ben macbook için aldım benim elime sorunsuz ulaştı ve severek kullanıyorum rengide çok tatlıı",
+        "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane"
       ],
       "all_reviews": [
         {
-          "text": "gayet güzel bir ürün paketleme de oldukça özenliydi teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çok sevdim kullanımı da çok rahat ve hızlı teslimat için teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "kızıma aldım çok beğendi",
-          "score": 5.0
-        },
-        {
-          "text": "herkesin dikkatini çekti iş yerinde çok hoş nötr bir pembesi var",
-          "score": 5.0
-        },
-        {
-          "text": "ürün çok güzel geldi rengi de çalışması da çok iyi kesinlikle alın",
-          "score": 5.0
-        },
-        {
-          "text": "rengi çok tatlı çok güzel ürün",
-          "score": 5.0
-        },
-        {
-          "text": "eşim için almıştım gayet kullanışlı bir ürün",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel kullanımı indirimdeyken almıştım tavsiye ederim şimdi klavyesinide alacağım çalışırken çok rahat",
-          "score": 5.0
-        },
-        {
-          "text": "gayet guzel rengi de cok tatli",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyatı Uygun",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
-        "uygun",
-        "performans",
-        "paketlemesi",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
-        "bayildim paketleme de cok iyidi ve hemen elime ulasti",
-        "çok tatlış bir ürün rengini bayıldım avuç içine tam oturuyor herhangi bir sıkıntısı yok kargoda baya sağlam geldi"
-      ],
-      "all_reviews": [
-        {
-          "text": "bayildim paketleme de cok iyidi ve hemen elime ulasti",
+          "text": "çok güzel harika işimi görüyor tam bi fiyat performans gidipte bi mouse o kadar para dökmeye gerek yok ben macbook için aldım benim elime sorunsuz ulaştı ve severek kullanıyorum rengide çok tatlıı",
           "score": 5.0
         },
         {
@@ -115,47 +51,91 @@
           "score": 5.0
         },
         {
-          "text": "çok tatlış bir ürün rengini bayıldım avuç içine tam oturuyor herhangi bir sıkıntısı yok kargoda baya sağlam geldi",
+          "text": "rengi çok tatlı çok güzel ürün",
+          "score": 5.0
+        },
+        {
+          "text": "bayildim paketleme de cok iyidi ve hemen elime ulasti",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel bir ürün paketleme de oldukça özenliydi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bi mouse rengide çok tatlı hızlı ve sağlam bi şekilde elime ulaştı teşekkür ederim",
           "score": 5.0
         },
         {
           "text": "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
+          "score": 5.0
+        },
+        {
+          "text": "çok tatlış bir ürün rengini bayıldım avuç içine tam oturuyor herhangi bir sıkıntısı yok kargoda baya sağlam geldi",
+          "score": 5.0
+        },
+        {
+          "text": "gayet guzel rengi de cok tatli",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel geldi rengi de çalışması da çok iyi kesinlikle alın",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sessiz Rahat",
-      "review_count": 8,
-      "avg_score": 4.75,
+      "name": "Kullanım & Kalite",
+      "review_count": 19,
+      "avg_score": 4.89,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "teslimat",
-        "paketleme",
-        "sorunsuz",
         "kullanımı",
-        "çalışıyor",
-        "sessiz rahat",
-        "fiyat"
+        "kalite",
+        "paketleme",
+        "baya",
+        "kalitesi",
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 89.5,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 10.5,
       "sample_reviews": [
-        "arkadaşıma hediye aldım mavisini de ben kullanıyorum çok beğendik güzel kaliteli",
-        "satıcı özenli paketlemiş her detayını bana sms ile haber verdikleri için teşekkür ederim",
-        "kız arkadaşıma hediye aldım çok beğendi kullanışlı"
+        "kardeşimin tavsiyesiyle aldım gerçekten logitech kalitesi hissediliyor çok teşekkür ederim hemen gönderildi",
+        "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
+        "çok tatlış bir ürün rengini bayıldım avuç içine tam oturuyor herhangi bir sıkıntısı yok kargoda baya sağlam geldi"
       ],
       "all_reviews": [
         {
-          "text": "kız arkadaşıma hediye aldım çok beğendi kullanışlı",
+          "text": "gayet güzel bir ürün paketleme de oldukça özenliydi teşekkürler",
           "score": 5.0
         },
         {
-          "text": "satıcı özenli paketlemiş her detayını bana sms ile haber verdikleri için teşekkür ederim",
+          "text": "bayildim paketleme de cok iyidi ve hemen elime ulasti",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
+          "score": 5.0
+        },
+        {
+          "text": "çok tatlış bir ürün rengini bayıldım avuç içine tam oturuyor herhangi bir sıkıntısı yok kargoda baya sağlam geldi",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kullanımı indirimdeyken almıştım tavsiye ederim şimdi klavyesinide alacağım çalışırken çok rahat",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşimin tavsiyesiyle aldım gerçekten logitech kalitesi hissediliyor çok teşekkür ederim hemen gönderildi",
+          "score": 5.0
+        },
+        {
+          "text": "çok sevdim kullanımı da çok rahat ve hızlı teslimat için teşekkür ederim",
           "score": 5.0
         },
         {
@@ -166,98 +146,122 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 3,
+      "name": "Paketleme & Saglam",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "şarj",
-        "sessiz",
-        "çalışıyor",
-        "performans",
-        "fiyat performans",
-        "sessiz çalışıyor",
-        "kablosuz",
-        "fiyat"
+        "paketlemesi",
+        "denedim",
+        "saglam",
+        "kelimeyle",
+        "tatli",
+        "icin",
+        "çokta",
+        "paketlenmesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel harika işimi görüyor tam bi fiyat performans gidipte bi mouse o kadar para dökmeye gerek yok ben macbook için aldım benim elime sorunsuz ulaştı ve severek kullanıyorum rengide çok tatlıı"
+        "gayet guzel rengi de cok tatli",
+        "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
+        "gayet güzel bir ürün paketleme de oldukça özenliydi teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "gayet güzel bir ürün paketleme de oldukça özenliydi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "bayildim paketleme de cok iyidi ve hemen elime ulasti",
+          "score": 5.0
+        },
+        {
+          "text": "gayet guzel rengi de cok tatli",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "uygun",
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "efsane",
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel harika işimi görüyor tam bi fiyat performans gidipte bi mouse o kadar para dökmeye gerek yok ben macbook için aldım benim elime sorunsuz ulaştı ve severek kullanıyorum rengide çok tatlıı",
+        "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane"
       ],
       "all_reviews": [
         {
           "text": "çok güzel harika işimi görüyor tam bi fiyat performans gidipte bi mouse o kadar para dökmeye gerek yok ben macbook için aldım benim elime sorunsuz ulaştı ve severek kullanıyorum rengide çok tatlıı",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "North & Sağlam",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "north",
-        "oldum",
-        "şarj",
-        "biri",
-        "sağlam",
-        "oturuyor",
-        "farklı",
-        "istedim"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel bi mouse rengide çok tatlı hızlı ve sağlam bi şekilde elime ulaştı teşekkür ederim"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "çok güzel bi mouse rengide çok tatlı hızlı ve sağlam bi şekilde elime ulaştı teşekkür ederim",
+          "text": "çok güzel bir paketleme ve uygun fiyat orijinal ürün olarak elime ulaştı ofiste kullanmak adına aldım çok kullanışlı rahat bir model rengi de şahane",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Donma & Rahatlıkla",
-      "review_count": 2,
+      "name": "Saglam & Sorun",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "alacak",
-        "kullanıyor",
-        "ediyor",
-        "donma",
-        "rahatlıkla",
-        "şimdilik",
-        "kelimeyle",
-        "tuşları"
+        "yormuyor",
+        "çıkarmıyor",
+        "saglam",
+        "sorun",
+        "bayıldım",
+        "efsane",
+        "diye",
+        "beklemiyordum"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "arakadşm için aldim beğendi tavsiye ediyor"
+        "çok güzel harika işimi görüyor tam bi fiyat performans gidipte bi mouse o kadar para dökmeye gerek yok ben macbook için aldım benim elime sorunsuz ulaştı ve severek kullanıyorum rengide çok tatlıı",
+        "çok tatlış bir ürün rengini bayıldım avuç içine tam oturuyor herhangi bir sıkıntısı yok kargoda baya sağlam geldi"
       ],
       "all_reviews": [
         {
-          "text": "arakadşm için aldim beğendi tavsiye ediyor",
+          "text": "çok güzel harika işimi görüyor tam bi fiyat performans gidipte bi mouse o kadar para dökmeye gerek yok ben macbook için aldım benim elime sorunsuz ulaştı ve severek kullanıyorum rengide çok tatlıı",
+          "score": 5.0
+        },
+        {
+          "text": "çok tatlış bir ürün rengini bayıldım avuç içine tam oturuyor herhangi bir sıkıntısı yok kargoda baya sağlam geldi",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kablolu & Özellikle",
-      "review_count": 2,
+      "name": "Kablol & Özellikle",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -267,19 +271,24 @@
         "özellikle",
         "oyun",
         "kullanım",
+        "rahatlıkla",
         "sıkıntı",
-        "oyunlarda",
-        "rahatlıkla"
+        "oyunlarda"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kardeşimin tavsiyesiyle aldım gerçekten logitech kalitesi hissediliyor çok teşekkür ederim hemen gönderildi"
+        "çok güzel kullanımı indirimdeyken almıştım tavsiye ederim şimdi klavyesinide alacağım çalışırken çok rahat",
+        "çok sevdim kullanımı da çok rahat ve hızlı teslimat için teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "kardeşimin tavsiyesiyle aldım gerçekten logitech kalitesi hissediliyor çok teşekkür ederim hemen gönderildi",
+          "text": "çok sevdim kullanımı da çok rahat ve hızlı teslimat için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kullanımı indirimdeyken almıştım tavsiye ederim şimdi klavyesinide alacağım çalışırken çok rahat",
           "score": 5.0
         }
       ],

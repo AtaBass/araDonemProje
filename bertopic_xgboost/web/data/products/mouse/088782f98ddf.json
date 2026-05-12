@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "2 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
+  "summary": "**North Game Over PRO 12.800 DPI 400 IPS 50G PMW3389 Makr** için 2 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kullanım & Kalite**: Kullanıcılar kullanım & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -16,7 +16,78 @@
     "4": 0,
     "5": 2
   },
-  "aspects": [],
+  "aspects": [
+    {
+      "name": "Kullanım & Kalite",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kullanımı",
+        "kalite",
+        "paketleme",
+        "baya",
+        "kalitesi",
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "deneyimli bir kulanıcı olarak söylüyorum ürün tam bir f p cs valorant ve minecraft bedwars gibi oyunlarda farkı çok rahat hissediyorsunuz bu fiyata 400 ıps sensör bulmak zor 400 ıps ve 1000hz li bir sensörü olması fps oyunları için çok önrmli bi detay kaliteli switch'iminecraft da yüksek cps almamızı sağlıyor makro ve yazılım ayarları kaliteli kargo çok hızlıydı 3-4 gün içinde geldi",
+        "çok kaliteli bu fiyata böylesi altındaki tuşlar sayesinde hz ve renk ayarları bile yapılıyor almak isteyen rahatlıkla alabilir"
+      ],
+      "all_reviews": [
+        {
+          "text": "deneyimli bir kulanıcı olarak söylüyorum ürün tam bir f p cs valorant ve minecraft bedwars gibi oyunlarda farkı çok rahat hissediyorsunuz bu fiyata 400 ıps sensör bulmak zor 400 ıps ve 1000hz li bir sensörü olması fps oyunları için çok önrmli bi detay kaliteli switch'iminecraft da yüksek cps almamızı sağlıyor makro ve yazılım ayarları kaliteli kargo çok hızlıydı 3-4 gün içinde geldi",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli bu fiyata böylesi altındaki tuşlar sayesinde hz ve renk ayarları bile yapılıyor almak isteyen rahatlıkla alabilir",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "uygun",
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "efsane",
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "deneyimli bir kulanıcı olarak söylüyorum ürün tam bir f p cs valorant ve minecraft bedwars gibi oyunlarda farkı çok rahat hissediyorsunuz bu fiyata 400 ıps sensör bulmak zor 400 ıps ve 1000hz li bir sensörü olması fps oyunları için çok önrmli bi detay kaliteli switch'iminecraft da yüksek cps almamızı sağlıyor makro ve yazılım ayarları kaliteli kargo çok hızlıydı 3-4 gün içinde geldi",
+        "çok kaliteli bu fiyata böylesi altındaki tuşlar sayesinde hz ve renk ayarları bile yapılıyor almak isteyen rahatlıkla alabilir"
+      ],
+      "all_reviews": [
+        {
+          "text": "deneyimli bir kulanıcı olarak söylüyorum ürün tam bir f p cs valorant ve minecraft bedwars gibi oyunlarda farkı çok rahat hissediyorsunuz bu fiyata 400 ıps sensör bulmak zor 400 ıps ve 1000hz li bir sensörü olması fps oyunları için çok önrmli bi detay kaliteli switch'iminecraft da yüksek cps almamızı sağlıyor makro ve yazılım ayarları kaliteli kargo çok hızlıydı 3-4 gün içinde geldi",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli bu fiyata böylesi altındaki tuşlar sayesinde hz ve renk ayarları bile yapılıyor almak isteyen rahatlıkla alabilir",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
   "top_reviews": [
     "deneyimli bir kulanıcı olarak söylüyorum ürün tam bir f p cs valorant ve minecraft bedwars gibi oyunlarda farkı çok rahat hissediyorsunuz bu fiyata 400 ıps sensör bulmak zor 400 ıps ve 1000hz li bir sensörü olması fps oyunları için çok önrmli bi detay kaliteli switch'iminecraft da yüksek cps almamızı sağlıyor makro ve yazılım ayarları kaliteli kargo çok hızlıydı 3-4 gün içinde geldi",
     "çok kaliteli bu fiyata böylesi altındaki tuşlar sayesinde hz ve renk ayarları bile yapılıyor almak isteyen rahatlıkla alabilir"

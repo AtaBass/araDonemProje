@@ -8,7 +8,7 @@
   "overall_score": 4.68,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**D'S Damat Ds Damat Slim Fit Açık Lacivert Beli Lastikli** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: Boyu boyuna bedeni bedene tam cuk oturdu ve çok güzel kalitesi rengi.\n• **Kalite & Kalıb**: Ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık.\n• **Kalite & Alınabilir**: Ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık.\n• **Kumaş**: Mükemmel güzel bir kumaşı var tam beden alınmalı rengide görseldekiyle aynı şekilde geldi.\n• **Doku & Likral**: Kalıbı ve kumaşı beğendi eşim 92 kilo 180 boy 46 beden tam oldu boyu tadilat görecek sadece.",
+  "summary": "D'S Damat Ds Damat Slim Fit Açık Lacivert Beli Lastikli ürününün genel değerlendirme özeti, ürünün olağanüstü kalitesi ve fiyat performansına dayanır. Ürün, 50 yorumun %96'sını kapsayan ortalama 4.7 puanla birlikte, müşterilerin neredeyse tamamı tarafından beğenilmiştir. Fiyat performansı, kalite ve alınabilirlik gibi özellikler için yüksek puanlar almıştır. Kumaş kalitesi de aynı derecede olumlu olarak değerlendirilmiştir. Bu ürün, genel memnuniyet oranına göre 4.7/5.0 puanda yer almaktadır.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 26,
-      "avg_score": 4.58,
+      "review_count": 32,
+      "avg_score": 4.56,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,29 +33,25 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 80.8,
-      "negative_pct": 7.7,
-      "neutral_pct": 11.5,
+      "positive_pct": 75.0,
+      "negative_pct": 6.2,
+      "neutral_pct": 18.8,
       "sample_reviews": [
         "boyu boyuna bedeni bedene tam cuk oturdu ve çok güzel kalitesi rengi",
-        "kalıbı ve kumaşı beğendi eşim 92 kilo 180 boy 46 beden tam oldu boyu tadilat görecek sadece",
-        "kalite mükemmel tam yazlık ve rahat kumaş alın aldırın"
+        "ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık",
+        "kalıbı ve kumaşı beğendi eşim 92 kilo 180 boy 46 beden tam oldu boyu tadilat görecek sadece"
       ],
       "all_reviews": [
         {
-          "text": "cok guzel kaliteli tam beden alinir esim cok begendi",
-          "score": 5.0
-        },
-        {
-          "text": "kalite mükemmel tam yazlık ve rahat kumaş alın aldırın",
-          "score": 5.0
-        },
-        {
-          "text": "kalıbı ve kumaşı beğendi eşim 92 kilo 180 boy 46 beden tam oldu boyu tadilat görecek sadece",
+          "text": "kaliteli bir ürün alacaklara tavsiye ediyorum",
           "score": 5.0
         },
         {
           "text": "boyu boyuna bedeni bedene tam cuk oturdu ve çok güzel kalitesi rengi",
+          "score": 5.0
+        },
+        {
+          "text": "cok guzel kaliteli tam beden alinir esim cok begendi",
           "score": 5.0
         },
         {
@@ -71,8 +67,20 @@
           "score": 5.0
         },
         {
-          "text": "kaliteli bir ürün alacaklara tavsiye ediyorum",
+          "text": "kalıbı ve kumaşı beğendi eşim 92 kilo 180 boy 46 beden tam oldu boyu tadilat görecek sadece",
           "score": 5.0
+        },
+        {
+          "text": "mükemmel güzel bir kumaşı var tam beden alınmalı rengide görseldekiyle aynı şekilde geldi",
+          "score": 5.0
+        },
+        {
+          "text": "kalite mükemmel tam yazlık ve rahat kumaş alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık",
+          "score": 4.0
         },
         {
           "text": "tam bedeninizde alınız",
@@ -206,6 +214,62 @@
       "icon": "💬"
     },
     {
+      "name": "Kalite & Fiyat",
+      "review_count": 19,
+      "avg_score": 4.84,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 84.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 15.8,
+      "sample_reviews": [
+        "boyu boyuna bedeni bedene tam cuk oturdu ve çok güzel kalitesi rengi",
+        "ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık",
+        "kalite mükemmel tam yazlık ve rahat kumaş alın aldırın"
+      ],
+      "all_reviews": [
+        {
+          "text": "boyu boyuna bedeni bedene tam cuk oturdu ve çok güzel kalitesi rengi",
+          "score": 5.0
+        },
+        {
+          "text": "kalite mükemmel tam yazlık ve rahat kumaş alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "cok guzel kaliteli tam beden alinir esim cok begendi",
+          "score": 5.0
+        },
+        {
+          "text": "ds damat kalitesi harika",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli beden uyumu tam",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün alacaklara tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Kumaş",
       "review_count": 16,
       "avg_score": 4.88,
@@ -249,6 +313,54 @@
         {
           "text": "çok güzel kumaşyla birlikte tercih ederim",
           "score": 5.0
+        },
+        {
+          "text": "kumaşı çok güzel bol kesim o yüzden iade edeceğim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 13,
+      "avg_score": 4.62,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alin",
+        "aynı",
+        "kalıp",
+        "iade",
+        "istediğim",
+        "super",
+        "kocama",
+        "birebir"
+      ],
+      "positive_pct": 61.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 38.5,
+      "sample_reviews": [
+        "mükemmel güzel bir kumaşı var tam beden alınmalı rengide görseldekiyle aynı şekilde geldi",
+        "ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık",
+        "cok guzel kaliteli tam beden alinir esim cok begendi"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok guzel kaliteli tam beden alinir esim cok begendi",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel güzel bir kumaşı var tam beden alınmalı rengide görseldekiyle aynı şekilde geldi",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalıp duruşu da çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık",
+          "score": 4.0
         },
         {
           "text": "kumaşı çok güzel bol kesim o yüzden iade edeceğim",
@@ -306,97 +418,9 @@
       "icon": "💬"
     },
     {
-      "name": "Kalite & Fiyat",
-      "review_count": 13,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "düşünüyorum",
-        "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kalite mükemmel tam yazlık ve rahat kumaş alın aldırın",
-        "cok guzel kaliteli tam beden alinir esim cok begendi",
-        "kaliteli bir ürün alacaklara tavsiye ediyorum"
-      ],
-      "all_reviews": [
-        {
-          "text": "kalite mükemmel tam yazlık ve rahat kumaş alın aldırın",
-          "score": 5.0
-        },
-        {
-          "text": "cok guzel kaliteli tam beden alinir esim cok begendi",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli bir ürün alacaklara tavsiye ediyorum",
-          "score": 5.0
-        },
-        {
-          "text": "çok kaliteli beden uyumu tam",
-          "score": 5.0
-        },
-        {
-          "text": "ds damat kalitesi harika",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalıp",
-      "review_count": 7,
-      "avg_score": 4.71,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "alin",
-        "aynı",
-        "kalıp",
-        "iade",
-        "istediğim",
-        "super",
-        "kocama",
-        "birebir"
-      ],
-      "positive_pct": 71.4,
-      "negative_pct": 0.0,
-      "neutral_pct": 28.6,
-      "sample_reviews": [
-        "cok guzel kaliteli tam beden alinir esim cok begendi",
-        "kumaşı çok güzel bol kesim o yüzden iade edeceğim",
-        "tam kalıp duruşu da çok iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "cok guzel kaliteli tam beden alinir esim cok begendi",
-          "score": 5.0
-        },
-        {
-          "text": "tam kalıp duruşu da çok iyi",
-          "score": 5.0
-        },
-        {
-          "text": "kumaşı çok güzel bol kesim o yüzden iade edeceğim",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Siyah",
-      "review_count": 3,
-      "avg_score": 5.0,
+      "review_count": 9,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -405,6 +429,44 @@
         "yumuşacık",
         "alınmalı",
         "rengi"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "mükemmel güzel bir kumaşı var tam beden alınmalı rengide görseldekiyle aynı şekilde geldi",
+        "boyu boyuna bedeni bedene tam cuk oturdu ve çok güzel kalitesi rengi",
+        "ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık"
+      ],
+      "all_reviews": [
+        {
+          "text": "boyu boyuna bedeni bedene tam cuk oturdu ve çok güzel kalitesi rengi",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel güzel bir kumaşı var tam beden alınmalı rengide görseldekiyle aynı şekilde geldi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kalitesi iyi kalıpları biraz geniş biz daraltmak zorunda kaldık",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Edilir",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "edilir",
+        "paketleme",
+        "farklı",
+        "firmaya",
+        "aynısı",
+        "kalıp"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,

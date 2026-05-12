@@ -8,7 +8,7 @@
   "overall_score": 4.68,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**SEYUWATCH Watch Hx Pro Kordon Hediyeli 46mm Akıllı Saat** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Ekran & Kordon** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kaliteli** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güzel kullanışlı bir saat 3 kordon olması da ayrı bir guzel detay olmuş sadece ekrand…\"\n• **Ulasti & Bende**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır. Örnek kullanıcı ifadesi: \"Eşim için aldım çok beğendi onu mutlu görmek beni mutlu etti teşşekürler\"\n• **Sağlam** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok teşekür ederim örünü bugün aldım resimdeki göründügü gibi geldi aynen fonksiyonla…\"\n• **Kullanışlı & Isteyenlere** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sorunsuz** ve **kaliteli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gö…\"\n• Müşteri yorumlarında **Kaliteli & Rahatlıkla** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kullanışlı** ve **performans** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gerçekten çok güzel rahatlıkla alabilirsiniz\"",
+  "summary": "**SEYUWATCH Watch Hx Pro Kordon Hediyeli 46mm Akıllı Saat** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kurulum Kolay**: Kullanıcılar genel olarak kurulum kolay açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Marka / Fiyat Performans**: Kullanıcılar marka / fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Özellik**: Kullanıcılar özellik konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketleme**: Kullanıcılar paketleme konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Ekran & Kordon",
-      "review_count": 18,
-      "avg_score": 4.56,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Kurulum Kolay",
+      "review_count": 13,
+      "avg_score": 4.38,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "ekran",
-        "kordon",
-        "kaliteli",
-        "fiyata",
-        "kalitesi",
-        "kullanımı",
-        "akıcı",
-        "uzun"
+        "sesli",
+        "ürünler",
+        "aydır",
+        "kurulumu kolay",
+        "ogluma",
+        "kurulumu",
+        "şimdilik",
+        "fiyat"
       ],
-      "positive_pct": 88.9,
-      "negative_pct": 11.1,
+      "positive_pct": 84.6,
+      "negative_pct": 15.4,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel kullanışlı bir saat 3 kordon olması da ayrı bir guzel detay olmuş sadece ekranda biraz kalmalar mevcut o kadarda olur ama güzel kullanışlı",
-        "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay",
-        "eşime aldım çok beğendik görünüşü de çok şık bence markalara tonla para vermeye gerek yok bütün özellikleri var umarım uzun ömürlü olur"
+        "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum",
+        "çok beğendim eşime almıştım gayet başarılı bir ürün gönül rahatlığı ile alabilirsiniz",
+        "ürün çok güzel ve çok iyi eşime aldım her türlü kullanisli herkeze tavsiye ederim"
       ],
       "all_reviews": [
         {
@@ -51,19 +51,11 @@
           "score": 5.0
         },
         {
-          "text": "babama hediye aldım efsane saat çok beğendi",
+          "text": "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum",
           "score": 5.0
         },
         {
-          "text": "güzel kullanışlı bir saat 3 kordon olması da ayrı bir guzel detay olmuş sadece ekranda biraz kalmalar mevcut o kadarda olur ama güzel kullanışlı",
-          "score": 5.0
-        },
-        {
-          "text": "eşime aldım çok beğendik görünüşü de çok şık bence markalara tonla para vermeye gerek yok bütün özellikleri var umarım uzun ömürlü olur",
-          "score": 5.0
-        },
-        {
-          "text": "eşime aldım aşırı beğendi bir çok özelliği var bence daha yüksek fiyatlara almaya gerek yok telefon iphone ama kusursuz çalışıyor",
+          "text": "ürün çok hoş ve sık tavsiye ederim güzel de paketlenmisti tessekur ederiz",
           "score": 5.0
         },
         {
@@ -74,44 +66,118 @@
       "icon": "💬"
     },
     {
-      "name": "Ulasti & Bende",
-      "review_count": 12,
-      "avg_score": 4.75,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 10,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "beni",
-        "etti",
-        "ulasti",
-        "bende",
-        "severek kullanıyor",
-        "gidiyor",
-        "şarj",
-        "severek"
+        "marka",
+        "sorunsuz",
+        "ilgili",
+        "fiyat",
+        "tane",
+        "bide",
+        "eksiksiz",
+        "başka"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "eşim için aldım çok beğendi onu mutlu görmek beni mutlu etti teşşekürler",
-        "eşime aldım severek kullanıyor",
+        "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum",
+        "eşime aldım çok beğendik görünüşü de çok şık bence markalara tonla para vermeye gerek yok bütün özellikleri var umarım uzun ömürlü olur",
+        "eşime aldım aşırı beğendi bir çok özelliği var bence daha yüksek fiyatlara almaya gerek yok telefon iphone ama kusursuz çalışıyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım aşırı beğendi bir çok özelliği var bence daha yüksek fiyatlara almaya gerek yok telefon iphone ama kusursuz çalışıyor",
+          "score": 5.0
+        },
+        {
+          "text": "hediye aldım çok güzel fiyatına göre",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım çok beğendik görünüşü de çok şık bence markalara tonla para vermeye gerek yok bütün özellikleri var umarım uzun ömürlü olur",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "fiyat",
+        "performans",
+        "kalite",
+        "bayıldı",
+        "teslimat",
+        "ideal",
+        "kargolama"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "eşime aldım aşırı beğendi bir çok özelliği var bence daha yüksek fiyatlara almaya gerek yok telefon iphone ama kusursuz çalışıyor",
+        "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay",
+        "hediye aldım çok güzel fiyatına göre"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım aşırı beğendi bir çok özelliği var bence daha yüksek fiyatlara almaya gerek yok telefon iphone ama kusursuz çalışıyor",
+          "score": 5.0
+        },
+        {
+          "text": "hediye aldım çok güzel fiyatına göre",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellik",
+      "review_count": 8,
+      "avg_score": 4.62,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
+        "paketleme",
+        "bayıldım"
+      ],
+      "positive_pct": 62.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 37.5,
+      "sample_reviews": [
+        "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum",
+        "eşime aldım çok beğendik görünüşü de çok şık bence markalara tonla para vermeye gerek yok bütün özellikleri var umarım uzun ömürlü olur",
         "eşime aldım gerçekten çok güzel ve paketleme çok güzeldi"
       ],
       "all_reviews": [
         {
-          "text": "eşim için aldım çok beğendi onu mutlu görmek beni mutlu etti teşşekürler",
+          "text": "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum",
           "score": 5.0
         },
         {
-          "text": "eşime aldım sevgililer günü hediyesi gayet guzel",
-          "score": 5.0
-        },
-        {
-          "text": "eşime doğum günü hediyesi aldım çok memnunumuz",
-          "score": 5.0
-        },
-        {
-          "text": "eşime aldım severek kullanıyor",
+          "text": "eşime aldım çok beğendik görünüşü de çok şık bence markalara tonla para vermeye gerek yok bütün özellikleri var umarım uzun ömürlü olur",
           "score": 5.0
         },
         {
@@ -122,91 +188,148 @@
       "icon": "💬"
     },
     {
-      "name": "Sağlam",
-      "review_count": 7,
-      "avg_score": 4.29,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Paketleme",
+      "review_count": 6,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
         "paketleme",
         "paketlemesi",
-        "sağlam",
         "ürünüm",
         "kısa",
         "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "özellikle",
+        "sürede",
+        "kısa sürede"
       ],
-      "positive_pct": 28.6,
+      "positive_pct": 50.0,
       "negative_pct": 0.0,
-      "neutral_pct": 71.4,
+      "neutral_pct": 50.0,
       "sample_reviews": [
-        "çok teşekür ederim örünü bugün aldım resimdeki göründügü gibi geldi aynen fonksiyonlar yazıldığı gibi emeklerinize saglık",
-        "gerçekten güzel paketlenip gönderilmişti ben memnun kaldım teşekkür ederim",
-        "ürün çok hoş ve sık tavsiye ederim güzel de paketlenmisti tessekur ederiz"
+        "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay",
+        "eşime aldım gerçekten çok güzel ve paketleme çok güzeldi"
       ],
       "all_reviews": [
         {
-          "text": "ürün çok hoş ve sık tavsiye ederim güzel de paketlenmisti tessekur ederiz",
+          "text": "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay",
           "score": 5.0
         },
         {
-          "text": "gerçekten güzel paketlenip gönderilmişti ben memnun kaldım teşekkür ederim",
-          "score": 4.0
-        },
-        {
-          "text": "çok teşekür ederim örünü bugün aldım resimdeki göründügü gibi geldi aynen fonksiyonlar yazıldığı gibi emeklerinize saglık",
+          "text": "eşime aldım gerçekten çok güzel ve paketleme çok güzeldi",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kullanışlı & Isteyenlere",
-      "review_count": 6,
+      "name": "Ekran & Kordon",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "kullanışlı",
-        "kısa",
-        "sorunsuz",
-        "kaliteli",
-        "paketlenmesi",
-        "isteyenlere"
+        "ekran",
+        "kordon",
+        "kalitesi",
+        "kullanımı",
+        "akıcı",
+        "uzun",
+        "özelliği",
+        "bayıldım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum",
-        "oğluma aldım çok beğendi kargolama iyiydi sağlam geldi ve gayet güzel çalışıyor"
+        "güzel kullanışlı bir saat 3 kordon olması da ayrı bir guzel detay olmuş sadece ekranda biraz kalmalar mevcut o kadarda olur ama güzel kullanışlı",
+        "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay"
       ],
       "all_reviews": [
         {
-          "text": "ürün beklentinizin üzerinde gayet güzel ve kullanışlı oğlum için aldım çok beğendi gönül rahatlığıyla kullanabilirsiniz ayrıca satıcı çok ilgili kendilerine tşk ediyorum",
+          "text": "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay",
           "score": 5.0
         },
         {
-          "text": "oğluma aldım çok beğendi kargolama iyiydi sağlam geldi ve gayet güzel çalışıyor",
+          "text": "güzel kullanışlı bir saat 3 kordon olması da ayrı bir guzel detay olmuş sadece ekranda biraz kalmalar mevcut o kadarda olur ama güzel kullanışlı",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Rahatlıkla",
+      "name": "Şarjı",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "şarjı",
+        "şarj",
+        "uzun",
+        "telefon",
+        "arama",
+        "kullanisli",
+        "fazlasıyla",
+        "çıktı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "eşime aldım çok beğendik görünüşü de çok şık bence markalara tonla para vermeye gerek yok bütün özellikleri var umarım uzun ömürlü olur",
+        "eşime aldım aşırı beğendi bir çok özelliği var bence daha yüksek fiyatlara almaya gerek yok telefon iphone ama kusursuz çalışıyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşime aldım aşırı beğendi bir çok özelliği var bence daha yüksek fiyatlara almaya gerek yok telefon iphone ama kusursuz çalışıyor",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım çok beğendik görünüşü de çok şık bence markalara tonla para vermeye gerek yok bütün özellikleri var umarım uzun ömürlü olur",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Paketlenme",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "kaliteli kaliteli",
+        "aldık",
+        "kısa",
+        "sorunsuz",
+        "paketlenmesi",
+        "kullanmaya",
+        "almak isteyenlere",
+        "isteyenlere",
+        "bayıldı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşime hediye aldım paketlenmesi görünümü çok güzel kaliteli kullanımı kolay",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rahatlıkla",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
         "rahatlıkla",
-        "kullanışlı",
         "performans"
       ],
       "positive_pct": 100.0,
@@ -218,66 +341,6 @@
       "all_reviews": [
         {
           "text": "gerçekten çok güzel rahatlıkla alabilirsiniz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat performans",
-        "fiyat",
-        "performans",
-        "kalite",
-        "fiyata",
-        "bayıldı",
-        "teslimat",
-        "ideal"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "hediye aldım çok güzel fiyatına göre"
-      ],
-      "all_reviews": [
-        {
-          "text": "hediye aldım çok güzel fiyatına göre",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı & Asuman Hanım",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "güvenilir",
-        "farklı",
-        "gerek",
-        "sağlam",
-        "hanım",
-        "asuman hanım",
-        "rahatlıkla"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "sevgilime aldım çok beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "sevgilime aldım çok beğendi",
           "score": 5.0
         }
       ],

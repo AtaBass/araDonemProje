@@ -8,7 +8,7 @@
   "overall_score": 4.75,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**HNX Kadın Yüksek Bel Toparlayıcı Tam Boy Spor Tayt | Ef** için 8 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kumaşı & Farklı Renkleri** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **bedeni** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade\"\n• **Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **olmasına** ve **rağmen** başta olmak üzere. Örnek kullanıcı ifadesi: \"Rengi çok güzel sımsıkı rahatsız bir tayt da değil ama 160 a 50 kiloyum bana beli bol…\"\n• Kullanıcılar **Kalıp Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **esnek** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ince olmasının dışında güzel\"",
+  "summary": "HNX Kadın Yüksek Bel Toparlayıcı Tam Boy Spor Tayt ürününün genel değerlendirme özeti şu şekilde: Ürün, kullanıcıların olumlu yorumları ile dikkat çekici bir performans sergilemiştir. Özellikle kumaş ve toparlayıc/beden konularında yüzde yüz onay alan ürün, fiyat ve uygunluk alanında da yüksek puan almıştır. Kumaş/renk aspectine gelen yorumlarda ortalama puan 4.8'den fazla alınmıştır. Bu ürün, kadın sporcularının taleplerini tam olarak karşılamakta ve memnuniyet oranını oldukça yükseğe taşımaktadır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,9 +18,9 @@
   },
   "aspects": [
     {
-      "name": "Kumaşı & Farklı Renkleri",
-      "review_count": 2,
-      "avg_score": 5.0,
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 5,
+      "avg_score": 4.8,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -31,53 +31,31 @@
         "alin",
         "sarıyor",
         "farklı renkleri",
-        "yaptım"
+        "beli"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 80.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 20.0,
       "sample_reviews": [
-        "rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade",
-        "harika bir tayt renk çok güzel kumaşı çok toparlayıcı"
+        "rengi çok güzel sımsıkı rahatsız bir tayt da değil ama 160 a 50 kiloyum bana beli bol geldi ve boyu da uzundu",
+        "harika bir ürün ilk elime aldığımdan ve giydiğimden çok beğendim kumaşı çok rahat tavsiye ediyorum korkmadan alabilirsiniz",
+        "rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade"
       ],
       "all_reviews": [
+        {
+          "text": "ürün çok esnek beden tam oldu çok beğendim",
+          "score": 5.0
+        },
         {
           "text": "harika bir tayt renk çok güzel kumaşı çok toparlayıcı",
           "score": 5.0
         },
         {
-          "text": "rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade",
+          "text": "harika bir ürün ilk elime aldığımdan ve giydiğimden çok beğendim kumaşı çok rahat tavsiye ediyorum korkmadan alabilirsiniz",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat",
-      "review_count": 2,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kilo",
-        "kilo rahat",
-        "asla",
-        "olmasına",
-        "rağmen",
-        "fiyat performans",
-        "performans",
-        "rahat rahat"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "rengi çok güzel sımsıkı rahatsız bir tayt da değil ama 160 a 50 kiloyum bana beli bol geldi ve boyu da uzundu",
-        "güzel sporda kullandım rahat"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "güzel sporda kullandım rahat",
+          "text": "rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade",
           "score": 5.0
         },
         {
@@ -88,35 +66,145 @@
       "icon": "💬"
     },
     {
-      "name": "Kalıp Rahat",
+      "name": "Kumaş",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "diye",
+        "kumaş",
+        "kalıbı",
+        "iade",
+        "bayıldım",
+        "baya",
+        "almışım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade",
+        "harika bir ürün ilk elime aldığımdan ve giydiğimden çok beğendim kumaşı çok rahat tavsiye ediyorum korkmadan alabilirsiniz",
+        "harika bir tayt renk çok güzel kumaşı çok toparlayıcı"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bir tayt renk çok güzel kumaşı çok toparlayıcı",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir ürün ilk elime aldığımdan ve giydiğimden çok beğendim kumaşı çok rahat tavsiye ediyorum korkmadan alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Toparlayıc & Beden",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "harika bir tayt renk çok güzel kumaşı çok toparlayıcı",
+        "ürün çok esnek beden tam oldu çok beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün çok esnek beden tam oldu çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir tayt renk çok güzel kumaşı çok toparlayıcı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ürün",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "harika bir ürün ilk elime aldığımdan ve giydiğimden çok beğendim kumaşı çok rahat tavsiye ediyorum korkmadan alabilirsiniz",
+        "ürün çok esnek beden tam oldu çok beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün çok esnek beden tam oldu çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "harika bir ürün ilk elime aldığımdan ve giydiğimden çok beğendim kumaşı çok rahat tavsiye ediyorum korkmadan alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Uygun",
       "review_count": 2,
       "avg_score": 4.5,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
         "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
+        "rağmen"
       ],
       "positive_pct": 50.0,
       "negative_pct": 0.0,
       "neutral_pct": 50.0,
       "sample_reviews": [
-        "ince olmasının dışında güzel",
-        "gayet güzel"
+        "rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade",
+        "rengi çok güzel sımsıkı rahatsız bir tayt da değil ama 160 a 50 kiloyum bana beli bol geldi ve boyu da uzundu"
       ],
       "all_reviews": [
         {
-          "text": "gayet güzel",
+          "text": "rengi dokusu harika ama kalıbı bayağı genismis bol geldi malesef iade",
           "score": 5.0
         },
         {
-          "text": "ince olmasının dışında güzel",
+          "text": "rengi çok güzel sımsıkı rahatsız bir tayt da değil ama 160 a 50 kiloyum bana beli bol geldi ve boyu da uzundu",
           "score": 4.0
         }
       ],

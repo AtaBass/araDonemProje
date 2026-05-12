@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**BAGLOVİS YAVRU ÇANTA EKSTRALI ÖNÜ KİLİT DETAYLI SİYAH K** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Yumuşacık Derisi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kullanışlı** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kesinlikle çok kullanışlı işimi gayet görüyor en sevdiğim özelliği ise makyaj eşyalar…\"\n• **Kaliteli & Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **geniş** ve **boyutu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam…\"\n• Kullanıcılar **Yumuşacık Derisi** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **okulda** ve **hayatta** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün çok güzel hediye aldım çok beğenildi alın üründe sorun yoktur\"\n• **Resimdeki & Canta** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **göründüğü** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok beğendim çok kaliteli sorunsuz elime ulaştı teşekkür ederim\"\n• Müşteri yorumlarında **Rahatlıkla** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kokusu** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Harika indirimdeyken aldım gayet kullanışlı\"",
+  "summary": "Genel Değerlendirme Özeti:\n\nBAGLOVİS YAVRU ÇANTA EKSTRALI ÖNÜ KİLİT DETAYLI SİYAH K, ürün memnuniyet puanını 4.9/5.0 olarak ödüllenen bir üründür. Ürün, geniş ve boyutlu olarak değerlendirildiğinde, pozitif yorumları ile 5.0/5.0 puanına sahiptir. Ayrıca yumuşak derisi, deri yumuşaklığı ve zarif tasarımı gibi özellikleri de aynı şekilde yüksek puan aldı. Sadece resimdek özelliğinin 4.7/5.0 puanına ulaşması ürünün genel memnuniyetini azaltmamıştır. Bu ürün, kullanıcılar tarafından yüksek puan almış ve pozitif yorumlarını hak eden bir üründür.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 15,
-      "avg_score": 4.8,
+      "name": "Geniş & Boyut",
+      "review_count": 18,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
+        "spor",
+        "geniş",
+        "boyutu",
+        "çantası",
+        "çantalar",
+        "minik",
+        "bayıldım",
+        "kalitesi"
       ],
-      "positive_pct": 80.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 20.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel ama küçük biraz ama kaliteli anneler gününde anneme aldım çok beyendi",
-        "yumuşacık derisi ve boyutunu çok beğendim teşekkür ederim",
-        "kesinlikle çok kullanışlı işimi gayet görüyor en sevdiğim özelliği ise makyaj eşyalarımı yavru çantası sayesinde yanımda taşıyabiliyorum"
+        "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
+        "kesinlikle çok kullanışlı işimi gayet görüyor en sevdiğim özelliği ise makyaj eşyalarımı yavru çantası sayesinde yanımda taşıyabiliyorum",
+        "ürün çok güzel okul için aldım içine tabletim sığıyor ama çok geniş değil ona göre alın onun dışında heyet güzel"
       ],
       "all_reviews": [
         {
@@ -47,7 +47,15 @@
           "score": 5.0
         },
         {
+          "text": "ürünü çok beğendim sağlam geldi yırtık falan yok içindeki ufak çantada gayet kullanışlı",
+          "score": 5.0
+        },
+        {
           "text": "yumuşacık derisi ve boyutunu çok beğendim teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
           "score": 5.0
         },
         {
@@ -55,71 +63,19 @@
           "score": 5.0
         },
         {
-          "text": "arkadaşıma aldım çok beğendi çok güzel bir ürün",
-          "score": 5.0
-        },
-        {
-          "text": "içi genis rahat ve kullanısli",
-          "score": 5.0
-        },
-        {
-          "text": "güzel ama küçük biraz ama kaliteli anneler gününde anneme aldım çok beyendi",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Rahat",
-      "review_count": 12,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "spor",
-        "rahat",
-        "geniş",
-        "boyutu",
-        "bayıldım",
-        "kullanışlı",
-        "çantası"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
-        "ürün çok güzel okul için aldım içine tabletim sığıyor ama çok geniş değil ona göre alın onun dışında heyet güzel",
-        "ürünü çok beğendim sağlam geldi yırtık falan yok içindeki ufak çantada gayet kullanışlı"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürünü çok beğendim sağlam geldi yırtık falan yok içindeki ufak çantada gayet kullanışlı",
+          "text": "ablama hediye aldım çok beğendi güzel çanta",
           "score": 5.0
         },
         {
           "text": "ürün çok güzel okul için aldım içine tabletim sığıyor ama çok geniş değil ona göre alın onun dışında heyet güzel",
           "score": 5.0
-        },
-        {
-          "text": "ablama hediye aldım çok beğendi güzel çanta",
-          "score": 5.0
-        },
-        {
-          "text": "fotoğraftakinden biraz küçük ama güzel gayet kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
-          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Yumuşacık Derisi",
-      "review_count": 11,
+      "name": "Yumuşacık Deri",
+      "review_count": 16,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -137,53 +93,9 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün çok güzel hediye aldım çok beğenildi alın üründe sorun yoktur",
-        "arkdsima hediye aldim cok begendin tavsiye ederim",
-        "kardeşime hediye olarak aldım çok beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "hediye olarak aldım çok beğenmiş",
-          "score": 5.0
-        },
-        {
-          "text": "arkdsima hediye aldim cok begendin tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "kardeşime hediye olarak aldım çok beğendi",
-          "score": 5.0
-        },
-        {
-          "text": "ürün çok güzel hediye aldım çok beğenildi alın üründe sorun yoktur",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Resimdeki & Canta",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "adet",
-        "resimdeki",
-        "istediğim",
-        "canta",
-        "göründüğü",
-        "sağlam",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok beğendim çok kaliteli sorunsuz elime ulaştı teşekkür ederim",
-        "çok güzel 3 adet aldım çok teşekkür ederim sorunsuz geldi",
-        "çok güzel oldu mutfağıma çok yakıştı teşekkür ederim"
+        "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
+        "yumuşacık derisi ve boyutunu çok beğendim teşekkür ederim",
+        "çok beğendim çok kaliteli sorunsuz elime ulaştı teşekkür ederim"
       ],
       "all_reviews": [
         {
@@ -191,7 +103,19 @@
           "score": 5.0
         },
         {
+          "text": "arkdsima hediye aldim cok begendin tavsiye ederim",
+          "score": 5.0
+        },
+        {
           "text": "çok güzel oldu mutfağıma çok yakıştı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşacık derisi ve boyutunu çok beğendim teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
           "score": 5.0
         },
         {
@@ -202,35 +126,169 @@
       "icon": "💬"
     },
     {
-      "name": "Rahatlıkla",
-      "review_count": 4,
+      "name": "Deri Yumuşak",
+      "review_count": 16,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kokusu",
-        "fiyata",
-        "adet",
-        "fiyatı",
-        "minik",
-        "olacağını",
-        "rahatlıkla sığıyor",
-        "okulda"
+        "giderken",
+        "kullanıma uygun",
+        "kullanıma",
+        "alınmalı",
+        "derisi yumuşak",
+        "asla",
+        "fena",
+        "göründüğünden"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "harika indirimdeyken aldım gayet kullanışlı",
-        "eşime aldım begenerek kullanıyor"
+        "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
+        "çok beğendim çok kaliteli sorunsuz elime ulaştı teşekkür ederim",
+        "çok güzel 3 adet aldım çok teşekkür ederim sorunsuz geldi"
       ],
       "all_reviews": [
         {
-          "text": "harika indirimdeyken aldım gayet kullanışlı",
+          "text": "çok güzel 3 adet aldım çok teşekkür ederim sorunsuz geldi",
           "score": 5.0
         },
         {
-          "text": "eşime aldım begenerek kullanıyor",
+          "text": "arkdsima hediye aldim cok begendin tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel oldu mutfağıma çok yakıştı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşacık derisi ve boyutunu çok beğendim teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim çok kaliteli sorunsuz elime ulaştı teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Zarif",
+      "review_count": 10,
+      "avg_score": 4.7,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "zarif",
+        "harikaaa",
+        "yumuşacık",
+        "kelimeyle",
+        "kalite",
+        "baya",
+        "kelimeyle bayıldım",
+        "bayıldım"
+      ],
+      "positive_pct": 70.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 30.0,
+      "sample_reviews": [
+        "güzel ama küçük biraz ama kaliteli anneler gününde anneme aldım çok beyendi",
+        "çok beğendim çok kaliteli sorunsuz elime ulaştı teşekkür ederim",
+        "yumuşacık derisi ve boyutunu çok beğendim teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "yumuşacık derisi ve boyutunu çok beğendim teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "fotoğraftakinden biraz küçük ama güzel gayet kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim çok kaliteli sorunsuz elime ulaştı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel ama küçük biraz ama kaliteli anneler gününde anneme aldım çok beyendi",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Resimdek",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "adet",
+        "resimdeki",
+        "istediğim",
+        "canta",
+        "göründüğü"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
+        "kullanışlı bir çanta boyutları gayet iyi kargo ve paketleme de iyiydi",
+        "çok güzel 3 adet aldım çok teşekkür ederim sorunsuz geldi"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel 3 adet aldım çok teşekkür ederim sorunsuz geldi",
+          "score": 5.0
+        },
+        {
+          "text": "kullanışlı bir çanta boyutları gayet iyi kargo ve paketleme de iyiydi",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bu çantaya çok hoş ve güzel teşekkür ederim paketleme özenliydi elime sağlam bir şekilde geldi kullanmak için sabırsızlanıyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koku",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kokusu",
+        "adet",
+        "minik",
+        "olacağını",
+        "rahatlıkla sığıyor",
+        "okulda",
+        "diye",
+        "gore"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel 3 adet aldım çok teşekkür ederim sorunsuz geldi",
+        "ürün çok güzel okul için aldım içine tabletim sığıyor ama çok geniş değil ona göre alın onun dışında heyet güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel 3 adet aldım çok teşekkür ederim sorunsuz geldi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel okul için aldım içine tabletim sığıyor ama çok geniş değil ona göre alın onun dışında heyet güzel",
           "score": 5.0
         }
       ],

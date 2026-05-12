@@ -8,7 +8,7 @@
   "overall_score": 4.86,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**SDT TİCARET LÜKS OFİS KOLTUĞU ÇALIŞMA KOLTUĞU HAREKETLİ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Nişanlıma hediye aldım evden çalıştığı günler için çok konforlu oldu fiyat performans…\"\n• **Rahat Koltuk**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"2 adet aldım henüz kurulumunu yapmadım sağlam bir sandalyeye benziyor fiyatina göre b…\"\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **uygun** ve **ilgili** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Fiyat performans 2 günde geldi ürün geldikten sonra satıcıya mesaj attım kurulum şema…\"\n• **Takım & Kurulumu Kolay** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **teşekürler** ve **sürekli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok beğendik kurulumu kolay herkese tavsiye ederim\"\n• Müşteri yorumlarında **Kolay & Rahatlığıyla** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **tesekkurler** ve **kurulumuda** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güzel memnun kaldım hepsi tam çıktı kurulumu da biraz düşünüp deneme yanilmayla yaptı…\"",
+  "summary": "**SDT TİCARET LÜKS OFİS KOLTUĞU ÇALIŞMA KOLTUĞU HAREKETLİ** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Koltuk**: Kullanıcılar koltuk konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 13,
-      "avg_score": 4.85,
+      "name": "Fiyat Kalite",
+      "review_count": 30,
+      "avg_score": 4.93,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
       ],
-      "positive_pct": 84.6,
+      "positive_pct": 93.3,
       "negative_pct": 0.0,
-      "neutral_pct": 15.4,
+      "neutral_pct": 6.7,
       "sample_reviews": [
-        "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
-        "nişanlıma hediye aldım evden çalıştığı günler için çok konforlu oldu fiyat performans düşünmeden alabilirsiniz",
-        "çok beğendim çok şık kızım için aldım eksiksiz geldi ürün çok kaliteli"
+        "ürün güzel klavuz ya da qr kod çıkmalıydı bir puanı ondan kırdım onun harici ben visvo yastık aldım onla kullanıyorum cok rahat hissettiriyor ikisi birliktr 3 k tuttu neredeyse ve 3 bine bu rahatlıkta ürün bulunmaz bence kaliteside orta gayet begendim teşekkür ediyorum ayruca kollarının inip kalkmadı ve sırtının yaylanabilmesi daha rahat bi kullanım saglıyor oyurma kısmıda genis bagdaş kurarak oturuluyıt yani",
+        "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
+        "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın"
       ],
       "all_reviews": [
         {
@@ -55,51 +55,19 @@
           "score": 5.0
         },
         {
-          "text": "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+          "text": "çok kaliteli ve güzel satıcıya da ayrıca teşekkür ederim hızlı ve çözüm odaklı",
           "score": 5.0
         },
         {
-          "text": "gayet iyi memnun kaldık",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat Koltuk",
-      "review_count": 13,
-      "avg_score": 4.77,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "rahat",
-        "koltuk",
-        "sağlam",
-        "çalışma",
-        "kurulumu",
-        "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
-      ],
-      "positive_pct": 76.9,
-      "negative_pct": 0.0,
-      "neutral_pct": 23.1,
-      "sample_reviews": [
-        "2 adet aldım henüz kurulumunu yapmadım sağlam bir sandalyeye benziyor fiyatina göre beklenenin üstünde kullanım sonrası guncelleme yaparım bir tanesinde ufak bir kusur vardı satıcı hemen ilgilendi tavsiye ederim",
-        "çok rahat ve güzel görünen bir koltuk sağlam ve hızlı teslimat satıcıya çok teşekkür ederiz",
-        "aşırı tatlı bir sandalye kullanımı çok rahat diğer sandalyeler gibi kocaman değil daha kibar duruyor"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok rahat ve güzel görünen bir koltuk sağlam ve hızlı teslimat satıcıya çok teşekkür ederiz",
+          "text": "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
           "score": 5.0
         },
         {
-          "text": "görseldeki ürünün aynısı yapımı aşırı kolay ve bu fiyat aralığında en iyisi bu marka yorumlardan dolayı korktum ama tekerlekleri bile beyaz geldi 4 mart çarşamba günü 2026 aldım tavsiye ederim",
+          "text": "çok rahat göründüğünden daha kaliteli teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "2 adet aldım henüz kurulumunu yapmadım sağlam bir sandalyeye benziyor fiyatina göre beklenenin üstünde kullanım sonrası guncelleme yaparım bir tanesinde ufak bir kusur vardı satıcı hemen ilgilendi tavsiye ederim",
+          "text": "fiyat performans 2 günde geldi ürün geldikten sonra satıcıya mesaj attım kurulum şemasınıda gönderdi",
           "score": 5.0
         },
         {
@@ -107,7 +75,79 @@
           "score": 5.0
         },
         {
-          "text": "aşırı tatlı bir sandalye kullanımı çok rahat diğer sandalyeler gibi kocaman değil daha kibar duruyor",
+          "text": "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+          "score": 5.0
+        },
+        {
+          "text": "2 adet aldım henüz kurulumunu yapmadım sağlam bir sandalyeye benziyor fiyatina göre beklenenin üstünde kullanım sonrası guncelleme yaparım bir tanesinde ufak bir kusur vardı satıcı hemen ilgilendi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "görseldeki ürünün aynısı yapımı aşırı kolay ve bu fiyat aralığında en iyisi bu marka yorumlardan dolayı korktum ama tekerlekleri bile beyaz geldi 4 mart çarşamba günü 2026 aldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel klavuz ya da qr kod çıkmalıydı bir puanı ondan kırdım onun harici ben visvo yastık aldım onla kullanıyorum cok rahat hissettiriyor ikisi birliktr 3 k tuttu neredeyse ve 3 bine bu rahatlıkta ürün bulunmaz bence kaliteside orta gayet begendim teşekkür ediyorum ayruca kollarının inip kalkmadı ve sırtının yaylanabilmesi daha rahat bi kullanım saglıyor oyurma kısmıda genis bagdaş kurarak oturuluyıt yani",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz",
+      "review_count": 20,
+      "avg_score": 4.9,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
+      ],
+      "positive_pct": 90.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 10.0,
+      "sample_reviews": [
+        "ürün güzel klavuz ya da qr kod çıkmalıydı bir puanı ondan kırdım onun harici ben visvo yastık aldım onla kullanıyorum cok rahat hissettiriyor ikisi birliktr 3 k tuttu neredeyse ve 3 bine bu rahatlıkta ürün bulunmaz bence kaliteside orta gayet begendim teşekkür ediyorum ayruca kollarının inip kalkmadı ve sırtının yaylanabilmesi daha rahat bi kullanım saglıyor oyurma kısmıda genis bagdaş kurarak oturuluyıt yani",
+        "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
+        "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın"
+      ],
+      "all_reviews": [
+        {
+          "text": "nişanlıma hediye aldım evden çalıştığı günler için çok konforlu oldu fiyat performans düşünmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve güzel satıcıya da ayrıca teşekkür ederim hızlı ve çözüm odaklı",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat göründüğünden daha kaliteli teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün cok güzeldi cok memnun oldum gönül rahatlıkla kullanabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim çok şık kızım için aldım eksiksiz geldi ürün çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel klavuz ya da qr kod çıkmalıydı bir puanı ondan kırdım onun harici ben visvo yastık aldım onla kullanıyorum cok rahat hissettiriyor ikisi birliktr 3 k tuttu neredeyse ve 3 bine bu rahatlıkta ürün bulunmaz bence kaliteside orta gayet begendim teşekkür ediyorum ayruca kollarının inip kalkmadı ve sırtının yaylanabilmesi daha rahat bi kullanım saglıyor oyurma kısmıda genis bagdaş kurarak oturuluyıt yani",
           "score": 4.0
         }
       ],
@@ -115,7 +155,7 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 5,
+      "review_count": 17,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -126,31 +166,287 @@
         "uygun",
         "ilgili",
         "kalite",
-        "rahatlığı",
-        "kusursuz"
+        "kusursuz",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "nişanlıma hediye aldım evden çalıştığı günler için çok konforlu oldu fiyat performans düşünmeden alabilirsiniz",
         "fiyat performans 2 günde geldi ürün geldikten sonra satıcıya mesaj attım kurulum şemasınıda gönderdi",
-        "çok kaliteli ve güzel satıcıya da ayrıca teşekkür ederim hızlı ve çözüm odaklı"
+        "fiyat performans ürünü çocuklar için almıştım çok beğendiler"
       ],
       "all_reviews": [
         {
-          "text": "çok kaliteli ve güzel satıcıya da ayrıca teşekkür ederim hızlı ve çözüm odaklı",
+          "text": "fiyat performans ürünü çocuklar için almıştım çok beğendiler",
+          "score": 5.0
+        },
+        {
+          "text": "görseldeki ürünün aynısı yapımı aşırı kolay ve bu fiyat aralığında en iyisi bu marka yorumlardan dolayı korktum ama tekerlekleri bile beyaz geldi 4 mart çarşamba günü 2026 aldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "nişanlıma hediye aldım evden çalıştığı günler için çok konforlu oldu fiyat performans düşünmeden alabilirsiniz",
           "score": 5.0
         },
         {
           "text": "fiyat performans 2 günde geldi ürün geldikten sonra satıcıya mesaj attım kurulum şemasınıda gönderdi",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir öğrenci koltuğu konfor ve şık ideal fiyatı çocuklarım çok beğendi teşekkür ederiz",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+          "score": 5.0
+        },
+        {
+          "text": "2 adet aldım henüz kurulumunu yapmadım sağlam bir sandalyeye benziyor fiyatina göre beklenenin üstünde kullanım sonrası guncelleme yaparım bir tanesinde ufak bir kusur vardı satıcı hemen ilgilendi tavsiye ederim",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Takım & Kurulumu Kolay",
+      "name": "Kurulum Kolay",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "kolay",
+        "kurulumu",
+        "kurulumu kolay",
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok beğendik kurulumu kolay herkese tavsiye ederim",
+        "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+        "fiyat performans 2 günde geldi ürün geldikten sonra satıcıya mesaj attım kurulum şemasınıda gönderdi"
+      ],
+      "all_reviews": [
+        {
+          "text": "güzel memnun kaldım hepsi tam çıktı kurulumu da biraz düşünüp deneme yanilmayla yaptım teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "görseldeki ürünün aynısı yapımı aşırı kolay ve bu fiyat aralığında en iyisi bu marka yorumlardan dolayı korktum ama tekerlekleri bile beyaz geldi 4 mart çarşamba günü 2026 aldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kurulumunda biraz zorlandık ama sağlam ve kullanışlı gönül rahatlığıyla alabilirsiniz ben çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "2 adet aldım henüz kurulumunu yapmadım sağlam bir sandalyeye benziyor fiyatina göre beklenenin üstünde kullanım sonrası guncelleme yaparım bir tanesinde ufak bir kusur vardı satıcı hemen ilgilendi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans 2 günde geldi ürün geldikten sonra satıcıya mesaj attım kurulum şemasınıda gönderdi",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kurulumu kolay herkese tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "koltuk",
+        "çalışma",
+        "kurulumu",
+        "kumaşı",
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "2 adet aldım henüz kurulumunu yapmadım sağlam bir sandalyeye benziyor fiyatina göre beklenenin üstünde kullanım sonrası guncelleme yaparım bir tanesinde ufak bir kusur vardı satıcı hemen ilgilendi tavsiye ederim",
+        "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+        "güzel memnun kaldım hepsi tam çıktı kurulumu da biraz düşünüp deneme yanilmayla yaptım teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok rahat ve güzel görünen bir koltuk sağlam ve hızlı teslimat satıcıya çok teşekkür ederiz",
+          "score": 5.0
+        },
+        {
+          "text": "güzel memnun kaldım hepsi tam çıktı kurulumu da biraz düşünüp deneme yanilmayla yaptım teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kurulumunda biraz zorlandık ama sağlam ve kullanışlı gönül rahatlığıyla alabilirsiniz ben çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "2 adet aldım henüz kurulumunu yapmadım sağlam bir sandalyeye benziyor fiyatina göre beklenenin üstünde kullanım sonrası guncelleme yaparım bir tanesinde ufak bir kusur vardı satıcı hemen ilgilendi tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans 2 günde geldi ürün geldikten sonra satıcıya mesaj attım kurulum şemasınıda gönderdi",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kurulumu kolay herkese tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınabilir",
+      "review_count": 10,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınabilir",
+        "çocuk",
+        "halı",
+        "uygun",
+        "göründüğü",
+        "bayıldım",
+        "aldık",
+        "sorun"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
+        "tam bir öğrenci koltuğu konfor ve şık ideal fiyatı çocuklarım çok beğendi teşekkür ederiz",
+        "fiyat performans ürünü çocuklar için almıştım çok beğendiler"
+      ],
+      "all_reviews": [
+        {
+          "text": "fiyat performans ürünü çocuklar için almıştım çok beğendiler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir öğrenci koltuğu konfor ve şık ideal fiyatı çocuklarım çok beğendi teşekkür ederiz",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat göründüğünden daha kaliteli teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kolay & Rahatlığıyla",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kolay",
+        "rahatlığıyla",
+        "tesekkurler",
+        "kaldik",
+        "kurulumuda",
+        "yaptım",
+        "rağmen",
+        "icin"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "görseldeki ürünün aynısı yapımı aşırı kolay ve bu fiyat aralığında en iyisi bu marka yorumlardan dolayı korktum ama tekerlekleri bile beyaz geldi 4 mart çarşamba günü 2026 aldım tavsiye ederim",
+        "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+        "kurulumunda biraz zorlandık ama sağlam ve kullanışlı gönül rahatlığıyla alabilirsiniz ben çok beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "görseldeki ürünün aynısı yapımı aşırı kolay ve bu fiyat aralığında en iyisi bu marka yorumlardan dolayı korktum ama tekerlekleri bile beyaz geldi 4 mart çarşamba günü 2026 aldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kurulumunda biraz zorlandık ama sağlam ve kullanışlı gönül rahatlığıyla alabilirsiniz ben çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatına göre oldukça kaliteli bir ürün parçalar güzel paketlenmiş geldi kurulumu da kolay ihtiyacı olan düşünmeden alsın",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kurulumu kolay herkese tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Hafif",
       "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "hafif",
+        "almışım",
+        "icin",
+        "göründüğü",
+        "görünüyor",
+        "rahatlığıyla",
+        "konforlu",
+        "kolay"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
+        "çok rahat göründüğünden daha kaliteli teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat göründüğünden daha kaliteli teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -168,147 +464,42 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok beğendik kurulumu kolay herkese tavsiye ederim",
-        "çok begendık kızım içinde sıparıs verdık"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok begendık kızım içinde sıparıs verdık",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendik kurulumu kolay herkese tavsiye ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kolay & Rahatlığıyla",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kolay",
-        "rahatlığıyla",
-        "tesekkurler",
-        "kaldik",
-        "kurulumuda",
-        "yaptım",
-        "rağmen",
-        "çıktı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güzel memnun kaldım hepsi tam çıktı kurulumu da biraz düşünüp deneme yanilmayla yaptım teşekkür ederim",
-        "kurulumunda biraz zorlandık ama sağlam ve kullanışlı gönül rahatlığıyla alabilirsiniz ben çok beğendim"
+        "güzel memnun kaldım hepsi tam çıktı kurulumu da biraz düşünüp deneme yanilmayla yaptım teşekkür ederim"
       ],
       "all_reviews": [
         {
           "text": "güzel memnun kaldım hepsi tam çıktı kurulumu da biraz düşünüp deneme yanilmayla yaptım teşekkür ederim",
           "score": 5.0
-        },
-        {
-          "text": "kurulumunda biraz zorlandık ama sağlam ve kullanışlı gönül rahatlığıyla alabilirsiniz ben çok beğendim",
-          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Sağlam Kaliteli",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "sorunsuz",
-        "sağlam kaliteli",
-        "kalitesi",
-        "severek",
-        "oldular",
-        "evime",
-        "sağlam",
-        "hava"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün cok güzeldi cok memnun oldum gönül rahatlıkla kullanabilirsiniz",
-        "çok rahat göründüğünden daha kaliteli teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün cok güzeldi cok memnun oldum gönül rahatlıkla kullanabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "çok rahat göründüğünden daha kaliteli teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı Rahat",
+      "name": "Koltuk & Ergonomik",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanışlı",
-        "rahat",
-        "kullanışlı rahat",
-        "hafif",
-        "almışım",
-        "kaliteli rahat",
-        "icin",
-        "göründüğü"
+        "uzun",
+        "koltuk",
+        "ergonomik",
+        "zarar",
+        "görünüyor",
+        "vida",
+        "sandalyenin",
+        "monte"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız"
+        "çok rahat ve güzel görünen bir koltuk sağlam ve hızlı teslimat satıcıya çok teşekkür ederiz"
       ],
       "all_reviews": [
         {
-          "text": "ürün fotoğrafta göründüğü gibi geldi çok güzel kaliteli ve rahat hiç tereddüt etmeden alabilirsiniz konforundan kesinlikle memnun kalırsınız",
+          "text": "çok rahat ve güzel görünen bir koltuk sağlam ve hızlı teslimat satıcıya çok teşekkür ederiz",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Koltuk & Zarar",
-      "review_count": 2,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "uzun",
-        "koltuk",
-        "zarar",
-        "ergonomik",
-        "görünüyor",
-        "rahat",
-        "vida",
-        "monte"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
-        "ürün güzel klavuz ya da qr kod çıkmalıydı bir puanı ondan kırdım onun harici ben visvo yastık aldım onla kullanıyorum cok rahat hissettiriyor ikisi birliktr 3 k tuttu neredeyse ve 3 bine bu rahatlıkta ürün bulunmaz bence kaliteside orta gayet begendim teşekkür ediyorum ayruca kollarının inip kalkmadı ve sırtının yaylanabilmesi daha rahat bi kullanım saglıyor oyurma kısmıda genis bagdaş kurarak oturuluyıt yani"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün güzel klavuz ya da qr kod çıkmalıydı bir puanı ondan kırdım onun harici ben visvo yastık aldım onla kullanıyorum cok rahat hissettiriyor ikisi birliktr 3 k tuttu neredeyse ve 3 bine bu rahatlıkta ürün bulunmaz bence kaliteside orta gayet begendim teşekkür ediyorum ayruca kollarının inip kalkmadı ve sırtının yaylanabilmesi daha rahat bi kullanım saglıyor oyurma kısmıda genis bagdaş kurarak oturuluyıt yani",
-          "score": 4.0
         }
       ],
       "icon": "💬"

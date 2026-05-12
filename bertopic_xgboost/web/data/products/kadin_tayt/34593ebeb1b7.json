@@ -8,7 +8,7 @@
   "overall_score": 4.76,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**COTAS Kadın Yüksek Bel Mat Biker Tayt – Toparlayıcı & S** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kumaşı** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kumaş** ve **kalıbı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kald…\"\n• **Kaliteli Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **toparlayıcı** ve **bedeni** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kurtarıcı bi parça ben bir beden büyük tercih ettim müthiş rahat benden tam puan aldı\"\n• **Kalıp Rahat** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **esnek** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kızıma aldım gayet güzel geldi hatta birkaç tane daha almayı düşünüyorum teşekkür ede…\"\n• **Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **olmasına** ve **rağmen** başta olmak üzere. Örnek kullanıcı ifadesi: \"Yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyu…\"\n• Müşteri yorumlarında **Duruşu & Kalitesi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **göründüğü** ve **sardı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok cokkk beğendim kendi bedeninizi alabilirrsiniz\"",
+  "summary": "COTAS Kadın Yüksek Bel Mat Biker Tayt – Toparlayıcı & S, müşterilerin %95'inde olumlu yorumlar alıyor. Ürünün en öne çıkan özelliklerinin büyük çoğunluğu da olumlu puan aldı. Ürünün beden ve toparlayıcısı, kumaş/farklı renk seçenekleri, fiyat performansı ve ürün itself gibi özellikler, müşterilerin beğenmesini sağlıyor. Genel memnuniyet puanı 4,8/5,0 olan bu ürünü, yüksek kaliteli malzeme ve uygun fiyata sahip bir ürün olarak değerlendirebiliriz.",
   "score_distribution": {
     "1": 0,
     "2": 3,
@@ -18,8 +18,404 @@
   },
   "aspects": [
     {
-      "name": "Kumaşı",
+      "name": "Toparlayıc & Beden",
+      "review_count": 36,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir",
+        "gayet güzel tam bedenimi aldim cuk oturdu çok rahat ve kullanışlı begendim",
+        "kendi bedenimi aldım tam oldu kumaşı güzel fp ürünü"
+      ],
+      "all_reviews": [
+        {
+          "text": "ben bu fiyata bu kadar güzel bir ürün geleceğini tahmin etmemiştim s beden aldım çok güzel oturdu üstüme",
+          "score": 5.0
+        },
+        {
+          "text": "cok güzel kaliteli bana kucuk geldi diye iade ettim indirime girince büyügünü tekrar isparis vercem cok memnun kalirsiniz bir beden büyük alin derim",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel tam bedenimi aldim cuk oturdu çok rahat ve kullanışlı begendim",
+          "score": 5.0
+        },
+        {
+          "text": "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok cokkk beğendim kendi bedeninizi alabilirrsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "kendi bedenimi aldım tam oldu kumaşı güzel fp ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı iyi 57kiloyum m beden aldım muhteşem pantolon altında giydiğim için hiç izi gözükmüyor sıkı ve güzel gözüküyor",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir",
+          "score": 5.0
+        },
+        {
+          "text": "guzel tam bedeninizii alabilirsiiniz",
+          "score": 5.0
+        },
+        {
+          "text": "kurtarıcı bi parça ben bir beden büyük tercih ettim müthiş rahat benden tam puan aldı",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel oldu l l beden aldım 56kilo çok güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "60 kilo 1.60 boy l beden aldım güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 36,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kendi bedenimi aldım tam oldu kumaşı güzel fp ürünü",
+        "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir",
+        "cok güzel kaliteli bana kucuk geldi diye iade ettim indirime girince büyügünü tekrar isparis vercem cok memnun kalirsiniz bir beden büyük alin derim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ben bu fiyata bu kadar güzel bir ürün geleceğini tahmin etmemiştim s beden aldım çok güzel oturdu üstüme",
+          "score": 5.0
+        },
+        {
+          "text": "cok güzel kaliteli bana kucuk geldi diye iade ettim indirime girince büyügünü tekrar isparis vercem cok memnun kalirsiniz bir beden büyük alin derim",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel tam bedenimi aldim cuk oturdu çok rahat ve kullanışlı begendim",
+          "score": 5.0
+        },
+        {
+          "text": "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok cokkk beğendim kendi bedeninizi alabilirrsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "kendi bedenimi aldım tam oldu kumaşı güzel fp ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı iyi 57kiloyum m beden aldım muhteşem pantolon altında giydiğim için hiç izi gözükmüyor sıkı ve güzel gözüküyor",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir",
+          "score": 5.0
+        },
+        {
+          "text": "guzel tam bedeninizii alabilirsiiniz",
+          "score": 5.0
+        },
+        {
+          "text": "kurtarıcı bi parça ben bir beden büyük tercih ettim müthiş rahat benden tam puan aldı",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel oldu l l beden aldım 56kilo çok güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "60 kilo 1.60 boy l beden aldım güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "efsane",
+        "fiyat",
+        "paketleme",
+        "aldığım",
+        "edebilirsiniz",
+        "diyebilirim",
+        "fiyat performans",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+        "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
+        "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir"
+      ],
+      "all_reviews": [
+        {
+          "text": "ben bu fiyata bu kadar güzel bir ürün geleceğini tahmin etmemiştim s beden aldım çok güzel oturdu üstüme",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
+          "score": 5.0
+        },
+        {
+          "text": "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kadar iyi beklemiyordum stok yaptım çok beğendim ablama anneme aldım çok beğendiler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat & Uygun",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
+        "baya",
+        "rağmen"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+        "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir",
+        "bu fiyata bu kadar iyi beklemiyordum stok yaptım çok beğendim ablama anneme aldım çok beğendiler"
+      ],
+      "all_reviews": [
+        {
+          "text": "ben bu fiyata bu kadar güzel bir ürün geleceğini tahmin etmemiştim s beden aldım çok güzel oturdu üstüme",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
+          "score": 5.0
+        },
+        {
+          "text": "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kadar iyi beklemiyordum stok yaptım çok beğendim ablama anneme aldım çok beğendiler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ürün",
+      "review_count": 11,
+      "avg_score": 4.73,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
+      ],
+      "positive_pct": 72.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 27.3,
+      "sample_reviews": [
+        "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
+        "ben bu fiyata bu kadar güzel bir ürün geleceğini tahmin etmemiştim s beden aldım çok güzel oturdu üstüme",
+        "çok güzel bir ürün kesinlikle tavisye ederim 170 74 kilo l aldim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ben bu fiyata bu kadar güzel bir ürün geleceğini tahmin etmemiştim s beden aldım çok güzel oturdu üstüme",
+          "score": 5.0
+        },
+        {
+          "text": "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
+          "score": 5.0
+        },
+        {
+          "text": "kendi bedenimi aldım tam oldu kumaşı güzel fp ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir ürün kesinlikle tavisye ederim 170 74 kilo l aldim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıcacık & Bedenınız",
+      "review_count": 11,
+      "avg_score": 4.73,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sıcacık tutuyor",
+        "sıcacık",
+        "bedenınızı",
+        "derim",
+        "tutuyor",
+        "yumuşacık",
+        "rağmen",
+        "istediğim"
+      ],
+      "positive_pct": 72.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 27.3,
+      "sample_reviews": [
+        "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+        "cok güzel kaliteli bana kucuk geldi diye iade ettim indirime girince büyügünü tekrar isparis vercem cok memnun kalirsiniz bir beden büyük alin derim",
+        "kızıma aldım gayet güzel geldi hatta birkaç tane daha almayı düşünüyorum teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok güzel kaliteli bana kucuk geldi diye iade ettim indirime girince büyügünü tekrar isparis vercem cok memnun kalirsiniz bir beden büyük alin derim",
+          "score": 5.0
+        },
+        {
+          "text": "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "kızıma aldım gayet güzel geldi hatta birkaç tane daha almayı düşünüyorum teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir ürün kesinlikle tavisye ederim 170 74 kilo l aldim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruş & Kalite",
       "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "duruşu",
+        "kalitesi",
+        "göründüğü",
+        "sardı",
+        "bedeninizden",
+        "alin",
+        "bayıldım",
+        "almalısınız"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "cok güzel kaliteli bana kucuk geldi diye iade ettim indirime girince büyügünü tekrar isparis vercem cok memnun kalirsiniz bir beden büyük alin derim",
+        "çok cokkk beğendim kendi bedeninizi alabilirrsiniz",
+        "çok güzel kendi bedeninizi alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "cok güzel kaliteli bana kucuk geldi diye iade ettim indirime girince büyügünü tekrar isparis vercem cok memnun kalirsiniz bir beden büyük alin derim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok cokkk beğendim kendi bedeninizi alabilirrsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "guzel tam bedeninizii alabilirsiiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -29,9 +425,9 @@
         "kumaş",
         "kalıbı",
         "iade",
-        "esnek",
         "bayıldım",
-        "baya"
+        "baya",
+        "almışım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -51,10 +447,6 @@
           "score": 5.0
         },
         {
-          "text": "aşırı iyi 57kiloyum m beden aldım muhteşem pantolon altında giydiğim için hiç izi gözükmüyor sıkı ve güzel gözüküyor",
-          "score": 5.0
-        },
-        {
           "text": "yumuşak ve kumaşı çok güzel iyi ki burdan almışım fiyatı da çok uygun çok memnun kaldım 165-55 s aldım rahat oldu sıkmasını isteyen 1-2 beden küçük alabilir",
           "score": 5.0
         }
@@ -62,230 +454,31 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli Rahat",
-      "review_count": 9,
-      "avg_score": 4.67,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
-        "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
-      ],
-      "positive_pct": 66.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 33.3,
-      "sample_reviews": [
-        "gayet güzel tam bedenimi aldim cuk oturdu çok rahat ve kullanışlı begendim",
-        "kurtarıcı bi parça ben bir beden büyük tercih ettim müthiş rahat benden tam puan aldı",
-        "çok güzel bir ürün kesinlikle tavisye ederim 170 74 kilo l aldim"
-      ],
-      "all_reviews": [
-        {
-          "text": "kurtarıcı bi parça ben bir beden büyük tercih ettim müthiş rahat benden tam puan aldı",
-          "score": 5.0
-        },
-        {
-          "text": "gayet güzel tam bedenimi aldim cuk oturdu çok rahat ve kullanışlı begendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel bir ürün kesinlikle tavisye ederim 170 74 kilo l aldim",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalıp Rahat",
-      "review_count": 9,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Kalıp",
+      "review_count": 3,
+      "avg_score": 2.0,
+      "sentiment": "negative",
+      "sentiment_label": "Olumsuz",
       "top_terms": [
         "toparlıyor",
         "kalıp",
         "beyendim",
-        "severek",
         "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
+        "bayıldım",
+        "efsane",
+        "etek",
+        "olabilir"
       ],
-      "positive_pct": 66.7,
-      "negative_pct": 33.3,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "o kadar rahat ki anlatamam çok beğenerek ve severek giyiyorum",
-        "56 kıloyum ş aldım çok güzel toparlıyor",
-        "kızıma aldım gayet güzel geldi hatta birkaç tane daha almayı düşünüyorum teşekkür ederim"
+        "56 kıloyum ş aldım çok güzel toparlıyor"
       ],
       "all_reviews": [
-        {
-          "text": "ablama aldım çok beğendi",
-          "score": 5.0
-        },
-        {
-          "text": "o kadar rahat ki anlatamam çok beğenerek ve severek giyiyorum",
-          "score": 5.0
-        },
-        {
-          "text": "kızıma aldım gayet güzel geldi hatta birkaç tane daha almayı düşünüyorum teşekkür ederim",
-          "score": 5.0
-        },
         {
           "text": "56 kıloyum ş aldım çok güzel toparlıyor",
           "score": 2.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kilo",
-        "kilo rahat",
-        "asla",
-        "olmasına",
-        "rağmen",
-        "fiyat performans",
-        "performans",
-        "rahat rahat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
-        "çok güzel oldu l l beden aldım 56kilo çok güzel oldu",
-        "60 kilo 1.60 boy l beden aldım güzel oldu"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel oldu l l beden aldım 56kilo çok güzel oldu",
-          "score": 5.0
-        },
-        {
-          "text": "60 kilo 1.60 boy l beden aldım güzel oldu",
-          "score": 5.0
-        },
-        {
-          "text": "yorumlara güvenip 2tane m beden 1 tane s beden aldım dar demişler ama 162cm 62 kiloyum m bedenler gevsek oldu s beden tam istediğim gibiymiş tam olarak fiyat performans ürünü tesekkurler hizli kargo",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Duruşu & Kalitesi",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "duruşu",
-        "kalitesi",
-        "göründüğü",
-        "sardı",
-        "bedeninizden",
-        "alin",
-        "bayıldım",
-        "almalısınız"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok cokkk beğendim kendi bedeninizi alabilirrsiniz",
-        "çok güzel kendi bedeninizi alabilirsiniz",
-        "guzel tam bedeninizii alabilirsiiniz"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel kendi bedeninizi alabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "çok cokkk beğendim kendi bedeninizi alabilirrsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "guzel tam bedeninizii alabilirsiiniz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata & Kaliteli Ürünler",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "beklemiyordum",
-        "fiyat",
-        "uygun",
-        "aldık",
-        "rengi",
-        "biri",
-        "baya"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bu fiyata bu kadar iyi beklemiyordum stok yaptım çok beğendim ablama anneme aldım çok beğendiler",
-        "ben bu fiyata bu kadar güzel bir ürün geleceğini tahmin etmemiştim s beden aldım çok güzel oturdu üstüme"
-      ],
-      "all_reviews": [
-        {
-          "text": "ben bu fiyata bu kadar güzel bir ürün geleceğini tahmin etmemiştim s beden aldım çok güzel oturdu üstüme",
-          "score": 5.0
-        },
-        {
-          "text": "bu fiyata bu kadar iyi beklemiyordum stok yaptım çok beğendim ablama anneme aldım çok beğendiler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "fiyat",
-        "efsane",
-        "paketleme",
-        "aldığım",
-        "edebilirsiniz",
-        "diyebilirim",
-        "fiyat performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim"
-      ],
-      "all_reviews": [
-        {
-          "text": "satıcı hemen kargoya verdi fiyati çok uygun diger saticilardan aldığım taytlara xl beden bacagim bile sığmazken bu tayt tam oldu xl giyiyorum xl beden tercih ettim biraz daha sıkı tutsun toparlasin istiyorsaniz bir beden küçük tercih edebilirsiniz satıcıya ilgisi icin teşekkür ederim artik aldigimiz urunleri kargo posetine sarip yolluyorlar ama bu satici ozenle paketlemisti cok teşekkür ederim bol kazanclar dilerim",
-          "score": 5.0
         }
       ],
       "icon": "💬"

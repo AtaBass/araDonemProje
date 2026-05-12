@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Sorizo Pro5 Ios Android Uyumlu A Kalite Hd Ses Performa** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata Kalite** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kullanışlı** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün fiyatına göre gayet güzel paketlemede olan sevgili hazal notun çok güzeldi teşek…\"\n• **Sağlam & Sorunsuz**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **uygun** ve **valla** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel paketlenmişti sorunsuz çalışıyor çok beğendim teşekkürler\"\n• Kullanıcılar **Kalitesi & Fiyata Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kılıf** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor…\"\n• **Telefon & Uygun** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **performans** ve **bağlantı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Gerçekten çok iyi geldi bu kadar beklemiyordum hediye ve not için teşekkür ederim\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **sorunsuz** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok şirin ve çok beğendim fiyat performans ürünü tavsiye ederim kargoda oldukça hızlı…\"",
+  "summary": "Sorizo Pro5, toplam 50 yorumda genel memnuniyet puanını 4.9/5.0 olarak elde etmiş bir ürün. Ürünün öne çıkan özellikleri arasında şarja ve hiçbir sorunu yaşanmayan kullanıcı deneyimi, sorunsuz ve uygun fiyat performansı, kaliteli ses kalitesi ve müzik dinlerken kullanım kolaylığı yer alıyor. Bu özellikler için kullanıcıların yorumları oldukça olumlu ve ortalama puanları 4.9/5.0'den 5.0/5.0'ye kadar değişiyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,32 +18,36 @@
   },
   "aspects": [
     {
-      "name": "Fiyata Kalite",
-      "review_count": 20,
-      "avg_score": 4.85,
+      "name": "Şarja & Hiçbir",
+      "review_count": 30,
+      "avg_score": 4.9,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "paketleme",
-        "kullanışlı",
-        "sağlam",
         "şarja",
-        "fiyata kalite",
         "hiçbir",
-        "kaliteli",
-        "üründen"
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
       ],
-      "positive_pct": 85.0,
+      "positive_pct": 90.0,
       "negative_pct": 0.0,
-      "neutral_pct": 15.0,
+      "neutral_pct": 10.0,
       "sample_reviews": [
         "bütün özellikleri harika çalışıyor harika bir ürün tavsiye ederim güzel paketleme ve güzel not için hazal hanıma da teşekkürler",
         "ürün fiyatına göre gayet güzel paketlemede olan sevgili hazal notun çok güzeldi teşekkür ediyorum hediyeniz içinde",
-        "ürün gayet kaliteli ben indirimde aldım baya ayrıca not ve hediye kablo koruyucu için çok teşekkür ederim"
+        "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "dün 2 kez eşime sipariş verdim bugün elime ulaştı şefaf kargoyla teslim edildi hediye için teşekkür ederim",
+          "text": "çok şirin ve çok beğendim fiyat performans ürünü tavsiye ederim kargoda oldukça hızlı elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
           "score": 5.0
         },
         {
@@ -67,7 +71,19 @@
           "score": 5.0
         },
         {
+          "text": "güzel sesi gayet güzel bass müthiş teşekkür ederim hazal hanıma paketlemeden dolayı",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem",
+          "score": 5.0
+        },
+        {
           "text": "bütün özellikleri harika çalışıyor harika bir ürün tavsiye ederim güzel paketleme ve güzel not için hazal hanıma da teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "1 günde elime ulaştı paketleme de çok özenliydi teşekkür ederim",
           "score": 5.0
         },
         {
@@ -78,28 +94,28 @@
       "icon": "💬"
     },
     {
-      "name": "Sağlam & Sorunsuz",
-      "review_count": 10,
-      "avg_score": 5.0,
+      "name": "Sorunsuz & Uygun",
+      "review_count": 26,
+      "avg_score": 4.88,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "almak",
-        "sağlam",
         "sorunsuz",
         "uygun",
-        "paketleme",
         "valla",
+        "paketleme",
+        "direk",
         "yapılmış",
-        "direk"
+        "herşey"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 88.5,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 11.5,
       "sample_reviews": [
-        "çok güzel paketlenmişti sorunsuz çalışıyor çok beğendim teşekkürler",
-        "1 günde elime ulaştı paketleme de çok özenliydi teşekkür ederim",
-        "sorunsuz elimize ulaştı teşekkürler"
+        "merhabalar ürün sorunsuz elime geçti paketleme gayet güzeldi hediyeniz ve notunuz için teşekkür ederim",
+        "bütün özellikleri harika çalışıyor harika bir ürün tavsiye ederim güzel paketleme ve güzel not için hazal hanıma da teşekkürler",
+        "ürün fiyatına göre gayet güzel paketlemede olan sevgili hazal notun çok güzeldi teşekkür ediyorum hediyeniz içinde"
       ],
       "all_reviews": [
         {
@@ -107,11 +123,279 @@
           "score": 5.0
         },
         {
-          "text": "1 günde elime ulaştı paketleme de çok özenliydi teşekkür ederim",
+          "text": "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "merhabalar ürün sorunsuz elime geçti paketleme gayet güzeldi hediyeniz ve notunuz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir ürün özellikle hazal hanıma teşekkür ederim bu güzel paketleme için",
           "score": 5.0
         },
         {
           "text": "sorunsuz elimize ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "güzel sesi gayet güzel bass müthiş teşekkür ederim hazal hanıma paketlemeden dolayı",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem",
+          "score": 5.0
+        },
+        {
+          "text": "bütün özellikleri harika çalışıyor harika bir ürün tavsiye ederim güzel paketleme ve güzel not için hazal hanıma da teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "1 günde elime ulaştı paketleme de çok özenliydi teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün fiyatına göre gayet güzel paketlemede olan sevgili hazal notun çok güzeldi teşekkür ediyorum hediyeniz içinde",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 20,
+      "avg_score": 4.85,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
+        "performans fiyat",
+        "kalitesi baya",
+        "alin",
+        "sorunsuz",
+        "diye",
+        "tane"
+      ],
+      "positive_pct": 85.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 15.0,
+      "sample_reviews": [
+        "şarj aleti hediyesi için teşekkürler çok beğendim fiyat performansı çok iyi",
+        "çok şirin ve çok beğendim fiyat performans ürünü tavsiye ederim kargoda oldukça hızlı elime ulaştı teşekkürler",
+        "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok şirin ve çok beğendim fiyat performans ürünü tavsiye ederim kargoda oldukça hızlı elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "şarj aleti hediyesi için teşekkürler çok beğendim fiyat performansı çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün 2 günde elime ulaştı fiyata göre performansı gayet başarılı ayrıca satıcının içine bıraktığı not için ayrıca teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet kaliteli ben indirimde aldım baya ayrıca not ve hediye kablo koruyucu için çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem",
+          "score": 5.0
+        },
+        {
+          "text": "ürün fiyatına göre gayet güzel paketlemede olan sevgili hazal notun çok güzeldi teşekkür ediyorum hediyeniz içinde",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
+      "review_count": 14,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "sesi",
+        "şarj",
+        "kalitesi kalitesi",
+        "kılıf",
+        "bayıldım",
+        "dışarı",
+        "paketlemesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
+        "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
+        "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "şarj aleti hediyesi için teşekkürler çok beğendim fiyat performansı çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem",
+          "score": 5.0
+        },
+        {
+          "text": "güzel sesi gayet güzel bass müthiş teşekkür ederim hazal hanıma paketlemeden dolayı",
+          "score": 5.0
+        },
+        {
+          "text": "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet kaliteli ben indirimde aldım baya ayrıca not ve hediye kablo koruyucu için çok teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Müzik Dinlerken",
+      "review_count": 11,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklediğimden",
+        "aldık",
+        "kalitesi",
+        "sesi",
+        "müzik dinlerken",
+        "iyidi",
+        "sesim",
+        "dinlerken"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem",
+        "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
+        "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem",
+          "score": 5.0
+        },
+        {
+          "text": "güzel sesi gayet güzel bass müthiş teşekkür ederim hazal hanıma paketlemeden dolayı",
+          "score": 5.0
+        },
+        {
+          "text": "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet kaliteli ben indirimde aldım baya ayrıca not ve hediye kablo koruyucu için çok teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Görünt Kalite",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
+        "ürün gayet kaliteli ben indirimde aldım baya ayrıca not ve hediye kablo koruyucu için çok teşekkür ederim",
+        "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem",
+          "score": 5.0
+        },
+        {
+          "text": "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet kaliteli ben indirimde aldım baya ayrıca not ve hediye kablo koruyucu için çok teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Marka / Fiyat Performans",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "marka",
+        "süresi",
+        "efsane",
+        "beyendi",
+        "aldı",
+        "kargolama",
+        "aydır",
+        "saglam"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün gayet kaliteli ben indirimde aldım baya ayrıca not ve hediye kablo koruyucu için çok teşekkür ederim",
+        "abime aldım gayet memnun tavsiye ederim",
+        "eşime aldım gayet memnun"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşime aldım gayet memnun",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet kaliteli ben indirimde aldım baya ayrıca not ve hediye kablo koruyucu için çok teşekkür ederim",
           "score": 5.0
         },
         {
@@ -122,47 +406,7 @@
       "icon": "💬"
     },
     {
-      "name": "Kalitesi & Fiyata Performans",
-      "review_count": 7,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kalitesi",
-        "sesi",
-        "şarj",
-        "kılıf",
-        "fiyata",
-        "kalitesi kalitesi",
-        "bayıldım",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
-        "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
-        "güzel sesi gayet güzel bass müthiş teşekkür ederim hazal hanıma paketlemeden dolayı"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürünün paketlemesi iyiydi ses kalitesi ve kulaklığın kaliteside çook iyi hediye içinde teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "güzel sesi gayet güzel bass müthiş teşekkür ederim hazal hanıma paketlemeden dolayı",
-          "score": 5.0
-        },
-        {
-          "text": "kargo 1 günde elime ulaştı ve gerçekten çok kaliteli şarj kablosu da birlikte geliyor ses kalitesi muazzam ayrıca satıcının gönderdiği hediye için de teşekkürler ince düşünülmüş rahatlıkla alabilirsiniz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Telefon & Uygun",
+      "name": "Telefon",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
@@ -173,9 +417,9 @@
         "telefon",
         "beklemiyordum",
         "uygun",
-        "performans",
         "bağlantı",
-        "sıkıntı"
+        "sıkıntı",
+        "telefonla"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -186,126 +430,6 @@
       "all_reviews": [
         {
           "text": "gerçekten çok iyi geldi bu kadar beklemiyordum hediye ve not için teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat performans",
-        "performans",
-        "performans fiyat",
-        "alin",
-        "kalitesi baya",
-        "sorunsuz",
-        "fiyata",
-        "diye"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok şirin ve çok beğendim fiyat performans ürünü tavsiye ederim kargoda oldukça hızlı elime ulaştı teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok şirin ve çok beğendim fiyat performans ürünü tavsiye ederim kargoda oldukça hızlı elime ulaştı teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Şarjı & Fiyat Performans",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "uzun",
-        "şarjı",
-        "gidiyor",
-        "performans",
-        "fiyat performans",
-        "rengi",
-        "fiyata",
-        "bakarak"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "şarj aleti hediyesi için teşekkürler çok beğendim fiyat performansı çok iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "şarj aleti hediyesi için teşekkürler çok beğendim fiyat performansı çok iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Müzik Dinlerken",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "beklediğimden",
-        "aldık",
-        "kalitesi",
-        "sesi",
-        "iyidi",
-        "müzik dinlerken",
-        "sesim",
-        "kulağa"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem"
-      ],
-      "all_reviews": [
-        {
-          "text": "paketleme ve hediye için teşekürler çok güzel beklediğimden daha iyi geldi ses kalitesi muhteşem",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kılıfı & Çıktı",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "para",
-        "kılıfı",
-        "yeğenime",
-        "çıktı",
-        "öneriyorum",
-        "defa"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "eşime aldım gayet memnun"
-      ],
-      "all_reviews": [
-        {
-          "text": "eşime aldım gayet memnun",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 2.85,
   "overall_sentiment": "negative",
   "stars": "★★½☆☆",
-  "summary": "**Sheri Home Yeni 100% Pamuk Çift Kişilik Nevresim Seti(Y** için 40 yorum incelenmiştir. Müşteri memnuniyeti düşük seyretmekte; olumsuz geri bildirimler ağırlıklı konumdadır.\n• **Fiyata Kalite** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **indirimde** ve **çeyiz** konusu özellikle vurgulanmaktadır.\n• **Rengi & Renkleri Canlı** başlığında olumsuz deneyimler ön plana çıkmakta; müşteriler çeşitli sıkıntılar bildirmektedir, **renkler** ve **dokusu** başta olmak üzere.\n• **Kumaşı Kaliteli** konusunda bazı kullanıcılar yaşanan sorunlara dikkat çekmektedir; **kumaş** ve **rengi** konusu özellikle vurgulanmaktadır.\n• **Kişilik** başlığında olumsuz deneyimler ön plana çıkmakta; müşteriler çeşitli sıkıntılar bildirmektedir, **rahat** ve **almayı** başta olmak üzere.\n• **Çekme Yapmadı** konusundaki görüşler dengeli bir seyir izlemekte; hem olumlu hem olumsuz değerlendirmeler yer almaktadır; **lastikli** ve **pamuk** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Defolu geldi ve fermuarı hemen bozuldu ugraşmak istemedigiö için iade etmedim yani in…\"",
+  "summary": "Sheri Home Yeni 100% Pamuk Çift Kişilik Nevresim Seti, ortalama olarak 2.9/5.0 puan aldı. Ürün, fiyat ve lastikçarşaf bakımından genel olarak pozitif bir değerlendirme aldı, renk canlılığı da karışık yorumlar aldı. Ancak kalite ve paketlenme kalitesi方面ında olumsuz yorumlar var. Kumaş ve rengi canlılık aspectında ise karışık yorumlar aldığını görüyoruz.",
   "score_distribution": {
     "1": 16,
     "2": 4,
@@ -18,76 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Fiyata Kalite",
-      "review_count": 10,
-      "avg_score": 2.4,
-      "sentiment": "negative",
-      "sentiment_label": "Olumsuz",
-      "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
-      ],
-      "positive_pct": 20.0,
-      "negative_pct": 60.0,
-      "neutral_pct": 20.0,
-      "sample_reviews": [
-        "yanlış ürün yollandı aynı satıcıdan 5 tane ürün sipariş ettim 3 ü farklı ona göre dikkat edin",
-        "indirimdeyken aldım fiyatına göre güzel",
-        "indirimde aldım fiyatına göre güzel"
-      ],
-      "all_reviews": [
-        {
-          "text": "indirimde aldım fiyatına göre güzel",
-          "score": 5.0
-        },
-        {
-          "text": "indirimdeyken aldım fiyatına göre güzel",
-          "score": 4.0
-        },
-        {
-          "text": "yanlış ürün yollandı aynı satıcıdan 5 tane ürün sipariş ettim 3 ü farklı ona göre dikkat edin",
-          "score": 1.0
-        },
-        {
-          "text": "sipariş verdiğim ürünler gelmemiş firma kendine göre ürün göndermiş",
-          "score": 1.0
-        },
-        {
-          "text": "firma istediğin deseni göndermiyor kendi kafasına göre gönderiyor direk iade",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 8,
-      "avg_score": 2.75,
-      "sentiment": "negative",
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 14,
+      "avg_score": 3.14,
+      "sentiment": "neutral",
       "sentiment_label": "Karışık",
       "top_terms": [
-        "rengi",
-        "canlı",
-        "renkleri",
-        "yıkadım",
-        "renkleri canlı",
+        "fiyat",
         "renkler",
-        "dokusu",
-        "aynı"
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
       ],
-      "positive_pct": 25.0,
-      "negative_pct": 50.0,
-      "neutral_pct": 25.0,
+      "positive_pct": 42.9,
+      "negative_pct": 42.9,
+      "neutral_pct": 14.3,
       "sample_reviews": [
-        "nevresim rengi farklı kılıf rengi farklı",
-        "rengi soluk geldi grimsi",
-        "görseldekinden alakası yok kurdeleli kalpli diye şipariş verdim bana sade kalpli geldi ve kirli bir şekilde kalitesi çok kötü geri yadeye vericem"
+        "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+        "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü",
+        "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş"
       ],
       "all_reviews": [
         {
@@ -95,48 +47,16 @@
           "score": 5.0
         },
         {
-          "text": "nevresim rengi farklı kılıf rengi farklı",
-          "score": 3.0
+          "text": "indirimde aldım fiyatına göre güzel",
+          "score": 5.0
         },
-        {
-          "text": "rengi soluk geldi grimsi",
-          "score": 2.0
-        },
-        {
-          "text": "görseldekinden alakası yok kurdeleli kalpli diye şipariş verdim bana sade kalpli geldi ve kirli bir şekilde kalitesi çok kötü geri yadeye vericem",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 8,
-      "avg_score": 2.0,
-      "sentiment": "negative",
-      "sentiment_label": "Olumsuz",
-      "top_terms": [
-        "kumaşı",
-        "kumaş",
-        "rengi",
-        "pamuklu",
-        "lastikli",
-        "takım",
-        "dokusu",
-        "ayrı"
-      ],
-      "positive_pct": 25.0,
-      "negative_pct": 75.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
-        "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
-        "yastık ayrı renk nevresim ayrı renk yastıklar tül perdeden yapılmış gibi nevresim sözde çift kişilik ama asla değil çok küçük birde paketi açma bantı koymuşlar bunları görmeyelim diye gariba asla almayın çok çokkkkk kötü elimde olsa 0 veririm"
-      ],
-      "all_reviews": [
         {
           "text": "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
           "score": 5.0
+        },
+        {
+          "text": "indirimdeyken aldım fiyatına göre güzel",
+          "score": 4.0
         },
         {
           "text": "yastık ayrı renk nevresim ayrı renk yastıklar tül perdeden yapılmış gibi nevresim sözde çift kişilik ama asla değil çok küçük birde paketi açma bantı koymuşlar bunları görmeyelim diye gariba asla almayın çok çokkkkk kötü elimde olsa 0 veririm",
@@ -154,107 +74,315 @@
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 8,
-      "avg_score": 3.25,
-      "sentiment": "neutral",
+      "name": "Renk Canlı",
+      "review_count": 12,
+      "avg_score": 2.83,
+      "sentiment": "negative",
       "sentiment_label": "Karışık",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "rengi",
+        "canlı",
+        "renkleri",
+        "yıkadım",
+        "renkleri canlı",
+        "renkler",
+        "dokusu",
+        "aynı"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 33.3,
       "negative_pct": 50.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "yorganın diğer yuzununde aynı olmasını isterdim",
-        "o kadar ağam şağam güzel değil idare eder",
-        "195 cm diye alıp 175 cm gönderilen urun"
+        "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü",
+        "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
+        "nevresim rengi farklı kılıf rengi farklı"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel yumuşak beğendim",
+          "text": "geldi elime ulaştı beğendim isallah renk atması olmaz korkum ondan ama iyi",
           "score": 5.0
         },
         {
-          "text": "o kadar ağam şağam güzel değil idare eder",
+          "text": "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
           "score": 5.0
         },
         {
-          "text": "yorganın diğer yuzununde aynı olmasını isterdim",
+          "text": "nevresim rengi farklı kılıf rengi farklı",
+          "score": 3.0
+        },
+        {
+          "text": "rengi soluk geldi grimsi",
           "score": 2.0
         },
         {
-          "text": "195 cm diye alıp 175 cm gönderilen urun",
+          "text": "yastık ayrı renk nevresim ayrı renk yastıklar tül perdeden yapılmış gibi nevresim sözde çift kişilik ama asla değil çok küçük birde paketi açma bantı koymuşlar bunları görmeyelim diye gariba asla almayın çok çokkkkk kötü elimde olsa 0 veririm",
+          "score": 1.0
+        },
+        {
+          "text": "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü",
           "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Çekme Yapmadı",
-      "review_count": 4,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Kalite",
+      "review_count": 10,
+      "avg_score": 2.4,
+      "sentiment": "negative",
+      "sentiment_label": "Olumsuz",
       "top_terms": [
-        "yıkadım",
-        "lastikli",
-        "yapmadı",
-        "pamuk",
-        "görseldeki",
-        "alıcam",
-        "solma",
-        "çekme"
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "positive_pct": 20.0,
+      "negative_pct": 60.0,
+      "neutral_pct": 20.0,
       "sample_reviews": [
-        "defolu geldi ve fermuarı hemen bozuldu ugraşmak istemedigiö için iade etmedim yani insanları magdue etmeyi bırakın artı₺",
-        "göründüğü gibi gelmedi"
+        "görseldekinden alakası yok kurdeleli kalpli diye şipariş verdim bana sade kalpli geldi ve kirli bir şekilde kalitesi çok kötü geri yadeye vericem",
+        "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü",
+        "yanlış ürün yollandı aynı satıcıdan 5 tane ürün sipariş ettim 3 ü farklı ona göre dikkat edin"
       ],
       "all_reviews": [
         {
-          "text": "defolu geldi ve fermuarı hemen bozuldu ugraşmak istemedigiö için iade etmedim yani insanları magdue etmeyi bırakın artı₺",
+          "text": "indirimde aldım fiyatına göre güzel",
           "score": 5.0
         },
         {
-          "text": "göründüğü gibi gelmedi",
-          "score": 3.0
+          "text": "indirimdeyken aldım fiyatına göre güzel",
+          "score": 4.0
+        },
+        {
+          "text": "yanlış ürün yollandı aynı satıcıdan 5 tane ürün sipariş ettim 3 ü farklı ona göre dikkat edin",
+          "score": 1.0
+        },
+        {
+          "text": "görseldekinden alakası yok kurdeleli kalpli diye şipariş verdim bana sade kalpli geldi ve kirli bir şekilde kalitesi çok kötü geri yadeye vericem",
+          "score": 1.0
+        },
+        {
+          "text": "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü",
+          "score": 1.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Canlı Kumaşı",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 8,
+      "avg_score": 2.75,
+      "sentiment": "negative",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "canlı kumaşı",
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
         "takım",
-        "sağlam",
-        "canlı",
-        "kumaşı"
+        "dokusu",
+        "ayrı"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "positive_pct": 25.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 25.0,
       "sample_reviews": [
-        "guzel tesekkurler"
+        "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+        "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
+        "nevresim rengi farklı kılıf rengi farklı"
       ],
       "all_reviews": [
         {
-          "text": "guzel tesekkurler",
+          "text": "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
           "score": 5.0
+        },
+        {
+          "text": "nevresim rengi farklı kılıf rengi farklı",
+          "score": 3.0
+        },
+        {
+          "text": "rengi soluk geldi grimsi",
+          "score": 2.0
+        },
+        {
+          "text": "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 6,
+      "avg_score": 1.0,
+      "sentiment": "negative",
+      "sentiment_label": "Olumsuz",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+        "görseldekinden alakası yok kurdeleli kalpli diye şipariş verdim bana sade kalpli geldi ve kirli bir şekilde kalitesi çok kötü geri yadeye vericem",
+        "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü"
+      ],
+      "all_reviews": [
+        {
+          "text": "görseldekinden alakası yok kurdeleli kalpli diye şipariş verdim bana sade kalpli geldi ve kirli bir şekilde kalitesi çok kötü geri yadeye vericem",
+          "score": 1.0
+        },
+        {
+          "text": "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü",
+          "score": 1.0
+        },
+        {
+          "text": "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Solma",
+      "review_count": 4,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "takımı",
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+        "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş"
+      ],
+      "all_reviews": [
+        {
+          "text": "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
+          "score": 5.0
+        },
+        {
+          "text": "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 4,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+        "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş"
+      ],
+      "all_reviews": [
+        {
+          "text": "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
+          "score": 5.0
+        },
+        {
+          "text": "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
+      "review_count": 4,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+        "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş"
+      ],
+      "all_reviews": [
+        {
+          "text": "3 takım aldım ama bu rengi gelmemiş başka bir baskı geldı biraz ince kumaş",
+          "score": 5.0
+        },
+        {
+          "text": "böyle olacağını tahmin etmiştim zaten ben aldıktan sonra ürünü 2 katına fiyat artırdılar ben fiyonklu ürün aldım bana gönderilen takım bu kumaşı da çok kötü sakın yüzde yüz pamuk denildiğine inanmayın resmen poşet gibi incecik kumaş",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Kalite",
+      "review_count": 4,
+      "avg_score": 1.0,
+      "sentiment": "negative",
+      "sentiment_label": "Olumsuz",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "görseldekinden alakası yok kurdeleli kalpli diye şipariş verdim bana sade kalpli geldi ve kirli bir şekilde kalitesi çok kötü geri yadeye vericem",
+        "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü"
+      ],
+      "all_reviews": [
+        {
+          "text": "görseldekinden alakası yok kurdeleli kalpli diye şipariş verdim bana sade kalpli geldi ve kirli bir şekilde kalitesi çok kötü geri yadeye vericem",
+          "score": 1.0
+        },
+        {
+          "text": "aşırı kalitesiz üstüne sigara izi vardı üstündeki renkler silik bazı desenlerin yarısı yok kesinlikle önermiyorum çok çok kötü",
+          "score": 1.0
         }
       ],
       "icon": "💬"

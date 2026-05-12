@@ -8,7 +8,7 @@
   "overall_score": 4.95,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**U.S. Polo Assn. MAYBE WMN 5PR Beyaz Kadın Sneaker** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata & Numaranıza** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **taraklı** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ayakkabı kaliteli ve rahat o yönden düşünmeden alabilirsiniz sadece 38 giymeme rağmen…\"\n• **Numaramı & Kalıbı Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **derim** ve **kalip** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok rahat ve tam kalıp olarak geldi\"\n• Kullanıcılar **Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **numaranizi** ve **kullanışlı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güzel tam numaranızı alabilirsiniz\"\n• **Göründüğü Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **uygun** ve **resimde** başta olmak üzere. Örnek kullanıcı ifadesi: \"Her zaman tercih ettiğim bir marka tam kalıp alun\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fiyata** ve **uygun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Göründüğü gibi ve çok hızlı geldi gönül rahatlığıyla alabilirsiniz oldukça kaliteli\"",
+  "summary": "U.S. Polo Assn.'ın MAYBE WMN 5PR Beyaz Kadın Sneakeri, genel memnuniyet puanını 5.0/5.0'a ulaşarak olağanüstü bir performansa sahip. Ürünün en öne çıkan özelliklerinden biri, numaranıza ve tarakların mükemmel bir uyum içinde olması. Ayrıca ürünün genişliği ve fiyat performansının da kusursuzluğu, tüm yorumcuların beğenmesini sağlıyor. Bu sneakers, herkes için ideal bir seçim oluşturuyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,7 +18,7 @@
   },
   "aspects": [
     {
-      "name": "Fiyata & Numaranıza",
+      "name": "Numaranıza & Tarakl",
       "review_count": 20,
       "avg_score": 5.0,
       "sentiment": "positive",
@@ -26,12 +26,12 @@
       "top_terms": [
         "ayak",
         "almışım",
-        "fiyata",
         "numaranıza",
         "taraklı",
         "rahatlığıyla",
+        "geniş",
         "paketleme",
-        "geniş"
+        "numaranizi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -79,15 +79,127 @@
           "score": 5.0
         },
         {
-          "text": "resimde göründüğü gibi geldi ayağımda çok hoş durdu 37 numara almıştım yanlardan biraz sıkıyor ama iade etmicem açılır diye düşünüyorum alacak olanlar bir numara büyük alabilir",
+          "text": "göründüğü gibi ve çok hızlı geldi gönül rahatlığıyla alabilirsiniz oldukça kaliteli",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Numaramı & Kalıbı Rahat",
-      "review_count": 10,
+      "name": "Numaranıza",
+      "review_count": 20,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ayak",
+        "numaranıza",
+        "kibar",
+        "biri",
+        "numaramı",
+        "tarakli",
+        "sıktı",
+        "ayağımı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ayakkabı kaliteli ve rahat o yönden düşünmeden alabilirsiniz sadece 38 giymeme rağmen sanki bı tık sıktı gibi 1 numara büyük alabilirmisim eğer ayağınızı çok sarmasıni istemezseniz 1 num büyük alın yok sarsin tastamam otursun derseniz numaranızı alın gayet güzel yürürken falan rahat hissettiriyor beğendim fiyat performans ürünü",
+        "bir ayakkabı bu kadar mı rahat olur benim gibi uzun süre ayakta çalışan biriyseniz tavsiye edilir hem şık hem rahat tam ayak numaranızı almanızı tavsiye ederim",
+        "çok güzel paketleme çokta beğendim ayakkabıyı emeğinize sağlık teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "denemedim ama kibar güzel bir urun",
+          "score": 5.0
+        },
+        {
+          "text": "aşırıı rahat bi ayakkabı ben indirimde almıştım çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir ayakkabı duruşunuda çok sevdim kızlar tavsiye ederim alın",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı kaliteli ve rahat o yönden düşünmeden alabilirsiniz sadece 38 giymeme rağmen sanki bı tık sıktı gibi 1 numara büyük alabilirmisim eğer ayağınızı çok sarmasıni istemezseniz 1 num büyük alın yok sarsin tastamam otursun derseniz numaranızı alın gayet güzel yürürken falan rahat hissettiriyor beğendim fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel yumuşak ayakkabı ayakta nazık gözküyor",
+          "score": 5.0
+        },
+        {
+          "text": "bir ayakkabı bu kadar mı rahat olur benim gibi uzun süre ayakta çalışan biriyseniz tavsiye edilir hem şık hem rahat tam ayak numaranızı almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ilk giyince vurdu biraz ama ayakkabı müthiş çok zarif duruyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel paketleme çokta beğendim ayakkabıyı emeğinize sağlık teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "yıllardır kullandığım ayakkabı rahat olduğu için her sene muhakkak alıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat bir ayakkabı tavsiye ediyorum göründüğü gibi geldi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Geniş",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "geniş",
+        "kalitesi",
+        "olduğunu",
+        "zamanla",
+        "çokk",
+        "numaram",
+        "yumuşak",
+        "fakat"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ayakkabı kaliteli ve rahat o yönden düşünmeden alabilirsiniz sadece 38 giymeme rağmen sanki bı tık sıktı gibi 1 numara büyük alabilirmisim eğer ayağınızı çok sarmasıni istemezseniz 1 num büyük alın yok sarsin tastamam otursun derseniz numaranızı alın gayet güzel yürürken falan rahat hissettiriyor beğendim fiyat performans ürünü",
+        "göründüğü gibi ve çok hızlı geldi gönül rahatlığıyla alabilirsiniz oldukça kaliteli",
+        "yıllardır kullandığım ayakkabı rahat olduğu için her sene muhakkak alıyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "yıllardır kullandığım ayakkabı rahat olduğu için her sene muhakkak alıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı kaliteli ve rahat o yönden düşünmeden alabilirsiniz sadece 38 giymeme rağmen sanki bı tık sıktı gibi 1 numara büyük alabilirmisim eğer ayağınızı çok sarmasıni istemezseniz 1 num büyük alın yok sarsin tastamam otursun derseniz numaranızı alın gayet güzel yürürken falan rahat hissettiriyor beğendim fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "göründüğü gibi ve çok hızlı geldi gönül rahatlığıyla alabilirsiniz oldukça kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "begendimmm kaliteli",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaram",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -96,103 +208,30 @@
         "tane",
         "kalıbı",
         "derim",
-        "bayıldım",
         "almışım",
+        "bayıldım",
         "kalip",
-        "sağlam"
+        "paketleme"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok rahat ve tam kalıp olarak geldi",
-        "denemedim ama kibar güzel bir urun",
-        "on numara beş yıldız"
+        "çok güzel paketleme çokta beğendim ayakkabıyı emeğinize sağlık teşekkür ederim",
+        "bir ayakkabı bu kadar mı rahat olur benim gibi uzun süre ayakta çalışan biriyseniz tavsiye edilir hem şık hem rahat tam ayak numaranızı almanızı tavsiye ederim",
+        "çok güzel bir ayakkabı duruşunuda çok sevdim kızlar tavsiye ederim alın"
       ],
       "all_reviews": [
         {
-          "text": "denemedim ama kibar güzel bir urun",
+          "text": "çok güzel paketleme çokta beğendim ayakkabıyı emeğinize sağlık teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "çok rahat ve tam kalıp olarak geldi",
+          "text": "bir ayakkabı bu kadar mı rahat olur benim gibi uzun süre ayakta çalışan biriyseniz tavsiye edilir hem şık hem rahat tam ayak numaranızı almanızı tavsiye ederim",
           "score": 5.0
         },
         {
-          "text": "on numara beş yıldız",
-          "score": 5.0
-        },
-        {
-          "text": "harika mükemmel",
-          "score": 5.0
-        },
-        {
-          "text": "güzel geldi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat",
-      "review_count": 4,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "numaranizi",
-        "alin",
-        "alınmalı",
-        "alınmalı rahat",
-        "rahat rahat",
-        "kullanışlı",
-        "kaliteli rahat",
-        "numaranizi rahat"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "güzel tam numaranızı alabilirsiniz",
-        "güzel tam numaranızı alın"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel tam numaranızı alabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "güzel tam numaranızı alın",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Göründüğü Rahat",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "beklemiyordum",
-        "uygun",
-        "severek",
-        "göründüğü rahat",
-        "resimde",
-        "rengi",
-        "rahatlıkla",
-        "spor"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "her zaman tercih ettiğim bir marka tam kalıp alun"
-      ],
-      "all_reviews": [
-        {
-          "text": "her zaman tercih ettiğim bir marka tam kalıp alun",
+          "text": "çok güzel bir ayakkabı duruşunuda çok sevdim kızlar tavsiye ederim alın",
           "score": 5.0
         }
       ],
@@ -200,7 +239,7 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 2,
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -208,51 +247,96 @@
         "performans",
         "fiyat performans",
         "fiyat",
-        "fiyata",
         "uygun",
         "emeği",
         "kibar",
-        "arkadaşlar"
+        "arkadaşlar",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "göründüğü gibi ve çok hızlı geldi gönül rahatlığıyla alabilirsiniz oldukça kaliteli"
+        "ayakkabı kaliteli ve rahat o yönden düşünmeden alabilirsiniz sadece 38 giymeme rağmen sanki bı tık sıktı gibi 1 numara büyük alabilirmisim eğer ayağınızı çok sarmasıni istemezseniz 1 num büyük alın yok sarsin tastamam otursun derseniz numaranızı alın gayet güzel yürürken falan rahat hissettiriyor beğendim fiyat performans ürünü",
+        "çok güzel paketleme çokta beğendim ayakkabıyı emeğinize sağlık teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "göründüğü gibi ve çok hızlı geldi gönül rahatlığıyla alabilirsiniz oldukça kaliteli",
+          "text": "çok güzel paketleme çokta beğendim ayakkabıyı emeğinize sağlık teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı kaliteli ve rahat o yönden düşünmeden alabilirsiniz sadece 38 giymeme rağmen sanki bı tık sıktı gibi 1 numara büyük alabilirmisim eğer ayağınızı çok sarmasıni istemezseniz 1 num büyük alın yok sarsin tastamam otursun derseniz numaranızı alın gayet güzel yürürken falan rahat hissettiriyor beğendim fiyat performans ürünü",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat Kaliteli",
-      "review_count": 2,
+      "name": "Duruyo",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat kaliteli",
-        "alınır",
-        "duruşu",
-        "bayıldım rahat",
-        "rahat bayıldım",
-        "hafif",
-        "sağlam",
+        "alınmalı",
+        "duruyo",
+        "asla",
+        "alin",
+        "yumuşak",
+        "istediğim",
+        "kalıp kalıp",
         "bayıldım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "begendimmm kaliteli"
+        "ilk giyince vurdu biraz ama ayakkabı müthiş çok zarif duruyor",
+        "çok güzel yumuşak ayakkabı ayakta nazık gözküyor"
       ],
       "all_reviews": [
         {
-          "text": "begendimmm kaliteli",
+          "text": "ilk giyince vurdu biraz ama ayakkabı müthiş çok zarif duruyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel yumuşak ayakkabı ayakta nazık gözküyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fakat / Alınabilir Kalıp",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fakat",
+        "bakarak",
+        "ayağımı",
+        "taraklı",
+        "kibar",
+        "diye",
+        "yumuşak",
+        "uzun"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "resimde göründüğü gibi geldi ayağımda çok hoş durdu 37 numara almıştım yanlardan biraz sıkıyor ama iade etmicem açılır diye düşünüyorum alacak olanlar bir numara büyük alabilir",
+        "denemedim ama kibar güzel bir urun"
+      ],
+      "all_reviews": [
+        {
+          "text": "denemedim ama kibar güzel bir urun",
+          "score": 5.0
+        },
+        {
+          "text": "resimde göründüğü gibi geldi ayağımda çok hoş durdu 37 numara almıştım yanlardan biraz sıkıyor ama iade etmicem açılır diye düşünüyorum alacak olanlar bir numara büyük alabilir",
           "score": 5.0
         }
       ],

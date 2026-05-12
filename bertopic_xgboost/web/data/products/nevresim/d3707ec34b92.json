@@ -8,7 +8,7 @@
   "overall_score": 4.84,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Rimo Home Çift Kişilik Çift Taraflı Nevresim Takımı** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Abime aldık harika deseni tam istediğimiz gibi sıcak tutuyor\"\n• **Fiyata Kalite**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **indirimde** ve **çeyiz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün gerçekten çok güzeldi indirimde yeğenime çehiz hediyesi olarak aldım ve çok beğe…\"\n• Kullanıcılar **Fiyat & Lastikli Çarşafı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **renkler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Indirimde aldim bu fiyata harika bir takım cok begendik kumasın parasi bile değil muh…\"\n• **Kumaşı Kaliteli** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kumaş** ve **rengi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırl…\"\n• Müşteri yorumlarında **Çekme Solma** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **takımı** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Fiyatına göre gayet güzel hediye aldım çok beğendiler\"",
+  "summary": "**Rimo Home Çift Kişilik Çift Taraflı Nevresim Takımı** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Çekme Solma**: Kullanıcılar çekme solma konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat / Lastikl Çarşaf**: Kullanıcılar fiyat / lastikl çarşaf konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketlenme & Kalite**: Kullanıcılar paketlenme & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Canlı Kumaş**: Kullanıcılar canlı kumaş konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,128 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 19,
-      "avg_score": 4.89,
+      "name": "Kalite",
+      "review_count": 28,
+      "avg_score": 4.82,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
-      ],
-      "positive_pct": 89.5,
-      "negative_pct": 0.0,
-      "neutral_pct": 10.5,
-      "sample_reviews": [
-        "bayıldım harika bir ürün çeyizime aldım alın aldırın",
-        "çeyizime aldım sorunsuz geldi güzel",
-        "abime aldık harika deseni tam istediğimiz gibi sıcak tutuyor"
-      ],
-      "all_reviews": [
-        {
-          "text": "bayıldım harika bir ürün çeyizime aldım alın aldırın",
-          "score": 5.0
-        },
-        {
-          "text": "çeyizim için aldım görseldeki gibi gayet güzel",
-          "score": 5.0
-        },
-        {
-          "text": "çeyiz için aldım güzel ve kaliteli ürünler",
-          "score": 5.0
-        },
-        {
-          "text": "çeyizim için almıştım sorunsuz geldi",
-          "score": 5.0
-        },
-        {
-          "text": "anneme aldım bayıldı kendimede alacagımcok güzel",
-          "score": 5.0
-        },
-        {
-          "text": "abime aldık harika deseni tam istediğimiz gibi sıcak tutuyor",
-          "score": 5.0
-        },
-        {
-          "text": "hem kardeşime hem anneme aldım şık duruyor",
-          "score": 5.0
-        },
-        {
-          "text": "çeyizime aldım sorunsuz geldi güzel",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
         "kalite",
         "tane",
         "paketleme",
         "indirimde",
-        "fiyata kalite",
         "çeyiz",
-        "beklemiyordum"
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 82.1,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 17.9,
       "sample_reviews": [
-        "ürün gerçekten çok güzeldi indirimde yeğenime çehiz hediyesi olarak aldım ve çok beğenildi",
-        "gerçekten mükemmel bir şekilde geldi elinize emeğinize sağlık paketlenmesi ne kadar harika üründü tşk ederim",
-        "hediye olarak aldım çok beğenildi fiyatıda çok iyiydi"
-      ],
-      "all_reviews": [
-        {
-          "text": "gerçekten mükemmel bir şekilde geldi elinize emeğinize sağlık paketlenmesi ne kadar harika üründü tşk ederim",
-          "score": 5.0
-        },
-        {
-          "text": "ürün gerçekten çok güzeldi indirimde yeğenime çehiz hediyesi olarak aldım ve çok beğenildi",
-          "score": 5.0
-        },
-        {
-          "text": "hediye olarak aldım çok beğenildi fiyatıda çok iyiydi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat & Lastikli Çarşafı",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat",
-        "fiyata",
-        "renkler",
-        "aldık",
-        "takımı",
-        "sağlam",
-        "fermuarlı",
-        "takım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "indirimde aldim bu fiyata harika bir takım cok begendik kumasın parasi bile değil muhtesem elinize saglik",
-        "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
-        "gerçekten fevkalade geldii süper bir ürün tamamen fiyat performans ürünü bayıldıkk"
+        "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+        "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
+        "çeyiz için aldım güzel ve kaliteli ürünler"
       ],
       "all_reviews": [
         {
@@ -151,37 +51,261 @@
           "score": 5.0
         },
         {
-          "text": "gerçekten fevkalade geldii süper bir ürün tamamen fiyat performans ürünü bayıldıkk",
+          "text": "ürün gerçekten çok güzeldi indirimde yeğenime çehiz hediyesi olarak aldım ve çok beğenildi",
           "score": 5.0
+        },
+        {
+          "text": "bayıldım harika bir ürün çeyizime aldım alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "çeyiz için aldım güzel ve kaliteli ürünler",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için almıştım sorunsuz geldi",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel arkadaşımın çeyizine aldım hediye olarak",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için aldım görseldeki gibi gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+          "score": 4.0
+        },
+        {
+          "text": "çeyizime aldım sorunsuz geldi güzel",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 7,
-      "avg_score": 4.57,
+      "name": "Çekme Solma",
+      "review_count": 25,
+      "avg_score": 4.8,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kumaşı",
-        "kumaş",
-        "rengi",
-        "pamuklu",
-        "lastikli",
-        "takım",
-        "dokusu",
-        "ayrı"
+        "takımı",
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
       ],
-      "positive_pct": 57.1,
+      "positive_pct": 80.0,
       "negative_pct": 0.0,
-      "neutral_pct": 42.9,
+      "neutral_pct": 20.0,
       "sample_reviews": [
-        "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
-        "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
-        "4 takım aldım hepside birbirinden güzel alın aldırın valla"
+        "çeyizim için almıştım sorunsuz geldi",
+        "çeyizime aldım sorunsuz geldi güzel",
+        "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim"
       ],
       "all_reviews": [
+        {
+          "text": "hiçbir defosu kusuru yoktu yıkadım renk solmadi çok teşekkür ederim bir takım da kız kardeşimin ceyizine hediye aldım",
+          "score": 5.0
+        },
+        {
+          "text": "indirimde aldim bu fiyata harika bir takım cok begendik kumasın parasi bile değil muhtesem elinize saglik",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım harika bir ürün çeyizime aldım alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "çeyiz için aldım güzel ve kaliteli ürünler",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için almıştım sorunsuz geldi",
+          "score": 5.0
+        },
+        {
+          "text": "gayet güzel arkadaşımın çeyizine aldım hediye olarak",
+          "score": 5.0
+        },
+        {
+          "text": "4 takım aldım hepside birbirinden güzel alın aldırın valla",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizim için aldım görseldeki gibi gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+          "score": 4.0
+        },
+        {
+          "text": "çeyizime aldım sorunsuz geldi güzel",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 23,
+      "avg_score": 4.74,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 73.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 26.1,
+      "sample_reviews": [
+        "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
+        "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+        "indirimde aldim bu fiyata harika bir takım cok begendik kumasın parasi bile değil muhtesem elinize saglik"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
+          "score": 5.0
+        },
+        {
+          "text": "hiçbir defosu kusuru yoktu yıkadım renk solmadi çok teşekkür ederim bir takım da kız kardeşimin ceyizine hediye aldım",
+          "score": 5.0
+        },
+        {
+          "text": "indirimde aldim bu fiyata harika bir takım cok begendik kumasın parasi bile değil muhtesem elinize saglik",
+          "score": 5.0
+        },
+        {
+          "text": "hediye olarak aldım çok beğenildi fiyatıda çok iyiydi",
+          "score": 5.0
+        },
+        {
+          "text": "4 takım aldım hepside birbirinden güzel alın aldırın valla",
+          "score": 5.0
+        },
+        {
+          "text": "abime aldık harika deseni tam istediğimiz gibi sıcak tutuyor",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten fevkalade geldii süper bir ürün tamamen fiyat performans ürünü bayıldıkk",
+          "score": 5.0
+        },
+        {
+          "text": "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+          "score": 4.0
+        },
+        {
+          "text": "fiyatına göre gayet güzel hediye aldım çok beğendiler",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 17,
+      "avg_score": 4.88,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 88.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.8,
+      "sample_reviews": [
+        "bayıldım harika bir ürün çeyizime aldım alın aldırın",
+        "çeyizime aldım sorunsuz geldi güzel",
+        "gerçekten mükemmel bir şekilde geldi elinize emeğinize sağlık paketlenmesi ne kadar harika üründü tşk ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten mükemmel bir şekilde geldi elinize emeğinize sağlık paketlenmesi ne kadar harika üründü tşk ederim",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
+          "score": 5.0
+        },
+        {
+          "text": "çeyiz için aldım güzel ve kaliteli ürünler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "abime aldık harika deseni tam istediğimiz gibi sıcak tutuyor",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım harika bir ürün çeyizime aldım alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım sorunsuz geldi güzel",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
+      "review_count": 13,
+      "avg_score": 4.77,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 76.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 23.1,
+      "sample_reviews": [
+        "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+        "hiçbir defosu kusuru yoktu yıkadım renk solmadi çok teşekkür ederim bir takım da kız kardeşimin ceyizine hediye aldım",
+        "indirimde aldim bu fiyata harika bir takım cok begendik kumasın parasi bile değil muhtesem elinize saglik"
+      ],
+      "all_reviews": [
+        {
+          "text": "indirimde aldim bu fiyata harika bir takım cok begendik kumasın parasi bile değil muhtesem elinize saglik",
+          "score": 5.0
+        },
+        {
+          "text": "hiçbir defosu kusuru yoktu yıkadım renk solmadi çok teşekkür ederim bir takım da kız kardeşimin ceyizine hediye aldım",
+          "score": 5.0
+        },
         {
           "text": "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
           "score": 5.0
@@ -198,66 +322,180 @@
       "icon": "💬"
     },
     {
-      "name": "Çekme Solma",
-      "review_count": 5,
-      "avg_score": 4.4,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 8,
+      "avg_score": 4.62,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
       "top_terms": [
-        "takımı",
-        "sorunsuz",
-        "çeyiz",
-        "çekme solma",
-        "beklediğimden",
-        "almak",
-        "yapmadı",
-        "asla"
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
       ],
-      "positive_pct": 40.0,
+      "positive_pct": 62.5,
       "negative_pct": 0.0,
-      "neutral_pct": 60.0,
+      "neutral_pct": 37.5,
       "sample_reviews": [
-        "gayet güzel arkadaşımın çeyizine aldım hediye olarak",
-        "fiyatına göre gayet güzel hediye aldım çok beğendiler"
+        "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+        "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
+        "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "gayet güzel arkadaşımın çeyizine aldım hediye olarak",
+          "text": "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
           "score": 5.0
         },
         {
-          "text": "fiyatına göre gayet güzel hediye aldım çok beğendiler",
+          "text": "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 3,
+      "name": "Doku & Kalite",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rengi",
-        "canlı",
-        "renkleri",
-        "yıkadım",
-        "renkleri canlı",
-        "renkler",
         "dokusu",
-        "aynı"
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "hiçbir defosu kusuru yoktu yıkadım renk solmadi çok teşekkür ederim bir takım da kız kardeşimin ceyizine hediye aldım"
+        "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
+        "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
+        "çeyiz için aldım güzel ve kaliteli ürünler"
       ],
       "all_reviews": [
         {
+          "text": "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çeyiz için aldım güzel ve kaliteli ürünler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hiçbir defosu kusuru yoktu yıkadım renk solmadi çok teşekkür ederim bir takım da kız kardeşimin ceyizine hediye aldım",
+        "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten fiyat performans ürünü ben bu nevresimi çok araştırdım en uygun bu mağazada buldum ve gerçekten çok beğendim çok kaliteli keşke carsaf lastikli olsa",
+          "score": 5.0
+        },
+        {
           "text": "hiçbir defosu kusuru yoktu yıkadım renk solmadi çok teşekkür ederim bir takım da kız kardeşimin ceyizine hediye aldım",
           "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik & Alma",
+      "review_count": 5,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çeyizime",
+        "çift kişilik",
+        "kişilik",
+        "almayı",
+        "almayı düşünüyorum",
+        "düşünüyorum",
+        "çift",
+        "kalitesi"
+      ],
+      "positive_pct": 60.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 40.0,
+      "sample_reviews": [
+        "bayıldım harika bir ürün çeyizime aldım alın aldırın",
+        "çeyizime aldım sorunsuz geldi güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldım harika bir ürün çeyizime aldım alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "çeyizime aldım sorunsuz geldi güzel",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 5,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 40.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 60.0,
+      "sample_reviews": [
+        "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+        "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün çok kaliteli kumaş çok hızlı elime ulaştı paketleme çok güzel olmuş tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kargo ve paketleme sürecinde herhangi bir sorun yaşamadım 2 takım olarak çeyiz hazırlığı için aldım misafirlerim için kullanmayı planlıyorum tok bir kumaşı var herhangi bir yırtık kusur yok sadece dikiş kısımları çok çabuk atarmış gibi geldi fiyat performans ürünü kesinlikle şık bi duruşu var teşekkür ederim",
+          "score": 4.0
         }
       ],
       "icon": "💬"

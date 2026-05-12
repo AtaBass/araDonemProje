@@ -8,7 +8,7 @@
   "overall_score": 4.6,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**REDCODE ERKEK LİKRALI SLİM FİT KOT PANTOLON** için 10 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Kalite & Fiyat**: Eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir.\n• **Fiyat Performans**: Tam istediğim gibi oldu çok güzel bedeninde tam oldu hayırli işleriniz olsun.\n• **Kalite & Alınabilir**: Eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir.\n• **Kalite & Kalıb**: Eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir.",
+  "summary": "\"Genel Değerlendirme Özeti: Redcode Erkek Likrali Slim Fit Kot Pantolon, yüksek memnuniyet oranına sahip bir üründür. Fiyat performansı ve kalitesi hem fiyat olarak hem de ürün olarak beklentileri karşılıyor. Müşterilerin büyük çoğunluğu ürünün kalitesine ve alınamayacağına dair olumlu yorumlar bırakmıştır. Ürün, genel anlamda iyi bir seçim görünüyor.\"",
   "score_distribution": {
     "1": 1,
     "2": 0,
@@ -17,6 +17,102 @@
     "5": 9
   },
   "aspects": [
+    {
+      "name": "Fiyat Performans",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kilo",
+        "kalite",
+        "fakat",
+        "super",
+        "bedeni",
+        "fiyat",
+        "aldık",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hepside kaliteli süper bize büyük geldi boyları kısa oldu ogluma üzülerek iade ediyorum alın aldırın bu fiyata gercekten çok kaliteli",
+        "eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir",
+        "arkadaşim için aldim boya 170 ve 72 kilo 32 bedan aldim tam iyi geldi çok iyi çok güzel bir az kısa for ama arkadaşim okadar beğendi ki dehiştirmedik"
+      ],
+      "all_reviews": [
+        {
+          "text": "arkadaşim için aldim boya 170 ve 72 kilo 32 bedan aldim tam iyi geldi çok iyi çok güzel bir az kısa for ama arkadaşim okadar beğendi ki dehiştirmedik",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir",
+          "score": 5.0
+        },
+        {
+          "text": "hepside kaliteli süper bize büyük geldi boyları kısa oldu ogluma üzülerek iade ediyorum alın aldırın bu fiyata gercekten çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "tam istediğim gibi oldu çok güzel bedeninde tam oldu hayırli işleriniz olsun",
+          "score": 5.0
+        },
+        {
+          "text": "çok guzel tam oldu kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli güzel hızlı teslimat için teşekkür ederiz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir",
+        "hepside kaliteli süper bize büyük geldi boyları kısa oldu ogluma üzülerek iade ediyorum alın aldırın bu fiyata gercekten çok kaliteli",
+        "kaliteli güzel hızlı teslimat için teşekkür ederiz"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir",
+          "score": 5.0
+        },
+        {
+          "text": "hepside kaliteli süper bize büyük geldi boyları kısa oldu ogluma üzülerek iade ediyorum alın aldırın bu fiyata gercekten çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "çok guzel tam oldu kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli güzel hızlı teslimat için teşekkür ederiz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
     {
       "name": "Kalite & Fiyat",
       "review_count": 4,
@@ -62,88 +158,8 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kilo",
-        "kalite",
-        "fakat",
-        "super",
-        "bedeni",
-        "fiyat",
-        "aldık",
-        "performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "tam istediğim gibi oldu çok güzel bedeninde tam oldu hayırli işleriniz olsun",
-        "kaliteli güzel hızlı teslimat için teşekkür ederiz",
-        "çok guzel tam oldu kaliteli"
-      ],
-      "all_reviews": [
-        {
-          "text": "tam istediğim gibi oldu çok güzel bedeninde tam oldu hayırli işleriniz olsun",
-          "score": 5.0
-        },
-        {
-          "text": "çok guzel tam oldu kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli güzel hızlı teslimat için teşekkür ederiz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Alınabilir",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kalitesi",
-        "alınabilir",
-        "likralı",
-        "kalıp",
-        "beğenerek",
-        "birebir",
-        "yumuşacık",
-        "tşkler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir",
-        "kaliteli güzel hızlı teslimat için teşekkür ederiz",
-        "çok guzel tam oldu kaliteli"
-      ],
-      "all_reviews": [
-        {
-          "text": "eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir",
-          "score": 5.0
-        },
-        {
-          "text": "çok guzel tam oldu kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli güzel hızlı teslimat için teşekkür ederiz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Kalite & Kalıb",
-      "review_count": 3,
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -162,8 +178,8 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "eşime aldım beklediğimizden daha iyi geldi fiyatına göre kalitesi oldukça iyi tereddüt etmeden gönül rahatlığıyla alınabilir",
-        "kaliteli güzel hızlı teslimat için teşekkür ederiz",
-        "çok guzel tam oldu kaliteli"
+        "hepside kaliteli süper bize büyük geldi boyları kısa oldu ogluma üzülerek iade ediyorum alın aldırın bu fiyata gercekten çok kaliteli",
+        "kaliteli güzel hızlı teslimat için teşekkür ederiz"
       ],
       "all_reviews": [
         {
@@ -171,7 +187,81 @@
           "score": 5.0
         },
         {
+          "text": "hepside kaliteli süper bize büyük geldi boyları kısa oldu ogluma üzülerek iade ediyorum alın aldırın bu fiyata gercekten çok kaliteli",
+          "score": 5.0
+        },
+        {
           "text": "çok guzel tam oldu kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli güzel hızlı teslimat için teşekkür ederiz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alin",
+        "aynı",
+        "kalıp",
+        "iade",
+        "istediğim",
+        "super",
+        "kocama",
+        "birebir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hepside kaliteli süper bize büyük geldi boyları kısa oldu ogluma üzülerek iade ediyorum alın aldırın bu fiyata gercekten çok kaliteli",
+        "tam istediğim gibi oldu çok güzel bedeninde tam oldu hayırli işleriniz olsun"
+      ],
+      "all_reviews": [
+        {
+          "text": "hepside kaliteli süper bize büyük geldi boyları kısa oldu ogluma üzülerek iade ediyorum alın aldırın bu fiyata gercekten çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "tam istediğim gibi oldu çok güzel bedeninde tam oldu hayırli işleriniz olsun",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Teslimat & Çorap",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "teslimat",
+        "çorap",
+        "emeğinize",
+        "istediğim",
+        "paça",
+        "istediğim bedeni",
+        "kilo",
+        "emeği"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tam istediğim gibi oldu çok güzel bedeninde tam oldu hayırli işleriniz olsun",
+        "kaliteli güzel hızlı teslimat için teşekkür ederiz"
+      ],
+      "all_reviews": [
+        {
+          "text": "tam istediğim gibi oldu çok güzel bedeninde tam oldu hayırli işleriniz olsun",
           "score": 5.0
         },
         {

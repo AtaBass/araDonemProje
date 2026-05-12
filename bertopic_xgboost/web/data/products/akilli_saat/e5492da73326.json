@@ -8,7 +8,7 @@
   "overall_score": 4.88,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Technodia T700s Akıllı Saat Ios Andorid Destekli Arama ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Sağlam** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Rengi çok hoş şarja taktığım için henüz inceleyemedim paketleme de güzeldi sağlam bir…\"\n• **Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kalite** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz…\"\n• Kullanıcılar **Kullanışlı & Isteyenlere** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **sorunsuz** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünüm geldi beklediğimden daha güzel paketlemesi kargolanması sapa sağlam geldi emeğ…\"\n• **Kullanışlı & Asuman Hanım** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **güvenilir** ve **farklı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel paketlenmiş hızlı geldi tşk ederim güvenilir rahatlıkla alabilirsiniz\"\n• Müşteri yorumlarında **Asuman Hanım** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **farklı** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kızım için aldım çok güzel\"",
+  "summary": "**Technodia T700s Akıllı Saat Ios Andorid Destekli Arama ** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Özellik**: Kullanıcılar özellik konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketleme**: Kullanıcılar paketleme konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz & Paketlenme**: Kullanıcılar genel olarak sorunsuz & paketlenme açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,40 +18,42 @@
   },
   "aspects": [
     {
-      "name": "Sağlam",
-      "review_count": 25,
-      "avg_score": 4.76,
+      "name": "Özellik",
+      "review_count": 29,
+      "avg_score": 4.79,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
         "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "bayıldım"
       ],
-      "positive_pct": 76.0,
+      "positive_pct": 79.3,
       "negative_pct": 0.0,
-      "neutral_pct": 24.0,
+      "neutral_pct": 20.7,
       "sample_reviews": [
+        "ürün çok güzel paketlenmiş şekilde geldi paketleyen arkadaşın ellerine sağlık şuan için şarj ediyorum dış görünüş olarak güzel gözüküyor",
         "rengi çok hoş şarja taktığım için henüz inceleyemedim paketleme de güzeldi sağlam bir şekilde ulaştı elime teşekkür ederim",
-        "gerçekten güzel bir ürün elimize en kısa sürede ulaştı ayrica paketleme cok guzel olmuş celil beye teşekkürler",
-        "efsane bir şey özenli paketleme içinde çok teşekkür ederim sağlam bir şekilde elime ulaştı teşekkür ederim"
+        "paketleme çok güzel ve özenliydi teşekkür ediyorum ayrıca kargoyada hızlı teslimat için teşekkür ediyoruz"
       ],
       "all_reviews": [
+        {
+          "text": "ürün çok güzel paketlenmiş şekilde geldi paketleyen arkadaşın ellerine sağlık şuan için şarj ediyorum dış görünüş olarak güzel gözüküyor",
+          "score": 5.0
+        },
         {
           "text": "rengi çok hoş şarja taktığım için henüz inceleyemedim paketleme de güzeldi sağlam bir şekilde ulaştı elime teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "çok güzel bir ürün çocuklar için aldım iyi teşekkür ederim",
+          "text": "kargo istediğimiz gibi özenle paketlenmiş celil beye özellikle teşekkürler",
           "score": 5.0
         },
         {
-          "text": "kargo istediğimiz gibi özenle paketlenmiş celil beye özellikle teşekkürler",
+          "text": "ürünüm geldi beklediğimden daha güzel paketlemesi kargolanması sapa sağlam geldi emeğinize sağlık çok memnun kaldım",
           "score": 5.0
         },
         {
@@ -67,11 +69,195 @@
           "score": 5.0
         },
         {
+          "text": "hediye alındı çok beğenildi paketleme mükemmel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok ozenliydi fiyatına göre gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün paketlenmesi çok güzel olmuş paketlemeyi yapan arkadaşların eline sağlık",
+          "score": 4.0
+        },
+        {
+          "text": "gerçekten güzel bir ürün elimize en kısa sürede ulaştı ayrica paketleme cok guzel olmuş celil beye teşekkürler",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 26,
+      "avg_score": 4.77,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "paketlemesi",
+        "ürünüm",
+        "kısa",
+        "paketlenmesi",
+        "özellikle",
+        "sürede",
+        "kısa sürede"
+      ],
+      "positive_pct": 76.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 23.1,
+      "sample_reviews": [
+        "gerçekten güzel bir ürün elimize en kısa sürede ulaştı ayrica paketleme cok guzel olmuş celil beye teşekkürler",
+        "ürünüm geldi beklediğimden daha güzel paketlemesi kargolanması sapa sağlam geldi emeğinize sağlık çok memnun kaldım",
+        "ürünün paketlenmesi çok güzel olmuş paketlemeyi yapan arkadaşların eline sağlık"
+      ],
+      "all_reviews": [
+        {
+          "text": "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+          "score": 5.0
+        },
+        {
+          "text": "rengi çok hoş şarja taktığım için henüz inceleyemedim paketleme de güzeldi sağlam bir şekilde ulaştı elime teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm geldi beklediğimden daha güzel paketlemesi kargolanması sapa sağlam geldi emeğinize sağlık çok memnun kaldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün elime ulaştı paketlemesini yapanların ellerine kollarına sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "efsane bir şey özenli paketleme içinde çok teşekkür ederim sağlam bir şekilde elime ulaştı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok güzel ve özenliydi teşekkür ediyorum ayrıca kargoyada hızlı teslimat için teşekkür ediyoruz",
+          "score": 5.0
+        },
+        {
+          "text": "hediye alındı çok beğenildi paketleme mükemmel tavsiye ederim",
+          "score": 5.0
+        },
+        {
           "text": "ürün çok beğendik paketlenmesi de çok guzel ve sağlamdı",
           "score": 5.0
         },
         {
+          "text": "paketleme çok ozenliydi fiyatına göre gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten güzel bir ürün elimize en kısa sürede ulaştı ayrica paketleme cok guzel olmuş celil beye teşekkürler",
+          "score": 4.0
+        },
+        {
+          "text": "ürünün paketlenmesi çok güzel olmuş paketlemeyi yapan arkadaşların eline sağlık",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 24,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sesli",
+        "ürünler",
+        "aydır",
+        "kurulumu kolay",
+        "ogluma",
+        "kurulumu",
+        "şimdilik",
+        "fiyat"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "sample_reviews": [
+        "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+        "kız kardeşime aldım çok beğenerek kullanıyor tam fiyat performans ürünü",
+        "ürün çok güzel paketlenmiş şekilde geldi paketleyen arkadaşın ellerine sağlık şuan için şarj ediyorum dış görünüş olarak güzel gözüküyor"
+      ],
+      "all_reviews": [
+        {
           "text": "ürün çok güzel paketlenmiş şekilde geldi paketleyen arkadaşın ellerine sağlık şuan için şarj ediyorum dış görünüş olarak güzel gözüküyor",
+          "score": 5.0
+        },
+        {
+          "text": "kız kardeşime aldım çok beğenerek kullanıyor tam fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürünüm geldi beklediğimden daha güzel paketlemesi kargolanması sapa sağlam geldi emeğinize sağlık çok memnun kaldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün elime ulaştı paketlemesini yapanların ellerine kollarına sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok beğendik paketlenmesi de çok guzel ve sağlamdı",
+          "score": 5.0
+        },
+        {
+          "text": "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir ürün çocuklar için aldım iyi teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün paketlenmesi çok güzel olmuş paketlemeyi yapan arkadaşların eline sağlık",
+          "score": 4.0
+        },
+        {
+          "text": "gerçekten güzel bir ürün elimize en kısa sürede ulaştı ayrica paketleme cok guzel olmuş celil beye teşekkürler",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Paketlenme",
+      "review_count": 11,
+      "avg_score": 4.45,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "aldık",
+        "kısa",
+        "sorunsuz",
+        "paketlenmesi",
+        "kullanmaya",
+        "almak isteyenlere",
+        "isteyenlere",
+        "bayıldı"
+      ],
+      "positive_pct": 45.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 54.5,
+      "sample_reviews": [
+        "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+        "gerçekten güzel bir ürün elimize en kısa sürede ulaştı ayrica paketleme cok guzel olmuş celil beye teşekkürler",
+        "ürünün paketlenmesi çok güzel olmuş paketlemeyi yapan arkadaşların eline sağlık"
+      ],
+      "all_reviews": [
+        {
+          "text": "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok beğendik paketlenmesi de çok guzel ve sağlamdı",
           "score": 5.0
         },
         {
@@ -87,7 +273,7 @@
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 10,
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -96,10 +282,10 @@
         "fiyat",
         "performans",
         "kalite",
-        "fiyata",
         "bayıldı",
         "teslimat",
-        "ideal"
+        "ideal",
+        "kargolama"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -119,7 +305,43 @@
           "score": 5.0
         },
         {
-          "text": "hediye alındı çok beğenildi paketleme mükemmel tavsiye ederim",
+          "text": "paketleme çok ozenliydi fiyatına göre gayet güzel",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Marka / Fiyat Performans",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "marka",
+        "sorunsuz",
+        "ilgili",
+        "fiyat",
+        "tane",
+        "bide",
+        "eksiksiz",
+        "başka"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+        "kız kardeşime aldım çok beğenerek kullanıyor tam fiyat performans ürünü",
+        "paketleme çok ozenliydi fiyatına göre gayet güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "kız kardeşime aldım çok beğenerek kullanıyor tam fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
           "score": 5.0
         },
         {
@@ -130,83 +352,8 @@
       "icon": "💬"
     },
     {
-      "name": "Kullanışlı & Isteyenlere",
-      "review_count": 7,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "kullanışlı",
-        "kısa",
-        "sorunsuz",
-        "kaliteli",
-        "paketlenmesi",
-        "isteyenlere"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürünüm geldi beklediğimden daha güzel paketlemesi kargolanması sapa sağlam geldi emeğinize sağlık çok memnun kaldım",
-        "annem doğum günü hediyesi olarak aldı gerçekten mükemmel bi saat",
-        "kardeşime aldım çok beğendim"
-      ],
-      "all_reviews": [
-        {
-          "text": "annem doğum günü hediyesi olarak aldı gerçekten mükemmel bi saat",
-          "score": 5.0
-        },
-        {
-          "text": "ürünüm geldi beklediğimden daha güzel paketlemesi kargolanması sapa sağlam geldi emeğinize sağlık çok memnun kaldım",
-          "score": 5.0
-        },
-        {
-          "text": "kardeşime aldım çok beğendim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı & Asuman Hanım",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "güvenilir",
-        "farklı",
-        "gerek",
-        "sağlam",
-        "hanım",
-        "asuman hanım",
-        "rahatlıkla"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel paketlenmiş hızlı geldi tşk ederim güvenilir rahatlıkla alabilirsiniz",
-        "ablama aldım çok beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "ablama aldım çok beğendi",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel paketlenmiş hızlı geldi tşk ederim güvenilir rahatlıkla alabilirsiniz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Asuman Hanım",
-      "review_count": 3,
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -224,11 +371,110 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kızım için aldım çok güzel"
+        "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+        "rengi çok hoş şarja taktığım için henüz inceleyemedim paketleme de güzeldi sağlam bir şekilde ulaştı elime teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "kızım için aldım çok güzel",
+          "text": "rengi çok hoş şarja taktığım için henüz inceleyemedim paketleme de güzeldi sağlam bir şekilde ulaştı elime teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Şarjı",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "şarjı",
+        "şarj",
+        "uzun",
+        "telefon",
+        "arama",
+        "kullanisli",
+        "fazlasıyla",
+        "çıktı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün çok güzel paketlenmiş şekilde geldi paketleyen arkadaşın ellerine sağlık şuan için şarj ediyorum dış görünüş olarak güzel gözüküyor",
+        "rengi çok hoş şarja taktığım için henüz inceleyemedim paketleme de güzeldi sağlam bir şekilde ulaştı elime teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "rengi çok hoş şarja taktığım için henüz inceleyemedim paketleme de güzeldi sağlam bir şekilde ulaştı elime teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel paketlenmiş şekilde geldi paketleyen arkadaşın ellerine sağlık şuan için şarj ediyorum dış görünüş olarak güzel gözüküyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rahatlıkla",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "rahatlıkla",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel paketlenmiş hızlı geldi tşk ederim güvenilir rahatlıkla alabilirsiniz",
+        "kız kardeşime aldım çok beğenerek kullanıyor tam fiyat performans ürünü"
+      ],
+      "all_reviews": [
+        {
+          "text": "kız kardeşime aldım çok beğenerek kullanıyor tam fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel paketlenmiş hızlı geldi tşk ederim güvenilir rahatlıkla alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ekran & Kordon",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ekran",
+        "kordon",
+        "kalitesi",
+        "kullanımı",
+        "akıcı",
+        "uzun",
+        "özelliği",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "daha önce oğluma ve bi arkadaşına dogun gibi hediyesi olarak aldım 1 senedir sorunsuz kullanıyorlar ve çok begendık geçen haftada bunu küçük kuzuma aldım oda rengine bayıldı kordonu yumuşasık ve hiç rahatsız etmiyor paketleme güzel aynı gün kargoya verildi iki gün içinde de elimize ulaştı bugünde kendim için sipariş verdim gayet satıcıdan ve üründen memnunum şüpheniz olmasın fiyatına göre mükemmel ürün",
           "score": 5.0
         }
       ],

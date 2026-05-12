@@ -8,7 +8,7 @@
   "overall_score": 4.96,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**conzaliza Tek Kişilik Nevresim Takımı Lastikli Çarşaflı** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kumaşı Kaliteli** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kumaş** ve **rengi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel\"\n• **Fiyat & Lastikli Çarşafı**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **fiyata** ve **renkler** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kesinlikle fiyat performans ürünü bu fiyata aynı gözüktüğü gibi geldi teşekkür ederim\"\n• Kullanıcılar **Kişilik** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kızıma aldım çok beğendim çok iyi\"\n• **Rengi & Renkleri Canlı** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **renkler** ve **dokusu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Aynı markanın çift kişiligini kullanmıştım kaç kere yıkadım bilmem ama renk solması o…\"\n• Müşteri yorumlarında **Çekme Solma** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **takımı** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kardeşime hediye aldım beğenildi göründüğü gibi geldi\"",
+  "summary": "**conzaliza Tek Kişilik Nevresim Takımı Lastikli Çarşaflı** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat / Lastikl Çarşaf**: Kullanıcılar fiyat / lastikl çarşaf konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kumaş / Rengi Canlı**: Kullanıcılar kumaş / rengi canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Çekme Yapmad**: Kullanıcılar çekme yapmad konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Paketlenme & Kalite**: Kullanıcılar paketlenme & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,16 +18,76 @@
   },
   "aspects": [
     {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 14,
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 21,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "pamuklu ve lastikli çarşafı ile kullanımı kolay bu fiyata harikq",
+        "abime aldık fiyat performans güzel",
+        "süper harika yumuşacık uyudukca uyudum valla içinden cikasim gelmedi bu fiyata harika bir nevresim tekrar alacağım teşekkürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "tam bir fiyat performans ürünü çok beğendik tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikle fiyat performans ürünü bu fiyata aynı gözüktüğü gibi geldi teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "aynı markanın çift kişiligini kullanmıştım kaç kere yıkadım bilmem ama renk solması olmadı aynı markanın tek kişilik 2 takim cocuklarım için aldım güvenle alışveriş yapılır",
+          "score": 5.0
+        },
+        {
+          "text": "abime aldık fiyat performans güzel",
+          "score": 5.0
+        },
+        {
+          "text": "pamuklu ve lastikli çarşafı ile kullanımı kolay bu fiyata harikq",
+          "score": 5.0
+        },
+        {
+          "text": "süper harika yumuşacık uyudukca uyudum valla içinden cikasim gelmedi bu fiyata harika bir nevresim tekrar alacağım teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı geldi fiyat performansi bir ürün bu fiyata daha iyisi olamazdı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "urun hem kaliteli hem de fiyati uygun kumasi da bekledigimden oldukca iyi cikti",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 17,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "kumaşı",
         "kumaş",
-        "rengi",
         "pamuklu",
+        "rengi",
         "lastikli",
         "takım",
         "dokusu",
@@ -37,9 +97,9 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım",
         "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
-        "pamuklu ve lastikli çarşafı ile kullanımı kolay bu fiyata harikq",
-        "kızım için aldım kumaşı mükemmel ve kaliteli alın aldırın"
+        "pamuklu ve lastikli çarşafı ile kullanımı kolay bu fiyata harikq"
       ],
       "all_reviews": [
         {
@@ -47,7 +107,71 @@
           "score": 5.0
         },
         {
-          "text": "urun hem kaliteli hem de fiyati uygun kumasi da bekledigimden oldukca iyi cikti",
+          "text": "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün yıkadım rengi filan solma olmadi 3tane aldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "pamuklu ve lastikli çarşafı ile kullanımı kolay bu fiyata harikq",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım kumaşı mükemmel ve kaliteli alın aldırın",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım gayet güzel geldi kumaş kalitesi de iyi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
+        "aynı markanın çift kişiligini kullanmıştım kaç kere yıkadım bilmem ama renk solması olmadı aynı markanın tek kişilik 2 takim cocuklarım için aldım güvenle alışveriş yapılır",
+        "ürün yıkadım rengi filan solma olmadi 3tane aldım tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "aynı markanın çift kişiligini kullanmıştım kaç kere yıkadım bilmem ama renk solması olmadı aynı markanın tek kişilik 2 takim cocuklarım için aldım güvenle alışveriş yapılır",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet güzel ince falan da değil lastikli güzel çarşafyası da aynı şekilde iyi kaliteli yorganda düğmeli 200 küsürata mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün yıkadım rengi filan solma olmadi 3tane aldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım",
           "score": 5.0
         },
         {
@@ -56,6 +180,98 @@
         },
         {
           "text": "pamuklu ve lastikli çarşafı ile kullanımı kolay bu fiyata harikq",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
+      "review_count": 15,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün gayet güzel ince falan da değil lastikli güzel çarşafyası da aynı şekilde iyi kaliteli yorganda düğmeli 200 küsürata mükemmel",
+        "urun hem kaliteli hem de fiyati uygun kumasi da bekledigimden oldukca iyi cikti",
+        "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gayet güzel ince falan da değil lastikli güzel çarşafyası da aynı şekilde iyi kaliteli yorganda düğmeli 200 küsürata mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün yıkadım rengi filan solma olmadi 3tane aldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "urun hem kaliteli hem de fiyati uygun kumasi da bekledigimden oldukca iyi cikti",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım gayet güzel geldi kumaş kalitesi de iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım kumaşı mükemmel ve kaliteli alın aldırın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kızım için aldım gayet güzel geldi kumaş kalitesi de iyi",
+        "abime aldık fiyat performans güzel",
+        "ürün gayet güzel ince falan da değil lastikli güzel çarşafyası da aynı şekilde iyi kaliteli yorganda düğmeli 200 küsürata mükemmel"
+      ],
+      "all_reviews": [
+        {
+          "text": "abime aldık fiyat performans güzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet güzel ince falan da değil lastikli güzel çarşafyası da aynı şekilde iyi kaliteli yorganda düğmeli 200 küsürata mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "urun hem kaliteli hem de fiyati uygun kumasi da bekledigimden oldukca iyi cikti",
           "score": 5.0
         },
         {
@@ -70,91 +286,169 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat & Lastikli Çarşafı",
-      "review_count": 11,
+      "name": "Doku & Kalite",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyat",
-        "fiyata",
-        "renkler",
-        "aldık",
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kızım için aldım gayet güzel geldi kumaş kalitesi de iyi",
+        "ürün gayet güzel ince falan da değil lastikli güzel çarşafyası da aynı şekilde iyi kaliteli yorganda düğmeli 200 küsürata mükemmel",
+        "urun hem kaliteli hem de fiyati uygun kumasi da bekledigimden oldukca iyi cikti"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün gayet güzel ince falan da değil lastikli güzel çarşafyası da aynı şekilde iyi kaliteli yorganda düğmeli 200 küsürata mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "urun hem kaliteli hem de fiyati uygun kumasi da bekledigimden oldukca iyi cikti",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım gayet güzel geldi kumaş kalitesi de iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım kumaşı mükemmel ve kaliteli alın aldırın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım",
+        "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
+        "kızım için aldım kumaşı mükemmel ve kaliteli alın aldırın"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım gayet güzel geldi kumaş kalitesi de iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım kumaşı mükemmel ve kaliteli alın aldırın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım",
+        "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
+        "kızım için aldım kumaşı mükemmel ve kaliteli alın aldırın"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım gayet güzel geldi kumaş kalitesi de iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım kumaşı mükemmel ve kaliteli alın aldırın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Solma",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
         "takımı",
-        "sağlam",
-        "fermuarlı",
-        "takım"
+        "sorunsuz",
+        "çeyiz",
+        "çekme solma",
+        "beklediğimden",
+        "almak",
+        "yapmadı",
+        "asla"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kesinlikle fiyat performans ürünü bu fiyata aynı gözüktüğü gibi geldi teşekkür ederim",
-        "hızlı geldi fiyat performansi bir ürün bu fiyata daha iyisi olamazdı teşekkür ederim",
-        "abime aldık fiyat performans güzel"
+        "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
+        "aynı markanın çift kişiligini kullanmıştım kaç kere yıkadım bilmem ama renk solması olmadı aynı markanın tek kişilik 2 takim cocuklarım için aldım güvenle alışveriş yapılır",
+        "ürün yıkadım rengi filan solma olmadi 3tane aldım tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "tam bir fiyat performans ürünü çok beğendik tavsiye ederim",
+          "text": "aynı markanın çift kişiligini kullanmıştım kaç kere yıkadım bilmem ama renk solması olmadı aynı markanın tek kişilik 2 takim cocuklarım için aldım güvenle alışveriş yapılır",
           "score": 5.0
         },
         {
-          "text": "abime aldık fiyat performans güzel",
+          "text": "ürün yıkadım rengi filan solma olmadi 3tane aldım tavsiye ederim",
           "score": 5.0
         },
         {
-          "text": "kesinlikle fiyat performans ürünü bu fiyata aynı gözüktüğü gibi geldi teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı geldi fiyat performansi bir ürün bu fiyata daha iyisi olamazdı teşekkür ederim",
+          "text": "kumaşı güzel beğendim yıkanınca çekme yapmadı kargo hızlı paketleme güzel",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kişilik",
-      "review_count": 7,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "rahat güzel istediğim gibi",
-        "kızıma aldım çok beğendim çok iyi",
-        "oğluma aldım çok beyendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "rahat güzel istediğim gibi",
-          "score": 5.0
-        },
-        {
-          "text": "oğluma aldım çok beyendi",
-          "score": 5.0
-        },
-        {
-          "text": "kızıma aldım çok beğendim çok iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rengi & Renkleri Canlı",
+      "name": "Renk Canlı",
       "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
@@ -183,106 +477,6 @@
         },
         {
           "text": "ürün yıkadım rengi filan solma olmadi 3tane aldım tavsiye ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Çekme Solma",
-      "review_count": 5,
-      "avg_score": 4.6,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "takımı",
-        "sorunsuz",
-        "çeyiz",
-        "çekme solma",
-        "beklediğimden",
-        "almak",
-        "yapmadı",
-        "asla"
-      ],
-      "positive_pct": 60.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 40.0,
-      "sample_reviews": [
-        "kardeşime hediye aldım beğenildi göründüğü gibi geldi",
-        "kardeşim için aldım güzel"
-      ],
-      "all_reviews": [
-        {
-          "text": "kardeşime hediye aldım beğenildi göründüğü gibi geldi",
-          "score": 5.0
-        },
-        {
-          "text": "kardeşim için aldım güzel",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "süper harika yumuşacık uyudukca uyudum valla içinden cikasim gelmedi bu fiyata harika bir nevresim tekrar alacağım teşekkürler",
-        "oğluna aldım harika yumşacık şiddetle tavsiye ederim hızlı kargo içinde teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "süper harika yumuşacık uyudukca uyudum valla içinden cikasim gelmedi bu fiyata harika bir nevresim tekrar alacağım teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "oğluna aldım harika yumşacık şiddetle tavsiye ederim hızlı kargo içinde teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Çekme Yapmadı",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "yıkadım",
-        "lastikli",
-        "yapmadı",
-        "pamuk",
-        "görseldeki",
-        "alıcam",
-        "solma",
-        "çekme"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım"
-      ],
-      "all_reviews": [
-        {
-          "text": "mükemmel yumuşacık kumaşı tereddüt ettim alırken ama tekrar alıcam bayıldım",
           "score": 5.0
         }
       ],

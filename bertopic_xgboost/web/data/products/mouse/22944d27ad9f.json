@@ -8,7 +8,7 @@
   "overall_score": 4.85,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**HP M280 Rgb 6400dpı Kablolu Gaming Oyuncu Mouse Siyah** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kullanımı Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kalite** ve **hoşuma** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok memnun kaldım çok kullanışlı özellikle yanında geri tuşlarını bilerek almıştım fi…\"\n• **Donma & Rahatlıkla**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **şimdilik** ve **kelimeyle** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel çok teşekkürler hayırlı işler\"\n• Kullanıcılar **Fiyatı Uygun** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **performans** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Elde duruşu ve dokusu mükemmel bir ürün kargolanması da gayet özenliydi tam bir f p\"\n• **Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **uygun** ve **efsane** başta olmak üzere. Örnek kullanıcı ifadesi: \"Yeterli sayfa tuşları uygun fiyatı için tercih ettim\"\n• Müşteri yorumlarında **Sorunsuz & Rengi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir. Örnek kullanıcı ifadesi: \"Kardeşim için aldım çok beğendi hızlı kargoydu\"",
+  "summary": "**HP M280 Rgb 6400dpı Kablolu Gaming Oyuncu Mouse Siyah** için 40 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kullanım & Kalite**: Kullanıcılar kullanım & kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kablol & Özellikle**: Kullanıcılar kablol & özellikle konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 2,
@@ -18,156 +18,8 @@
   },
   "aspects": [
     {
-      "name": "Kullanımı Rahat",
-      "review_count": 18,
-      "avg_score": 4.67,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanımı",
-        "kalite",
-        "paketleme",
-        "kaliteli",
-        "kullanımı rahat",
-        "baya",
-        "kalitesi",
-        "hoşuma"
-      ],
-      "positive_pct": 88.9,
-      "negative_pct": 11.1,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok ama çok beğendim aşırı kullanışlı ve şık kablosuda baya uzun",
-        "çok memnun kaldım çok kullanışlı özellikle yanında geri tuşlarını bilerek almıştım fiyat olarakta uygun teşekkürler hp",
-        "ürün kargoda zarar gelmemesi için mükemmel paketlenmişti"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün kargoda zarar gelmemesi için mükemmel paketlenmişti",
-          "score": 5.0
-        },
-        {
-          "text": "çok memnun kaldım çok kullanışlı özellikle yanında geri tuşlarını bilerek almıştım fiyat olarakta uygun teşekkürler hp",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı gonderim",
-          "score": 5.0
-        },
-        {
-          "text": "gayet iyi bi urun geldi sorun yok",
-          "score": 5.0
-        },
-        {
-          "text": "gayet güzel çalışıyor ışıklı fln hassasiyet ayarı da iyi",
-          "score": 5.0
-        },
-        {
-          "text": "ürün çok güzel tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "daha kutusundan çıkarıp kullanmadım şimdilik",
-          "score": 5.0
-        },
-        {
-          "text": "çok ama çok beğendim aşırı kullanışlı ve şık kablosuda baya uzun",
-          "score": 5.0
-        },
-        {
-          "text": "sağ tuşu çalışmıyor geri iade",
-          "score": 2.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Donma & Rahatlıkla",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "alacak",
-        "kullanıyor",
-        "ediyor",
-        "donma",
-        "rahatlıkla",
-        "şimdilik",
-        "kelimeyle",
-        "tuşları"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel çok teşekkürler hayırlı işler",
-        "rahat ve kullanışlu",
-        "cok iyi alın"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok güzel çok teşekkürler hayırlı işler",
-          "score": 5.0
-        },
-        {
-          "text": "rahat ve kullanışlu",
-          "score": 5.0
-        },
-        {
-          "text": "cok iyi alın",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı geldi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyatı Uygun",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
-        "uygun",
-        "performans",
-        "paketlemesi",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "elde duruşu ve dokusu mükemmel bir ürün kargolanması da gayet özenliydi tam bir f p",
-        "tam bir f p urunu ust dokusu 10 numara",
-        "f p ürünü gayet iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "elde duruşu ve dokusu mükemmel bir ürün kargolanması da gayet özenliydi tam bir f p",
-          "score": 5.0
-        },
-        {
-          "text": "tam bir f p urunu ust dokusu 10 numara",
-          "score": 5.0
-        },
-        {
-          "text": "f p ürünü gayet iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Fiyat Performans",
-      "review_count": 4,
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -177,18 +29,27 @@
         "fiyat performans",
         "performans",
         "efsane",
-        "fiyata",
-        "fiyatı",
-        "aldık"
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "yeterli sayfa tuşları uygun fiyatı için tercih ettim",
-        "fiyat performans"
+        "hızlı kargo kullanımı kolay fiyat performans ürünü",
+        "fiyat performans",
+        "çok memnun kaldım çok kullanışlı özellikle yanında geri tuşlarını bilerek almıştım fiyat olarakta uygun teşekkürler hp"
       ],
       "all_reviews": [
+        {
+          "text": "çok memnun kaldım çok kullanışlı özellikle yanında geri tuşlarını bilerek almıştım fiyat olarakta uygun teşekkürler hp",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı kargo kullanımı kolay fiyat performans ürünü",
+          "score": 5.0
+        },
         {
           "text": "yeterli sayfa tuşları uygun fiyatı için tercih ettim",
           "score": 5.0
@@ -201,58 +62,68 @@
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Rengi",
-      "review_count": 2,
+      "name": "Kullanım & Kalite",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aldık",
-        "kullanıyor",
-        "severek",
-        "sorunsuz",
+        "kullanımı",
+        "kalite",
         "paketleme",
-        "bunu",
-        "rengi",
-        "baya"
+        "baya",
+        "kalitesi",
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kardeşim için aldım çok beğendi hızlı kargoydu"
+        "çok ama çok beğendim aşırı kullanışlı ve şık kablosuda baya uzun",
+        "hızlı kargo kullanımı kolay fiyat performans ürünü"
       ],
       "all_reviews": [
         {
-          "text": "kardeşim için aldım çok beğendi hızlı kargoydu",
+          "text": "çok ama çok beğendim aşırı kullanışlı ve şık kablosuda baya uzun",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı kargo kullanımı kolay fiyat performans ürünü",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sessiz Rahat",
-      "review_count": 2,
+      "name": "Kablol & Özellikle",
+      "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "teslimat",
-        "paketleme",
-        "sorunsuz",
-        "kullanımı",
-        "çalışıyor",
-        "sessiz rahat",
-        "fiyat"
+        "bunu",
+        "kablolu",
+        "özellikle",
+        "oyun",
+        "kullanım",
+        "rahatlıkla",
+        "sıkıntı",
+        "oyunlarda"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "çok memnun kaldım çok kullanışlı özellikle yanında geri tuşlarını bilerek almıştım fiyat olarakta uygun teşekkürler hp",
         "hızlı kargo kullanımı kolay fiyat performans ürünü"
       ],
       "all_reviews": [
+        {
+          "text": "çok memnun kaldım çok kullanışlı özellikle yanında geri tuşlarını bilerek almıştım fiyat olarakta uygun teşekkürler hp",
+          "score": 5.0
+        },
         {
           "text": "hızlı kargo kullanımı kolay fiyat performans ürünü",
           "score": 5.0

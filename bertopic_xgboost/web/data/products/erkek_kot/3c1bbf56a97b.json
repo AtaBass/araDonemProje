@@ -8,7 +8,7 @@
   "overall_score": 3.93,
   "overall_sentiment": "neutral",
   "stars": "★★★½☆",
-  "summary": "15 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
+  "summary": "\"Wanted Erkek Düz Kesim Likralı Erkek Kot Pantolon'u deneyimli kullanıcılar tarafından genel olarak olumlu yönde değerlendirildi. Fiyat performansına özellikle dikkat çekici olan ürün, kalitesine de sahip olduğu fiyatla eş değer görüldü. Kullanıcılar, kaliteli bir ürünü uygun fiyatta bulduğunu belirterek, 4.0/5.0 ve 5.0/5.0 puanları vererek olumlu yorumlar yazdı.\"",
   "score_distribution": {
     "1": 3,
     "2": 0,
@@ -16,7 +16,87 @@
     "4": 2,
     "5": 9
   },
-  "aspects": [],
+  "aspects": [
+    {
+      "name": "Fiyat Performans",
+      "review_count": 4,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "kilo",
+        "kalite",
+        "fakat",
+        "super",
+        "bedeni",
+        "fiyat",
+        "aldık",
+        "performans"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bu fiyata alırken tereddüt etmiştim ama gerçekten çok kaliteli kumaşı güzel rengi güzel kalıbı güzel",
+        "çocuk bedeni gönderildi 36 beden sipariş ettim düzeltiniz lütfen",
+        "gercekten cok güzel cok teşekkür ederim satıcıya herkes alsın tam beden oldu 105 kgyum"
+      ],
+      "all_reviews": [
+        {
+          "text": "gercekten cok güzel cok teşekkür ederim satıcıya herkes alsın tam beden oldu 105 kgyum",
+          "score": 5.0
+        },
+        {
+          "text": "2 78 boy 82 kg için 34 beden tam oldu ürün güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata alırken tereddüt etmiştim ama gerçekten çok kaliteli kumaşı güzel rengi güzel kalıbı güzel",
+          "score": 5.0
+        },
+        {
+          "text": "çocuk bedeni gönderildi 36 beden sipariş ettim düzeltiniz lütfen",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "bu fiyata alırken tereddüt etmiştim ama gerçekten çok kaliteli kumaşı güzel rengi güzel kalıbı güzel",
+        "güzel fiyatına göre"
+      ],
+      "all_reviews": [
+        {
+          "text": "güzel fiyatına göre",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata alırken tereddüt etmiştim ama gerçekten çok kaliteli kumaşı güzel rengi güzel kalıbı güzel",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
   "top_reviews": [
     "sipariş verdiğimle alakası olmayan bi pantalon göndermişler ayrıca defolu 4 gündür bekliyorum 5 para etmez",
     "bu fiyata alırken tereddüt etmiştim ama gerçekten çok kaliteli kumaşı güzel rengi güzel kalıbı güzel",

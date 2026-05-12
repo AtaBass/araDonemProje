@@ -8,7 +8,7 @@
   "overall_score": 4.96,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**JBL Wave Beam2, Kablosuz Kulakiçi Kulaklık, IE, Siyah** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kalitesi & Fiyata Performans** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kılıf** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mik…\"\n• **Kaliteli & Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sorun** ve **paketlemesi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün tek kelime harika ses mükemmel ve ben indirimdeyken aldım yine takipteyim eşime…\"\n• Kullanıcılar **Kılıfı & Çıktı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir. Örnek kullanıcı ifadesi: \"Erkek arkadasıma aldım çok beğendi\"\n• **Fiyata Kalite** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kullanışlı** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Hızlı geldi paketleme çok iyiydi hediyeniz için teşekkürler jbl gerçekten çok iyi\"\n• Müşteri yorumlarında **Marka & Süresi** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **efsane** ve **beyendi** konusu özellikle vurgulanmaktadır.",
+  "summary": "JBL Wave Beam2 kablosuz kulaklık, kullanıcıları tarafından olağanüstü bir kalite, müzik dinlerken deneyimi ve fiyat performansına göre yüksek puanlar almaktadır. Ürün, marka değeri ve fiyat performansı göz önünde bulundurularak tam 5 puan almıştır. Genel olarak, ürünün görüntü kalitesi de oldukça pozitif eleştiriler almıştır. Uzun yıllardır kullanılıyor olsa da, Wave Beam2 kablosuz kulaklık, hiçbir şekilde azalmayan bir popülarite kazanan üründür.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kalitesi & Fiyata Performans",
-      "review_count": 29,
-      "avg_score": 4.93,
+      "name": "Kalite",
+      "review_count": 26,
+      "avg_score": 4.92,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "kalitesi",
         "sesi",
         "şarj",
-        "kılıf",
-        "fiyata",
         "kalitesi kalitesi",
+        "kılıf",
         "bayıldım",
-        "kaliteli"
+        "dışarı",
+        "paketlemesi"
       ],
-      "positive_pct": 93.1,
+      "positive_pct": 92.3,
       "negative_pct": 0.0,
-      "neutral_pct": 6.9,
+      "neutral_pct": 7.7,
       "sample_reviews": [
+        "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
         "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
-        "kaliteli baya sesi de on numara tavsiye ederim alınır",
-        "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum"
+        "ürün gayet mükemmel ses kalitesinde hiç bir sorun yok ses olabildiğince yüksek çıkıyor kusursuz bir ürün herkese tavsiye ediyorum"
       ],
       "all_reviews": [
         {
@@ -48,10 +48,6 @@
         },
         {
           "text": "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
-          "score": 5.0
-        },
-        {
-          "text": "çok çok iyi dış ses yok baslar süper verilen para kesinlikle hak ediyor pişman olmazsın̈ız ayrıca mediamarkt teşekkürler hızlı özenli paket icin",
           "score": 5.0
         },
         {
@@ -67,11 +63,11 @@
           "score": 5.0
         },
         {
-          "text": "çok beğendik biraz pahalı ama babam tır şoförü rahatlıkla kullanıyor ses performansı çok iyi",
+          "text": "kaliteli baya sesi de on numara tavsiye ederim alınır",
           "score": 5.0
         },
         {
-          "text": "kaliteli baya sesi de on numara tavsiye ederim alınır",
+          "text": "ogluma aldım çok begendı gerçekten kalitesi guzel",
           "score": 5.0
         },
         {
@@ -90,32 +86,52 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Fiyat Performans",
-      "review_count": 7,
-      "avg_score": 5.0,
+      "name": "Müzik Dinlerken",
+      "review_count": 26,
+      "avg_score": 4.92,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
         "beklediğimden",
-        "sorun",
-        "paketleme",
-        "paketlemesi",
-        "performans",
-        "tane",
-        "orijinal"
+        "aldık",
+        "kalitesi",
+        "sesi",
+        "müzik dinlerken",
+        "iyidi",
+        "sesim",
+        "dinlerken"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 92.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 7.7,
       "sample_reviews": [
-        "ürün tek kelime harika ses mükemmel ve ben indirimdeyken aldım yine takipteyim eşime aldım şimdi sıra kendimde",
-        "ogluma aldım çok begendı gerçekten kalitesi guzel",
-        "güzel bi ürün severek kullanıyorum tavsiye ederim"
+        "fazlasıyla memnunum arama işlemlerimde sesim karşıya net bir şekilde gidiyor",
+        "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
+        "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum"
       ],
       "all_reviews": [
         {
-          "text": "ürün tek kelime harika ses mükemmel ve ben indirimdeyken aldım yine takipteyim eşime aldım şimdi sıra kendimde",
+          "text": "jbl farkı ses kalitesi mükemmel iyi ki almışım",
+          "score": 5.0
+        },
+        {
+          "text": "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "fazlasıyla memnunum arama işlemlerimde sesim karşıya net bir şekilde gidiyor",
+          "score": 5.0
+        },
+        {
+          "text": "gürültü engellemesi harika mikrofonu güzel bir ses kalitesi güzel daha ne olsun gidip amerikan malına 3 kat fazla para gerek yok",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli baya sesi de on numara tavsiye ederim alınır",
           "score": 5.0
         },
         {
@@ -123,90 +139,87 @@
           "score": 5.0
         },
         {
-          "text": "güzel bi ürün severek kullanıyorum tavsiye ederim",
+          "text": "ürün gayet mükemmel ses kalitesinde hiç bir sorun yok ses olabildiğince yüksek çıkıyor kusursuz bir ürün herkese tavsiye ediyorum",
           "score": 5.0
+        },
+        {
+          "text": "bantını kaldırınca açıldı çok yüksek sesi var çok güzel tereddüt etmeden alın",
+          "score": 5.0
+        },
+        {
+          "text": "ben çok beğendim ses kalitesi de özellikleride bu fiyat için yeterli",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kılıfı & Çıktı",
-      "review_count": 6,
-      "avg_score": 5.0,
+      "name": "Fiyat Performans",
+      "review_count": 22,
+      "avg_score": 4.91,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "para",
-        "kılıfı",
-        "yeğenime",
-        "çıktı",
-        "öneriyorum",
-        "defa"
+        "fiyat performans",
+        "performans",
+        "performans fiyat",
+        "kalitesi baya",
+        "alin",
+        "sorunsuz",
+        "diye",
+        "tane"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 90.9,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 9.1,
       "sample_reviews": [
-        "erkek arkadasıma aldım çok beğendi",
-        "oğluma hediye aldım gayet memnun",
-        "oğluma aldım çok teşekkür ederim"
+        "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
+        "çok beğendik biraz pahalı ama babam tır şoförü rahatlıkla kullanıyor ses performansı çok iyi",
+        "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum"
       ],
       "all_reviews": [
         {
-          "text": "oğluma hediye aldım gayet memnun",
+          "text": "jbl farkı ses kalitesi mükemmel iyi ki almışım",
           "score": 5.0
         },
         {
-          "text": "oğluma aldım çok teşekkür ederim",
+          "text": "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
           "score": 5.0
         },
         {
-          "text": "erkek arkadasıma aldım çok beğendi",
+          "text": "gürültü engellemesi harika mikrofonu güzel bir ses kalitesi güzel daha ne olsun gidip amerikan malına 3 kat fazla para gerek yok",
           "score": 5.0
+        },
+        {
+          "text": "çok beğendik biraz pahalı ama babam tır şoförü rahatlıkla kullanıyor ses performansı çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli baya sesi de on numara tavsiye ederim alınır",
+          "score": 5.0
+        },
+        {
+          "text": "ogluma aldım çok begendı gerçekten kalitesi guzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet mükemmel ses kalitesinde hiç bir sorun yok ses olabildiğince yüksek çıkıyor kusursuz bir ürün herkese tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "ben çok beğendim ses kalitesi de özellikleride bu fiyat için yeterli",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata Kalite",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "kullanışlı",
-        "sağlam",
-        "şarja",
-        "fiyata kalite",
-        "hiçbir",
-        "kaliteli",
-        "üründen"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "hızlı geldi paketleme çok iyiydi hediyeniz için teşekkürler jbl gerçekten çok iyi",
-        "çok memnun kaldım çok iyi hızlı kargo süpersiniz"
-      ],
-      "all_reviews": [
-        {
-          "text": "hızlı geldi paketleme çok iyiydi hediyeniz için teşekkürler jbl gerçekten çok iyi",
-          "score": 5.0
-        },
-        {
-          "text": "çok memnun kaldım çok iyi hızlı kargo süpersiniz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Marka & Süresi",
-      "review_count": 3,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 22,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -217,18 +230,260 @@
         "beyendi",
         "aldı",
         "kargolama",
-        "kullanıyor",
-        "aydır"
+        "aydır",
+        "saglam"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "eşime aldım çok beğendi"
+        "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
+        "ürün tek kelime harika ses mükemmel ve ben indirimdeyken aldım yine takipteyim eşime aldım şimdi sıra kendimde",
+        "bantını kaldırınca açıldı çok yüksek sesi var çok güzel tereddüt etmeden alın"
       ],
       "all_reviews": [
         {
+          "text": "ürün tek kelime harika ses mükemmel ve ben indirimdeyken aldım yine takipteyim eşime aldım şimdi sıra kendimde",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
+          "score": 5.0
+        },
+        {
           "text": "eşime aldım çok beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "erkek arkadasıma aldım çok beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "ogluma aldım çok begendı gerçekten kalitesi guzel",
+          "score": 5.0
+        },
+        {
+          "text": "çok memnun kaldım çok iyi hızlı kargo süpersiniz",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma aldım çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldım gayet memnun",
+          "score": 5.0
+        },
+        {
+          "text": "bantını kaldırınca açıldı çok yüksek sesi var çok güzel tereddüt etmeden alın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Görünt Kalite",
+      "review_count": 20,
+      "avg_score": 4.9,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
+      ],
+      "positive_pct": 90.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 10.0,
+      "sample_reviews": [
+        "ogluma aldım çok begendı gerçekten kalitesi guzel",
+        "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
+        "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum"
+      ],
+      "all_reviews": [
+        {
+          "text": "jbl farkı ses kalitesi mükemmel iyi ki almışım",
+          "score": 5.0
+        },
+        {
+          "text": "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "gürültü engellemesi harika mikrofonu güzel bir ses kalitesi güzel daha ne olsun gidip amerikan malına 3 kat fazla para gerek yok",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli baya sesi de on numara tavsiye ederim alınır",
+          "score": 5.0
+        },
+        {
+          "text": "ogluma aldım çok begendı gerçekten kalitesi guzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet mükemmel ses kalitesinde hiç bir sorun yok ses olabildiğince yüksek çıkıyor kusursuz bir ürün herkese tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "ben çok beğendim ses kalitesi de özellikleride bu fiyat için yeterli",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Şarja & Hiçbir",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "şarja",
+        "hiçbir",
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hızlı geldi paketleme çok iyiydi hediyeniz için teşekkürler jbl gerçekten çok iyi",
+        "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
+        "ürün gayet mükemmel ses kalitesinde hiç bir sorun yok ses olabildiğince yüksek çıkıyor kusursuz bir ürün herkese tavsiye ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün tek kelime harika ses mükemmel ve ben indirimdeyken aldım yine takipteyim eşime aldım şimdi sıra kendimde",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı geldi paketleme çok iyiydi hediyeniz için teşekkürler jbl gerçekten çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok kaliteli çok güzel bu fiyata mağazalarda bulamazsınız bizzat gördüm sesi mikrofonu çok iyi 2 tane aldım bi babama bide kendime önceden airpods pro 2 kullanıyordum yerini aratmadı çok memnunum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet mükemmel ses kalitesinde hiç bir sorun yok ses olabildiğince yüksek çıkıyor kusursuz bir ürün herkese tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bi ürün severek kullanıyorum tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kılıf & Çıktı",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "para",
+        "yeğenime",
+        "kılıfı",
+        "çıktı",
+        "öneriyorum",
+        "defa",
+        "saglam"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok çok iyi dış ses yok baslar süper verilen para kesinlikle hak ediyor pişman olmazsın̈ız ayrıca mediamarkt teşekkürler hızlı özenli paket icin",
+        "gürültü engellemesi harika mikrofonu güzel bir ses kalitesi güzel daha ne olsun gidip amerikan malına 3 kat fazla para gerek yok"
+      ],
+      "all_reviews": [
+        {
+          "text": "gürültü engellemesi harika mikrofonu güzel bir ses kalitesi güzel daha ne olsun gidip amerikan malına 3 kat fazla para gerek yok",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok iyi dış ses yok baslar süper verilen para kesinlikle hak ediyor pişman olmazsın̈ız ayrıca mediamarkt teşekkürler hızlı özenli paket icin",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Telefon",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "icin",
+        "aynı",
+        "telefon",
+        "beklemiyordum",
+        "uygun",
+        "bağlantı",
+        "sıkıntı",
+        "telefonla"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
+        "çok çok iyi dış ses yok baslar süper verilen para kesinlikle hak ediyor pişman olmazsın̈ız ayrıca mediamarkt teşekkürler hızlı özenli paket icin"
+      ],
+      "all_reviews": [
+        {
+          "text": "kulağa tam oturuyor ses kalitesi de çok güzel sadece kulaklıklarla telefondan uzaklaştığınız zaman ev içi bile olsa sesler kesiliyor hemen ve bazen de 1 saniyeliğine tek kulaklıktan ses gelmeyebiliyor bu her zaman olan bir şey değil ben beğendim severek kullanıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok çok iyi dış ses yok baslar süper verilen para kesinlikle hak ediyor pişman olmazsın̈ız ayrıca mediamarkt teşekkürler hızlı özenli paket icin",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Uygun",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "almak",
+        "sorunsuz",
+        "uygun",
+        "valla",
+        "paketleme",
+        "direk",
+        "yapılmış",
+        "herşey"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hızlı geldi paketleme çok iyiydi hediyeniz için teşekkürler jbl gerçekten çok iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "hızlı geldi paketleme çok iyiydi hediyeniz için teşekkürler jbl gerçekten çok iyi",
           "score": 5.0
         }
       ],

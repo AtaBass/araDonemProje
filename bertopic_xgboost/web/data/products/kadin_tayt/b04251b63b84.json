@@ -8,7 +8,7 @@
   "overall_score": 4.76,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Genel Markalar ÖRME KUMAŞ TOPARLAYICI YÜKSEK BEL FİTİLL** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Rahat Kullanışlı** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **ürünler** ve **teslimat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum i…\"\n• **Kumaşı & Farklı Renkleri**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **bedeni** ve **rengi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür eder…\"\n• Kullanıcılar **Renkleri & Kaliteli Ürünler** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **notunuz** ve **rahat kullanışlı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güzel notunuz için teşekkür ederim daha önce defalarca renklerini aldım aldırdım çevr…\"\n• **Kumaşı** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **kumaş** ve **kalıbı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım ku…\"\n• Müşteri yorumlarında **Kaliteli Rahat** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **toparlayıcı** ve **bedeni** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün beklediğimden daha iyi geldi ben çok beğendim hiç tereddüt etmeden alabilirsiniz\"",
+  "summary": "**Genel Markalar ÖRME KUMAŞ TOPARLAYICI YÜKSEK BEL FİTİLL** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kumaş / Farkl Renk**: Kullanıcılar kumaş / farkl renk konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sıcacık & Bedenınız**: Kullanıcılar sıcacık & bedenınız konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kumaş**: Kullanıcılar kumaş konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Ürün**: Kullanıcılar ürün konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Toparlayıc & Beden**: Kullanıcılar genel olarak toparlayıc & beden açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.",
   "score_distribution": {
     "1": 0,
     "2": 3,
@@ -18,28 +18,156 @@
   },
   "aspects": [
     {
-      "name": "Rahat Kullanışlı",
-      "review_count": 15,
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 25,
+      "avg_score": 4.64,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
+      ],
+      "positive_pct": 88.0,
+      "negative_pct": 12.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür ederim çok mutlu oldum kesinlikle almalısınız",
+        "çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum inşallah hayırlı işler bol kazançlar dilerim tekrar alacağım",
+        "kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım kumaşıda güzeldi ama olmadığı için iade etmek zorunda kaldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel ve çok rahat rengide tam istediğim renk kargo'da çok çabuk geldi teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat yumuşak sıcak bir tayt tavsiye ediyorum 1 beden küçük alın",
+          "score": 5.0
+        },
+        {
+          "text": "tayt ı inanılmaz veğendim göründüpü gibi içi polarlı 167 47 kilo s beden tam oldu sanırım rahatlık için normal bedeninizden 1 beden büyük alın",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden alabilirsiniz içi korumalı tam kışlık çok teşekkür ederim gayet güzel beğendim tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür ederim çok mutlu oldum kesinlikle almalısınız",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum inşallah hayırlı işler bol kazançlar dilerim tekrar alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı çok iyi rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "tam görselde ki gibi geldi tam beden alabilirsiniz aynı satıcıdan farklı renkleri de aldım tereddütsüz alabilirsiniz teşekkürler trendyol",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım kumaşıda güzeldi ama olmadığı için iade etmek zorunda kaldım",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sıcacık & Bedenınız",
+      "review_count": 20,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "ürünler",
-        "teslimat",
-        "kullanışlı",
-        "özellikle",
-        "rahat kullanışlı",
-        "oldum",
-        "aldık",
-        "göründüğü"
+        "sıcacık tutuyor",
+        "sıcacık",
+        "bedenınızı",
+        "derim",
+        "tutuyor",
+        "yumuşacık",
+        "rağmen",
+        "istediğim"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum inşallah hayırlı işler bol kazançlar dilerim tekrar alacağım",
-        "hızlı teslimat ve hediyeniz için teşekkür ederim",
-        "tam beden alabilirsiniz içi korumalı tam kışlık çok teşekkür ederim gayet güzel beğendim tavsiye ederim"
+        "kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür ederim çok mutlu oldum kesinlikle almalısınız",
+        "7 aylık hamileyim 65 kg l aldım rahat giymek için bu fiyata böyle bir ürün açıkçası beklemiyordum hem kendisi çok hafif hemde likrasi çok iyi şimdi bir kaç tane daha alicam aşırı memnun kaldım tavsiye ederim",
+        "güzel notunuz için teşekkür ederim daha önce defalarca renklerini aldım aldırdım çevreme cok memnunum cok kaliteli ürünler"
+      ],
+      "all_reviews": [
+        {
+          "text": "hızlı teslimat ve hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden alabilirsiniz içi korumalı tam kışlık çok teşekkür ederim gayet güzel beğendim tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "7 aylık hamileyim 65 kg l aldım rahat giymek için bu fiyata böyle bir ürün açıkçası beklemiyordum hem kendisi çok hafif hemde likrasi çok iyi şimdi bir kaç tane daha alicam aşırı memnun kaldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür ederim çok mutlu oldum kesinlikle almalısınız",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel sıcak tutuyor kalıbı da güzel",
+          "score": 5.0
+        },
+        {
+          "text": "güzel notunuz için teşekkür ederim daha önce defalarca renklerini aldım aldırdım çevreme cok memnunum cok kaliteli ürünler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş",
+      "review_count": 19,
+      "avg_score": 4.53,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "diye",
+        "kumaş",
+        "kalıbı",
+        "iade",
+        "bayıldım",
+        "baya",
+        "almışım"
+      ],
+      "positive_pct": 84.2,
+      "negative_pct": 15.8,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım kumaşıda güzeldi ama olmadığı için iade etmek zorunda kaldım",
+        "kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür ederim çok mutlu oldum kesinlikle almalısınız",
+        "kumaşı çok iyi rahatlıkla alabilirsiniz"
       ],
       "all_reviews": [
         {
@@ -51,55 +179,7 @@
           "score": 5.0
         },
         {
-          "text": "tam beden alabilirsiniz içi korumalı tam kışlık çok teşekkür ederim gayet güzel beğendim tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum inşallah hayırlı işler bol kazançlar dilerim tekrar alacağım",
-          "score": 5.0
-        },
-        {
           "text": "çok güzel hediyeniz içinde teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı & Farklı Renkleri",
-      "review_count": 9,
-      "avg_score": 4.67,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "oldum",
-        "bedeni",
-        "rengi",
-        "alin",
-        "sarıyor",
-        "farklı renkleri",
-        "yaptım"
-      ],
-      "positive_pct": 66.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 33.3,
-      "sample_reviews": [
-        "kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür ederim çok mutlu oldum kesinlikle almalısınız",
-        "kumaşı çok iyi rahatlıkla alabilirsiniz",
-        "kumaşı güzel tavsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "kumaşı çok iyi rahatlıkla alabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "kumaşı güzel tavsiye ederim",
           "score": 5.0
         },
         {
@@ -107,27 +187,179 @@
           "score": 5.0
         },
         {
-          "text": "çok rahat her kadının dolabında olması gereken bir parça",
-          "score": 4.0
+          "text": "kumaşı güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel sıcak tutuyor kalıbı da güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı çok iyi rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım kumaşıda güzeldi ama olmadığı için iade etmek zorunda kaldım",
+          "score": 2.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Renkleri & Kaliteli Ürünler",
+      "name": "Ürün",
+      "review_count": 15,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum inşallah hayırlı işler bol kazançlar dilerim tekrar alacağım",
+        "kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür ederim çok mutlu oldum kesinlikle almalısınız",
+        "güzel notunuz için teşekkür ederim daha önce defalarca renklerini aldım aldırdım çevreme cok memnunum cok kaliteli ürünler"
+      ],
+      "all_reviews": [
+        {
+          "text": "hızlı teslimat ve hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "7 aylık hamileyim 65 kg l aldım rahat giymek için bu fiyata böyle bir ürün açıkçası beklemiyordum hem kendisi çok hafif hemde likrasi çok iyi şimdi bir kaç tane daha alicam aşırı memnun kaldım tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "güzel notunuz için teşekkür ederim daha önce defalarca renklerini aldım aldırdım çevreme cok memnunum cok kaliteli ürünler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum inşallah hayırlı işler bol kazançlar dilerim tekrar alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün beklediğimden daha iyi geldi ben çok beğendim hiç tereddüt etmeden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı ve içinin kalın olması cok güzel sıcacık tutuyor ayrıca not için teşekkür ederim çok mutlu oldum kesinlikle almalısınız",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Toparlayıc & Beden",
+      "review_count": 14,
+      "avg_score": 4.36,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 78.6,
+      "negative_pct": 21.4,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım kumaşıda güzeldi ama olmadığı için iade etmek zorunda kaldım",
+        "tayt ı inanılmaz veğendim göründüpü gibi içi polarlı 167 47 kilo s beden tam oldu sanırım rahatlık için normal bedeninizden 1 beden büyük alın",
+        "çok rahat yumuşak sıcak bir tayt tavsiye ediyorum 1 beden küçük alın"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok rahat yumuşak sıcak bir tayt tavsiye ediyorum 1 beden küçük alın",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden alabilirsiniz içi korumalı tam kışlık çok teşekkür ederim gayet güzel beğendim tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tayt ı inanılmaz veğendim göründüpü gibi içi polarlı 167 47 kilo s beden tam oldu sanırım rahatlık için normal bedeninizden 1 beden büyük alın",
+          "score": 5.0
+        },
+        {
+          "text": "tam görselde ki gibi geldi tam beden alabilirsiniz aynı satıcıdan farklı renkleri de aldım tereddütsüz alabilirsiniz teşekkürler trendyol",
+          "score": 5.0
+        },
+        {
+          "text": "kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım kumaşıda güzeldi ama olmadığı için iade etmek zorunda kaldım",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruş & Kalite",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "duruşu",
+        "kalitesi",
+        "göründüğü",
+        "sardı",
+        "bedeninizden",
+        "alin",
+        "bayıldım",
+        "almalısınız"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tayt ı inanılmaz veğendim göründüpü gibi içi polarlı 167 47 kilo s beden tam oldu sanırım rahatlık için normal bedeninizden 1 beden büyük alın",
+        "çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum inşallah hayırlı işler bol kazançlar dilerim tekrar alacağım",
+        "güzel notunuz için teşekkür ederim daha önce defalarca renklerini aldım aldırdım çevreme cok memnunum cok kaliteli ürünler"
+      ],
+      "all_reviews": [
+        {
+          "text": "tayt ı inanılmaz veğendim göründüpü gibi içi polarlı 167 47 kilo s beden tam oldu sanırım rahatlık için normal bedeninizden 1 beden büyük alın",
+          "score": 5.0
+        },
+        {
+          "text": "güzel notunuz için teşekkür ederim daha önce defalarca renklerini aldım aldırdım çevreme cok memnunum cok kaliteli ürünler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel mumnun oldum tam kalıp kesimi çok güzel kaliteli hizmet teşekkür ediyorum inşallah hayırlı işler bol kazançlar dilerim tekrar alacağım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Farkl Renk",
       "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "renkleri",
-        "kaliteli ürünler",
-        "notunuz",
         "paketleme özenliydi",
+        "notunuz",
         "özenliydi",
-        "rahat kullanışlı",
         "paketleme",
-        "kalite"
+        "kalite",
+        "ürünler",
+        "dokusu"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -154,27 +386,27 @@
       "icon": "💬"
     },
     {
-      "name": "Kumaşı",
+      "name": "Fiyat Performans",
       "review_count": 6,
       "avg_score": 3.5,
       "sentiment": "neutral",
       "sentiment_label": "Karışık",
       "top_terms": [
-        "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
+        "efsane",
+        "fiyat",
+        "paketleme",
+        "aldığım",
+        "edebilirsiniz",
+        "diyebilirim",
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 50.0,
       "negative_pct": 50.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım kumaşıda güzeldi ama olmadığı için iade etmek zorunda kaldım",
-        "7 aylık hamileyim 65 kg l aldım rahat giymek için bu fiyata böyle bir ürün açıkçası beklemiyordum hem kendisi çok hafif hemde likrasi çok iyi şimdi bir kaç tane daha alicam aşırı memnun kaldım tavsiye ederim"
+        "7 aylık hamileyim 65 kg l aldım rahat giymek için bu fiyata böyle bir ürün açıkçası beklemiyordum hem kendisi çok hafif hemde likrasi çok iyi şimdi bir kaç tane daha alicam aşırı memnun kaldım tavsiye ederim",
+        "kesinlikle 1 beden büyük alınmalı ben m aldığım halde bacağımdan girmedi içi kalım kumaşıda güzeldi ama olmadığı için iade etmek zorunda kaldım"
       ],
       "all_reviews": [
         {
@@ -189,100 +421,35 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli Rahat",
-      "review_count": 5,
+      "name": "Fiyat & Uygun",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
-        "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok rahat yumuşak sıcak bir tayt tavsiye ediyorum 1 beden küçük alın",
-        "ürün beklediğimden daha iyi geldi ben çok beğendim hiç tereddüt etmeden alabilirsiniz"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok rahat yumuşak sıcak bir tayt tavsiye ediyorum 1 beden küçük alın",
-          "score": 5.0
-        },
-        {
-          "text": "ürün beklediğimden daha iyi geldi ben çok beğendim hiç tereddüt etmeden alabilirsiniz",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalıp Rahat",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
+        "beklemiyordum",
+        "fiyat",
+        "uygun",
+        "aldık",
+        "rengi",
+        "biri",
         "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
+        "rağmen"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "mükemmel çok memnun kaldım gönül rahatlığıyla herkes alsın",
-        "güzel sıcak tutuyor kalıbı da güzel"
+        "7 aylık hamileyim 65 kg l aldım rahat giymek için bu fiyata böyle bir ürün açıkçası beklemiyordum hem kendisi çok hafif hemde likrasi çok iyi şimdi bir kaç tane daha alicam aşırı memnun kaldım tavsiye ederim",
+        "çok güzel ve çok rahat rengide tam istediğim renk kargo'da çok çabuk geldi teşekkürler"
       ],
       "all_reviews": [
         {
-          "text": "mükemmel çok memnun kaldım gönül rahatlığıyla herkes alsın",
+          "text": "çok güzel ve çok rahat rengide tam istediğim renk kargo'da çok çabuk geldi teşekkürler",
           "score": 5.0
         },
         {
-          "text": "güzel sıcak tutuyor kalıbı da güzel",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kilo",
-        "kilo rahat",
-        "asla",
-        "olmasına",
-        "rağmen",
-        "fiyat performans",
-        "performans",
-        "rahat rahat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "tayt ı inanılmaz veğendim göründüpü gibi içi polarlı 167 47 kilo s beden tam oldu sanırım rahatlık için normal bedeninizden 1 beden büyük alın"
-      ],
-      "all_reviews": [
-        {
-          "text": "tayt ı inanılmaz veğendim göründüpü gibi içi polarlı 167 47 kilo s beden tam oldu sanırım rahatlık için normal bedeninizden 1 beden büyük alın",
+          "text": "7 aylık hamileyim 65 kg l aldım rahat giymek için bu fiyata böyle bir ürün açıkçası beklemiyordum hem kendisi çok hafif hemde likrasi çok iyi şimdi bir kaç tane daha alicam aşırı memnun kaldım tavsiye ederim",
           "score": 5.0
         }
       ],

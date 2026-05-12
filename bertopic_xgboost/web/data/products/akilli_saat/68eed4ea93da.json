@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Havit M9068 Akıllı Saat 2.01” AMOLED, Metal Kasa, Bluet** için 11 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Sağlam** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün hızlı bir şekilde geldi paketleme mükemmeldi ürün çok güzel ve kullanışlı telefo…\"\n• **Ekran & Kordon**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kaliteli** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Gerçekten çok güzel bir saat indirime girince bir tane daha alacagım\"\n• Kullanıcılar **Kaliteli & Rahatlıkla** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kullanışlı** ve **performans** konusu özellikle vurgulanmaktadır.",
+  "summary": "Havit M9068 Akıllı Saat, kullanıcıların beğenmesini sağlayan belirgin niteliklere sahiptir. Ekran ve kordon gibi ürünün temel özelliklerinin tamamına 5.0 puanlı yorumlar almaktadır. Ürün, fiyat performansını da gözönüne alarak tam olarak beklenen performansı sunmaktadır. Kurulumu kolaydır ve markanın niteliği, özelliğini de hakettiği gibi beğenilmektedir. Overall, ürünün genel memnuniyeti 5.0/5.0 puanına ulaşmıştır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,194 @@
   },
   "aspects": [
     {
-      "name": "Sağlam",
+      "name": "Ekran & Kordon",
+      "review_count": 5,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ekran",
+        "kordon",
+        "kalitesi",
+        "kullanımı",
+        "akıcı",
+        "uzun",
+        "özelliği",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "aşırı iyiii amoled ekran olması ayrı bir güzel zaten",
+        "ekran pil ölçümleri herseyi on numara kaçırmayın",
+        "saat fiyatına göre çok kaliteli hissettiriyor özellikleri bu fiyat bandı için çok iyi ben memnun kaldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "anlatmaya gerek yok iyi marka kaliteli mal paketleme güzel almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "ekran pil ölçümleri herseyi on numara kaçırmayın",
+          "score": 5.0
+        },
+        {
+          "text": "aşırı iyiii amoled ekran olması ayrı bir güzel zaten",
+          "score": 5.0
+        },
+        {
+          "text": "saat fiyatına göre çok kaliteli hissettiriyor özellikleri bu fiyat bandı için çok iyi ben memnun kaldım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "fiyat performans",
+        "fiyat",
+        "performans",
+        "kalite",
+        "bayıldı",
+        "teslimat",
+        "ideal",
+        "kargolama"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "saat fiyatına göre çok kaliteli hissettiriyor özellikleri bu fiyat bandı için çok iyi ben memnun kaldım",
+        "anlatmaya gerek yok iyi marka kaliteli mal paketleme güzel almanızı tavsiye ederim",
+        "kaliteli mükemmel"
+      ],
+      "all_reviews": [
+        {
+          "text": "anlatmaya gerek yok iyi marka kaliteli mal paketleme güzel almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "saat fiyatına göre çok kaliteli hissettiriyor özellikleri bu fiyat bandı için çok iyi ben memnun kaldım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sesli",
+        "ürünler",
+        "aydır",
+        "kurulumu kolay",
+        "ogluma",
+        "kurulumu",
+        "şimdilik",
+        "fiyat"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "ürün hızlı bir şekilde geldi paketleme mükemmeldi ürün çok güzel ve kullanışlı telefonda uygulamasıyla hemen bağladım çok teşekkür kesinlikle tavsiye ederim",
+        "müthiş bişi süper harika bir ürün teşekkürler",
+        "süper bir ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün hızlı bir şekilde geldi paketleme mükemmeldi ürün çok güzel ve kullanışlı telefonda uygulamasıyla hemen bağladım çok teşekkür kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "süper bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "müthiş bişi süper harika bir ürün teşekkürler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Marka / Fiyat Performans",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "marka",
+        "sorunsuz",
+        "ilgili",
+        "fiyat",
+        "tane",
+        "bide",
+        "eksiksiz",
+        "başka"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "saat fiyatına göre çok kaliteli hissettiriyor özellikleri bu fiyat bandı için çok iyi ben memnun kaldım",
         "anlatmaya gerek yok iyi marka kaliteli mal paketleme güzel almanızı tavsiye ederim",
-        "müthiş bişi süper harika bir ürün teşekkürler"
+        "gerçekten çok güzel bir saat indirime girince bir tane daha alacagım"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten çok güzel bir saat indirime girince bir tane daha alacagım",
+          "score": 5.0
+        },
+        {
+          "text": "anlatmaya gerek yok iyi marka kaliteli mal paketleme güzel almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "saat fiyatına göre çok kaliteli hissettiriyor özellikleri bu fiyat bandı için çok iyi ben memnun kaldım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Özellik",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
+        "paketleme",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün hızlı bir şekilde geldi paketleme mükemmeldi ürün çok güzel ve kullanışlı telefonda uygulamasıyla hemen bağladım çok teşekkür kesinlikle tavsiye ederim",
+        "saat fiyatına göre çok kaliteli hissettiriyor özellikleri bu fiyat bandı için çok iyi ben memnun kaldım",
+        "anlatmaya gerek yok iyi marka kaliteli mal paketleme güzel almanızı tavsiye ederim"
       ],
       "all_reviews": [
         {
@@ -51,84 +217,42 @@
           "score": 5.0
         },
         {
-          "text": "müthiş bişi süper harika bir ürün teşekkürler",
+          "text": "saat fiyatına göre çok kaliteli hissettiriyor özellikleri bu fiyat bandı için çok iyi ben memnun kaldım",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Ekran & Kordon",
-      "review_count": 3,
+      "name": "Paketleme",
+      "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "ekran",
-        "kordon",
-        "kaliteli",
-        "fiyata",
-        "kalitesi",
-        "kullanımı",
-        "akıcı",
-        "uzun"
+        "paketleme",
+        "paketlemesi",
+        "ürünüm",
+        "kısa",
+        "paketlenmesi",
+        "özellikle",
+        "sürede",
+        "kısa sürede"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "aşırı iyiii amoled ekran olması ayrı bir güzel zaten",
-        "ekran pil ölçümleri herseyi on numara kaçırmayın",
-        "gerçekten çok güzel bir saat indirime girince bir tane daha alacagım"
+        "ürün hızlı bir şekilde geldi paketleme mükemmeldi ürün çok güzel ve kullanışlı telefonda uygulamasıyla hemen bağladım çok teşekkür kesinlikle tavsiye ederim",
+        "anlatmaya gerek yok iyi marka kaliteli mal paketleme güzel almanızı tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "gerçekten çok güzel bir saat indirime girince bir tane daha alacagım",
+          "text": "ürün hızlı bir şekilde geldi paketleme mükemmeldi ürün çok güzel ve kullanışlı telefonda uygulamasıyla hemen bağladım çok teşekkür kesinlikle tavsiye ederim",
           "score": 5.0
         },
         {
-          "text": "ekran pil ölçümleri herseyi on numara kaçırmayın",
-          "score": 5.0
-        },
-        {
-          "text": "aşırı iyiii amoled ekran olması ayrı bir güzel zaten",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli & Rahatlıkla",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "kaliteli kaliteli",
-        "rahatlıkla",
-        "kullanışlı",
-        "performans"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kaliteli mükemmel",
-        "süper bir ürün",
-        "perfect match"
-      ],
-      "all_reviews": [
-        {
-          "text": "kaliteli mükemmel",
-          "score": 5.0
-        },
-        {
-          "text": "perfect match",
-          "score": 5.0
-        },
-        {
-          "text": "süper bir ürün",
+          "text": "anlatmaya gerek yok iyi marka kaliteli mal paketleme güzel almanızı tavsiye ederim",
           "score": 5.0
         }
       ],

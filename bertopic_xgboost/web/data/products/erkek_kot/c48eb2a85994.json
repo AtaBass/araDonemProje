@@ -8,7 +8,7 @@
   "overall_score": 4.62,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**ElitWear Erkek Siyah Slim Fit Kot Pantolon** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: 1 günde elime ulasti kendi bedenimde aldim tam oldu cok rahat kaliteli.\n• **Kumaş**: Eşime aldım ve çok beğendik kumaşı renginin canlılığı herşey çok güzel tam beden aldım süper oldu.\n• **Doku & Likral**: Istediğim gibi gelmedi insanları aldatmayın lütfen.\n• **Kalite & Fiyat**: Tam beden sipariş verebilirsiniz fiyat performans ürünü.\n• **Kalıp**: Istediğim gibi gelmedi insanları aldatmayın lütfen.",
+  "summary": "ElitWear Erkek Siyah Slim Fit Kot Pantolon, müşterilerin genel memnuniyetine sahip ürün. Ürünün fiyat performansına yapılan yorumlar, 4.84/5.0 ortalama puanına sahiptir ve kaliteli malzemeden üretilmesi, alınabilirliği ve kalıbı ile ilgili yorumlar da pozitif puan almıştır. Kumaş kalitesi de müşteri beğenisi kazanmıştır. Overall, ürünün yüksek memnuniyet oranı, müşterilerin olumlu görüşlerini yansıtmaktadır.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 40,
-      "avg_score": 4.83,
+      "review_count": 43,
+      "avg_score": 4.84,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,9 +33,9 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 87.5,
+      "positive_pct": 88.4,
       "negative_pct": 0.0,
-      "neutral_pct": 12.5,
+      "neutral_pct": 11.6,
       "sample_reviews": [
         "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
         "1 günde elime ulasti kendi bedenimde aldim tam oldu cok rahat kaliteli",
@@ -47,7 +47,7 @@
           "score": 5.0
         },
         {
-          "text": "tam bedeni oldu severek kullanıyo",
+          "text": "eşime aldım ve çok beğendik kumaşı renginin canlılığı herşey çok güzel tam beden aldım süper oldu",
           "score": 5.0
         },
         {
@@ -79,11 +79,11 @@
           "score": 5.0
         },
         {
-          "text": "erkek kardeşime aldik cok guzel tam beden alinnn",
+          "text": "tam bedeni oldu severek kullanıyo",
           "score": 5.0
         },
         {
-          "text": "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
+          "text": "erkek kardeşime aldik cok guzel tam beden alinnn",
           "score": 5.0
         },
         {
@@ -92,6 +92,10 @@
         },
         {
           "text": "eşime aldım çok beğendi 1 beden büyük tercih edilebilir",
+          "score": 5.0
+        },
+        {
+          "text": "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
           "score": 5.0
         },
         {
@@ -105,6 +109,134 @@
         {
           "text": "buyuk beden siparis verin",
           "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 14,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 64.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 35.7,
+      "sample_reviews": [
+        "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
+        "1 beden büyük almıştım üzerime tam oldu kaliteli ve güzel tavsiye ederim",
+        "1 günde elime ulasti kendi bedenimde aldim tam oldu cok rahat kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
+          "score": 5.0
+        },
+        {
+          "text": "1 beden büyük almıştım üzerime tam oldu kaliteli ve güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "1 günde elime ulasti kendi bedenimde aldim tam oldu cok rahat kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden sipariş verebilirsiniz fiyat performans ürünü",
+          "score": 4.0
+        },
+        {
+          "text": "kumaşı fena değil fiyatına göre iyi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
+        "1 beden büyük almıştım üzerime tam oldu kaliteli ve güzel tavsiye ederim",
+        "1 günde elime ulasti kendi bedenimde aldim tam oldu cok rahat kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
+          "score": 5.0
+        },
+        {
+          "text": "1 beden büyük almıştım üzerime tam oldu kaliteli ve güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "1 günde elime ulasti kendi bedenimde aldim tam oldu cok rahat kaliteli",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Kalıb",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "baya",
+        "kalite",
+        "kalıbı",
+        "fakat",
+        "kalitesi",
+        "kesim",
+        "dilerim",
+        "kalıp"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
+        "1 beden büyük almıştım üzerime tam oldu kaliteli ve güzel tavsiye ederim",
+        "1 günde elime ulasti kendi bedenimde aldim tam oldu cok rahat kaliteli"
+      ],
+      "all_reviews": [
+        {
+          "text": "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
+          "score": 5.0
+        },
+        {
+          "text": "1 beden büyük almıştım üzerime tam oldu kaliteli ve güzel tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "1 günde elime ulasti kendi bedenimde aldim tam oldu cok rahat kaliteli",
+          "score": 5.0
         }
       ],
       "icon": "💬"
@@ -150,6 +282,46 @@
       "icon": "💬"
     },
     {
+      "name": "Kalıp",
+      "review_count": 7,
+      "avg_score": 3.86,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "alin",
+        "aynı",
+        "kalıp",
+        "iade",
+        "istediğim",
+        "super",
+        "kocama",
+        "birebir"
+      ],
+      "positive_pct": 71.4,
+      "negative_pct": 28.6,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "guzell alabilirsiniz kendi bedeninizden bir beden buyuk alin",
+        "istediğim gibi gelmedi insanları aldatmayın lütfen",
+        "erkek kardeşime aldik cok guzel tam beden alinnn"
+      ],
+      "all_reviews": [
+        {
+          "text": "guzell alabilirsiniz kendi bedeninizden bir beden buyuk alin",
+          "score": 5.0
+        },
+        {
+          "text": "erkek kardeşime aldik cok guzel tam beden alinnn",
+          "score": 5.0
+        },
+        {
+          "text": "istediğim gibi gelmedi insanları aldatmayın lütfen",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Doku & Likral",
       "review_count": 7,
       "avg_score": 3.29,
@@ -190,138 +362,8 @@
       "icon": "💬"
     },
     {
-      "name": "Kalite & Fiyat",
-      "review_count": 5,
-      "avg_score": 3.6,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
-      "top_terms": [
-        "düşünüyorum",
-        "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
-        "tam beden sipariş verebilirsiniz fiyat performans ürünü",
-        "kumaşı fena değil fiyatına göre iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "tam beden sipariş verebilirsiniz fiyat performans ürünü",
-          "score": 4.0
-        },
-        {
-          "text": "kumaşı fena değil fiyatına göre iyi",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalıp",
-      "review_count": 4,
-      "avg_score": 3.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Karışık",
-      "top_terms": [
-        "alin",
-        "aynı",
-        "kalıp",
-        "iade",
-        "istediğim",
-        "super",
-        "kocama",
-        "birebir"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "istediğim gibi gelmedi insanları aldatmayın lütfen",
-        "erkek kardeşime aldik cok guzel tam beden alinnn"
-      ],
-      "all_reviews": [
-        {
-          "text": "erkek kardeşime aldik cok guzel tam beden alinnn",
-          "score": 5.0
-        },
-        {
-          "text": "istediğim gibi gelmedi insanları aldatmayın lütfen",
-          "score": 1.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Alınabilir",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kalitesi",
-        "alınabilir",
-        "likralı",
-        "kalıp",
-        "beğenerek",
-        "birebir",
-        "yumuşacık",
-        "tşkler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Kalıb",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "baya",
-        "kalite",
-        "kalıbı",
-        "fakat",
-        "kalitesi",
-        "kesim",
-        "dilerim",
-        "kalıp"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi"
-      ],
-      "all_reviews": [
-        {
-          "text": "eşim için almıştım çok rahat ve hoş duruyor kendi bedeninizi tercih ede bilirsiniz ve kalitesi iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Siyah",
-      "review_count": 3,
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -336,9 +378,14 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "oğluma aldım tam bedeninizi alın rengi koyu siyah rahat ve güzel"
+        "oğluma aldım tam bedeninizi alın rengi koyu siyah rahat ve güzel",
+        "eşime aldım ve çok beğendik kumaşı renginin canlılığı herşey çok güzel tam beden aldım süper oldu"
       ],
       "all_reviews": [
+        {
+          "text": "eşime aldım ve çok beğendik kumaşı renginin canlılığı herşey çok güzel tam beden aldım süper oldu",
+          "score": 5.0
+        },
         {
           "text": "oğluma aldım tam bedeninizi alın rengi koyu siyah rahat ve güzel",
           "score": 5.0

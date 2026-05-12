@@ -8,7 +8,7 @@
   "overall_score": 4.71,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Stradivarius Beyaz Spor Ayakkabı** için 48 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **numaranizi** ve **kullanışlı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ayyy cok sevdimm o kadar rahat ki uzun süredir rahat ayakkabı giymemisim megerr kendi…\"\n• **Numaramı & Kalıbı Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **derim** ve **kalip** başta olmak üzere. Örnek kullanıcı ifadesi: \"Tam numaramı aldım tam oldu kardeşime de almıştı kendime de aldım\"\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **uygun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünü çok beğendim hem çok rahat hem de çok kibar duruyor alınmalı kesinlikle\"\n• **Rahat Kaliteli** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **alınır** ve **duruşu** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ayakkbı tam kalıp çok güzel her kombine yakışıyor\"\n• Müşteri yorumlarında **Fiyata & Numaranıza** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **taraklı** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ayakkabım çok çok çok güzel daha önce de bu markayı ve aynı ürünün renkli olanı kulla…\"",
+  "summary": "**Stradivarius Beyaz Spor Ayakkabı** için 48 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Numaranıza**: Kullanıcılar numaranıza konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Numaram**: Kullanıcılar numaram konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Numaranıza & Tarakl**: Kullanıcılar numaranıza & tarakl konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Numaraniz**: Kullanıcılar numaraniz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Duruyo**: Kullanıcılar duruyo konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 3,
@@ -18,100 +18,40 @@
   },
   "aspects": [
     {
-      "name": "Rahat",
-      "review_count": 20,
-      "avg_score": 4.75,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "numaranizi",
-        "alin",
-        "alınmalı",
-        "alınmalı rahat",
-        "rahat rahat",
-        "kullanışlı",
-        "kaliteli rahat",
-        "numaranizi rahat"
-      ],
-      "positive_pct": 75.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 25.0,
-      "sample_reviews": [
-        "bence çok güzel bir beden küçük alınmalı",
-        "ayyy cok sevdimm o kadar rahat ki uzun süredir rahat ayakkabı giymemisim megerr kendi numaranızı alın",
-        "bayıldıımm gerçekten çok rahat güvenle alabilirsinizzz tam numaranızı alabilirsinizz"
-      ],
-      "all_reviews": [
-        {
-          "text": "beğendim tam numara alın",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzeldi teşekkür ederim stradi ayağınız neyse onu alın",
-          "score": 5.0
-        },
-        {
-          "text": "bence çok güzel bir beden küçük alınmalı",
-          "score": 5.0
-        },
-        {
-          "text": "ayyy cok sevdimm o kadar rahat ki uzun süredir rahat ayakkabı giymemisim megerr kendi numaranızı alın",
-          "score": 5.0
-        },
-        {
-          "text": "bayıldıımm gerçekten çok rahat güvenle alabilirsinizzz tam numaranızı alabilirsinizz",
-          "score": 5.0
-        },
-        {
-          "text": "çok rahat ve güzeel numaranız neyse onu alın",
-          "score": 5.0
-        },
-        {
-          "text": "bi numara küçük alın kalıbı büyük gayet rahat",
-          "score": 4.0
-        },
-        {
-          "text": "güzel tam kalıp alabilirsiniz",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Numaramı & Kalıbı Rahat",
+      "name": "Numaranıza",
       "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "ayak",
+        "numaranıza",
+        "kibar",
+        "biri",
         "numaramı",
-        "tane",
-        "kalıbı",
-        "derim",
-        "bayıldım",
-        "almışım",
-        "kalip",
-        "sağlam"
+        "tarakli",
+        "sıktı",
+        "ayağımı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "tam numaramı aldım tam oldu kardeşime de almıştı kendime de aldım",
-        "çok rahat ettim teşekkür ederim",
-        "bence gayet güzel ve rahat umarım kırılma olmaz"
+        "ayakkabım çok çok çok güzel daha önce de bu markayı ve aynı ürünün renkli olanı kullanmıştım stoklarda olamadığı için maalesef renklisinden alamadım olsaydı ondan alacaktım",
+        "ayyy cok sevdimm o kadar rahat ki uzun süredir rahat ayakkabı giymemisim megerr kendi numaranızı alın",
+        "ürünü çok beğendim hem çok rahat hem de çok kibar duruyor alınmalı kesinlikle"
       ],
       "all_reviews": [
         {
-          "text": "çok rahat ettim teşekkür ederim",
+          "text": "ayakkbı tam kalıp çok güzel her kombine yakışıyor",
           "score": 5.0
         },
         {
-          "text": "bence gayet güzel ve rahat umarım kırılma olmaz",
+          "text": "ayakkabım çok çok çok güzel daha önce de bu markayı ve aynı ürünün renkli olanı kullanmıştım stoklarda olamadığı için maalesef renklisinden alamadım olsaydı ondan alacaktım",
           "score": 5.0
         },
         {
-          "text": "ben almıştım kardeşime de aldık uzun ömürlü",
+          "text": "ürünü çok beğendim hem çok rahat hem de çok kibar duruyor alınmalı kesinlikle",
           "score": 5.0
         },
         {
@@ -119,38 +59,127 @@
           "score": 5.0
         },
         {
-          "text": "güzel ürün bir numara büyük almayın",
+          "text": "ayyy cok sevdimm o kadar rahat ki uzun süredir rahat ayakkabı giymemisim megerr kendi numaranızı alın",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 5,
+      "name": "Numaram",
+      "review_count": 10,
+      "avg_score": 4.8,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "numaramı",
+        "tane",
+        "kalıbı",
+        "derim",
+        "almışım",
+        "bayıldım",
+        "kalip",
+        "paketleme"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "tam numaramı aldım tam oldu kardeşime de almıştı kendime de aldım",
+        "çok güzeldi teşekkür ederim stradi ayağınız neyse onu alın",
+        "bi numara küçük alın kalıbı büyük gayet rahat"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzeldi teşekkür ederim stradi ayağınız neyse onu alın",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat ettim teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tam numaramı aldım tam oldu kardeşime de almıştı kendime de aldım",
+          "score": 5.0
+        },
+        {
+          "text": "bi numara küçük alın kalıbı büyük gayet rahat",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaranıza & Tarakl",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "performans",
-        "fiyat performans",
-        "fiyat",
-        "fiyata",
-        "uygun",
-        "emeği",
-        "kibar",
-        "arkadaşlar"
+        "ayak",
+        "almışım",
+        "numaranıza",
+        "taraklı",
+        "rahatlığıyla",
+        "geniş",
+        "paketleme",
+        "numaranizi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ayakkabım çok çok çok güzel daha önce de bu markayı ve aynı ürünün renkli olanı kullanmıştım stoklarda olamadığı için maalesef renklisinden alamadım olsaydı ondan alacaktım",
+        "ayyy cok sevdimm o kadar rahat ki uzun süredir rahat ayakkabı giymemisim megerr kendi numaranızı alın",
+        "ayakkbı tam kalıp çok güzel her kombine yakışıyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "ayakkbı tam kalıp çok güzel her kombine yakışıyor",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabım çok çok çok güzel daha önce de bu markayı ve aynı ürünün renkli olanı kullanmıştım stoklarda olamadığı için maalesef renklisinden alamadım olsaydı ondan alacaktım",
+          "score": 5.0
+        },
+        {
+          "text": "ayyy cok sevdimm o kadar rahat ki uzun süredir rahat ayakkabı giymemisim megerr kendi numaranızı alın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaraniz",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "numaranizi",
+        "alin",
+        "alınmalı",
+        "aldık",
+        "zamanla",
+        "aynı zamanda",
+        "öncede",
+        "kalıbı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "ürünü çok beğendim hem çok rahat hem de çok kibar duruyor alınmalı kesinlikle",
-        "zaten stradi ürünleri ve kalitesi çok iyi oluyor çok beğendim"
+        "ben almıştım kardeşime de aldık uzun ömürlü",
+        "bence çok güzel bir beden küçük alınmalı"
       ],
       "all_reviews": [
         {
-          "text": "zaten stradi ürünleri ve kalitesi çok iyi oluyor çok beğendim",
+          "text": "bence çok güzel bir beden küçük alınmalı",
+          "score": 5.0
+        },
+        {
+          "text": "ben almıştım kardeşime de aldık uzun ömürlü",
           "score": 5.0
         },
         {
@@ -161,50 +190,85 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat Kaliteli",
-      "review_count": 3,
+      "name": "Duruyo",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat kaliteli",
-        "alınır",
-        "duruşu",
-        "bayıldım rahat",
-        "rahat bayıldım",
-        "hafif",
-        "sağlam",
+        "alınmalı",
+        "duruyo",
+        "asla",
+        "alin",
+        "yumuşak",
+        "istediğim",
+        "kalıp kalıp",
         "bayıldım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ayakkbı tam kalıp çok güzel her kombine yakışıyor"
+        "ürünü çok beğendim hem çok rahat hem de çok kibar duruyor alınmalı kesinlikle",
+        "bence çok güzel bir beden küçük alınmalı"
       ],
       "all_reviews": [
         {
-          "text": "ayakkbı tam kalıp çok güzel her kombine yakışıyor",
+          "text": "bence çok güzel bir beden küçük alınmalı",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü çok beğendim hem çok rahat hem de çok kibar duruyor alınmalı kesinlikle",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyata & Numaranıza",
+      "name": "Geniş",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "ayak",
-        "almışım",
-        "fiyata",
-        "numaranıza",
-        "taraklı",
-        "rahatlığıyla",
-        "paketleme",
-        "geniş"
+        "geniş",
+        "kalitesi",
+        "olduğunu",
+        "zamanla",
+        "çokk",
+        "numaram",
+        "yumuşak",
+        "fakat"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "zaten stradi ürünleri ve kalitesi çok iyi oluyor çok beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "zaten stradi ürünleri ve kalitesi çok iyi oluyor çok beğendim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınır",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınır",
+        "duruşu",
+        "hafif",
+        "bayıldım",
+        "aynı zamanda",
+        "çokta",
+        "zamanda",
+        "rengi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -215,66 +279,6 @@
       "all_reviews": [
         {
           "text": "ayakkabım çok çok çok güzel daha önce de bu markayı ve aynı ürünün renkli olanı kullanmıştım stoklarda olamadığı için maalesef renklisinden alamadım olsaydı ondan alacaktım",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Buyuk & Rahat",
-      "review_count": 3,
-      "avg_score": 2.0,
-      "sentiment": "negative",
-      "sentiment_label": "Olumsuz",
-      "top_terms": [
-        "buyuk",
-        "rengi",
-        "asla",
-        "büyüğünü",
-        "numaramı",
-        "beğenerek",
-        "duruşu",
-        "bakarak"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 100.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "36 numara giyiyorum ve tam oldu çok rahat ama yanlardan açılmaya başladı"
-      ],
-      "all_reviews": [
-        {
-          "text": "36 numara giyiyorum ve tam oldu çok rahat ama yanlardan açılmaya başladı",
-          "score": 2.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat Yumuşak",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fakat",
-        "bakarak",
-        "ayağımı",
-        "taraklı",
-        "kibar",
-        "numarası",
-        "rahat yumuşak",
-        "almışım rahat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "günlük giymeye almıstım 35 numara bulmak zor güzel"
-      ],
-      "all_reviews": [
-        {
-          "text": "günlük giymeye almıstım 35 numara bulmak zor güzel",
           "score": 5.0
         }
       ],

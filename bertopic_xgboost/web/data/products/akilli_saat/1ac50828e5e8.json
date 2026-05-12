@@ -8,7 +8,7 @@
   "overall_score": 4.6,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**HARVOX Watch X1 Pro Akıllı Saat Iphone Ve Android Tüm T** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Ekran & Kordon** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kaliteli** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok…\"\n• **Şarjı** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **telefon** ve **arama** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok dolu ürün beklentiyi fazlasıyla karşılıyor özellikleri ne belirtmişlerse hepsi va…\"\n• Kullanıcılar **Sağlam** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **paketlemesi** ve **ürünüm** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kutu paketlemesi çok iyiydi ve sapasağlam geldi ürün kendiside sapasağlam maşallah be…\"\n• **Kullanışlı & Asuman Hanım** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **güvenilir** ve **farklı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok guzel super bi saat hakkini veriyor\"",
+  "summary": "HARVOX Watch X1 Pro, genel memnuniyet puanını 4.6/5.0 ve toplam 40 yorumda elde etmiştir. Ürün, özellikli yönleri arasında 24 yorumdan oluşan olumlu 4.67/5.0 puandan yararlanmıştır. Bu ürünün ekranı ve kordona, şarjına, kurulum kolaylığına ve fiyat performansına ilişkin yorumlar da aynı olumlu yönde olmuştur. Ürünün genel değerlendirme özeti, yüksek memnuniyet oranını ve olumlu yorumların çoğunu gösterir.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,32 +18,30 @@
   },
   "aspects": [
     {
-      "name": "Ekran & Kordon",
-      "review_count": 20,
-      "avg_score": 4.9,
+      "name": "Özellik",
+      "review_count": 24,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "ekran",
-        "kordon",
-        "kaliteli",
-        "fiyata",
-        "kalitesi",
-        "kullanımı",
-        "akıcı",
-        "uzun"
+        "şarj",
+        "özellikleri",
+        "yapmak",
+        "yorum",
+        "paketleme",
+        "bayıldım"
       ],
-      "positive_pct": 90.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 10.0,
+      "positive_pct": 91.7,
+      "negative_pct": 8.3,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar",
+        "kutu paketlemesi çok iyiydi ve sapasağlam geldi ürün kendiside sapasağlam maşallah ben çok memnun kaldım özelliklerinden ve şarj süresinden çevremede önereceğim kesinlikle",
         "çok kral bi saat tasarlamışlar ve bu modelin emin olun benzeri veya muadili yoktur çok araştırdım pişman olmayacağım tek model buydu ve öylede oldu ciddi anlamda ekran kalitesi harika özelliklerini rahat bir şekilde kullanıyorsunuz ki zaten şarj derdiniz yok şiddetle tavsiye ederim almak isteyenlere",
         "tasarımı çok ilgi çekici gören herkes soruyor ama daha iyisi özellikleri kesinlikle suya dayanıklı birkaç defa denedim hiç bişey olmadı şarj süresi desen aldığımdan beri 1 defa taktım şarja oda saat açılsın diye onun dışşında ekranı pasparlak bide dandik saatler gibi kasmıyor on numara ürün"
       ],
       "all_reviews": [
         {
-          "text": "mükemmel bir saat fiyatına göre kesinlikle alınması gereken bir saat kargo sağlam paketlenmişti teşekkürler",
+          "text": "kutu paketlemesi çok iyiydi ve sapasağlam geldi ürün kendiside sapasağlam maşallah ben çok memnun kaldım özelliklerinden ve şarj süresinden çevremede önereceğim kesinlikle",
           "score": 5.0
         },
         {
@@ -51,7 +49,15 @@
           "score": 5.0
         },
         {
+          "text": "sapasağlam saat malzeme kalitesinden bu saate bir şey olmıcağı belli fiyatıda diğer muadillere göre çok ucuz bence şarja hala takmadım bu arada müthiş bi özellik olmuş",
+          "score": 5.0
+        },
+        {
           "text": "kasası biraz büyük bileği kalın olanlarda çok şık durucaktır ve bu tarz outdoor modeller çok hoşuma gidiyor açıkçası ve özellik anlamında da görselleri ve soruları okudum tamamen ne denilmişse o şekilde geliyor ürün gönül rahatlığıyla tercih edebilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün şarjı fotoğraflarda uzun olduğu söyleniyordu pekte aldırış etmemiştim ama ciddi anlamda şarjı 1 günde yüzde 2 falan düştü daha önce kullandığım akıllı saatlerde böyle bir şey imkansız en kral saatte bile 2 gün gidiyor şarj süresi bu çok ciddi bi özellik kesinlikle öneriyorum",
           "score": 5.0
         },
         {
@@ -63,7 +69,71 @@
           "score": 5.0
         },
         {
+          "text": "uzun zamandır istiyordum indirime girer girmez satın aldım ve cidden fotoğraflarda ne belirtildiyse o şekilde özellikleir mevcut bu kadar memnun kalıcağımı tahmin etmezdim şarj performansı aşırı şaşırttı resmen hiç bitmiyor şaka gibi teşekkür ederim",
+          "score": 5.0
+        },
+        {
           "text": "güzel bir saat severek kullanıyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok kral bi saat tasarlamışlar ve bu modelin emin olun benzeri veya muadili yoktur çok araştırdım pişman olmayacağım tek model buydu ve öylede oldu ciddi anlamda ekran kalitesi harika özelliklerini rahat bir şekilde kullanıyorsunuz ki zaten şarj derdiniz yok şiddetle tavsiye ederim almak isteyenlere",
+          "score": 5.0
+        },
+        {
+          "text": "çok dolu ürün beklentiyi fazlasıyla karşılıyor özellikleri ne belirtmişlerse hepsi var hatta daha fazlası da var şarjı deli gibi uzun gidiyor suda geçirmedi bende ama dikkat edin",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok iyi çok güzel almanızı öneriyorum içinden cam koruması da çıksa çok güzel olurdu 1 aylık kullanımdan sonra dün şarjı bianda düştü taktım 50 şarj ile işe gittim 1 saat dayandı şarj konusunda hemen bitmeye başladı",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ekran & Kordon",
+      "review_count": 20,
+      "avg_score": 4.3,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "ekran",
+        "kordon",
+        "kalitesi",
+        "kullanımı",
+        "akıcı",
+        "uzun",
+        "özelliği",
+        "bayıldım"
+      ],
+      "positive_pct": 70.0,
+      "negative_pct": 10.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar",
+        "çok kral bi saat tasarlamışlar ve bu modelin emin olun benzeri veya muadili yoktur çok araştırdım pişman olmayacağım tek model buydu ve öylede oldu ciddi anlamda ekran kalitesi harika özelliklerini rahat bir şekilde kullanıyorsunuz ki zaten şarj derdiniz yok şiddetle tavsiye ederim almak isteyenlere",
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi"
+      ],
+      "all_reviews": [
+        {
+          "text": "paketleme iyi ürün kaliteli yumuşaklık hissi gayet ideal tam bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "sapasağlam saat malzeme kalitesinden bu saate bir şey olmıcağı belli fiyatıda diğer muadillere göre çok ucuz bence şarja hala takmadım bu arada müthiş bi özellik olmuş",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten hiç bu kadar kaliteli beklemiyordum fiyatına göre üst segment bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "tasarımı çok ilgi çekici gören herkes soruyor ama daha iyisi özellikleri kesinlikle suya dayanıklı birkaç defa denedim hiç bişey olmadı şarj süresi desen aldığımdan beri 1 defa taktım şarja oda saat açılsın diye onun dışşında ekranı pasparlak bide dandik saatler gibi kasmıyor on numara ürün",
+          "score": 5.0
+        },
+        {
+          "text": "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar",
           "score": 5.0
         },
         {
@@ -75,55 +145,7 @@
           "score": 5.0
         },
         {
-          "text": "sapasağlam saat malzeme kalitesinden bu saate bir şey olmıcağı belli fiyatıda diğer muadillere göre çok ucuz bence şarja hala takmadım bu arada müthiş bi özellik olmuş",
-          "score": 5.0
-        },
-        {
           "text": "güzel ve kaliteli bir saat",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Şarjı",
-      "review_count": 12,
-      "avg_score": 3.83,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "şarjı",
-        "şarj",
-        "gidiyor",
-        "uzun",
-        "telefon",
-        "arama",
-        "şarjı gidiyor",
-        "kullanisli"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 16.7,
-      "neutral_pct": 33.3,
-      "sample_reviews": [
-        "ürün şarjı fotoğraflarda uzun olduğu söyleniyordu pekte aldırış etmemiştim ama ciddi anlamda şarjı 1 günde yüzde 2 falan düştü daha önce kullandığım akıllı saatlerde böyle bir şey imkansız en kral saatte bile 2 gün gidiyor şarj süresi bu çok ciddi bi özellik kesinlikle öneriyorum",
-        "çok dolu ürün beklentiyi fazlasıyla karşılıyor özellikleri ne belirtmişlerse hepsi var hatta daha fazlası da var şarjı deli gibi uzun gidiyor suda geçirmedi bende ama dikkat edin",
-        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi"
-      ],
-      "all_reviews": [
-        {
-          "text": "uzun zamandır istiyordum indirime girer girmez satın aldım ve cidden fotoğraflarda ne belirtildiyse o şekilde özellikleir mevcut bu kadar memnun kalıcağımı tahmin etmezdim şarj performansı aşırı şaşırttı resmen hiç bitmiyor şaka gibi teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "ürün şarjı fotoğraflarda uzun olduğu söyleniyordu pekte aldırış etmemiştim ama ciddi anlamda şarjı 1 günde yüzde 2 falan düştü daha önce kullandığım akıllı saatlerde böyle bir şey imkansız en kral saatte bile 2 gün gidiyor şarj süresi bu çok ciddi bi özellik kesinlikle öneriyorum",
-          "score": 5.0
-        },
-        {
-          "text": "çok dolu ürün beklentiyi fazlasıyla karşılıyor özellikleri ne belirtmişlerse hepsi var hatta daha fazlası da var şarjı deli gibi uzun gidiyor suda geçirmedi bende ama dikkat edin",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı kargo saat de iyi batarya da iyi gidiyor",
           "score": 4.0
         },
         {
@@ -138,27 +160,28 @@
       "icon": "💬"
     },
     {
-      "name": "Sağlam",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Şarjı",
+      "review_count": 20,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "paketleme",
-        "paketlemesi",
-        "sağlam",
-        "ürünüm",
-        "kısa",
-        "paketlenmesi",
-        "paketleme sağlam",
-        "özellikle"
+        "şarjı",
+        "şarj",
+        "uzun",
+        "telefon",
+        "arama",
+        "kullanisli",
+        "fazlasıyla",
+        "çıktı"
       ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "positive_pct": 80.0,
+      "negative_pct": 10.0,
+      "neutral_pct": 10.0,
       "sample_reviews": [
-        "kutu paketlemesi çok iyiydi ve sapasağlam geldi ürün kendiside sapasağlam maşallah ben çok memnun kaldım özelliklerinden ve şarj süresinden çevremede önereceğim kesinlikle",
-        "gerçekten hiç bu kadar kaliteli beklemiyordum fiyatına göre üst segment bir ürün"
+        "çok dolu ürün beklentiyi fazlasıyla karşılıyor özellikleri ne belirtmişlerse hepsi var hatta daha fazlası da var şarjı deli gibi uzun gidiyor suda geçirmedi bende ama dikkat edin",
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+        "ürün şarjı fotoğraflarda uzun olduğu söyleniyordu pekte aldırış etmemiştim ama ciddi anlamda şarjı 1 günde yüzde 2 falan düştü daha önce kullandığım akıllı saatlerde böyle bir şey imkansız en kral saatte bile 2 gün gidiyor şarj süresi bu çok ciddi bi özellik kesinlikle öneriyorum"
       ],
       "all_reviews": [
         {
@@ -166,43 +189,319 @@
           "score": 5.0
         },
         {
+          "text": "çok dolu ürün beklentiyi fazlasıyla karşılıyor özellikleri ne belirtmişlerse hepsi var hatta daha fazlası da var şarjı deli gibi uzun gidiyor suda geçirmedi bende ama dikkat edin",
+          "score": 5.0
+        },
+        {
+          "text": "sapasağlam saat malzeme kalitesinden bu saate bir şey olmıcağı belli fiyatıda diğer muadillere göre çok ucuz bence şarja hala takmadım bu arada müthiş bi özellik olmuş",
+          "score": 5.0
+        },
+        {
+          "text": "ürün şarjı fotoğraflarda uzun olduğu söyleniyordu pekte aldırış etmemiştim ama ciddi anlamda şarjı 1 günde yüzde 2 falan düştü daha önce kullandığım akıllı saatlerde böyle bir şey imkansız en kral saatte bile 2 gün gidiyor şarj süresi bu çok ciddi bi özellik kesinlikle öneriyorum",
+          "score": 5.0
+        },
+        {
+          "text": "tasarımı çok ilgi çekici gören herkes soruyor ama daha iyisi özellikleri kesinlikle suya dayanıklı birkaç defa denedim hiç bişey olmadı şarj süresi desen aldığımdan beri 1 defa taktım şarja oda saat açılsın diye onun dışşında ekranı pasparlak bide dandik saatler gibi kasmıyor on numara ürün",
+          "score": 5.0
+        },
+        {
+          "text": "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar",
+          "score": 5.0
+        },
+        {
+          "text": "uzun zamandır istiyordum indirime girer girmez satın aldım ve cidden fotoğraflarda ne belirtildiyse o şekilde özellikleir mevcut bu kadar memnun kalıcağımı tahmin etmezdim şarj performansı aşırı şaşırttı resmen hiç bitmiyor şaka gibi teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok kral bi saat tasarlamışlar ve bu modelin emin olun benzeri veya muadili yoktur çok araştırdım pişman olmayacağım tek model buydu ve öylede oldu ciddi anlamda ekran kalitesi harika özelliklerini rahat bir şekilde kullanıyorsunuz ki zaten şarj derdiniz yok şiddetle tavsiye ederim almak isteyenlere",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+          "score": 3.0
+        },
+        {
+          "text": "ürün çok iyi çok güzel almanızı öneriyorum içinden cam koruması da çıksa çok güzel olurdu 1 aylık kullanımdan sonra dün şarjı bianda düştü taktım 50 şarj ile işe gittim 1 saat dayandı şarj konusunda hemen bitmeye başladı",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
+      "review_count": 20,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "sesli",
+        "ürünler",
+        "aydır",
+        "kurulumu kolay",
+        "ogluma",
+        "kurulumu",
+        "şimdilik",
+        "fiyat"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 10.0,
+      "neutral_pct": 10.0,
+      "sample_reviews": [
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+        "gerçekten hiç bu kadar kaliteli beklemiyordum fiyatına göre üst segment bir ürün",
+        "tasarımı çok ilgi çekici gören herkes soruyor ama daha iyisi özellikleri kesinlikle suya dayanıklı birkaç defa denedim hiç bişey olmadı şarj süresi desen aldığımdan beri 1 defa taktım şarja oda saat açılsın diye onun dışşında ekranı pasparlak bide dandik saatler gibi kasmıyor on numara ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "kutu paketlemesi çok iyiydi ve sapasağlam geldi ürün kendiside sapasağlam maşallah ben çok memnun kaldım özelliklerinden ve şarj süresinden çevremede önereceğim kesinlikle",
+          "score": 5.0
+        },
+        {
+          "text": "çok dolu ürün beklentiyi fazlasıyla karşılıyor özellikleri ne belirtmişlerse hepsi var hatta daha fazlası da var şarjı deli gibi uzun gidiyor suda geçirmedi bende ama dikkat edin",
+          "score": 5.0
+        },
+        {
+          "text": "kasası biraz büyük bileği kalın olanlarda çok şık durucaktır ve bu tarz outdoor modeller çok hoşuma gidiyor açıkçası ve özellik anlamında da görselleri ve soruları okudum tamamen ne denilmişse o şekilde geliyor ürün gönül rahatlığıyla tercih edebilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün şarjı fotoğraflarda uzun olduğu söyleniyordu pekte aldırış etmemiştim ama ciddi anlamda şarjı 1 günde yüzde 2 falan düştü daha önce kullandığım akıllı saatlerde böyle bir şey imkansız en kral saatte bile 2 gün gidiyor şarj süresi bu çok ciddi bi özellik kesinlikle öneriyorum",
+          "score": 5.0
+        },
+        {
           "text": "gerçekten hiç bu kadar kaliteli beklemiyordum fiyatına göre üst segment bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "tasarımı çok ilgi çekici gören herkes soruyor ama daha iyisi özellikleri kesinlikle suya dayanıklı birkaç defa denedim hiç bişey olmadı şarj süresi desen aldığımdan beri 1 defa taktım şarja oda saat açılsın diye onun dışşında ekranı pasparlak bide dandik saatler gibi kasmıyor on numara ürün",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok hızlı geldi elime ve sapasağlam bir kasası var kaya gibi maşallah hayran kaldım tam benlik model ekranıda kontrast rengi vs çok canlı",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme iyi ürün kaliteli yumuşaklık hissi gayet ideal tam bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+          "score": 3.0
+        },
+        {
+          "text": "ürün çok iyi çok güzel almanızı öneriyorum içinden cam koruması da çıksa çok güzel olurdu 1 aylık kullanımdan sonra dün şarjı bianda düştü taktım 50 şarj ile işe gittim 1 saat dayandı şarj konusunda hemen bitmeye başladı",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 18,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "fiyat",
+        "performans",
+        "kalite",
+        "bayıldı",
+        "teslimat",
+        "ideal",
+        "kargolama"
+      ],
+      "positive_pct": 77.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 22.2,
+      "sample_reviews": [
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+        "sapasağlam saat malzeme kalitesinden bu saate bir şey olmıcağı belli fiyatıda diğer muadillere göre çok ucuz bence şarja hala takmadım bu arada müthiş bi özellik olmuş",
+        "gerçekten hiç bu kadar kaliteli beklemiyordum fiyatına göre üst segment bir ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel bir saat fiyatına göre kesinlikle alınması gereken bir saat kargo sağlam paketlenmişti teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "sapasağlam saat malzeme kalitesinden bu saate bir şey olmıcağı belli fiyatıda diğer muadillere göre çok ucuz bence şarja hala takmadım bu arada müthiş bi özellik olmuş",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten hiç bu kadar kaliteli beklemiyordum fiyatına göre üst segment bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar",
+          "score": 5.0
+        },
+        {
+          "text": "uzun zamandır istiyordum indirime girer girmez satın aldım ve cidden fotoğraflarda ne belirtildiyse o şekilde özellikleir mevcut bu kadar memnun kalıcağımı tahmin etmezdim şarj performansı aşırı şaşırttı resmen hiç bitmiyor şaka gibi teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok kral bi saat tasarlamışlar ve bu modelin emin olun benzeri veya muadili yoktur çok araştırdım pişman olmayacağım tek model buydu ve öylede oldu ciddi anlamda ekran kalitesi harika özelliklerini rahat bir şekilde kullanıyorsunuz ki zaten şarj derdiniz yok şiddetle tavsiye ederim almak isteyenlere",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme iyi ürün kaliteli yumuşaklık hissi gayet ideal tam bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "güzel ve kaliteli bir saat",
+          "score": 4.0
+        },
+        {
+          "text": "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Marka / Fiyat Performans",
+      "review_count": 10,
+      "avg_score": 4.6,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "marka",
+        "sorunsuz",
+        "ilgili",
+        "fiyat",
+        "tane",
+        "bide",
+        "eksiksiz",
+        "başka"
+      ],
+      "positive_pct": 80.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.0,
+      "sample_reviews": [
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+        "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar",
+        "sapasağlam saat malzeme kalitesinden bu saate bir şey olmıcağı belli fiyatıda diğer muadillere göre çok ucuz bence şarja hala takmadım bu arada müthiş bi özellik olmuş"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel bir saat fiyatına göre kesinlikle alınması gereken bir saat kargo sağlam paketlenmişti teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten hiç bu kadar kaliteli beklemiyordum fiyatına göre üst segment bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "sapasağlam saat malzeme kalitesinden bu saate bir şey olmıcağı belli fiyatıda diğer muadillere göre çok ucuz bence şarja hala takmadım bu arada müthiş bi özellik olmuş",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketleme",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "paketlemesi",
+        "ürünüm",
+        "kısa",
+        "paketlenmesi",
+        "özellikle",
+        "sürede",
+        "kısa sürede"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kutu paketlemesi çok iyiydi ve sapasağlam geldi ürün kendiside sapasağlam maşallah ben çok memnun kaldım özelliklerinden ve şarj süresinden çevremede önereceğim kesinlikle",
+        "paketleme iyi ürün kaliteli yumuşaklık hissi gayet ideal tam bedeninizi alın"
+      ],
+      "all_reviews": [
+        {
+          "text": "kutu paketlemesi çok iyiydi ve sapasağlam geldi ürün kendiside sapasağlam maşallah ben çok memnun kaldım özelliklerinden ve şarj süresinden çevremede önereceğim kesinlikle",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme iyi ürün kaliteli yumuşaklık hissi gayet ideal tam bedeninizi alın",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kullanışlı & Asuman Hanım",
+      "name": "Sorunsuz & Paketlenme",
       "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
-        "kullanışlı",
-        "güvenilir",
-        "farklı",
-        "gerek",
-        "sağlam",
-        "hanım",
-        "asuman hanım",
-        "rahatlıkla"
+        "aldık",
+        "kısa",
+        "sorunsuz",
+        "paketlenmesi",
+        "kullanmaya",
+        "almak isteyenlere",
+        "isteyenlere",
+        "bayıldı"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 50.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 50.0,
       "sample_reviews": [
-        "çok guzel super bi saat hakkini veriyor",
-        "şimdilik harika çalışıyor"
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+        "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar"
       ],
       "all_reviews": [
         {
-          "text": "çok guzel super bi saat hakkini veriyor",
+          "text": "malzeme kalitesi kordon kalitesi ekran kalitesi 10 üzerinden 10 çok araştırdım en çok içime bu model sinmişti gelince pişmanlılık yaşamama çok sevindim görsellere yazılan tüm özelliklerimn hepsi sorunsuz şekilde çalışıyor ve şarjı uuupppuzun gidiyor arkdaşlar",
           "score": 5.0
         },
         {
-          "text": "şimdilik harika çalışıyor",
+          "text": "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Rahatlıkla",
+      "review_count": 4,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "rahatlıkla",
+        "performans"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+        "uzun zamandır istiyordum indirime girer girmez satın aldım ve cidden fotoğraflarda ne belirtildiyse o şekilde özellikleir mevcut bu kadar memnun kalıcağımı tahmin etmezdim şarj performansı aşırı şaşırttı resmen hiç bitmiyor şaka gibi teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "uzun zamandır istiyordum indirime girer girmez satın aldım ve cidden fotoğraflarda ne belirtildiyse o şekilde özellikleir mevcut bu kadar memnun kalıcağımı tahmin etmezdim şarj performansı aşırı şaşırttı resmen hiç bitmiyor şaka gibi teşekkür ederim",
           "score": 5.0
+        },
+        {
+          "text": "ürün güzel kullanisli ama bahsediligi gibi pil ömrü sorunsuz degildegerlendirme icin kullanmayi bekledim sarj edilip kullanima baslandigi an sarj gostergesi 100 den 90 düşüyor normal kullanimda ya clasik saat olarak kullanimda telefona bagli sekilde sarji 4 gun rahat yetiyor 5 gün sarj istiyor kasa saglam kordon is görür dahili programları kullanisli msj okuma var lakin yazma yok telefin cevaplama var lakin arama kisminda rehberinize erişimde rehber karışık geliyor alfabetik sira yok fiyat performansa bakacak olursak bir tik daha iyi olabilirdi",
+          "score": 3.0
         }
       ],
       "icon": "💬"

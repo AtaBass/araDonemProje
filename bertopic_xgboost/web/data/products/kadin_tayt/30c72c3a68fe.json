@@ -8,7 +8,7 @@
   "overall_score": 4.9,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Domoda Mint Yüksek Bel, Fitilli, Toparlayıcı Interlok B** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Duruşu & Kalitesi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **göründüğü** ve **sardı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kalitesi duruşu çok guzle kendi bedeninizi alabilirsiniz\"\n• **Kaliteli Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **toparlayıcı** ve **bedeni** başta olmak üzere. Örnek kullanıcı ifadesi: \"Eşime aldım ve yorumu şu oldu vücuda tam oturuyor kendi bedenime uygun olanı aldık ga…\"\n• Kullanıcılar **Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **olmasına** ve **rağmen** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"S-m arasi kaldim m aldim iyiki oyle yapmışım 58 kilo 160cm m beden tam\"\n• **Renkleri & Kaliteli Ürünler** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **notunuz** ve **rahat kullanışlı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam\"\n• Müşteri yorumlarında **Fiyata & Kaliteli Ürünler** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fiyat** ve **uygun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Indirimden aldım bu kadar güzel çıkacağına hiç ihtimal vermiyordum hem çok rahat hem…\"",
+  "summary": "Domoda Mint Yüksek Bel, Fitilli, Toparlayıcı Interlok B ürününün genel değerlendirme özeti şudur: Ürün, yüksek memnuniyet oranına sahiptir ve 4.9/5.0 puan alırken, 50 yorumda değerlendirilmiştir. Ürün, toparlayıc ve beden yapısıyla, kumaş ve renk değişimiyle, duruş ve kaliteyle, kalıbıyla, ve ısıtılarak bedenin ısınmasıyla ilgili özellikler bakımından olumlu eleştiriler almıştır. Ürünün büyük çoğunluğu kullanıcıları, ürünün yüksek kalitede olduğunu ve amacına uygun olarak çalıştığını belirtmiştir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,9 +18,209 @@
   },
   "aspects": [
     {
-      "name": "Duruşu & Kalitesi",
-      "review_count": 25,
-      "avg_score": 4.8,
+      "name": "Toparlayıc & Beden",
+      "review_count": 45,
+      "avg_score": 4.89,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 88.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.1,
+      "sample_reviews": [
+        "bayıldım bedeninizi akın acayip toparlayıcı",
+        "eşime aldım ve yorumu şu oldu vücuda tam oturuyor kendi bedenime uygun olanı aldık gayet rahat ve iyi",
+        "kalitesi duruşu çok guzle kendi bedeninizi alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok kaliteli güzel bir büyük beden aldım rahat oldu",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım tam beden alınabilir",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim bedeninizi alabilirsinz",
+          "score": 5.0
+        },
+        {
+          "text": "çok guzel urum m beden 52 kilo iyiki almışım teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir ürün 1 beden büyük almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım ve yorumu şu oldu vücuda tam oturuyor kendi bedenime uygun olanı aldık gayet rahat ve iyi",
+          "score": 5.0
+        },
+        {
+          "text": "indirimden aldım beden tam kalıp çok güzel sezeryan göbeğimi güzel kapattı rahatına düşkün tercih edebilir",
+          "score": 5.0
+        },
+        {
+          "text": "cok begendım kalıtesı cok güzel tam bedeninizi alabılırsınız",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi çok güzel 1 beden büyük aldım",
+          "score": 5.0
+        },
+        {
+          "text": "s-m arasi kaldim m aldim iyiki oyle yapmışım 58 kilo 160cm m beden tam",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bedeninizi akın acayip toparlayıcı",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim bence kendi bedeniniz gayette olur",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi duruşu çok guzle kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden alabilirsiniz gayet rahat",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat tavsiye ediyorum kendi bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "güzel tam bedeninizi alabilirsiniz",
+          "score": 4.0
+        },
+        {
+          "text": "çok iyiii tavsiye ederim bedeninizi alın",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 45,
+      "avg_score": 4.89,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
+      ],
+      "positive_pct": 88.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.1,
+      "sample_reviews": [
+        "eşime aldım ve yorumu şu oldu vücuda tam oturuyor kendi bedenime uygun olanı aldık gayet rahat ve iyi",
+        "bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam",
+        "cok begendım kalıtesı cok güzel tam bedeninizi alabılırsınız"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok kaliteli güzel bir büyük beden aldım rahat oldu",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım tam beden alınabilir",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim bedeninizi alabilirsinz",
+          "score": 5.0
+        },
+        {
+          "text": "çok guzel urum m beden 52 kilo iyiki almışım teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bir ürün 1 beden büyük almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "eşime aldım ve yorumu şu oldu vücuda tam oturuyor kendi bedenime uygun olanı aldık gayet rahat ve iyi",
+          "score": 5.0
+        },
+        {
+          "text": "indirimden aldım beden tam kalıp çok güzel sezeryan göbeğimi güzel kapattı rahatına düşkün tercih edebilir",
+          "score": 5.0
+        },
+        {
+          "text": "cok begendım kalıtesı cok güzel tam bedeninizi alabılırsınız",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi çok güzel 1 beden büyük aldım",
+          "score": 5.0
+        },
+        {
+          "text": "s-m arasi kaldim m aldim iyiki oyle yapmışım 58 kilo 160cm m beden tam",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bedeninizi akın acayip toparlayıcı",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim bence kendi bedeniniz gayette olur",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi duruşu çok guzle kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam",
+          "score": 5.0
+        },
+        {
+          "text": "tam beden alabilirsiniz gayet rahat",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat tavsiye ediyorum kendi bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "güzel tam bedeninizi alabilirsiniz",
+          "score": 4.0
+        },
+        {
+          "text": "çok iyiii tavsiye ederim bedeninizi alın",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruş & Kalite",
+      "review_count": 28,
+      "avg_score": 4.82,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,17 +233,17 @@
         "bayıldım",
         "almalısınız"
       ],
-      "positive_pct": 80.0,
+      "positive_pct": 82.1,
       "negative_pct": 0.0,
-      "neutral_pct": 20.0,
+      "neutral_pct": 17.9,
       "sample_reviews": [
         "kalitesi duruşu çok guzle kendi bedeninizi alabilirsiniz",
         "bayıldım bedeninizi akın acayip toparlayıcı",
-        "bayıldım tam beden alınabilir"
+        "kalitesi çok güzel 1 beden büyük aldım"
       ],
       "all_reviews": [
         {
-          "text": "tam beden alabilirsiniz gayet rahat",
+          "text": "çok kaliteli güzel bir büyük beden aldım rahat oldu",
           "score": 5.0
         },
         {
@@ -59,6 +259,10 @@
           "score": 5.0
         },
         {
+          "text": "bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam",
+          "score": 5.0
+        },
+        {
           "text": "kalitesi duruşu çok guzle kendi bedeninizi alabilirsiniz",
           "score": 5.0
         },
@@ -67,7 +271,7 @@
           "score": 5.0
         },
         {
-          "text": "bayıldım tam beden alınabilir",
+          "text": "kalitesi çok güzel 1 beden büyük aldım",
           "score": 5.0
         },
         {
@@ -86,155 +290,103 @@
       "icon": "💬"
     },
     {
-      "name": "Kaliteli Rahat",
-      "review_count": 7,
+      "name": "Kalıp",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
-        "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
+        "toparlıyor",
+        "kalıp",
+        "beyendim",
+        "baya",
+        "bayıldım",
+        "efsane",
+        "etek",
+        "olabilir"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "eşime aldım ve yorumu şu oldu vücuda tam oturuyor kendi bedenime uygun olanı aldık gayet rahat ve iyi",
-        "kalitesi çok güzel 1 beden büyük aldım",
-        "çok kaliteli güzel bir büyük beden aldım rahat oldu"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok kaliteli güzel bir büyük beden aldım rahat oldu",
-          "score": 5.0
-        },
-        {
-          "text": "eşime aldım ve yorumu şu oldu vücuda tam oturuyor kendi bedenime uygun olanı aldık gayet rahat ve iyi",
-          "score": 5.0
-        },
-        {
-          "text": "kalitesi çok güzel 1 beden büyük aldım",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kilo",
-        "kilo rahat",
-        "asla",
-        "olmasına",
-        "rağmen",
-        "fiyat performans",
-        "performans",
-        "rahat rahat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "s-m arasi kaldim m aldim iyiki oyle yapmışım 58 kilo 160cm m beden tam",
-        "çok guzel urum m beden 52 kilo iyiki almışım teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok guzel urum m beden 52 kilo iyiki almışım teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "s-m arasi kaldim m aldim iyiki oyle yapmışım 58 kilo 160cm m beden tam",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Renkleri & Kaliteli Ürünler",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "renkleri",
-        "kaliteli ürünler",
-        "notunuz",
-        "paketleme özenliydi",
-        "özenliydi",
-        "rahat kullanışlı",
-        "paketleme",
-        "kalite"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
+        "indirimden aldım bu kadar güzel çıkacağına hiç ihtimal vermiyordum hem çok rahat hem çok güzel toparlıyor daha önce fitilli tayt kullanıp beğenmeyen biri olarak bir şans daha vereyim ve bunu da alayım dedim iyi ki almışım",
+        "indirimden aldım beden tam kalıp çok güzel sezeryan göbeğimi güzel kapattı rahatına düşkün tercih edebilir",
         "bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam"
       ],
       "all_reviews": [
         {
           "text": "bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata & Kaliteli Ürünler",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "beklemiyordum",
-        "fiyat",
-        "uygun",
-        "aldık",
-        "rengi",
-        "biri",
-        "baya"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "indirimden aldım bu kadar güzel çıkacağına hiç ihtimal vermiyordum hem çok rahat hem çok güzel toparlıyor daha önce fitilli tayt kullanıp beğenmeyen biri olarak bir şans daha vereyim ve bunu da alayım dedim iyi ki almışım"
-      ],
-      "all_reviews": [
+        },
         {
           "text": "indirimden aldım bu kadar güzel çıkacağına hiç ihtimal vermiyordum hem çok rahat hem çok güzel toparlıyor daha önce fitilli tayt kullanıp beğenmeyen biri olarak bir şans daha vereyim ve bunu da alayım dedim iyi ki almışım",
+          "score": 5.0
+        },
+        {
+          "text": "indirimden aldım beden tam kalıp çok güzel sezeryan göbeğimi güzel kapattı rahatına düşkün tercih edebilir",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım tam beden alınabilir",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldım bedeninizi akın acayip toparlayıcı",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Sıcacık",
-      "review_count": 3,
-      "avg_score": 5.0,
+      "name": "Sıcacık & Bedenınız",
+      "review_count": 6,
+      "avg_score": 4.5,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli kaliteli",
-        "rahat rahat",
         "sıcacık tutuyor",
         "sıcacık",
         "bedenınızı",
         "derim",
         "tutuyor",
-        "yumuşacık"
+        "yumuşacık",
+        "rağmen",
+        "istediğim"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "çok güzel bir ürün 1 beden büyük almanızı tavsiye ederim",
+        "çok iyiii tavsiye ederim bedeninizi alın"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel bir ürün 1 beden büyük almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyiii tavsiye ederim bedeninizi alın",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ürün",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -251,60 +403,30 @@
       "icon": "💬"
     },
     {
-      "name": "Kalıp Rahat",
-      "review_count": 2,
+      "name": "Farkl Renk",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
-        "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
+        "renkleri",
+        "paketleme özenliydi",
+        "notunuz",
+        "özenliydi",
+        "paketleme",
+        "kalite",
+        "ürünler",
+        "dokusu"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "siyahıyla beraber aldım çok severek giyiyorum aşırı rahat ve güzel duruyor"
+        "bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam"
       ],
       "all_reviews": [
         {
-          "text": "siyahıyla beraber aldım çok severek giyiyorum aşırı rahat ve güzel duruyor",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "indirimden aldım beden tam kalıp çok güzel sezeryan göbeğimi güzel kapattı rahatına düşkün tercih edebilir"
-      ],
-      "all_reviews": [
-        {
-          "text": "indirimden aldım beden tam kalıp çok güzel sezeryan göbeğimi güzel kapattı rahatına düşkün tercih edebilir",
+          "text": "bence kendi bedeninizi alın mükemmel toparlıyor diğer renklerinede bakıcam",
           "score": 5.0
         }
       ],

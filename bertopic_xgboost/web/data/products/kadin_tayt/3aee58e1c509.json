@@ -8,7 +8,7 @@
   "overall_score": 4.84,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**DNDO WEAR Kadın Tayt Dikişsiz Paça Toparlayıcı Etkili S** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **olmasına** ve **rağmen** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"63 boy 58 kiloyum l beden aldım tam geldi bir daha almayı düşünüyorum\"\n• **Kumaşı** açısından müşteri beklentileri kısmen karşılanmış; görüşler karışık bir tablo oluşturmaktadır, **kumaş** ve **kalıbı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi bekl…\"\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **efsane** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bayıldııım bu fiyata bu tayt efsane kendi bedeninizden bir büyük alın kalıbı ne çok d…\"\n• **Kalıp Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **esnek** başta olmak üzere. Örnek kullanıcı ifadesi: \"Alacak olanlara sesleniyorum harikaaaaaa bir tayt ama esnek bir beden küçük alin\"\n• Müşteri yorumlarında **Fiyata & Kaliteli Ürünler** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fiyat** ve **uygun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt e…\"",
+  "summary": "DNDO WEAR Kadın Tayt Dikişsiz Paça Toparlayıcı Etkili S, müşterilerin %98'ini memnun bırakmıştır. Ürün, çeşitli renk ve kumaş seçeneklerine sahip olarak, 5/5 puan almaktadır. Ayrıca toparlayıc ve beden yapısı da müşteri beğenisi kazanmıştır. Kalıp ve duruş kalitesi de olumlu yorumları toplamıştır. Enine bir ürün, DNDO WEAR Kadın Tayt Dikişsiz Paça Toparlayıcı Etkili S, müşterilerinin %96'sına 5/5 puan vermektedir.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Rahat",
-      "review_count": 14,
+      "name": "Kumaş / Farkl Renk",
+      "review_count": 42,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kilo",
-        "kilo rahat",
-        "asla",
-        "olmasına",
-        "rağmen",
-        "fiyat performans",
-        "performans",
-        "rahat rahat"
+        "kumaşı",
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "uzun zamandır aradığım taytı şans eseri sonunda buldum aşırı rahat bayıldım resmen 1.63 boy 58 kiloyum l beden aldım tam geldi bir daha almayı düşünüyorum",
-        "165 boy 68 kiloyum l beden aldım tam geldi ince yazlık ve güzel",
-        "161 boy 70 kilo l beden aldım güzel oldu rahat"
+        "çok iyi kumaşı bayıldım çok rahat güzel sarıyor toparlıyor",
+        "kumaşı güzel rahat kendi bedeninizi alın",
+        "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum"
       ],
       "all_reviews": [
         {
@@ -47,51 +47,11 @@
           "score": 5.0
         },
         {
-          "text": "161 boy 70 kilo l beden aldım güzel oldu rahat",
+          "text": "bayıldııım bu fiyata bu tayt efsane kendi bedeninizden bir büyük alın kalıbı ne çok dar ne çok bol",
           "score": 5.0
         },
         {
-          "text": "uzun zamandır aradığım taytı şans eseri sonunda buldum aşırı rahat bayıldım resmen 1.63 boy 58 kiloyum l beden aldım tam geldi bir daha almayı düşünüyorum",
-          "score": 5.0
-        },
-        {
-          "text": "parasını sonuna kadar hakediyor aşırı güzeller 72 kg olarak xxl aldım rahat oldu",
-          "score": 5.0
-        },
-        {
-          "text": "ürünü tereddüt ederek aldım ama çok güzel 160 boy 64 kg m beden aldım tam oldu",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı",
-      "review_count": 10,
-      "avg_score": 4.2,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
-      ],
-      "positive_pct": 80.0,
-      "negative_pct": 20.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
-        "kumaşı çok güzel esneme yapar diye bir beden küçük aldım çok güzel oldu",
-        "paçaları dikişsizmiş yeni modelmiş hiç güzel değil çöpe attım bu 4 alışımdı öncekiler gibi esnekde değil kaliteyi baya baya bozmuşlar son alışveriş oldu"
-      ],
-      "all_reviews": [
-        {
-          "text": "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
+          "text": "alacak olanlara sesleniyorum harikaaaaaa bir tayt ama esnek bir beden küçük alin",
           "score": 5.0
         },
         {
@@ -103,6 +63,190 @@
           "score": 5.0
         },
         {
+          "text": "ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt etmeden alin",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi kumaşı bayıldım çok rahat güzel sarıyor toparlıyor",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü tereddüt ederek aldım ama çok güzel 160 boy 64 kg m beden aldım tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel kendi bedeninizi alın kargo hızlıydı",
+          "score": 5.0
+        },
+        {
+          "text": "s beden aldım tam oturdu yeri felan çok güzel ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "161 boy 70 kilo l beden aldım güzel oldu rahat",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel rahat kendi bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "uzun zamandır aradığım taytı şans eseri sonunda buldum aşırı rahat bayıldım resmen 1.63 boy 58 kiloyum l beden aldım tam geldi bir daha almayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim fiyatı için değer alın bence 1 beden büyük olun",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
+          "score": 5.0
+        },
+        {
+          "text": "harika bayıldım tam bedeninizi alın s",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Toparlayıc & Beden",
+      "review_count": 35,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+        "harika bayıldım tam bedeninizi alın s",
+        "uzun zamandır aradığım taytı şans eseri sonunda buldum aşırı rahat bayıldım resmen 1.63 boy 58 kiloyum l beden aldım tam geldi bir daha almayı düşünüyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "165 boy 68 kiloyum l beden aldım tam geldi ince yazlık ve güzel",
+          "score": 5.0
+        },
+        {
+          "text": "s beden aldım tam oturdu yeri felan çok güzel ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı çok güzel esneme yapar diye bir beden küçük aldım çok güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "annem için almıştım bir beden büyük tercih edebilirsiniz satıcı çok ilgili ve kibardı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü tereddüt ederek aldım ama çok güzel 160 boy 64 kg m beden aldım tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel kendi bedeninizi alın kargo hızlıydı",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldııım bu fiyata bu tayt efsane kendi bedeninizden bir büyük alın kalıbı ne çok dar ne çok bol",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel rahat kendi bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "harika bayıldım tam bedeninizi alın s",
+          "score": 5.0
+        },
+        {
+          "text": "161 boy 70 kilo l beden aldım güzel oldu rahat",
+          "score": 5.0
+        },
+        {
+          "text": "uzun zamandır aradığım taytı şans eseri sonunda buldum aşırı rahat bayıldım resmen 1.63 boy 58 kiloyum l beden aldım tam geldi bir daha almayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim fiyatı için değer alın bence 1 beden büyük olun",
+          "score": 5.0
+        },
+        {
+          "text": "alacak olanlara sesleniyorum harikaaaaaa bir tayt ama esnek bir beden küçük alin",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 17,
+      "avg_score": 4.53,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlıyor",
+        "kalıp",
+        "beyendim",
+        "baya",
+        "bayıldım",
+        "efsane",
+        "etek",
+        "olabilir"
+      ],
+      "positive_pct": 88.2,
+      "negative_pct": 11.8,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+        "çok iyi kumaşı bayıldım çok rahat güzel sarıyor toparlıyor",
+        "uzun zamandır aradığım taytı şans eseri sonunda buldum aşırı rahat bayıldım resmen 1.63 boy 58 kiloyum l beden aldım tam geldi bir daha almayı düşünüyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "uzun zamandır aradığım taytı şans eseri sonunda buldum aşırı rahat bayıldım resmen 1.63 boy 58 kiloyum l beden aldım tam geldi bir daha almayı düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi kumaşı bayıldım çok rahat güzel sarıyor toparlıyor",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt etmeden alin",
+          "score": 5.0
+        },
+        {
+          "text": "harika bayıldım tam bedeninizi alın s",
+          "score": 5.0
+        },
+        {
           "text": "paçaları dikişsizmiş yeni modelmiş hiç güzel değil çöpe attım bu 4 alışımdı öncekiler gibi esnekde değil kaliteyi baya baya bozmuşlar son alışveriş oldu",
           "score": 1.0
         }
@@ -110,20 +254,128 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 7,
+      "name": "Duruş & Kalite",
+      "review_count": 15,
+      "avg_score": 4.47,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "duruşu",
+        "kalitesi",
+        "göründüğü",
+        "sardı",
+        "bedeninizden",
+        "alin",
+        "bayıldım",
+        "almalısınız"
+      ],
+      "positive_pct": 86.7,
+      "negative_pct": 13.3,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt etmeden alin",
+        "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+        "bayıldııım bu fiyata bu tayt efsane kendi bedeninizden bir büyük alın kalıbı ne çok dar ne çok bol"
+      ],
+      "all_reviews": [
+        {
+          "text": "harika bayıldım tam bedeninizi alın s",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt etmeden alin",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel kendi bedeninizi alın kargo hızlıydı",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldııım bu fiyata bu tayt efsane kendi bedeninizden bir büyük alın kalıbı ne çok dar ne çok bol",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel rahat kendi bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "paçaları dikişsizmiş yeni modelmiş hiç güzel değil çöpe attım bu 4 alışımdı öncekiler gibi esnekde değil kaliteyi baya baya bozmuşlar son alışveriş oldu",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş",
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
-        "fiyat",
+        "kumaşı",
+        "diye",
+        "kumaş",
+        "kalıbı",
+        "iade",
+        "bayıldım",
+        "baya",
+        "almışım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
+        "kumaşı çok güzel esneme yapar diye bir beden küçük aldım çok güzel oldu",
+        "çok iyi kumaşı bayıldım çok rahat güzel sarıyor toparlıyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı çok güzel esneme yapar diye bir beden küçük aldım çok güzel oldu",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi kumaşı bayıldım çok rahat güzel sarıyor toparlıyor",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldııım bu fiyata bu tayt efsane kendi bedeninizden bir büyük alın kalıbı ne çok dar ne çok bol",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşı güzel rahat kendi bedeninizi alın",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Performans",
+      "review_count": 14,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
         "efsane",
+        "fiyat",
         "paketleme",
         "aldığım",
         "edebilirsiniz",
         "diyebilirim",
-        "fiyat performans"
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -131,11 +383,23 @@
       "sample_reviews": [
         "bayıldııım bu fiyata bu tayt efsane kendi bedeninizden bir büyük alın kalıbı ne çok dar ne çok bol",
         "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
-        "çok beğendim fiyatı için değer alın bence 1 beden büyük olun"
+        "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim"
       ],
       "all_reviews": [
         {
           "text": "çok beğendim fiyatı için değer alın bence 1 beden büyük olun",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
+          "score": 5.0
+        },
+        {
+          "text": "annem için almıştım bir beden büyük tercih edebilirsiniz satıcı çok ilgili ve kibardı teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt etmeden alin",
           "score": 5.0
         },
         {
@@ -150,61 +414,75 @@
       "icon": "💬"
     },
     {
-      "name": "Kalıp Rahat",
-      "review_count": 6,
+      "name": "Fiyat & Uygun",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "toparlıyor",
-        "kalıp",
-        "beyendim",
-        "severek",
-        "baya",
-        "esnek",
-        "kalıp rahat",
-        "bayıldım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "alacak olanlara sesleniyorum harikaaaaaa bir tayt ama esnek bir beden küçük alin",
-        "biraz ince pilateste gitmek için aldım gayet esnek bir tayt l aldım tam oldu"
-      ],
-      "all_reviews": [
-        {
-          "text": "biraz ince pilateste gitmek için aldım gayet esnek bir tayt l aldım tam oldu",
-          "score": 5.0
-        },
-        {
-          "text": "alacak olanlara sesleniyorum harikaaaaaa bir tayt ama esnek bir beden küçük alin",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata & Kaliteli Ürünler",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
         "beklemiyordum",
         "fiyat",
         "uygun",
         "aldık",
         "rengi",
         "biri",
-        "baya"
+        "baya",
+        "rağmen"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
+        "ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt etmeden alin",
+        "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok beğendim fiyatı için değer alın bence 1 beden büyük olun",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyle muh te şem bu fiyata bayıldım resmen akıyo kumaşı hiç bu kadar iyi beklemiyordum çok sevindim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt etmeden alin",
+          "score": 5.0
+        },
+        {
+          "text": "tam kalıp ve müthiş rahat bir tayt bayıldım bu fiyata daha ne bekliyorsunuz anlamadım kötü diyenler dar yazanlar falan olmuş korkarak almıştım ama siz kendi bedeninizden bi habersiniz sanırım günlük yürüyüşe alışverişe spora rahatlıkla kullanılır kalitesi de güzel satıcıya teşekkür ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "bayıldııım bu fiyata bu tayt efsane kendi bedeninizden bir büyük alın kalıbı ne çok dar ne çok bol",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Ürün",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ürünler",
+        "teslimat",
+        "özellikle",
+        "oldum",
+        "göründüğü",
+        "aldık",
+        "kalıp",
+        "buyuk"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "ürünün kalitesi duruşu çok güzel bayıldım bu fiyata bu kadar beklemiyordum tereddüt etmeden alin",
+        "ürünü tereddüt ederek aldım ama çok güzel 160 boy 64 kg m beden aldım tam oldu",
         "ürün çok güzel kendi bedeninizi alın kargo hızlıydı"
       ],
       "all_reviews": [
@@ -213,102 +491,11 @@
           "score": 5.0
         },
         {
-          "text": "ürün çok güzel kendi bedeninizi alın kargo hızlıydı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı & Farklı Renkleri",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "oldum",
-        "bedeni",
-        "rengi",
-        "alin",
-        "sarıyor",
-        "farklı renkleri",
-        "yaptım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok iyi kumaşı bayıldım çok rahat güzel sarıyor toparlıyor",
-        "kumaşı güzel rahat kendi bedeninizi alın"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok iyi kumaşı bayıldım çok rahat güzel sarıyor toparlıyor",
+          "text": "ürünü tereddüt ederek aldım ama çok güzel 160 boy 64 kg m beden aldım tam oldu",
           "score": 5.0
         },
         {
-          "text": "kumaşı güzel rahat kendi bedeninizi alın",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Duruşu & Kalitesi",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "duruşu",
-        "kalitesi",
-        "göründüğü",
-        "sardı",
-        "bedeninizden",
-        "alin",
-        "bayıldım",
-        "almalısınız"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "harika bayıldım tam bedeninizi alın s"
-      ],
-      "all_reviews": [
-        {
-          "text": "harika bayıldım tam bedeninizi alın s",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kaliteli Rahat",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli rahat",
-        "toparlayıcı",
-        "oturuyor",
-        "bedeni",
-        "alınmalı",
-        "rahat kaliteli",
-        "yumuşak",
-        "kalitesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "s beden aldım tam oturdu yeri felan çok güzel ben beğendim"
-      ],
-      "all_reviews": [
-        {
-          "text": "s beden aldım tam oturdu yeri felan çok güzel ben beğendim",
+          "text": "ürün çok güzel kendi bedeninizi alın kargo hızlıydı",
           "score": 5.0
         }
       ],

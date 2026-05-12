@@ -8,7 +8,7 @@
   "overall_score": 4.9,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**pasyone Krep Kadın Günlük Şık Sneaker Spor Ayakkabı** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata & Numaranıza** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **taraklı** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Mükemmel bir ayakkabı çok beğendim iyiki almışım paketleme de gayet güzel hızlı elime…\"\n• **Numaramı & Kalıbı Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **derim** ve **kalip** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok rahat çok güzel ben bir numara büyük aldım iyi oldu hem spor hem şık\"\n• Kullanıcılar **Fiyat Performans** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **uygun** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Normalde yorum yapmam ama bu satıcıya yapmazsam hakkını yemiş olurum bu fiyata bu ürü…\"\n• **Duruşu Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **geniş** ve **kalitesi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Resmen aşk yaşıyorum cook güzel cook annemde istedi hemen ona da sipariş verdim\"\n• Müşteri yorumlarında **Rahat Yumuşak** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **fakat** ve **ayağımı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözü…\"",
+  "summary": "**pasyone Krep Kadın Günlük Şık Sneaker Spor Ayakkabı** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Numaranıza & Tarakl**: Kullanıcılar numaranıza & tarakl konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Numaranıza**: Kullanıcılar numaranıza konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Numaram**: Kullanıcılar numaram konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Geniş**: Kullanıcılar geniş konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,27 +18,27 @@
   },
   "aspects": [
     {
-      "name": "Fiyata & Numaranıza",
-      "review_count": 22,
-      "avg_score": 4.77,
+      "name": "Numaranıza & Tarakl",
+      "review_count": 24,
+      "avg_score": 4.79,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "ayak",
         "almışım",
-        "fiyata",
         "numaranıza",
         "taraklı",
         "rahatlığıyla",
+        "geniş",
         "paketleme",
-        "geniş"
+        "numaranizi"
       ],
-      "positive_pct": 77.3,
+      "positive_pct": 79.2,
       "negative_pct": 0.0,
-      "neutral_pct": 22.7,
+      "neutral_pct": 20.8,
       "sample_reviews": [
         "mükemmel bir ayakkabı çok beğendim iyiki almışım paketleme de gayet güzel hızlı elime ulaştı tam numaranızı alabilirsiniz",
-        "çok güzel geldi kargo üç gün içinde geldi fiyata göre mükemmel bir performans sergilenmiş ayakkabıyı kendi bedeninize göre alın satıcılara teşekkür ederizz",
+        "bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözüm kapalı sipariş ettim ve göründüğü gibi geldi 39 40 arası giyerim bunda 40 tercih ettim rahat bi ayakkabı ilk denemeye göre elimle kontrol ettiğimde üründe herhangi bir sorun görmedim rahatlıkla sipariş edebilirsiniz",
         "ayakabı sorunsuz elime ulaştı beğendim satıcıya teşekür ederim sipariş verdiğim ertesi gün kargom elime ulaştı tam kalıp kendi numaranızı tercih edebilirsiniz tam bir fiyat performansı"
       ],
       "all_reviews": [
@@ -63,6 +63,10 @@
           "score": 5.0
         },
         {
+          "text": "bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözüm kapalı sipariş ettim ve göründüğü gibi geldi 39 40 arası giyerim bunda 40 tercih ettim rahat bi ayakkabı ilk denemeye göre elimle kontrol ettiğimde üründe herhangi bir sorun görmedim rahatlıkla sipariş edebilirsiniz",
+          "score": 5.0
+        },
+        {
           "text": "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone",
           "score": 5.0
         },
@@ -78,9 +82,73 @@
       "icon": "💬"
     },
     {
-      "name": "Numaramı & Kalıbı Rahat",
-      "review_count": 10,
-      "avg_score": 5.0,
+      "name": "Numaranıza",
+      "review_count": 24,
+      "avg_score": 4.79,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ayak",
+        "numaranıza",
+        "kibar",
+        "biri",
+        "numaramı",
+        "tarakli",
+        "sıktı",
+        "ayağımı"
+      ],
+      "positive_pct": 79.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 20.8,
+      "sample_reviews": [
+        "bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözüm kapalı sipariş ettim ve göründüğü gibi geldi 39 40 arası giyerim bunda 40 tercih ettim rahat bi ayakkabı ilk denemeye göre elimle kontrol ettiğimde üründe herhangi bir sorun görmedim rahatlıkla sipariş edebilirsiniz",
+        "ayakabı sorunsuz elime ulaştı beğendim satıcıya teşekür ederim sipariş verdiğim ertesi gün kargom elime ulaştı tam kalıp kendi numaranızı tercih edebilirsiniz tam bir fiyat performansı",
+        "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel bir ayakkabı çok beğendim iyiki almışım paketleme de gayet güzel hızlı elime ulaştı tam numaranızı alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel geldi kargo üç gün içinde geldi fiyata göre mükemmel bir performans sergilenmiş ayakkabıyı kendi bedeninize göre alın satıcılara teşekkür ederizz",
+          "score": 5.0
+        },
+        {
+          "text": "arkadaşlar tas gbi ayakkabi bu kadar kaliteli beklemiyodum cidden tesekurler kargoda cok hzliydi bu arada",
+          "score": 5.0
+        },
+        {
+          "text": "tam fotoğraftaki gibiydi ve bu ikinci ayakkabım sizden aldığım kesinlinle almaya devam edeceğim",
+          "score": 5.0
+        },
+        {
+          "text": "giymeden yorum yapmak istemedim inanılmaz rahat hafif bir ayakkabı sanki yok gibi rahatlıkla alabilirsiniz tam kalıp",
+          "score": 5.0
+        },
+        {
+          "text": "bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözüm kapalı sipariş ettim ve göründüğü gibi geldi 39 40 arası giyerim bunda 40 tercih ettim rahat bi ayakkabı ilk denemeye göre elimle kontrol ettiğimde üründe herhangi bir sorun görmedim rahatlıkla sipariş edebilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone",
+          "score": 5.0
+        },
+        {
+          "text": "ayakabı sorunsuz elime ulaştı beğendim satıcıya teşekür ederim sipariş verdiğim ertesi gün kargom elime ulaştı tam kalıp kendi numaranızı tercih edebilirsiniz tam bir fiyat performansı",
+          "score": 4.0
+        },
+        {
+          "text": "çok hoş bir ayakkabı",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaram",
+      "review_count": 13,
+      "avg_score": 4.85,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -88,66 +156,74 @@
         "tane",
         "kalıbı",
         "derim",
-        "bayıldım",
         "almışım",
+        "bayıldım",
         "kalip",
-        "sağlam"
+        "paketleme"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 84.6,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 15.4,
       "sample_reviews": [
-        "çok rahat çok güzel ben bir numara büyük aldım iyi oldu hem spor hem şık",
-        "biraz kaba duruyor ama sevdim garip bi sekilde",
-        "çok güzel rahatlıkla kullanıyorum"
+        "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone",
+        "mükemmel bir ayakkabı çok beğendim iyiki almışım paketleme de gayet güzel hızlı elime ulaştı tam numaranızı alabilirsiniz",
+        "harika bayıldımm tam kalıp bu fiyata çok iyi bence kaçırmayınn derimm"
       ],
       "all_reviews": [
         {
-          "text": "çok rahat çok güzel ben bir numara büyük aldım iyi oldu hem spor hem şık",
+          "text": "mükemmel bir ayakkabı çok beğendim iyiki almışım paketleme de gayet güzel hızlı elime ulaştı tam numaranızı alabilirsiniz",
           "score": 5.0
         },
         {
-          "text": "çok güzel rahatlıkla kullanıyorum",
+          "text": "kaliteli ürün çok beğendim kargo hızlı ürün güzel paketlenmiş emeği geçen herkese çok teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "çok güzel harika",
+          "text": "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone",
           "score": 5.0
         },
         {
-          "text": "biraz kaba duruyor ama sevdim garip bi sekilde",
+          "text": "harika bayıldımm tam kalıp bu fiyata çok iyi bence kaçırmayınn derimm",
           "score": 5.0
+        },
+        {
+          "text": "ayakabı sorunsuz elime ulaştı beğendim satıcıya teşekür ederim sipariş verdiğim ertesi gün kargom elime ulaştı tam kalıp kendi numaranızı tercih edebilirsiniz tam bir fiyat performansı",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Fiyat Performans",
-      "review_count": 7,
-      "avg_score": 5.0,
+      "review_count": 12,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "performans",
         "fiyat performans",
         "fiyat",
-        "fiyata",
         "uygun",
         "emeği",
         "kibar",
-        "arkadaşlar"
+        "arkadaşlar",
+        "kalitesi"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "normalde yorum yapmam ama bu satıcıya yapmazsam hakkını yemiş olurum bu fiyata bu ürün çoğu bilindik markalara göre çok çok iyi çok teşekkür ediyorum kesinlikle tereddütsüz alabilirsiniz",
-        "harika bayıldımm tam kalıp bu fiyata çok iyi bence kaçırmayınn derimm",
-        "kaliteli ürün çok beğendim kargo hızlı ürün güzel paketlenmiş emeği geçen herkese çok teşekkür ederim"
+        "ayakabı sorunsuz elime ulaştı beğendim satıcıya teşekür ederim sipariş verdiğim ertesi gün kargom elime ulaştı tam kalıp kendi numaranızı tercih edebilirsiniz tam bir fiyat performansı",
+        "çok güzel geldi kargo üç gün içinde geldi fiyata göre mükemmel bir performans sergilenmiş ayakkabıyı kendi bedeninize göre alın satıcılara teşekkür ederizz",
+        "normalde yorum yapmam ama bu satıcıya yapmazsam hakkını yemiş olurum bu fiyata bu ürün çoğu bilindik markalara göre çok çok iyi çok teşekkür ediyorum kesinlikle tereddütsüz alabilirsiniz"
       ],
       "all_reviews": [
         {
           "text": "kaliteli ürün çok beğendim kargo hızlı ürün güzel paketlenmiş emeği geçen herkese çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel geldi kargo üç gün içinde geldi fiyata göre mükemmel bir performans sergilenmiş ayakkabıyı kendi bedeninize göre alın satıcılara teşekkür ederizz",
           "score": 5.0
         },
         {
@@ -157,13 +233,17 @@
         {
           "text": "normalde yorum yapmam ama bu satıcıya yapmazsam hakkını yemiş olurum bu fiyata bu ürün çoğu bilindik markalara göre çok çok iyi çok teşekkür ediyorum kesinlikle tereddütsüz alabilirsiniz",
           "score": 5.0
+        },
+        {
+          "text": "ayakabı sorunsuz elime ulaştı beğendim satıcıya teşekür ederim sipariş verdiğim ertesi gün kargom elime ulaştı tam kalıp kendi numaranızı tercih edebilirsiniz tam bir fiyat performansı",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Duruşu Rahat",
-      "review_count": 5,
+      "name": "Geniş",
+      "review_count": 11,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -172,83 +252,32 @@
         "kalitesi",
         "olduğunu",
         "zamanla",
-        "duruşu rahat",
-        "rahat rahat",
+        "çokk",
         "numaram",
-        "çokk"
+        "yumuşak",
+        "fakat"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "resmen aşk yaşıyorum cook güzel cook annemde istedi hemen ona da sipariş verdim",
-        "güzel kızım kullanıyor"
+        "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone",
+        "arkadaşlar tas gbi ayakkabi bu kadar kaliteli beklemiyodum cidden tesekurler kargoda cok hzliydi bu arada",
+        "kaliteli ürün çok beğendim kargo hızlı ürün güzel paketlenmiş emeği geçen herkese çok teşekkür ederim"
       ],
       "all_reviews": [
         {
-          "text": "güzel kızım kullanıyor",
+          "text": "kaliteli ürün çok beğendim kargo hızlı ürün güzel paketlenmiş emeği geçen herkese çok teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "resmen aşk yaşıyorum cook güzel cook annemde istedi hemen ona da sipariş verdim",
+          "text": "arkadaşlar tas gbi ayakkabi bu kadar kaliteli beklemiyodum cidden tesekurler kargoda cok hzliydi bu arada",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat Yumuşak",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fakat",
-        "bakarak",
-        "ayağımı",
-        "taraklı",
-        "kibar",
-        "numarası",
-        "rahat yumuşak",
-        "almışım rahat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözüm kapalı sipariş ettim ve göründüğü gibi geldi 39 40 arası giyerim bunda 40 tercih ettim rahat bi ayakkabı ilk denemeye göre elimle kontrol ettiğimde üründe herhangi bir sorun görmedim rahatlıkla sipariş edebilirsiniz"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözüm kapalı sipariş ettim ve göründüğü gibi geldi 39 40 arası giyerim bunda 40 tercih ettim rahat bi ayakkabı ilk denemeye göre elimle kontrol ettiğimde üründe herhangi bir sorun görmedim rahatlıkla sipariş edebilirsiniz",
+          "text": "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rahat Kaliteli",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "rahat kaliteli",
-        "alınır",
-        "duruşu",
-        "bayıldım rahat",
-        "rahat bayıldım",
-        "hafif",
-        "sağlam",
-        "bayıldım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel rahat ve kaliteli alın aldırın"
-      ],
-      "all_reviews": [
+        },
         {
           "text": "çok güzel rahat ve kaliteli alın aldırın",
           "score": 5.0
@@ -257,31 +286,76 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat",
-      "review_count": 2,
+      "name": "Alınır",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "numaranizi",
-        "alin",
-        "alınmalı",
-        "alınmalı rahat",
-        "rahat rahat",
-        "kullanışlı",
-        "kaliteli rahat",
-        "numaranizi rahat"
+        "alınır",
+        "duruşu",
+        "hafif",
+        "bayıldım",
+        "aynı zamanda",
+        "çokta",
+        "zamanda",
+        "rengi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel tam numaranızı alın"
+        "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone",
+        "giymeden yorum yapmak istemedim inanılmaz rahat hafif bir ayakkabı sanki yok gibi rahatlıkla alabilirsiniz tam kalıp",
+        "harika bayıldımm tam kalıp bu fiyata çok iyi bence kaçırmayınn derimm"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel tam numaranızı alın",
+          "text": "ayakkabıya bayıldım çok güzel kalite olarak çoğu markadan daha iyi fotoğrafta bu kadar iyi durmuyordu aynı zamanda kargo da çok hızlıydı teşekkür ederim pasyone",
           "score": 5.0
+        },
+        {
+          "text": "harika bayıldımm tam kalıp bu fiyata çok iyi bence kaçırmayınn derimm",
+          "score": 5.0
+        },
+        {
+          "text": "giymeden yorum yapmak istemedim inanılmaz rahat hafif bir ayakkabı sanki yok gibi rahatlıkla alabilirsiniz tam kalıp",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Uygun",
+      "review_count": 4,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklemiyordum",
+        "uygun",
+        "resimde",
+        "rengi",
+        "edebilirsiniz",
+        "rahatlıkla",
+        "spor",
+        "ettiğim"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözüm kapalı sipariş ettim ve göründüğü gibi geldi 39 40 arası giyerim bunda 40 tercih ettim rahat bi ayakkabı ilk denemeye göre elimle kontrol ettiğimde üründe herhangi bir sorun görmedim rahatlıkla sipariş edebilirsiniz",
+        "ayakabı sorunsuz elime ulaştı beğendim satıcıya teşekür ederim sipariş verdiğim ertesi gün kargom elime ulaştı tam kalıp kendi numaranızı tercih edebilirsiniz tam bir fiyat performansı"
+      ],
+      "all_reviews": [
+        {
+          "text": "bu siteden daha öncede alışveriş yaptım bu ikinci o yüzden değerlendirme olmadan gözüm kapalı sipariş ettim ve göründüğü gibi geldi 39 40 arası giyerim bunda 40 tercih ettim rahat bi ayakkabı ilk denemeye göre elimle kontrol ettiğimde üründe herhangi bir sorun görmedim rahatlıkla sipariş edebilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ayakabı sorunsuz elime ulaştı beğendim satıcıya teşekür ederim sipariş verdiğim ertesi gün kargom elime ulaştı tam kalıp kendi numaranızı tercih edebilirsiniz tam bir fiyat performansı",
+          "score": 4.0
         }
       ],
       "icon": "💬"

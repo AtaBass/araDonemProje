@@ -8,7 +8,7 @@
   "overall_score": 4.86,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Ricco Lifes Fırfırlı %100 Pamuk Fiyonk Tek Kişilik Nevr** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kişilik** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Harika güzel görselde ne görüyorsanız o kızım bayildi indirimde kalpli yastık kılıfı…\"\n• **Kumaşı Kaliteli**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **odası** ve **modeli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Bayıldım kumaşı ve şekli çok hoş yeni atandım ve kendi odama aldım rahatlıkla alabili…\"\n• Kullanıcılar **Çekme Solma** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **takımı** ve **sorunsuz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel çok minnoş bir nevresim takımı kızım için aldım özellikle başkalarına hediy…\"\n• **Dokusu & Kalitesi** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır.\n• Müşteri yorumlarında **Rengi & Renkleri Canlı** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **renkler** ve **dokusu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Biz çok beğendik yıkadım rengi de solmadı\"",
+  "summary": "**Ricco Lifes Fırfırlı %100 Pamuk Fiyonk Tek Kişilik Nevr** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kumaş / Rengi Canlı**: Kullanıcılar kumaş / rengi canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kumaş / Çarşaf Lastikl**: Kullanıcılar kumaş / çarşaf lastikl konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Canlı Kumaş**: Kullanıcılar canlı kumaş konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Renk Canlı**: Kullanıcılar renk canlı konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,65 +18,57 @@
   },
   "aspects": [
     {
-      "name": "Kişilik",
-      "review_count": 17,
-      "avg_score": 4.82,
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 13,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
       ],
-      "positive_pct": 82.4,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 17.6,
+      "neutral_pct": 0.0,
       "sample_reviews": [
-        "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
-        "çok beğendim gönül rahatlığıyla alınabilir",
-        "harika güzel görselde ne görüyorsanız o kızım bayildi indirimde kalpli yastık kılıfı da aldım fena değil misafirlik"
+        "kumaşının dokusu hakkında tereddüt etmiştim çok beğendim bir tık daha kalın olsaydı daha çok memnun kalırdım evimize çok yakıştı teşekkürler",
+        "bayıldım kumaşı ve şekli çok hoş yeni atandım ve kendi odama aldım rahatlıkla alabilirsiniz",
+        "yıkadım kuruttum çok güzel oldu kumaşında güzel baya pembesınıde alıcam"
       ],
       "all_reviews": [
         {
-          "text": "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+          "text": "bayıldım kumaşı ve şekli çok hoş yeni atandım ve kendi odama aldım rahatlıkla alabilirsiniz",
           "score": 5.0
         },
         {
-          "text": "harika güzel görselde ne görüyorsanız o kızım bayildi indirimde kalpli yastık kılıfı da aldım fena değil misafirlik",
+          "text": "çok güzel kaliteli kumaş yıkadım serdim ben beğendim",
           "score": 5.0
         },
         {
-          "text": "çok beğendim gönül rahatlığıyla alınabilir",
+          "text": "biz çok beğendik yıkadım rengi de solmadı",
           "score": 5.0
         },
         {
-          "text": "ürün çok şık görünüyor çok beğendim çok tatlı iyi ki almışım",
+          "text": "yıkadım kuruttum çok güzel oldu kumaşında güzel baya pembesınıde alıcam",
           "score": 5.0
         },
         {
-          "text": "cok begendim iyiki almisim",
+          "text": "kumaşının dokusu hakkında tereddüt etmiştim çok beğendim bir tık daha kalın olsaydı daha çok memnun kalırdım evimize çok yakıştı teşekkürler",
           "score": 5.0
-        },
-        {
-          "text": "güzel sevdim keşke çarşafı olsaydı",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel geldi yeğenime aldım beğendi",
-          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 15,
-      "avg_score": 4.73,
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 13,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -85,13 +77,13 @@
         "odası",
         "modeli",
         "yatağıma",
-        "kumaşı kaliteli",
         "deseni",
-        "bayıldım kumaşı"
+        "bayıldım kumaşı",
+        "odasına"
       ],
-      "positive_pct": 86.7,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 13.3,
+      "neutral_pct": 0.0,
       "sample_reviews": [
         "bayıldım kumaşı ve şekli çok hoş yeni atandım ve kendi odama aldım rahatlıkla alabilirsiniz",
         "kumaşının dokusu hakkında tereddüt etmiştim çok beğendim bir tık daha kalın olsaydı daha çok memnun kalırdım evimize çok yakıştı teşekkürler",
@@ -117,10 +109,279 @@
         {
           "text": "kumaşının dokusu hakkında tereddüt etmiştim çok beğendim bir tık daha kalın olsaydı daha çok memnun kalırdım evimize çok yakıştı teşekkürler",
           "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Canlı Kumaş",
+      "review_count": 13,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "canlı kumaşı",
+        "takım",
+        "canlı",
+        "kumaşı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kumaşının dokusu hakkında tereddüt etmiştim çok beğendim bir tık daha kalın olsaydı daha çok memnun kalırdım evimize çok yakıştı teşekkürler",
+        "çok güzel çok minnoş bir nevresim takımı kızım için aldım özellikle başkalarına hediye almak için de çok iyi olduğunu düşünüyorum",
+        "bayıldım kumaşı ve şekli çok hoş yeni atandım ve kendi odama aldım rahatlıkla alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel çok minnoş bir nevresim takımı kızım için aldım özellikle başkalarına hediye almak için de çok iyi olduğunu düşünüyorum",
+          "score": 5.0
         },
         {
-          "text": "çok tatlı nevresim ama çarşafsız olarak belirtseydiniz keşke nevresim seti deyince içinde çarşafı da dahil diye düşünmüştüm",
-          "score": 3.0
+          "text": "bayıldım kumaşı ve şekli çok hoş yeni atandım ve kendi odama aldım rahatlıkla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kaliteli kumaş yıkadım serdim ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "yıkadım kuruttum çok güzel oldu kumaşında güzel baya pembesınıde alıcam",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşının dokusu hakkında tereddüt etmiştim çok beğendim bir tık daha kalın olsaydı daha çok memnun kalırdım evimize çok yakıştı teşekkürler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
+      "review_count": 9,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalite",
+        "tane",
+        "paketleme",
+        "indirimde",
+        "çeyiz",
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "harika güzel görselde ne görüyorsanız o kızım bayildi indirimde kalpli yastık kılıfı da aldım fena değil misafirlik",
+        "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+        "çok güzel kaliteli kumaş yıkadım serdim ben beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+          "score": 5.0
+        },
+        {
+          "text": "harika güzel görselde ne görüyorsanız o kızım bayildi indirimde kalpli yastık kılıfı da aldım fena değil misafirlik",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kaliteli kumaş yıkadım serdim ben beğendim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Renk Canlı",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "rengi",
+        "canlı",
+        "renkleri",
+        "yıkadım",
+        "renkleri canlı",
+        "renkler",
+        "dokusu",
+        "aynı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "biz çok beğendik yıkadım rengi de solmadı",
+        "yıkadım kuruttum çok güzel oldu kumaşında güzel baya pembesınıde alıcam",
+        "çok güzel kaliteli kumaş yıkadım serdim ben beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel kaliteli kumaş yıkadım serdim ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "biz çok beğendik yıkadım rengi de solmadı",
+          "score": 5.0
+        },
+        {
+          "text": "yıkadım kuruttum çok güzel oldu kumaşında güzel baya pembesınıde alıcam",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "yıkadım kuruttum çok güzel oldu kumaşında güzel baya pembesınıde alıcam",
+        "biz çok beğendik yıkadım rengi de solmadı",
+        "çok güzel kaliteli kumaş yıkadım serdim ben beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel kaliteli kumaş yıkadım serdim ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "biz çok beğendik yıkadım rengi de solmadı",
+          "score": 5.0
+        },
+        {
+          "text": "yıkadım kuruttum çok güzel oldu kumaşında güzel baya pembesınıde alıcam",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+        "ürün çok şık görünüyor çok beğendim çok tatlı iyi ki almışım",
+        "çok güzel kaliteli kumaş yıkadım serdim ben beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kaliteli kumaş yıkadım serdim ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok şık görünüyor çok beğendim çok tatlı iyi ki almışım",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Kalite",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kumaşının dokusu hakkında tereddüt etmiştim çok beğendim bir tık daha kalın olsaydı daha çok memnun kalırdım evimize çok yakıştı teşekkürler",
+        "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+        "çok güzel kaliteli kumaş yıkadım serdim ben beğendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kaliteli kumaş yıkadım serdim ben beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "kumaşının dokusu hakkında tereddüt etmiştim çok beğendim bir tık daha kalın olsaydı daha çok memnun kalırdım evimize çok yakıştı teşekkürler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik & Alma",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çeyizime",
+        "çift kişilik",
+        "kişilik",
+        "almayı",
+        "almayı düşünüyorum",
+        "düşünüyorum",
+        "çift",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+        "çok güzel çok minnoş bir nevresim takımı kızım için aldım özellikle başkalarına hediye almak için de çok iyi olduğunu düşünüyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel çok minnoş bir nevresim takımı kızım için aldım özellikle başkalarına hediye almak için de çok iyi olduğunu düşünüyorum",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesine bayıldım kızıma aldım kendimede çift kişilik sipariş ettim",
+          "score": 5.0
         }
       ],
       "icon": "💬"
@@ -146,131 +407,15 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "çok güzel çok minnoş bir nevresim takımı kızım için aldım özellikle başkalarına hediye almak için de çok iyi olduğunu düşünüyorum",
-        "kızıma aldım çok şık bir nevresim sevdiklerinize hediye edebileceğiniz bir ürün"
-      ],
-      "all_reviews": [
-        {
-          "text": "kızıma aldım çok şık bir nevresim sevdiklerinize hediye edebileceğiniz bir ürün",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel çok minnoş bir nevresim takımı kızım için aldım özellikle başkalarına hediye almak için de çok iyi olduğunu düşünüyorum",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Dokusu & Kalitesi",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "dokusu",
-        "kalitesi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok şık oldu güzel",
-        "mükemmel mikemmel"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok şık oldu güzel",
-          "score": 5.0
-        },
-        {
-          "text": "mükemmel mikemmel",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "rengi",
-        "canlı",
-        "renkleri",
-        "yıkadım",
-        "renkleri canlı",
-        "renkler",
-        "dokusu",
-        "aynı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
         "biz çok beğendik yıkadım rengi de solmadı"
       ],
       "all_reviews": [
         {
+          "text": "çok güzel çok minnoş bir nevresim takımı kızım için aldım özellikle başkalarına hediye almak için de çok iyi olduğunu düşünüyorum",
+          "score": 5.0
+        },
+        {
           "text": "biz çok beğendik yıkadım rengi de solmadı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Canlı Kumaşı",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "canlı kumaşı",
-        "takım",
-        "sağlam",
-        "canlı",
-        "kumaşı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bugun geldi çok güzel umduğumuz daha güzel teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "bugun geldi çok güzel umduğumuz daha güzel teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata Kalite",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyata",
-        "kalite",
-        "tane",
-        "paketleme",
-        "indirimde",
-        "fiyata kalite",
-        "çeyiz",
-        "beklemiyordum"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "yastığı büyük nevresim fiyatı na göre bence"
-      ],
-      "all_reviews": [
-        {
-          "text": "yastığı büyük nevresim fiyatı na göre bence",
           "score": 5.0
         }
       ],

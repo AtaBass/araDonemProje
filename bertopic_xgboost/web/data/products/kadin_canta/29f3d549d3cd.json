@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Apple iPhone 16 Pro Max 256GB Siyah Titanyum** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kaliteli & Yumuşacık Derisi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kullanışlı** ve **anneler** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür eder…\"\n• **Uygun**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **giderken** ve **derisi yumuşak** başta olmak üzere. Örnek kullanıcı ifadesi: \"Anlatmaya gerek yok on numara\"\n• Kullanıcılar **Zarif & Kelimeyle** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **harikaaa** ve **yumuşacık** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gayet hızlı ulaştı elime çok güzel çok beğendim teşekkürler\"\n• **Resimdeki & Canta** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **göründüğü** ve **sağlam** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzelll çok sağlam geldi teşekkür ederim\"\n• Müşteri yorumlarında **Rahatlıkla** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kokusu** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı\"",
+  "summary": "Apple iPhone 16 Pro Max 256GB Siyah Titanyum, olağanüstü özellikler bütünleştiriyor. Ürün, kullanıcıların beğenisini kazanan deri yumuşaklığı ve yumuşacık deri özelliklerini sunuyor. Cüzdan telefon olarak kullanılan cihaz, zarif tasarımı ile birlikte, tümleşik bir kullanım deneyimi sunuyor. 50 yorumun tamamında yüzde yüz memnuniyet puanı alan bu ürün, profesyonellere ve günlük kullanımlar için ideal bir seçenek sunuyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,60 +18,8 @@
   },
   "aspects": [
     {
-      "name": "Kaliteli & Yumuşacık Derisi",
-      "review_count": 20,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "kullanışlı",
-        "severek",
-        "sığıyor",
-        "yumuşacık",
-        "baya",
-        "derisi",
-        "anneler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güzel kaliteli",
-        "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
-        "teşekkürler güzel ve tasarruflu bir alışveriş oldu"
-      ],
-      "all_reviews": [
-        {
-          "text": "mükemmel ürün",
-          "score": 5.0
-        },
-        {
-          "text": "teşekkürler güzel ve tasarruflu bir alışveriş oldu",
-          "score": 5.0
-        },
-        {
-          "text": "güzel kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "çok çok beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel beğendim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Uygun",
-      "review_count": 9,
+      "name": "Deri Yumuşak",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -89,98 +37,59 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "fena süper her zamna ki gibi",
-        "anlatmaya gerek yok on numara",
-        "sağlam geldi sıkıntı yok"
-      ],
-      "all_reviews": [
-        {
-          "text": "anlatmaya gerek yok on numara",
-          "score": 5.0
-        },
-        {
-          "text": "efsoooo bir telefon",
-          "score": 5.0
-        },
-        {
-          "text": "sağlam geldi sıkıntı yok",
-          "score": 5.0
-        },
-        {
-          "text": "fena süper her zamna ki gibi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Zarif & Kelimeyle",
-      "review_count": 9,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "zarif",
-        "harikaaa",
-        "yumuşacık",
-        "kelimeyle",
-        "kalite",
-        "baya",
-        "kelimeyle bayıldım",
-        "bayıldım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "gayet hızlı ulaştı elime çok güzel çok beğendim teşekkürler",
-        "çok hızlı elime ulaştı teşekkürler",
-        "hızlı geldi teşekkürler"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok iyi ve güzel",
-          "score": 5.0
-        },
-        {
-          "text": "gayet hızlı ulaştı elime çok güzel çok beğendim teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı geldi teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çok hızlı elime ulaştı teşekkürler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Resimdeki & Canta",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "adet",
-        "resimdeki",
-        "istediğim",
-        "canta",
-        "göründüğü",
-        "sağlam",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
+        "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
         "çok güzelll çok sağlam geldi teşekkür ederim",
         "çok memnun kaldım teşekkür ederimmm"
       ],
       "all_reviews": [
+        {
+          "text": "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzelll çok sağlam geldi teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok memnun kaldım teşekkür ederimmm",
+          "score": 5.0
+        },
+        {
+          "text": "uygun fiyat hızlı kargo",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Yumuşacık Deri",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aynı",
+        "tane",
+        "okulda",
+        "yumuşacık derisi",
+        "bayildim",
+        "hayatta",
+        "paketleme",
+        "kelimeyle"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
+        "çok güzelll çok sağlam geldi teşekkür ederim",
+        "çok memnun kaldım teşekkür ederimmm"
+      ],
+      "all_reviews": [
+        {
+          "text": "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
+          "score": 5.0
+        },
         {
           "text": "çok güzelll çok sağlam geldi teşekkür ederim",
           "score": 5.0
@@ -193,38 +102,8 @@
       "icon": "💬"
     },
     {
-      "name": "Rahatlıkla",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kokusu",
-        "fiyata",
-        "adet",
-        "fiyatı",
-        "minik",
-        "olacağını",
-        "rahatlıkla sığıyor",
-        "okulda"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Cüzdan Telefon",
-      "review_count": 3,
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -242,41 +121,46 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kargo hızlıydı"
+        "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı",
+        "efsoooo bir telefon"
       ],
       "all_reviews": [
         {
-          "text": "kargo hızlıydı",
+          "text": "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı",
+          "score": 5.0
+        },
+        {
+          "text": "efsoooo bir telefon",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 2,
+      "name": "Zarif",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "performans",
-        "fiyat performans",
-        "fiyat",
-        "ideal",
-        "fiyata",
-        "buyuk",
-        "kaliteli",
-        "uygun"
+        "zarif",
+        "harikaaa",
+        "yumuşacık",
+        "kelimeyle",
+        "kalite",
+        "baya",
+        "kelimeyle bayıldım",
+        "bayıldım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "uygun fiyat hızlı kargo"
+        "güzel kaliteli"
       ],
       "all_reviews": [
         {
-          "text": "uygun fiyat hızlı kargo",
+          "text": "güzel kaliteli",
           "score": 5.0
         }
       ],

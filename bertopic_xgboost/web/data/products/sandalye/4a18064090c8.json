@@ -8,7 +8,7 @@
   "overall_score": 4.4,
   "overall_sentiment": "neutral",
   "stars": "★★★★½",
-  "summary": "**Seduna Benin Ofis Koltuğu | Yönetici Koltuğu Hareketli ** için 5 yorum analiz edilmiştir. Genel değerlendirmeler olumlu olmakla birlikte bazı noktalarda farklı görüşler de yer almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kurulumu kolay kaliteli ve rahat bir ürün\"\n• **Koltuk & Zarar**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **ergonomik** ve **rahat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vid…\"",
+  "summary": "**Seduna Benin Ofis Koltuğu | Yönetici Koltuğu Hareketli ** için 5 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Koltuk**: Kullanıcılar genel olarak koltuk açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Sorunsuz**: Kullanıcılar genel olarak sorunsuz açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Fiyat Kalite**: Kullanıcılar genel olarak fiyat kalite açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Koltuk & Ergonomik**: Kullanıcılar genel olarak koltuk & ergonomik açısından olumlu geri dönüşler yapmış, ürün bu konuda beklentileri karşılıyor.\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,7 +18,179 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
+      "name": "Koltuk",
+      "review_count": 4,
+      "avg_score": 4.25,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "koltuk",
+        "çalışma",
+        "kurulumu",
+        "kumaşı",
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+        "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+        "rahat ve kaliteli kurulumu basit"
+      ],
+      "all_reviews": [
+        {
+          "text": "kurulumu kolay kaliteli ve rahat bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "rahat ve kaliteli kurulumu basit",
+          "score": 5.0
+        },
+        {
+          "text": "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+          "score": 4.0
+        },
+        {
+          "text": "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz",
+      "review_count": 4,
+      "avg_score": 4.25,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+        "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+        "kurulumu kolay kaliteli ve rahat bir ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "kurulumu kolay kaliteli ve rahat bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "rahat ve kaliteli kurulumu basit",
+          "score": 5.0
+        },
+        {
+          "text": "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+          "score": 4.0
+        },
+        {
+          "text": "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Kalite",
+      "review_count": 4,
+      "avg_score": 4.25,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+        "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+        "kurulumu kolay kaliteli ve rahat bir ürün"
+      ],
+      "all_reviews": [
+        {
+          "text": "kurulumu kolay kaliteli ve rahat bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "rahat ve kaliteli kurulumu basit",
+          "score": 5.0
+        },
+        {
+          "text": "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+          "score": 4.0
+        },
+        {
+          "text": "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk & Ergonomik",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "uzun",
+        "koltuk",
+        "ergonomik",
+        "zarar",
+        "görünüyor",
+        "vida",
+        "sandalyenin",
+        "monte"
+      ],
+      "positive_pct": 33.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 66.7,
+      "sample_reviews": [
+        "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+        "hareketli başlık desteği ayarlanabilir bel desteği ve ergonomik tasarımı sayesinde uzun süreli kullanımda bile rahatlık sağlıyor ayrıca sliding mekanizma özelliğiyle hareket özgürlüğü elde ettim hem şık hem de fonksiyonel bir seçenek arayanlar için ideal",
+        "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "hareketli başlık desteği ayarlanabilir bel desteği ve ergonomik tasarımı sayesinde uzun süreli kullanımda bile rahatlık sağlıyor ayrıca sliding mekanizma özelliğiyle hareket özgürlüğü elde ettim hem şık hem de fonksiyonel bir seçenek arayanlar için ideal",
+          "score": 5.0
+        },
+        {
+          "text": "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
+          "score": 4.0
+        },
+        {
+          "text": "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+          "score": 3.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kurulum Kolay",
       "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
@@ -27,11 +199,11 @@
         "paketleme",
         "kolay",
         "kurulumu",
-        "rahat",
-        "sağlam",
         "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -53,36 +225,36 @@
       "icon": "💬"
     },
     {
-      "name": "Koltuk & Zarar",
+      "name": "Fiyat Performans",
       "review_count": 2,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "avg_score": 3.5,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
       "top_terms": [
-        "uzun",
-        "koltuk",
-        "zarar",
-        "ergonomik",
-        "görünüyor",
-        "rahat",
-        "vida",
-        "monte"
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 0.0,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 100.0,
       "sample_reviews": [
-        "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
-        "hareketli başlık desteği ayarlanabilir bel desteği ve ergonomik tasarımı sayesinde uzun süreli kullanımda bile rahatlık sağlıyor ayrıca sliding mekanizma özelliğiyle hareket özgürlüğü elde ettim hem şık hem de fonksiyonel bir seçenek arayanlar için ideal"
+        "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+        "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle"
       ],
       "all_reviews": [
         {
-          "text": "hareketli başlık desteği ayarlanabilir bel desteği ve ergonomik tasarımı sayesinde uzun süreli kullanımda bile rahatlık sağlıyor ayrıca sliding mekanizma özelliğiyle hareket özgürlüğü elde ettim hem şık hem de fonksiyonel bir seçenek arayanlar için ideal",
-          "score": 5.0
-        },
-        {
           "text": "inanılmaz rahat bir çalışma koltuğu ürün elime ilk ulaştığında oturma bölümündeki vidalar ile ilgili sorun çıktı fakat iki gün içinde yenisi gönderildi bu sebeple firmaya teşekkür ederim monte ettiğimde amortisör bir türlü kalkmadı sanırım ilk sefer olduğu için daha sonra düzeldi gerçi hala indirip kaldırmaya korkuyorum ve boyun dayama desteğindeki bir vida yine kesinlikle sıkılmıyor firma ile iletişime geçsem bunu da çözerler diye düşünüyorum ama önemsiz gördüğüm için uğraşmak istemedim bu aksilikler yüzünden inanılmaz rahat bir koltuk olmasına rağmen bir yıldız kırmak zorunda kaldım alışveriş konusunda şanslı bir insansanız bu aksiliklerle karşılaşmaz ve rahat rahat kullanabilirsiniz ürünü endişelenmeyin herkese sevgilerle",
           "score": 4.0
+        },
+        {
+          "text": "fiyat ile kalite uyuşmuyor oturma yerinin kumaşı yakıyor yükseklik yetersiz ergonomik çalışma sağlamıyor",
+          "score": 3.0
         }
       ],
       "icon": "💬"

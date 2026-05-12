@@ -8,7 +8,7 @@
   "overall_score": 4.36,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "**DOPPİO'N DENİM Erkek Yeşil Slim Fit Jean Pantolon** için 14 yorum analiz edilmiştir. Genel memnuniyet yüksek, bazı noktalarda farklı görüşler mevcuttur.\n• **Fiyat Performans**: Hediye olarak aldım kumaşı kalitesi çok güze çok beğendik.\n• **Kalite & Fiyat**: Ürün görseldekinin aynısı gayet güzel ve kaliteli fiyatına göre güzel.\n• **Kalite & Alınabilir**: Hediye olarak aldım kumaşı kalitesi çok güze çok beğendik.\n• **Kalite & Kalıb**: Hediye olarak aldım kumaşı kalitesi çok güze çok beğendik.\n• **Doku & Likral**: Hediye olarak aldım kumaşı kalitesi çok güze çok beğendik.",
+  "summary": "\"Döpío'n Denim Erkek Yeşil Slim Fit Jean Pantolon, genel memnuniyet puanına göre 4.4/5.0 olarak değerlendiriliyor. Ürün, fiyat performansına, kalite ve alınabilirliğine, kalite ve fiyata, kalite ve kalıba ilişkin olumlu yorumlar alıyor. Müşteriler, ürünün dokusu ve líkraline de tam olarak 5.0/5.0 puan vererek beğenmesini kanıtlıyor.\"",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 6,
-      "avg_score": 4.83,
+      "review_count": 8,
+      "avg_score": 4.88,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,65 +33,13 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 83.3,
+      "positive_pct": 87.5,
       "negative_pct": 0.0,
-      "neutral_pct": 16.7,
-      "sample_reviews": [
-        "fiyatina gore super",
-        "ürün kaliteli ama ptt kargo pişmanlik 7 günde ulaştı elime",
-        "hediye olarak aldım kumaşı kalitesi çok güze çok beğendik"
-      ],
-      "all_reviews": [
-        {
-          "text": "hediye olarak aldım kumaşı kalitesi çok güze çok beğendik",
-          "score": 5.0
-        },
-        {
-          "text": "mükemmel tam bana göre rahat 36 beden 185 boy 92 kg",
-          "score": 5.0
-        },
-        {
-          "text": "kalitesi güzel tam beden oldu",
-          "score": 5.0
-        },
-        {
-          "text": "çok kaliteli mahşallah başarılar dilerim",
-          "score": 5.0
-        },
-        {
-          "text": "fiyatina gore super",
-          "score": 5.0
-        },
-        {
-          "text": "ürün kaliteli ama ptt kargo pişmanlik 7 günde ulaştı elime",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Fiyat",
-      "review_count": 6,
-      "avg_score": 4.83,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "düşünüyorum",
-        "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
-      ],
-      "positive_pct": 83.3,
-      "negative_pct": 0.0,
-      "neutral_pct": 16.7,
+      "neutral_pct": 12.5,
       "sample_reviews": [
         "ürün görseldekinin aynısı gayet güzel ve kaliteli fiyatına göre güzel",
-        "ürün kaliteli ama ptt kargo pişmanlik 7 günde ulaştı elime",
-        "hediye olarak aldım kumaşı kalitesi çok güze çok beğendik"
+        "fiyatina gore super",
+        "çok kaliteli ve mükemmel paça boyuna sahip yıkaması dikişi harika gerçekten teşekkür ederim"
       ],
       "all_reviews": [
         {
@@ -103,7 +51,15 @@
           "score": 5.0
         },
         {
+          "text": "mükemmel tam bana göre rahat 36 beden 185 boy 92 kg",
+          "score": 5.0
+        },
+        {
           "text": "kalitesi güzel tam beden oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve mükemmel paça boyuna sahip yıkaması dikişi harika gerçekten teşekkür ederim",
           "score": 5.0
         },
         {
@@ -123,8 +79,8 @@
     },
     {
       "name": "Kalite & Alınabilir",
-      "review_count": 5,
-      "avg_score": 4.8,
+      "review_count": 7,
+      "avg_score": 4.86,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -137,9 +93,9 @@
         "yumuşacık",
         "tşkler"
       ],
-      "positive_pct": 80.0,
+      "positive_pct": 85.7,
       "negative_pct": 0.0,
-      "neutral_pct": 20.0,
+      "neutral_pct": 14.3,
       "sample_reviews": [
         "hediye olarak aldım kumaşı kalitesi çok güze çok beğendik",
         "kalitesi güzel tam beden oldu",
@@ -151,11 +107,19 @@
           "score": 5.0
         },
         {
+          "text": "ürün görseldekinin aynısı gayet güzel ve kaliteli fiyatına göre güzel",
+          "score": 5.0
+        },
+        {
           "text": "kalitesi güzel tam beden oldu",
           "score": 5.0
         },
         {
           "text": "ürün güzel beğendim likralı",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve mükemmel paça boyuna sahip yıkaması dikişi harika gerçekten teşekkür ederim",
           "score": 5.0
         },
         {
@@ -170,9 +134,65 @@
       "icon": "💬"
     },
     {
+      "name": "Kalite & Fiyat",
+      "review_count": 7,
+      "avg_score": 4.86,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 85.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 14.3,
+      "sample_reviews": [
+        "ürün görseldekinin aynısı gayet güzel ve kaliteli fiyatına göre güzel",
+        "çok kaliteli ve mükemmel paça boyuna sahip yıkaması dikişi harika gerçekten teşekkür ederim",
+        "ürün kaliteli ama ptt kargo pişmanlik 7 günde ulaştı elime"
+      ],
+      "all_reviews": [
+        {
+          "text": "hediye olarak aldım kumaşı kalitesi çok güze çok beğendik",
+          "score": 5.0
+        },
+        {
+          "text": "ürün görseldekinin aynısı gayet güzel ve kaliteli fiyatına göre güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi güzel tam beden oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve mükemmel paça boyuna sahip yıkaması dikişi harika gerçekten teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli mahşallah başarılar dilerim",
+          "score": 5.0
+        },
+        {
+          "text": "fiyatina gore super",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kaliteli ama ptt kargo pişmanlik 7 günde ulaştı elime",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Kalite & Kalıb",
-      "review_count": 4,
-      "avg_score": 4.75,
+      "review_count": 6,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -185,9 +205,9 @@
         "dilerim",
         "kalıp"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 16.7,
       "sample_reviews": [
         "hediye olarak aldım kumaşı kalitesi çok güze çok beğendik",
         "çok kaliteli mahşallah başarılar dilerim",
@@ -199,7 +219,15 @@
           "score": 5.0
         },
         {
+          "text": "ürün görseldekinin aynısı gayet güzel ve kaliteli fiyatına göre güzel",
+          "score": 5.0
+        },
+        {
           "text": "kalitesi güzel tam beden oldu",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve mükemmel paça boyuna sahip yıkaması dikişi harika gerçekten teşekkür ederim",
           "score": 5.0
         },
         {
@@ -248,6 +276,74 @@
         },
         {
           "text": "ürün güzel beğendim likralı",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş",
+      "review_count": 2,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "kumaşı",
+        "rengi",
+        "rengini",
+        "kesim",
+        "kalıbı",
+        "boyu",
+        "kalitesi",
+        "aynı"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hediye olarak aldım kumaşı kalitesi çok güze çok beğendik",
+        "rengi o kadar kötü ki almayın pişman olursunuz"
+      ],
+      "all_reviews": [
+        {
+          "text": "hediye olarak aldım kumaşı kalitesi çok güze çok beğendik",
+          "score": 5.0
+        },
+        {
+          "text": "rengi o kadar kötü ki almayın pişman olursunuz",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Edilir",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "edilir",
+        "paketleme",
+        "farklı",
+        "firmaya",
+        "aynısı",
+        "kalıp"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "öncelik bize bu ürünü satış yapan bize ulaştıran ve aracı firmaya trendyol'a sağlık sunarım teşekkür ederim",
+        "ürün görseldekinin aynısı gayet güzel ve kaliteli fiyatına göre güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün görseldekinin aynısı gayet güzel ve kaliteli fiyatına göre güzel",
+          "score": 5.0
+        },
+        {
+          "text": "öncelik bize bu ürünü satış yapan bize ulaştıran ve aracı firmaya trendyol'a sağlık sunarım teşekkür ederim",
           "score": 5.0
         }
       ],

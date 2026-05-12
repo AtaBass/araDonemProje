@@ -8,7 +8,7 @@
   "overall_score": 4.75,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**AKBU 6lı paket Yüksek Kalite Bohem Sandalye Kılıfı , La** için 40 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kaliteli ürün tam ölçü önden bakınca kılıf olduğu belli olmuyor arka sandalye modelin…\"\n• **Rahat Koltuk**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün hızlı kargo ile birlikte elime ulaştı rengi tam seçtiğim şekilde resimde görünen…\"\n• Kullanıcılar **Sorunsuz & Sağlam Kaliteli** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **kalitesi** ve **oldular** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürünü çok beğendim ama malesef kedim tirmalamaya kalktığı için kaldırdım ara ara sere…\"\n• **Alınabilir & Çocuk** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **uygun** ve **göründüğü** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok beğendim beklediğim gibi\"\n• Müşteri yorumlarında **Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **uygun** ve **ilgili** konusu özellikle vurgulanmaktadır.",
+  "summary": "**AKBU 6lı paket Yüksek Kalite Bohem Sandalye Kılıfı , La** için 40 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Koltuk**: Kullanıcılar koltuk konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kolay & Rahatlığıyla**: Kullanıcılar kolay & rahatlığıyla konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 8,
+      "name": "Sorunsuz",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "kolay",
-        "kurulumu",
-        "rahat",
-        "sağlam",
-        "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "gerçekten çok güzel oldu teşekkürler sorunsuz geldi",
         "kaliteli ürün tam ölçü önden bakınca kılıf olduğu belli olmuyor arka sandalye modelinden dolayı belli ama beni rahatsız etmedi kargo hızlıydı emeğinize sağlık",
-        "hürün harika verdiğim parayı hak ediyor hızlı kargo içinde çok teşekkür ederim",
-        "zamanında ve kusursuz bir şekilde teslim edildi"
+        "ürünü çok beğendim ama malesef kedim tirmalamaya kalktığı için kaldırdım ara ara serecegim teşekkürler tam oldu sandalyelerime"
       ],
       "all_reviews": [
         {
@@ -47,55 +47,90 @@
           "score": 5.0
         },
         {
-          "text": "hürün harika verdiğim parayı hak ediyor hızlı kargo içinde çok teşekkür ederim",
+          "text": "tam oldu bohem sandalyelerimize kargoda çok hızlıydı teşekkürler",
           "score": 5.0
         },
         {
-          "text": "çok beğendik çok güzel kumaşı rengi",
+          "text": "gerçekten çok güzel oldu teşekkürler sorunsuz geldi",
           "score": 5.0
         },
         {
-          "text": "zamanında ve kusursuz bir şekilde teslim edildi",
+          "text": "ürünü çok beğendim ama malesef kedim tirmalamaya kalktığı için kaldırdım ara ara serecegim teşekkürler tam oldu sandalyelerime",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı geldi kalite iyidi",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rahat Koltuk",
-      "review_count": 8,
-      "avg_score": 4.75,
+      "name": "Fiyat Kalite",
+      "review_count": 6,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat",
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kaliteli ürün tam ölçü önden bakınca kılıf olduğu belli olmuyor arka sandalye modelinden dolayı belli ama beni rahatsız etmedi kargo hızlıydı emeğinize sağlık",
+        "çok güzel sadece üst kılıf biraz daha büyük olsaydı tam kaybolurdu arka detay yınede süper",
+        "hızlı geldi kalite iyidi"
+      ],
+      "all_reviews": [
+        {
+          "text": "kaliteli ürün tam ölçü önden bakınca kılıf olduğu belli olmuyor arka sandalye modelinden dolayı belli ama beni rahatsız etmedi kargo hızlıydı emeğinize sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel sadece üst kılıf biraz daha büyük olsaydı tam kaybolurdu arka detay yınede süper",
+          "score": 5.0
+        },
+        {
+          "text": "hızlı geldi kalite iyidi",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk",
+      "review_count": 4,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
         "koltuk",
-        "sağlam",
         "çalışma",
         "kurulumu",
         "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 50.0,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 50.0,
       "sample_reviews": [
-        "ürün hızlı kargo ile birlikte elime ulaştı rengi tam seçtiğim şekilde resimde görünenin aynısı geldi acaba küçük gelirmi diye düşünmüştüm esnek yapısı ile sandalyelerimi rahatça kapladı çok memnun kaldım ve çok yakıştı yumuşacık dokusu var kesinlikle gönül rahatlığıyla alabilirsiniz",
-        "sandalyelerime tam uydu ve çok şık bir görüntü sağladım almak isteyenler gönül rahatlığı ile alabilir",
+        "çok beğendik çok güzel kumaşı rengi",
         "ürün beklediğimden güzel geldi tam oturdu sandalyelerime rengi bir tık koyuydu daha açık bekledim kumaş ince bir kumaş ancak beklentilerimi karşıladı"
       ],
       "all_reviews": [
         {
-          "text": "tam oldu bohem sandalyelerimize kargoda çok hızlıydı teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "sandalyelerime tam uydu ve çok şık bir görüntü sağladım almak isteyenler gönül rahatlığı ile alabilir",
-          "score": 5.0
-        },
-        {
-          "text": "ürün hızlı kargo ile birlikte elime ulaştı rengi tam seçtiğim şekilde resimde görünenin aynısı geldi acaba küçük gelirmi diye düşünmüştüm esnek yapısı ile sandalyelerimi rahatça kapladı çok memnun kaldım ve çok yakıştı yumuşacık dokusu var kesinlikle gönül rahatlığıyla alabilirsiniz",
+          "text": "çok beğendik çok güzel kumaşı rengi",
           "score": 5.0
         },
         {
@@ -106,235 +141,35 @@
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Sağlam Kaliteli",
-      "review_count": 6,
-      "avg_score": 4.33,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "sorunsuz",
-        "sağlam kaliteli",
-        "kalitesi",
-        "severek",
-        "oldular",
-        "evime",
-        "sağlam",
-        "hava"
-      ],
-      "positive_pct": 66.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 33.3,
-      "sample_reviews": [
-        "gerçekten çok güzel oldu teşekkürler sorunsuz geldi",
-        "ürünü çok beğendim ama malesef kedim tirmalamaya kalktığı için kaldırdım ara ara serecegim teşekkürler tam oldu sandalyelerime",
-        "ölçüsü tam geldi sanldalyeye tam uyum sağladı yalnız rengi sitede göründüğü gibi gelmedi"
-      ],
-      "all_reviews": [
-        {
-          "text": "gerçekten çok güzel oldu teşekkürler sorunsuz geldi",
-          "score": 5.0
-        },
-        {
-          "text": "ürünü çok beğendim ama malesef kedim tirmalamaya kalktığı için kaldırdım ara ara serecegim teşekkürler tam oldu sandalyelerime",
-          "score": 5.0
-        },
-        {
-          "text": "ölçüsü tam geldi sanldalyeye tam uyum sağladı yalnız rengi sitede göründüğü gibi gelmedi",
-          "score": 3.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Alınabilir & Çocuk",
-      "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "alınabilir",
-        "çocuk",
-        "halı",
-        "uygun",
-        "göründüğü",
-        "bayıldım",
-        "aldık",
-        "sorun"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok beğendim beklediğim gibi",
-        "çok beğendim çok şık",
-        "cok güzelmiş"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendim çok şık",
-          "score": 5.0
-        },
-        {
-          "text": "cok güzelmiş",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim beklediğim gibi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
+      "name": "Kolay & Rahatlığıyla",
       "review_count": 4,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat",
-        "fiyat performans",
-        "performans",
-        "uygun",
-        "ilgili",
-        "kalite",
-        "rahatlığı",
-        "kusursuz"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "hızlı geldi kalite iyidi",
-        "gayet kulanışlı"
-      ],
-      "all_reviews": [
-        {
-          "text": "hızlı geldi kalite iyidi",
-          "score": 5.0
-        },
-        {
-          "text": "gayet kulanışlı",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Yıldız & Fiyat Kalite",
-      "review_count": 2,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "yıldız",
-        "kalite",
-        "fiyat kalite",
-        "bakarak",
-        "olsa",
-        "alırken",
+        "kolay",
+        "rahatlığıyla",
         "tesekkurler",
-        "dikkat"
+        "kaldik",
+        "kurulumuda",
+        "yaptım",
+        "rağmen",
+        "icin"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok iyi bi ürün kesinlikle tavsiye ediyorum teşekkürker"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok iyi bi ürün kesinlikle tavsiye ediyorum teşekkürker",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Koltuk & Zarar",
-      "review_count": 2,
-      "avg_score": 4.0,
-      "sentiment": "neutral",
-      "sentiment_label": "Genel Olumlu",
-      "top_terms": [
-        "uzun",
-        "koltuk",
-        "zarar",
-        "ergonomik",
-        "görünüyor",
-        "rahat",
-        "vida",
-        "monte"
-      ],
-      "positive_pct": 0.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 100.0,
-      "sample_reviews": [
-        "arkadaşıma aldım gayet memnun kaldı sadece bej denıyor ama renk kapiçino resmen bende kremını sıparış edıcem"
-      ],
-      "all_reviews": [
-        {
-          "text": "arkadaşıma aldım gayet memnun kaldı sadece bej denıyor ama renk kapiçino resmen bende kremını sıparış edıcem",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kullanışlı Rahat",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "rahat",
-        "kullanışlı rahat",
-        "hafif",
-        "almışım",
-        "kaliteli rahat",
-        "icin",
-        "göründüğü"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
+        "ürün hızlı kargo ile birlikte elime ulaştı rengi tam seçtiğim şekilde resimde görünenin aynısı geldi acaba küçük gelirmi diye düşünmüştüm esnek yapısı ile sandalyelerimi rahatça kapladı çok memnun kaldım ve çok yakıştı yumuşacık dokusu var kesinlikle gönül rahatlığıyla alabilirsiniz",
         "ürün beklediğimden güzel geldi gonul rahatlığıyla alabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "ürün beklediğimden güzel geldi gonul rahatlığıyla alabilirsiniz",
+          "text": "ürün hızlı kargo ile birlikte elime ulaştı rengi tam seçtiğim şekilde resimde görünenin aynısı geldi acaba küçük gelirmi diye düşünmüştüm esnek yapısı ile sandalyelerimi rahatça kapladı çok memnun kaldım ve çok yakıştı yumuşacık dokusu var kesinlikle gönül rahatlığıyla alabilirsiniz",
           "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Takım & Kurulumu Kolay",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "takım",
-        "paketleme",
-        "teşekürler",
-        "yaptım",
-        "olsaydı",
-        "istediğim",
-        "sürekli",
-        "kazançlar"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel sadece üst kılıf biraz daha büyük olsaydı tam kaybolurdu arka detay yınede süper"
-      ],
-      "all_reviews": [
+        },
         {
-          "text": "çok güzel sadece üst kılıf biraz daha büyük olsaydı tam kaybolurdu arka detay yınede süper",
+          "text": "ürün beklediğimden güzel geldi gonul rahatlığıyla alabilirsiniz",
           "score": 5.0
         }
       ],

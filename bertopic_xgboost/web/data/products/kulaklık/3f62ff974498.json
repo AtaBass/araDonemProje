@@ -8,7 +8,7 @@
   "overall_score": 4.84,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Philips Tah4205bk Siyah Mikrofonlu Kablosuz Kulak Üstü ** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Marka & Süresi** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **efsane** ve **beyendi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kızım için aldım zaten bilinen bir marka çok memnunuz\"\n• **Kalitesi & Fiyata Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **kılıf** ve **kaliteli** başta olmak üzere. Örnek kullanıcı ifadesi: \"Büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mü…\"\n• Kullanıcılar **Kılıfı & Çıktı** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir. Örnek kullanıcı ifadesi: \"Oğluma hediye aldık çok beğendi teşekkür ediyorum\"\n• **Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sorunsuz** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans\"\n• Müşteri yorumlarında **Şarjı & Fiyat Performans** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **rengi** ve **fiyata** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kızıma aldım şarjı 1 hafta gidiyor günlük 4-5 saat kullanıyor tavsiye ederim\"",
+  "summary": "**Philips Tah4205bk Siyah Mikrofonlu Kablosuz Kulak Üstü ** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Marka / Fiyat Performans**: Kullanıcılar marka / fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Müzik Dinlerken**: Kullanıcılar müzik dinlerken konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Şarja & Hiçbir**: Kullanıcılar şarja & hiçbir konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,9 +18,9 @@
   },
   "aspects": [
     {
-      "name": "Marka & Süresi",
-      "review_count": 21,
-      "avg_score": 4.86,
+      "name": "Marka / Fiyat Performans",
+      "review_count": 44,
+      "avg_score": 4.82,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -30,20 +30,20 @@
         "beyendi",
         "aldı",
         "kargolama",
-        "kullanıyor",
-        "aydır"
+        "aydır",
+        "saglam"
       ],
-      "positive_pct": 85.7,
+      "positive_pct": 81.8,
       "negative_pct": 0.0,
-      "neutral_pct": 14.3,
+      "neutral_pct": 18.2,
       "sample_reviews": [
         "kızım için aldım zaten bilinen bir marka çok memnunuz",
-        "ürün gayet güzel kızıma aldım kargo sorunsuz geldi",
-        "kızıma hediye aldım çok güzel çok beğendi"
+        "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
+        "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün"
       ],
       "all_reviews": [
         {
-          "text": "kızım için aldım zaten bilinen bir marka çok memnunuz",
+          "text": "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
           "score": 5.0
         },
         {
@@ -51,15 +51,27 @@
           "score": 5.0
         },
         {
+          "text": "çok beğendim acayip iyi sürekli kulağımda yanımdan ayırmıyorum bası falan mükemmel tam kalite ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "oğlum için aldım çok beğendi",
+          "score": 5.0
+        },
+        {
           "text": "ürün gayet güzel kızıma aldım kargo sorunsuz geldi",
           "score": 5.0
         },
         {
-          "text": "kızıma almıştım severek kullaniyor",
+          "text": "kızıma aldım çok beğendi",
           "score": 5.0
         },
         {
-          "text": "kızıma hediye aldım çok güzel çok beğendi",
+          "text": "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldım çok beğendi",
           "score": 5.0
         },
         {
@@ -67,8 +79,32 @@
           "score": 5.0
         },
         {
-          "text": "kızıma aldım çok beğendi",
+          "text": "kızıma hediye aldım çok güzel çok beğendi",
           "score": 5.0
+        },
+        {
+          "text": "kızıma aldım şarjı 1 hafta gidiyor günlük 4-5 saat kullanıyor tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldım çok beğendi ses kalitesi gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans",
+          "score": 5.0
+        },
+        {
+          "text": "kızım için aldım zaten bilinen bir marka çok memnunuz",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün oğluma aldım",
+          "score": 4.0
+        },
+        {
+          "text": "oğluma hediye aldık çok beğendi teşekkür ediyorum",
+          "score": 4.0
         },
         {
           "text": "kızım için aldım çok beğendi",
@@ -78,28 +114,28 @@
       "icon": "💬"
     },
     {
-      "name": "Kalitesi & Fiyata Performans",
-      "review_count": 14,
-      "avg_score": 5.0,
+      "name": "Müzik Dinlerken",
+      "review_count": 22,
+      "avg_score": 4.77,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
+        "beklediğimden",
+        "aldık",
         "kalitesi",
         "sesi",
-        "şarj",
-        "kılıf",
-        "fiyata",
-        "kalitesi kalitesi",
-        "bayıldım",
-        "kaliteli"
+        "müzik dinlerken",
+        "iyidi",
+        "sesim",
+        "dinlerken"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 77.3,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 22.7,
       "sample_reviews": [
         "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
         "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
-        "kendim için aldim cok memnunum dışarı biraz ses veriyor ama kalitesi çok iyi"
+        "kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans"
       ],
       "all_reviews": [
         {
@@ -111,11 +147,11 @@
           "score": 5.0
         },
         {
-          "text": "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
+          "text": "kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans",
           "score": 5.0
         },
         {
-          "text": "çok güzel geldi çok kullanışlı sesi dışarı vermiyor",
+          "text": "kardeşim için aldım çok beğendi ses kalitesi gayet iyi",
           "score": 5.0
         },
         {
@@ -123,43 +159,11 @@
           "score": 5.0
         },
         {
-          "text": "kardeşim için aldım çok beğendi ses kalitesi gayet iyi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kılıfı & Çıktı",
-      "review_count": 10,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "para",
-        "kılıfı",
-        "yeğenime",
-        "çıktı",
-        "öneriyorum",
-        "defa"
-      ],
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 50.0,
-      "sample_reviews": [
-        "oğluma hediye aldık çok beğendi teşekkür ediyorum",
-        "oğluma hediye aldım çok beğendi",
-        "kaliteli bir ürün oğluma aldım"
-      ],
-      "all_reviews": [
-        {
-          "text": "oğlum için aldım çok beğendi",
+          "text": "çok güzel geldi çok kullanışlı sesi dışarı vermiyor",
           "score": 5.0
         },
         {
-          "text": "oğluma hediye aldım çok beğendi",
+          "text": "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
           "score": 5.0
         },
         {
@@ -174,60 +178,273 @@
       "icon": "💬"
     },
     {
+      "name": "Kalite",
+      "review_count": 18,
+      "avg_score": 4.89,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "sesi",
+        "şarj",
+        "kalitesi kalitesi",
+        "kılıf",
+        "bayıldım",
+        "dışarı",
+        "paketlemesi"
+      ],
+      "positive_pct": 88.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 11.1,
+      "sample_reviews": [
+        "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
+        "kendim için aldim cok memnunum dışarı biraz ses veriyor ama kalitesi çok iyi",
+        "çok güzel geldi çok kullanışlı sesi dışarı vermiyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim acayip iyi sürekli kulağımda yanımdan ayırmıyorum bası falan mükemmel tam kalite ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldım çok beğendi ses kalitesi gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kendim için aldim cok memnunum dışarı biraz ses veriyor ama kalitesi çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kızıma aldım şarjı 1 hafta gidiyor günlük 4-5 saat kullanıyor tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel geldi çok kullanışlı sesi dışarı vermiyor",
+          "score": 5.0
+        },
+        {
+          "text": "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün oğluma aldım",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Fiyat Performans",
-      "review_count": 3,
-      "avg_score": 5.0,
+      "review_count": 15,
+      "avg_score": 4.87,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "fiyat performans",
         "performans",
         "performans fiyat",
-        "alin",
         "kalitesi baya",
+        "alin",
         "sorunsuz",
-        "fiyata",
-        "diye"
+        "diye",
+        "tane"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 86.7,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 13.3,
       "sample_reviews": [
-        "kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans"
+        "kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans",
+        "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
+        "çok beğendim acayip iyi sürekli kulağımda yanımdan ayırmıyorum bası falan mükemmel tam kalite ürünü"
       ],
       "all_reviews": [
         {
+          "text": "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim acayip iyi sürekli kulağımda yanımdan ayırmıyorum bası falan mükemmel tam kalite ürünü",
+          "score": 5.0
+        },
+        {
           "text": "kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans",
           "score": 5.0
+        },
+        {
+          "text": "kendim için aldim cok memnunum dışarı biraz ses veriyor ama kalitesi çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldım çok beğendi ses kalitesi gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün oğluma aldım",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Şarjı & Fiyat Performans",
-      "review_count": 2,
+      "name": "Şarja & Hiçbir",
+      "review_count": 13,
+      "avg_score": 4.85,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "şarja",
+        "hiçbir",
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
+      ],
+      "positive_pct": 84.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 15.4,
+      "sample_reviews": [
+        "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
+        "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
+        "çok beğendim acayip iyi sürekli kulağımda yanımdan ayırmıyorum bası falan mükemmel tam kalite ürünü"
+      ],
+      "all_reviews": [
+        {
+          "text": "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim acayip iyi sürekli kulağımda yanımdan ayırmıyorum bası falan mükemmel tam kalite ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gayet güzel kızıma aldım kargo sorunsuz geldi",
+          "score": 5.0
+        },
+        {
+          "text": "büyük bir kutuda geldi ürün kutusu dahi gram zarar görmemiş kulaklık ise gerçekten mükemmel şarjı iyi dayanıyor sesi dışarı çok az bile vermiyor bass gerçekten çok iyi açık ara şimdiye kadar aldığım en iyi kulaklık",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün oğluma aldım",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Görünt Kalite",
+      "review_count": 12,
+      "avg_score": 4.83,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
+      ],
+      "positive_pct": 83.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 16.7,
+      "sample_reviews": [
+        "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
+        "çok beğendim acayip iyi sürekli kulağımda yanımdan ayırmıyorum bası falan mükemmel tam kalite ürünü",
+        "kendim için aldim cok memnunum dışarı biraz ses veriyor ama kalitesi çok iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "kızım için aldım çok beğendi kulağına tam oturuyor ses kalitesi ve basslar çok iyi tavsiye edebileceğim bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim acayip iyi sürekli kulağımda yanımdan ayırmıyorum bası falan mükemmel tam kalite ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "kendim için aldim cok memnunum dışarı biraz ses veriyor ama kalitesi çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldım çok beğendi ses kalitesi gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli bir ürün oğluma aldım",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kılıf & Çıktı",
+      "review_count": 6,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "para",
+        "yeğenime",
+        "kılıfı",
+        "çıktı",
+        "öneriyorum",
+        "defa",
+        "saglam"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans",
+        "oğluma hediye aldık çok beğendi teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "kardeşim için aldık oldukça beğendi satıcı da hemen gönderdi fiyat performans",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldık çok beğendi teşekkür ediyorum",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz & Uygun",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "uzun",
-        "şarjı",
-        "gidiyor",
-        "performans",
-        "fiyat performans",
-        "rengi",
-        "fiyata",
-        "bakarak"
+        "almak",
+        "sorunsuz",
+        "uygun",
+        "valla",
+        "paketleme",
+        "direk",
+        "yapılmış",
+        "herşey"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kızıma aldım şarjı 1 hafta gidiyor günlük 4-5 saat kullanıyor tavsiye ederim"
+        "ürün gayet güzel kızıma aldım kargo sorunsuz geldi"
       ],
       "all_reviews": [
         {
-          "text": "kızıma aldım şarjı 1 hafta gidiyor günlük 4-5 saat kullanıyor tavsiye ederim",
+          "text": "ürün gayet güzel kızıma aldım kargo sorunsuz geldi",
           "score": 5.0
         }
       ],

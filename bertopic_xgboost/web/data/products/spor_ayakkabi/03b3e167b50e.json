@@ -8,7 +8,7 @@
   "overall_score": 4.86,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Pull and Bear Spor Ayakkabı Koşu Ayakkabısı Fiyatı, Yor** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Numaramı & Kalıbı Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **derim** ve **kalip** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Elime sağlam ve tam resimde görünen şekilde ulaştı kendi numaranızı alabilirsiniz kal…\"\n• **Fiyata & Numaranıza**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **taraklı** ve **rahatlığıyla** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel paketlenmişti ve ayakkabı çok kaliteli ve çok rahattı alanlara tavsiyem ken…\"\n• Kullanıcılar **Rahat Yumuşak** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fakat** ve **ayağımı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönd…\"\n• **Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **numaranizi** ve **kullanışlı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok iyi çok güzel duruyor tam istediğim gibi kendi bedeninizi alın\"\n• Müşteri yorumlarında **Buyuk & Rahat** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **rengi** ve **büyüğünü** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna b…\"",
+  "summary": "**Pull and Bear Spor Ayakkabı Koşu Ayakkabısı Fiyatı, Yor** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Numaranıza**: Kullanıcılar numaranıza konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Numaranıza & Tarakl**: Kullanıcılar numaranıza & tarakl konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Numaram**: Kullanıcılar numaram konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Duruyo**: Kullanıcılar duruyo konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Geniş**: Kullanıcılar geniş konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,9 +18,141 @@
   },
   "aspects": [
     {
-      "name": "Numaramı & Kalıbı Rahat",
-      "review_count": 17,
-      "avg_score": 5.0,
+      "name": "Numaranıza",
+      "review_count": 26,
+      "avg_score": 4.81,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ayak",
+        "numaranıza",
+        "kibar",
+        "biri",
+        "numaramı",
+        "tarakli",
+        "sıktı",
+        "ayağımı"
+      ],
+      "positive_pct": 80.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 19.2,
+      "sample_reviews": [
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+        "çok guzel ve cok rahat 39 giyiyorum kendi numaramı aldım çok minicik buyuk oldu ama benden kaynaklı ayakkabı cok guzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "38 numara giyiyorum 38 aldım tam oldu çok rahat bir ayakkabı ben spor salonunda giyiyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok guzel ve cok rahat 39 giyiyorum kendi numaramı aldım çok minicik buyuk oldu ama benden kaynaklı ayakkabı cok guzel",
+          "score": 5.0
+        },
+        {
+          "text": "mükemmel tam numaramı aldim 38 çok teşekkür ediyorum kargo ulaşım paketleme bravo",
+          "score": 5.0
+        },
+        {
+          "text": "rahat kaliteli çok güzel bir ayakkabı duruşu muhteşem tam numaranızı alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel paketlenmişti ve ayakkabı çok kaliteli ve çok rahattı alanlara tavsiyem kendi numaranızı alın teşekkürler pull bear",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sağlam ve sorunsuz geldi kendi numaramı aldım tam oldu çokkk güzel ve bayaa rahat beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çok rahat ve güzel kendi numaramı aldım tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "ben 37 5 giyiyorum ama 37 tam oldu ve çok güzel bir spor ayakkabı hem kaliteli hem rahat tavsiye ediyorum kesinlikle",
+          "score": 5.0
+        },
+        {
+          "text": "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+          "score": 4.0
+        },
+        {
+          "text": "çok rahat bir ayakkabı her şey ile kombin yapabiliyorum tavsiye ederim rahat olsun diye 1 numara büyük aldım sorun olmadı",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaranıza & Tarakl",
+      "review_count": 20,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "ayak",
+        "almışım",
+        "numaranıza",
+        "taraklı",
+        "rahatlığıyla",
+        "geniş",
+        "paketleme",
+        "numaranizi"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "sample_reviews": [
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+        "çok güzel paketlenmişti ve ayakkabı çok kaliteli ve çok rahattı alanlara tavsiyem kendi numaranızı alın teşekkürler pull bear"
+      ],
+      "all_reviews": [
+        {
+          "text": "38 numara giyiyorum 38 aldım tam oldu çok rahat bir ayakkabı ben spor salonunda giyiyorum",
+          "score": 5.0
+        },
+        {
+          "text": "çok guzel ve cok rahat 39 giyiyorum kendi numaramı aldım çok minicik buyuk oldu ama benden kaynaklı ayakkabı cok guzel",
+          "score": 5.0
+        },
+        {
+          "text": "rahat kaliteli çok güzel bir ayakkabı duruşu muhteşem tam numaranızı alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel paketlenmişti ve ayakkabı çok kaliteli ve çok rahattı alanlara tavsiyem kendi numaranızı alın teşekkürler pull bear",
+          "score": 5.0
+        },
+        {
+          "text": "ben 37 5 giyiyorum ama 37 tam oldu ve çok güzel bir spor ayakkabı hem kaliteli hem rahat tavsiye ediyorum kesinlikle",
+          "score": 5.0
+        },
+        {
+          "text": "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+          "score": 4.0
+        },
+        {
+          "text": "çok rahat bir ayakkabı her şey ile kombin yapabiliyorum tavsiye ederim rahat olsun diye 1 numara büyük aldım sorun olmadı",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaram",
+      "review_count": 20,
+      "avg_score": 4.75,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -28,26 +160,22 @@
         "tane",
         "kalıbı",
         "derim",
-        "bayıldım",
         "almışım",
+        "bayıldım",
         "kalip",
-        "sağlam"
+        "paketleme"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 75.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 25.0,
       "sample_reviews": [
-        "elime sağlam ve tam resimde görünen şekilde ulaştı kendi numaranızı alabilirsiniz kalıbı çok rahat",
-        "ürün sağlam ve sorunsuz geldi kendi numaramı aldım tam oldu çokkk güzel ve bayaa rahat beğendim",
-        "mükemmel tam numaramı aldim 38 çok teşekkür ediyorum kargo ulaşım paketleme bravo"
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+        "mükemmel tam numaramı aldim 38 çok teşekkür ediyorum kargo ulaşım paketleme bravo",
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim"
       ],
       "all_reviews": [
         {
-          "text": "çok beğendim tam bedenimi aldım",
-          "score": 5.0
-        },
-        {
-          "text": "çok rahat bir numara küçük aldım ben",
+          "text": "çok guzel ve cok rahat 39 giyiyorum kendi numaramı aldım çok minicik buyuk oldu ama benden kaynaklı ayakkabı cok guzel",
           "score": 5.0
         },
         {
@@ -67,52 +195,12 @@
           "score": 5.0
         },
         {
-          "text": "çok rahat bayılıyorum",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyata & Numaranıza",
-      "review_count": 11,
-      "avg_score": 4.82,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "ayak",
-        "almışım",
-        "fiyata",
-        "numaranıza",
-        "taraklı",
-        "rahatlığıyla",
-        "paketleme",
-        "geniş"
-      ],
-      "positive_pct": 81.8,
-      "negative_pct": 0.0,
-      "neutral_pct": 18.2,
-      "sample_reviews": [
-        "çok güzel paketlenmişti ve ayakkabı çok kaliteli ve çok rahattı alanlara tavsiyem kendi numaranızı alın teşekkürler pull bear",
-        "çok rahat bir ayakkabı her şey ile kombin yapabiliyorum tavsiye ederim rahat olsun diye 1 numara büyük aldım sorun olmadı",
-        "ben 37 5 giyiyorum ama 37 tam oldu ve çok güzel bir spor ayakkabı hem kaliteli hem rahat tavsiye ediyorum kesinlikle"
-      ],
-      "all_reviews": [
-        {
-          "text": "38 numara giyiyorum 38 aldım tam oldu çok rahat bir ayakkabı ben spor salonunda giyiyorum",
+          "text": "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "ben 37 5 giyiyorum ama 37 tam oldu ve çok güzel bir spor ayakkabı hem kaliteli hem rahat tavsiye ediyorum kesinlikle",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel paketlenmişti ve ayakkabı çok kaliteli ve çok rahattı alanlara tavsiyem kendi numaranızı alın teşekkürler pull bear",
-          "score": 5.0
-        },
-        {
-          "text": "rahat kaliteli çok güzel bir ayakkabı duruşu muhteşem tam numaranızı alabilirsiniz",
-          "score": 5.0
+          "text": "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+          "score": 4.0
         },
         {
           "text": "çok rahat bir ayakkabı her şey ile kombin yapabiliyorum tavsiye ederim rahat olsun diye 1 numara büyük aldım sorun olmadı",
@@ -122,36 +210,128 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat Yumuşak",
-      "review_count": 9,
-      "avg_score": 4.67,
+      "name": "Duruyo",
+      "review_count": 13,
+      "avg_score": 4.62,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fakat",
-        "bakarak",
-        "ayağımı",
-        "taraklı",
-        "kibar",
-        "numarası",
-        "rahat yumuşak",
-        "almışım rahat"
+        "alınmalı",
+        "duruyo",
+        "asla",
+        "alin",
+        "yumuşak",
+        "istediğim",
+        "kalıp kalıp",
+        "bayıldım"
       ],
-      "positive_pct": 66.7,
+      "positive_pct": 61.5,
       "negative_pct": 0.0,
-      "neutral_pct": 33.3,
+      "neutral_pct": 38.5,
       "sample_reviews": [
-        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
-        "çok guzel ve cok rahat 39 giyiyorum kendi numaramı aldım çok minicik buyuk oldu ama benden kaynaklı ayakkabı cok guzel",
-        "aşırı iyi bir beden küçük aldım"
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+        "çok iyi çok güzel duruyor tam istediğim gibi kendi bedeninizi alın",
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim"
       ],
       "all_reviews": [
         {
-          "text": "aşırı iyi bir beden küçük aldım",
+          "text": "çok iyi tam numaranızı alin",
           "score": 5.0
         },
         {
-          "text": "çok guzel ve cok rahat 39 giyiyorum kendi numaramı aldım çok minicik buyuk oldu ama benden kaynaklı ayakkabı cok guzel",
+          "text": "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi çok güzel duruyor tam istediğim gibi kendi bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+          "score": 4.0
+        },
+        {
+          "text": "çok şık tam numara alınmalı",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Geniş",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "geniş",
+        "kalitesi",
+        "olduğunu",
+        "zamanla",
+        "çokk",
+        "numaram",
+        "yumuşak",
+        "fakat"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün sağlam ve sorunsuz geldi kendi numaramı aldım tam oldu çokkk güzel ve bayaa rahat beğendim",
+        "çok güzel paketlenmişti ve ayakkabı çok kaliteli ve çok rahattı alanlara tavsiyem kendi numaranızı alın teşekkürler pull bear",
+        "ben 37 5 giyiyorum ama 37 tam oldu ve çok güzel bir spor ayakkabı hem kaliteli hem rahat tavsiye ediyorum kesinlikle"
+      ],
+      "all_reviews": [
+        {
+          "text": "ben 37 5 giyiyorum ama 37 tam oldu ve çok güzel bir spor ayakkabı hem kaliteli hem rahat tavsiye ediyorum kesinlikle",
+          "score": 5.0
+        },
+        {
+          "text": "ürün sağlam ve sorunsuz geldi kendi numaramı aldım tam oldu çokkk güzel ve bayaa rahat beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel paketlenmişti ve ayakkabı çok kaliteli ve çok rahattı alanlara tavsiyem kendi numaranızı alın teşekkürler pull bear",
+          "score": 5.0
+        },
+        {
+          "text": "rahat kaliteli çok güzel bir ayakkabı duruşu muhteşem tam numaranızı alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Alınır",
+      "review_count": 8,
+      "avg_score": 4.62,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınır",
+        "duruşu",
+        "hafif",
+        "bayıldım",
+        "aynı zamanda",
+        "çokta",
+        "zamanda",
+        "rengi"
+      ],
+      "positive_pct": 62.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 37.5,
+      "sample_reviews": [
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+        "rahat kaliteli çok güzel bir ayakkabı duruşu muhteşem tam numaranızı alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "rahat kaliteli çok güzel bir ayakkabı duruşu muhteşem tam numaranızı alabilirsiniz",
           "score": 5.0
         },
         {
@@ -162,36 +342,101 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat",
-      "review_count": 7,
-      "avg_score": 4.71,
+      "name": "Buyuk / Fiyat Performans",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "buyuk",
+        "asla",
+        "rengi",
+        "büyüğünü",
+        "beğenerek",
+        "numaramı",
+        "duruşu",
+        "bakarak"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+        "çok guzel ve cok rahat 39 giyiyorum kendi numaramı aldım çok minicik buyuk oldu ama benden kaynaklı ayakkabı cok guzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok guzel ve cok rahat 39 giyiyorum kendi numaramı aldım çok minicik buyuk oldu ama benden kaynaklı ayakkabı cok guzel",
+          "score": 5.0
+        },
+        {
+          "text": "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fakat / Alınabilir Kalıp",
+      "review_count": 6,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fakat",
+        "bakarak",
+        "ayağımı",
+        "taraklı",
+        "kibar",
+        "diye",
+        "yumuşak",
+        "uzun"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün kutusuz olarak önce ayakkabı poşeti sonrasında kraft kağıda konulmuş olarak gönderildi ayağım 37 5 ve düz tabanım tarak yok genelde 38 tercih ederim parmaklarıma dayanmasından hoşlanmadığım için yorumlara bakarak 37 sipariş verdim tam oldu 38 alsam nasıl olurdu diye merak etmedim değil ayakkabı oldukça sıkı bir şekilde ayağımı kavradı taban oldukça rahat ve yumuşak ayakta kibar şık bir duruşu var uzun süre giyme fırsatım olmadı ama genel olarak tavsiye edebilirim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Numaraniz",
+      "review_count": 5,
+      "avg_score": 4.6,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "numaranizi",
         "alin",
         "alınmalı",
-        "alınmalı rahat",
-        "rahat rahat",
-        "kullanışlı",
-        "kaliteli rahat",
-        "numaranizi rahat"
+        "aldık",
+        "zamanla",
+        "aynı zamanda",
+        "öncede",
+        "kalıbı"
       ],
-      "positive_pct": 71.4,
+      "positive_pct": 60.0,
       "negative_pct": 0.0,
-      "neutral_pct": 28.6,
+      "neutral_pct": 40.0,
       "sample_reviews": [
         "çok iyi tam numaranızı alin",
-        "çok şık tam numara alınmalı",
-        "çok iyi çok güzel duruyor tam istediğim gibi kendi bedeninizi alın"
+        "çok şık tam numara alınmalı"
       ],
       "all_reviews": [
         {
           "text": "çok iyi tam numaranızı alin",
-          "score": 5.0
-        },
-        {
-          "text": "çok iyi çok güzel duruyor tam istediğim gibi kendi bedeninizi alın",
           "score": 5.0
         },
         {
@@ -202,37 +447,7 @@
       "icon": "💬"
     },
     {
-      "name": "Buyuk & Rahat",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "buyuk",
-        "rengi",
-        "asla",
-        "büyüğünü",
-        "numaramı",
-        "beğenerek",
-        "duruşu",
-        "bakarak"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "inanılmaz rahat bir haftadır her gün giyiyorum asla ayağımı yormadı ayakta duruşuna bayıldım arkadaşlarımda çok beğendi sağlıkçıyım sürekli ayaktayım ayaklarım şişiyor kendi numaramı aldım iyi kide öyle yapmışım benim gibi sorunu olmayanlar bir numara küçük alabilirler satıcıya çok teşekkür ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Göründüğü Rahat",
+      "name": "Uygun",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
@@ -240,22 +455,22 @@
       "top_terms": [
         "beklemiyordum",
         "uygun",
-        "severek",
-        "göründüğü rahat",
         "resimde",
         "rengi",
+        "edebilirsiniz",
         "rahatlıkla",
-        "spor"
+        "spor",
+        "ettiğim"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "arkadaşlar verdiğiniz paraya değer gerçekrwn çok rahat kullanışlı bir ürün bayılarak kullanıyorum tam numaranızı alabilirsiniz ben 37 giyiyorum 37 aldım tam kalıp"
+        "elime sağlam ve tam resimde görünen şekilde ulaştı kendi numaranızı alabilirsiniz kalıbı çok rahat"
       ],
       "all_reviews": [
         {
-          "text": "arkadaşlar verdiğiniz paraya değer gerçekrwn çok rahat kullanışlı bir ürün bayılarak kullanıyorum tam numaranızı alabilirsiniz ben 37 giyiyorum 37 aldım tam kalıp",
+          "text": "elime sağlam ve tam resimde görünen şekilde ulaştı kendi numaranızı alabilirsiniz kalıbı çok rahat",
           "score": 5.0
         }
       ],

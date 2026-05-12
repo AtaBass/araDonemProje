@@ -8,7 +8,7 @@
   "overall_score": 3.8,
   "overall_sentiment": "neutral",
   "stars": "★★★½☆",
-  "summary": "5 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
+  "summary": "Genel Değerlendirme Özeti:\n\nBlayn jeans Erkek Regular Kalıp Likralı Esnek Kot Panto, fiyat performansına ve teslimatına yönelik olarak olumlu yorumlar aldı. Kalite ve alınabilirliği ile ilgili yorumlar ise karışık bir nitelikte kaldı. Ürün, ortalama genel memnuniyet puanını 3.8/5.0 oluşturmakla birlikte, bazı kullanıcıların gözünde belli bir eksilikteliği var.",
   "score_distribution": {
     "1": 1,
     "2": 0,
@@ -16,7 +16,113 @@
     "4": 2,
     "5": 2
   },
-  "aspects": [],
+  "aspects": [
+    {
+      "name": "Fiyat Performans",
+      "review_count": 2,
+      "avg_score": 4.5,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kilo",
+        "kalite",
+        "fakat",
+        "super",
+        "bedeni",
+        "fiyat",
+        "aldık",
+        "performans"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "sample_reviews": [
+        "rengi kalibi kalitesi harika cok begendim hediyeniz icin tesekkür ederim hizli kargo olmasida cok iyi tek eksiginiz paketlemeniz böyle güzel bir ürün sadece kargo posetiyle gönderilmemeli",
+        "harika tam beden tavsiye ederim tek eksik özensiz psketleme"
+      ],
+      "all_reviews": [
+        {
+          "text": "rengi kalibi kalitesi harika cok begendim hediyeniz icin tesekkür ederim hizli kargo olmasida cok iyi tek eksiginiz paketlemeniz böyle güzel bir ürün sadece kargo posetiyle gönderilmemeli",
+          "score": 5.0
+        },
+        {
+          "text": "harika tam beden tavsiye ederim tek eksik özensiz psketleme",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 2,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "rengi kalibi kalitesi harika cok begendim hediyeniz icin tesekkür ederim hizli kargo olmasida cok iyi tek eksiginiz paketlemeniz böyle güzel bir ürün sadece kargo posetiyle gönderilmemeli",
+        "regular kalıp değil kalça kısmı çok sıktı paçaları bol normalde dar kalıpta bile 34 girdiğimde rahat oluyo ama bundaki 34 bambaşka"
+      ],
+      "all_reviews": [
+        {
+          "text": "rengi kalibi kalitesi harika cok begendim hediyeniz icin tesekkür ederim hizli kargo olmasida cok iyi tek eksiginiz paketlemeniz böyle güzel bir ürün sadece kargo posetiyle gönderilmemeli",
+          "score": 5.0
+        },
+        {
+          "text": "regular kalıp değil kalça kısmı çok sıktı paçaları bol normalde dar kalıpta bile 34 girdiğimde rahat oluyo ama bundaki 34 bambaşka",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Teslimat & Çorap",
+      "review_count": 2,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "teslimat",
+        "çorap",
+        "emeğinize",
+        "istediğim",
+        "paça",
+        "istediğim bedeni",
+        "kilo",
+        "emeği"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün begendim rahat elastik esnek kuması baharlık kışında giyilir 3 adet sparis verdim okadar rahat ki yanında 3 adet çorap hediye koymuşlar güzel bir jest olmuş",
+        "regular kalıp değil kalça kısmı çok sıktı paçaları bol normalde dar kalıpta bile 34 girdiğimde rahat oluyo ama bundaki 34 bambaşka"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürün begendim rahat elastik esnek kuması baharlık kışında giyilir 3 adet sparis verdim okadar rahat ki yanında 3 adet çorap hediye koymuşlar güzel bir jest olmuş",
+          "score": 5.0
+        },
+        {
+          "text": "regular kalıp değil kalça kısmı çok sıktı paçaları bol normalde dar kalıpta bile 34 girdiğimde rahat oluyo ama bundaki 34 bambaşka",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
   "top_reviews": [
     "rengi kalibi kalitesi harika cok begendim hediyeniz icin tesekkür ederim hizli kargo olmasida cok iyi tek eksiginiz paketlemeniz böyle güzel bir ürün sadece kargo posetiyle gönderilmemeli",
     "ürün begendim rahat elastik esnek kuması baharlık kışında giyilir 3 adet sparis verdim okadar rahat ki yanında 3 adet çorap hediye koymuşlar güzel bir jest olmuş",

@@ -8,7 +8,7 @@
   "overall_score": 4.84,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**pasyone Beyaz** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata & Numaranıza** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **taraklı** ve **rahatlığıyla** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok rahat bir ayakkabı iyi ki almışım arkadaşlarıma da tavsiye ettim 2 tane de hediye…\"\n• **Rahat**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **numaranizi** ve **kullanışlı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Urun ayağıma tam oldu çok rahat tam ayak numarasınızi alabilirsiniz gayet güzel\"\n• Kullanıcılar **Numaramı & Kalıbı Rahat** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **derim** ve **kalip** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok rahat bir ürün ayağında yok gibi ben memnunum herkese tavsiye ederim kalıbı biraz…\"\n• **Buyuk & Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **rengi** ve **büyüğünü** başta olmak üzere. Örnek kullanıcı ifadesi: \"Rahat işte giymek için almıştım gayet iyi oldu tam ayak numaranızı alın\"\n• Müşteri yorumlarında **Duruşu Rahat** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **geniş** ve **kalitesi** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Çok güzel annem için aldım çok beğendi çok rahat\"",
+  "summary": "Pasyone Beyaz, müşterilerin %95'i tarafından onaylanan bir üründür. Ürünlerin en öne çıkan özelliklerinden biri, numaranıza ve tarakl özelliğine sahip olmasıyla müşterilerin büyük çoğunluğunu memnun bırakıyor. Bu özellik, ortalama 4.92/5.0 puanına sahip olarak onaylanarak, ürünün genel memnuniyet puanını etkilemeye devam ediyor. Alınır ve numaraniz özellikleri de benzer şekilde olumlu yorumlar alıyor, toplamda Pasyone Beyaz'in iyi bir seçim olduğu sonucunu destekleyen güçlü bir iklim oluşturuyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,24 +18,24 @@
   },
   "aspects": [
     {
-      "name": "Fiyata & Numaranıza",
-      "review_count": 17,
-      "avg_score": 4.88,
+      "name": "Numaranıza & Tarakl",
+      "review_count": 25,
+      "avg_score": 4.92,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "ayak",
         "almışım",
-        "fiyata",
         "numaranıza",
         "taraklı",
         "rahatlığıyla",
+        "geniş",
         "paketleme",
-        "geniş"
+        "numaranizi"
       ],
-      "positive_pct": 88.2,
+      "positive_pct": 92.0,
       "negative_pct": 0.0,
-      "neutral_pct": 11.8,
+      "neutral_pct": 8.0,
       "sample_reviews": [
         "indirimde aldım çok rahat ve çok şık ayakkabı 40 olan ayağımı 38 gibi gösterdi benim gibi taraklı ayaklar için mükemmel",
         "çok rahat bir ayakkabı iyi ki almışım arkadaşlarıma da tavsiye ettim 2 tane de hediye aldım",
@@ -51,7 +51,19 @@
           "score": 5.0
         },
         {
+          "text": "rahat işte giymek için almıştım gayet iyi oldu tam ayak numaranızı alın",
+          "score": 5.0
+        },
+        {
+          "text": "bir numara küçük almışım tam kalıp alabilirsiniz",
+          "score": 5.0
+        },
+        {
           "text": "ayakkabılar beklediğimden çok daha iyi geldi rahat şık çok beğendim bir beden büyük olur hepinizi tavsiye ederim trendyol'a teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "urun ayağıma tam oldu çok rahat tam ayak numarasınızi alabilirsiniz gayet güzel",
           "score": 5.0
         },
         {
@@ -74,40 +86,44 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat",
-      "review_count": 12,
-      "avg_score": 4.75,
+      "name": "Numaranıza",
+      "review_count": 22,
+      "avg_score": 4.91,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "numaranizi",
-        "alin",
-        "alınmalı",
-        "alınmalı rahat",
-        "rahat rahat",
-        "kullanışlı",
-        "kaliteli rahat",
-        "numaranizi rahat"
+        "ayak",
+        "numaranıza",
+        "kibar",
+        "biri",
+        "numaramı",
+        "tarakli",
+        "sıktı",
+        "ayağımı"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 90.9,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 9.1,
       "sample_reviews": [
-        "umdugumdan kaliteli geldi tam numara oldu kendi numaranizi alabilirsiniz",
-        "çok güzel bayıldım kendi numaranizi alın",
-        "urun ayağıma tam oldu çok rahat tam ayak numarasınızi alabilirsiniz gayet güzel"
+        "indirimde aldım çok rahat ve çok şık ayakkabı 40 olan ayağımı 38 gibi gösterdi benim gibi taraklı ayaklar için mükemmel",
+        "ayakkabı çok rahct çok kaliteli alın aldırın sorunsuz elime ulaşti kuryeler gerçekten ilgiliydi evde yoktum ve rica ettiğim kişiye bıraktılar çok teşekkür ederim memnun kaldım satıcı da ürünü gerçekten güzel paketlemisti görseldekinden daha kaliteli ve güzel bir ürün",
+        "tereddüt ederek almıştım ama gerçekten çok güzel ve rahat kendi ayakkabı numaranızı alabilirsiniz duruşu çok güzel siyahını da almayı düşünüyorum en kısa zamanda"
       ],
       "all_reviews": [
         {
-          "text": "tam numara alabilirsiniz kaliteli aynı zamanda",
+          "text": "tereddüt ederek almıştım ama gerçekten çok güzel ve rahat kendi ayakkabı numaranızı alabilirsiniz duruşu çok güzel siyahını da almayı düşünüyorum en kısa zamanda",
           "score": 5.0
         },
         {
-          "text": "umdugumdan kaliteli geldi tam numara oldu kendi numaranizi alabilirsiniz",
+          "text": "çok rahat bir ayakkabı iyi ki almışım arkadaşlarıma da tavsiye ettim 2 tane de hediye aldım",
           "score": 5.0
         },
         {
-          "text": "kendim için aldım çok rahat tam beden alın",
+          "text": "rahat işte giymek için almıştım gayet iyi oldu tam ayak numaranızı alın",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabılar beklediğimden çok daha iyi geldi rahat şık çok beğendim bir beden büyük olur hepinizi tavsiye ederim trendyol'a teşekkürler",
           "score": 5.0
         },
         {
@@ -115,16 +131,28 @@
           "score": 5.0
         },
         {
-          "text": "çok güzel bayıldım kendi numaranizi alın",
+          "text": "indirimde aldım çok rahat ve çok şık ayakkabı 40 olan ayağımı 38 gibi gösterdi benim gibi taraklı ayaklar için mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "38 aldım 37 de olurmuş çok rahat ayakkabıdı öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı çok rahct çok kaliteli alın aldırın sorunsuz elime ulaşti kuryeler gerçekten ilgiliydi evde yoktum ve rica ettiğim kişiye bıraktılar çok teşekkür ederim memnun kaldım satıcı da ürünü gerçekten güzel paketlemisti görseldekinden daha kaliteli ve güzel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "annem için aldım çox rahat ve güzel ayakkabı kendi numaranızı tercih ede bilirsiniz",
           "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Numaramı & Kalıbı Rahat",
-      "review_count": 10,
-      "avg_score": 4.7,
+      "name": "Numaram",
+      "review_count": 21,
+      "avg_score": 4.86,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -132,22 +160,38 @@
         "tane",
         "kalıbı",
         "derim",
-        "bayıldım",
         "almışım",
+        "bayıldım",
         "kalip",
-        "sağlam"
+        "paketleme"
       ],
-      "positive_pct": 70.0,
+      "positive_pct": 85.7,
       "negative_pct": 0.0,
-      "neutral_pct": 30.0,
+      "neutral_pct": 14.3,
       "sample_reviews": [
         "çok rahat bir ürün ayağında yok gibi ben memnunum herkese tavsiye ederim kalıbı biraz küçük gibi",
-        "kendime aldım beğendim güzel ve rahat tavsiye ederim teşekkür ederim",
-        "hediye olarak aldım çok beğenildi tam numaranızı alın derim"
+        "çok rahat bir ayakkabı iyi ki almışım arkadaşlarıma da tavsiye ettim 2 tane de hediye aldım",
+        "ayakkabı çok rahct çok kaliteli alın aldırın sorunsuz elime ulaşti kuryeler gerçekten ilgiliydi evde yoktum ve rica ettiğim kişiye bıraktılar çok teşekkür ederim memnun kaldım satıcı da ürünü gerçekten güzel paketlemisti görseldekinden daha kaliteli ve güzel bir ürün"
       ],
       "all_reviews": [
         {
+          "text": "çok rahat bir ayakkabı iyi ki almışım arkadaşlarıma da tavsiye ettim 2 tane de hediye aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabı çok rahct çok kaliteli alın aldırın sorunsuz elime ulaşti kuryeler gerçekten ilgiliydi evde yoktum ve rica ettiğim kişiye bıraktılar çok teşekkür ederim memnun kaldım satıcı da ürünü gerçekten güzel paketlemisti görseldekinden daha kaliteli ve güzel bir ürün",
+          "score": 5.0
+        },
+        {
           "text": "bir numara küçük almışım tam kalıp alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ayakkabılar beklediğimden çok daha iyi geldi rahat şık çok beğendim bir beden büyük olur hepinizi tavsiye ederim trendyol'a teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "hediye olarak aldım çok beğenildi tam numaranızı alın derim",
           "score": 5.0
         },
         {
@@ -155,7 +199,7 @@
           "score": 5.0
         },
         {
-          "text": "hediye olarak aldım çok beğenildi tam numaranızı alın derim",
+          "text": "hastanede giymek için aldım gayet güzel rahat tam no alin",
           "score": 5.0
         },
         {
@@ -166,43 +210,88 @@
       "icon": "💬"
     },
     {
-      "name": "Buyuk & Rahat",
-      "review_count": 6,
-      "avg_score": 5.0,
+      "name": "Alınır",
+      "review_count": 9,
+      "avg_score": 4.67,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "buyuk",
-        "rengi",
-        "asla",
-        "büyüğünü",
-        "numaramı",
-        "beğenerek",
+        "alınır",
         "duruşu",
-        "bakarak"
+        "hafif",
+        "bayıldım",
+        "aynı zamanda",
+        "çokta",
+        "zamanda",
+        "rengi"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 66.7,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 33.3,
       "sample_reviews": [
-        "rahat işte giymek için almıştım gayet iyi oldu tam ayak numaranızı alın",
-        "hastanede giymek için aldım gayet güzel rahat tam no alin"
+        "tereddüt ederek almıştım ama gerçekten çok güzel ve rahat kendi ayakkabı numaranızı alabilirsiniz duruşu çok güzel siyahını da almayı düşünüyorum en kısa zamanda",
+        "tam numara alabilirsiniz kaliteli aynı zamanda",
+        "çok güzel bayıldım kendi numaranizi alın"
       ],
       "all_reviews": [
         {
-          "text": "rahat işte giymek için almıştım gayet iyi oldu tam ayak numaranızı alın",
+          "text": "tereddüt ederek almıştım ama gerçekten çok güzel ve rahat kendi ayakkabı numaranızı alabilirsiniz duruşu çok güzel siyahını da almayı düşünüyorum en kısa zamanda",
           "score": 5.0
         },
         {
-          "text": "hastanede giymek için aldım gayet güzel rahat tam no alin",
+          "text": "tam numara alabilirsiniz kaliteli aynı zamanda",
           "score": 5.0
+        },
+        {
+          "text": "çok güzel bayıldım kendi numaranizi alın",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Duruşu Rahat",
-      "review_count": 5,
+      "name": "Numaraniz",
+      "review_count": 8,
+      "avg_score": 4.62,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "numaranizi",
+        "alin",
+        "alınmalı",
+        "aldık",
+        "zamanla",
+        "aynı zamanda",
+        "öncede",
+        "kalıbı"
+      ],
+      "positive_pct": 62.5,
+      "negative_pct": 0.0,
+      "neutral_pct": 37.5,
+      "sample_reviews": [
+        "umdugumdan kaliteli geldi tam numara oldu kendi numaranizi alabilirsiniz",
+        "hastanede giymek için aldım gayet güzel rahat tam no alin",
+        "çok güzel bayıldım kendi numaranizi alın"
+      ],
+      "all_reviews": [
+        {
+          "text": "hastanede giymek için aldım gayet güzel rahat tam no alin",
+          "score": 5.0
+        },
+        {
+          "text": "umdugumdan kaliteli geldi tam numara oldu kendi numaranizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bayıldım kendi numaranizi alın",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Geniş",
+      "review_count": 8,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -211,25 +300,95 @@
         "kalitesi",
         "olduğunu",
         "zamanla",
-        "duruşu rahat",
-        "rahat rahat",
+        "çokk",
         "numaram",
-        "çokk"
+        "yumuşak",
+        "fakat"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel annem için aldım çok beğendi çok rahat",
-        "kızım için aldım çok rahat ve kullanışlı diyor"
+        "ayakkabı çok rahct çok kaliteli alın aldırın sorunsuz elime ulaşti kuryeler gerçekten ilgiliydi evde yoktum ve rica ettiğim kişiye bıraktılar çok teşekkür ederim memnun kaldım satıcı da ürünü gerçekten güzel paketlemisti görseldekinden daha kaliteli ve güzel bir ürün",
+        "umdugumdan kaliteli geldi tam numara oldu kendi numaranizi alabilirsiniz",
+        "tam numara alabilirsiniz kaliteli aynı zamanda"
       ],
       "all_reviews": [
         {
-          "text": "çok güzel annem için aldım çok beğendi çok rahat",
+          "text": "tam numara alabilirsiniz kaliteli aynı zamanda",
           "score": 5.0
         },
         {
-          "text": "kızım için aldım çok rahat ve kullanışlı diyor",
+          "text": "ayakkabı çok rahct çok kaliteli alın aldırın sorunsuz elime ulaşti kuryeler gerçekten ilgiliydi evde yoktum ve rica ettiğim kişiye bıraktılar çok teşekkür ederim memnun kaldım satıcı da ürünü gerçekten güzel paketlemisti görseldekinden daha kaliteli ve güzel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "umdugumdan kaliteli geldi tam numara oldu kendi numaranizi alabilirsiniz",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fakat / Alınabilir Kalıp",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fakat",
+        "bakarak",
+        "ayağımı",
+        "taraklı",
+        "kibar",
+        "diye",
+        "yumuşak",
+        "uzun"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "indirimde aldım çok rahat ve çok şık ayakkabı 40 olan ayağımı 38 gibi gösterdi benim gibi taraklı ayaklar için mükemmel",
+        "urun ayağıma tam oldu çok rahat tam ayak numarasınızi alabilirsiniz gayet güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "indirimde aldım çok rahat ve çok şık ayakkabı 40 olan ayağımı 38 gibi gösterdi benim gibi taraklı ayaklar için mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "urun ayağıma tam oldu çok rahat tam ayak numarasınızi alabilirsiniz gayet güzel",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruyo",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alınmalı",
+        "duruyo",
+        "asla",
+        "alin",
+        "yumuşak",
+        "istediğim",
+        "kalıp kalıp",
+        "bayıldım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "hastanede giymek için aldım gayet güzel rahat tam no alin"
+      ],
+      "all_reviews": [
+        {
+          "text": "hastanede giymek için aldım gayet güzel rahat tam no alin",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 4.75,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Gussi Erkek Siyah Taşlamalı Slim Fit Likralı Esnek Jean** için 40 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: Bedeni de çok iyi pantolon da beğendim sayfadaki kilo beden bilgileri lne göre aldım teşekkürler.\n• **Doku & Likral**: Istediğim ürün gelmedi tırnaklı kot göndermişler 1puan.\n• **Kalite & Alınabilir**: Bir beden büyük alınabilir göründüğü gibi geldi.\n• **Kalıp**: Istediğim ürün gelmedi tırnaklı kot göndermişler 1puan.\n• **Teslimat & Çorap**: Herkese tavsiye ederim hem uygun beden ve hizli teslimat.",
+  "summary": "Gussi Erkek Siyah Taşlamalı Slim Fit Likralı Esnek Jean, yüksek memnuniyet oranına ulaşmıştır. Ürün, fiyat performansını oldukça iyi karşılamakta ve kullanıcılar, kaliteli malzemeye sahip olmanın birlikte, düşük fiyata alınabilmesi nedeniyle memnun kalmaktadır. Ayrıca, dokuların ve likralın iyi olması, ürünün esneklik özelliği ve kalite-fiyat dengesi de onay almaktadır. Kumaşın da olumlu yorumları alırken, genel olarak ürün, profesyonellik ve akıcılıkta yüksek puan almayı başarıyor.",
   "score_distribution": {
     "1": 2,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 14,
-      "avg_score": 5.0,
+      "review_count": 16,
+      "avg_score": 4.88,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,13 +33,13 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 87.5,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 12.5,
       "sample_reviews": [
+        "kumaş kalın iyi boyum 1.69 kilom 62 29 29 uydu ama sonra biraz bollaşma gerçekleşti düğmeleri zatıf ilk günden biri koptu fiyatına göre çok iyi",
         "bedeni de çok iyi pantolon da beğendim sayfadaki kilo beden bilgileri lne göre aldım teşekkürler",
-        "o kadar güzel ve kaliteli geldi ki eşim 175 boy 90 kilo 34 beden tam oldu",
-        "ürün yatet kaliteli ve ucuz çok beğendim"
+        "o kadar güzel ve kaliteli geldi ki eşim 175 boy 90 kilo 34 beden tam oldu"
       ],
       "all_reviews": [
         {
@@ -69,13 +69,17 @@
         {
           "text": "ürün yatet kaliteli ve ucuz çok beğendim",
           "score": 5.0
+        },
+        {
+          "text": "kumaş kalın iyi boyum 1.69 kilom 62 29 29 uydu ama sonra biraz bollaşma gerçekleşti düğmeleri zatıf ilk günden biri koptu fiyatına göre çok iyi",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Doku & Likral",
-      "review_count": 8,
+      "review_count": 10,
       "avg_score": 4.0,
       "sentiment": "neutral",
       "sentiment_label": "Genel Olumlu",
@@ -89,13 +93,13 @@
         "kilo",
         "firmaya"
       ],
-      "positive_pct": 75.0,
-      "negative_pct": 25.0,
-      "neutral_pct": 0.0,
+      "positive_pct": 60.0,
+      "negative_pct": 20.0,
+      "neutral_pct": 20.0,
       "sample_reviews": [
+        "kumaş kalın iyi boyum 1.69 kilom 62 29 29 uydu ama sonra biraz bollaşma gerçekleşti düğmeleri zatıf ilk günden biri koptu fiyatına göre çok iyi",
         "istediğim ürün gelmedi tırnaklı kot göndermişler 1puan",
-        "pantolon tam istediğim gibi tam beden",
-        "ürün güzel esnek kumaşı var rahat"
+        "pantolon tam istediğim gibi tam beden"
       ],
       "all_reviews": [
         {
@@ -111,6 +115,10 @@
           "score": 5.0
         },
         {
+          "text": "kumaş kalın iyi boyum 1.69 kilom 62 29 29 uydu ama sonra biraz bollaşma gerçekleşti düğmeleri zatıf ilk günden biri koptu fiyatına göre çok iyi",
+          "score": 4.0
+        },
+        {
           "text": "istediğim ürün gelmedi tırnaklı kot göndermişler 1puan",
           "score": 1.0
         }
@@ -119,7 +127,7 @@
     },
     {
       "name": "Kalite & Alınabilir",
-      "review_count": 8,
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -147,6 +155,10 @@
           "score": 5.0
         },
         {
+          "text": "o kadar güzel ve kaliteli geldi ki eşim 175 boy 90 kilo 34 beden tam oldu",
+          "score": 5.0
+        },
+        {
           "text": "tam kalıp çok güzel",
           "score": 5.0
         },
@@ -157,6 +169,90 @@
         {
           "text": "ürün yatet kaliteli ve ucuz çok beğendim",
           "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 8,
+      "avg_score": 4.75,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "sample_reviews": [
+        "kumaş kalın iyi boyum 1.69 kilom 62 29 29 uydu ama sonra biraz bollaşma gerçekleşti düğmeleri zatıf ilk günden biri koptu fiyatına göre çok iyi",
+        "o kadar güzel ve kaliteli geldi ki eşim 175 boy 90 kilo 34 beden tam oldu",
+        "herkese tavsiye ederim hem uygun beden ve hizli teslimat"
+      ],
+      "all_reviews": [
+        {
+          "text": "herkese tavsiye ederim hem uygun beden ve hizli teslimat",
+          "score": 5.0
+        },
+        {
+          "text": "o kadar güzel ve kaliteli geldi ki eşim 175 boy 90 kilo 34 beden tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "ürün yatet kaliteli ve ucuz çok beğendim",
+          "score": 5.0
+        },
+        {
+          "text": "kumaş kalın iyi boyum 1.69 kilom 62 29 29 uydu ama sonra biraz bollaşma gerçekleşti düğmeleri zatıf ilk günden biri koptu fiyatına göre çok iyi",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş",
+      "review_count": 6,
+      "avg_score": 4.67,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "rengi",
+        "rengini",
+        "kesim",
+        "kalıbı",
+        "boyu",
+        "kalitesi",
+        "aynı"
+      ],
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "sample_reviews": [
+        "kumaş kalın iyi boyum 1.69 kilom 62 29 29 uydu ama sonra biraz bollaşma gerçekleşti düğmeleri zatıf ilk günden biri koptu fiyatına göre çok iyi",
+        "ürün güzel esnek kumaşı var rahat",
+        "kumaşı falan çok güzel"
+      ],
+      "all_reviews": [
+        {
+          "text": "kumaşı falan çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "ürün güzel esnek kumaşı var rahat",
+          "score": 5.0
+        },
+        {
+          "text": "kumaş kalın iyi boyum 1.69 kilom 62 29 29 uydu ama sonra biraz bollaşma gerçekleşti düğmeleri zatıf ilk günden biri koptu fiyatına göre çok iyi",
+          "score": 4.0
         }
       ],
       "icon": "💬"
@@ -242,66 +338,31 @@
       "icon": "💬"
     },
     {
-      "name": "Kumaş",
+      "name": "Kalite & Kalıb",
       "review_count": 4,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kumaşı",
-        "rengi",
-        "rengini",
-        "kesim",
-        "kalıbı",
-        "boyu",
-        "kalitesi",
-        "aynı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün güzel esnek kumaşı var rahat",
-        "kumaşı falan çok güzel"
-      ],
-      "all_reviews": [
-        {
-          "text": "kumaşı falan çok güzel",
-          "score": 5.0
-        },
-        {
-          "text": "ürün güzel esnek kumaşı var rahat",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Fiyat",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "düşünüyorum",
+        "baya",
         "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
+        "kalıbı",
+        "fakat",
+        "kalitesi",
+        "kesim",
+        "dilerim",
+        "kalıp"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "herkese tavsiye ederim hem uygun beden ve hizli teslimat",
+        "o kadar güzel ve kaliteli geldi ki eşim 175 boy 90 kilo 34 beden tam oldu",
         "ürün yatet kaliteli ve ucuz çok beğendim"
       ],
       "all_reviews": [
         {
-          "text": "herkese tavsiye ederim hem uygun beden ve hizli teslimat",
+          "text": "o kadar güzel ve kaliteli geldi ki eşim 175 boy 90 kilo 34 beden tam oldu",
           "score": 5.0
         },
         {

@@ -8,7 +8,7 @@
   "overall_score": 4.9,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Mürdüm Home Piteya 100% Pamuklu Çarşaflı Çift Kişilik N** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyata Kalite** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **indirimde** ve **çeyiz** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markala…\"\n• **Çekme Solma**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **takımı** ve **sorunsuz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Hediye almıştım çok beğendim beklediğimden iyi geldi kargo sorunsuz ve sapasağlam gel…\"\n• Kullanıcılar **Kişilik** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **rahat** ve **almayı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Tek kelimeyse harika alın aldırın çeyizim için aldım çok kaliteli\"\n• **Kumaşı Kaliteli** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kumaş** ve **rengi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ür…\"\n• Müşteri yorumlarında **Rengi & Renkleri Canlı** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **renkler** ve **dokusu** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum g…\"",
+  "summary": "Mürdüm Home Piteya 100% Pamuklu Çarşaflı Çift Kişilik N, yüksek memnuniyet oranına sahip bir ürün olarak öne çıkıyor. Ürün, kalitesi, çekme solması, dokulu ve kaliteli paketlenmesi, renk canlılığı gibi özellikler açısından olumlu yorumlar alıyor. Müşterilerin neredeyse tümünü tatmin eden bu ürün, 4.9/5.0 genel memnuniyet puanına sahiptir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,28 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Fiyata Kalite",
-      "review_count": 15,
+      "name": "Kalite",
+      "review_count": 21,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyata",
         "kalite",
         "tane",
         "paketleme",
         "indirimde",
-        "fiyata kalite",
         "çeyiz",
-        "beklemiyordum"
+        "beklemiyordum",
+        "paketlemesi",
+        "ceyizime"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun",
         "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
-        "gerçekten çok şık bu kadar beklemiyordum kalite çok iyi satıcıya ayrıca teşekkür ederim paketlenmesi çok şıktı",
-        "ceyizime aldim hizli kargo özenli paketleme teşekkür ederim"
+        "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim"
       ],
       "all_reviews": [
         {
@@ -47,23 +47,31 @@
           "score": 5.0
         },
         {
-          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+          "text": "ürünün kalitesi çok güzel çeyizime ve anneme aldım mükemmeller",
           "score": 5.0
         },
         {
-          "text": "ürünün geldi gayet güzel ve aynısı çok teşekkür ederim hediyeleriniz için de",
+          "text": "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "çok çok güzel bi ürün istediğim gibi geldi hediyeniz için de çok teşekkür ederim kargoda üzenle paketlenmiş emeğinize sağlık",
-          "score": 5.0
-        },
-        {
-          "text": "çok özenli çok temiz paketlenmişti çok teşekkür ederim anahtarlık içinde",
+          "text": "tek kelimeyse harika alın aldırın çeyizim için aldım çok kaliteli",
           "score": 5.0
         },
         {
           "text": "ceyizime aldim hizli kargo özenli paketleme teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi kumaşı çok güzel çeyizlik aldım",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
           "score": 5.0
         }
       ],
@@ -71,8 +79,8 @@
     },
     {
       "name": "Çekme Solma",
-      "review_count": 12,
-      "avg_score": 4.75,
+      "review_count": 18,
+      "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -85,60 +93,13 @@
         "yapmadı",
         "asla"
       ],
-      "positive_pct": 75.0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
-      "neutral_pct": 25.0,
+      "neutral_pct": 0.0,
       "sample_reviews": [
         "hediye almıştım çok beğendim beklediğimden iyi geldi kargo sorunsuz ve sapasağlam geldi",
-        "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun",
-        "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "hediye almıştım çok beğendim beklediğimden iyi geldi kargo sorunsuz ve sapasağlam geldi",
-          "score": 5.0
-        },
-        {
-          "text": "hediye almıştım çok begnildi",
-          "score": 5.0
-        },
-        {
-          "text": "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun",
-          "score": 5.0
-        },
-        {
-          "text": "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "hediye aldım çok beğenmiş kayim valdem",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kişilik",
-      "review_count": 5,
-      "avg_score": 4.6,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "çeyizime",
-        "rahat",
-        "çift kişilik",
-        "kişilik",
-        "almayı",
-        "almayı düşünüyorum",
-        "çift",
-        "düşünüyorum"
-      ],
-      "positive_pct": 60.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 40.0,
-      "sample_reviews": [
-        "tek kelimeyse harika alın aldırın çeyizim için aldım çok kaliteli",
-        "anneme aldım çok beğendi tereddüt etmeden alabilirsiniz"
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun"
       ],
       "all_reviews": [
         {
@@ -146,50 +107,137 @@
           "score": 5.0
         },
         {
-          "text": "anneme aldım çok beğendi tereddüt etmeden alabilirsiniz",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kumaşı Kaliteli",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kumaşı",
-        "kumaş",
-        "rengi",
-        "pamuklu",
-        "lastikli",
-        "takım",
-        "dokusu",
-        "ayrı"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
-        "kalitesi kumaşı çok güzel çeyizlik aldım"
-      ],
-      "all_reviews": [
+          "text": "hediye almıştım çok beğendim beklediğimden iyi geldi kargo sorunsuz ve sapasağlam geldi",
+          "score": 5.0
+        },
         {
-          "text": "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
+          "text": "ürünün kalitesi çok güzel çeyizime ve anneme aldım mükemmeller",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim hemen yıkadım renkler solmadı dağalmadı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun",
           "score": 5.0
         },
         {
           "text": "kalitesi kumaşı çok güzel çeyizlik aldım",
           "score": 5.0
+        },
+        {
+          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+          "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Rengi & Renkleri Canlı",
-      "review_count": 4,
+      "name": "Doku & Kalite",
+      "review_count": 18,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
+        "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten çok şık bu kadar beklemiyordum kalite çok iyi satıcıya ayrıca teşekkür ederim paketlenmesi çok şıktı",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyse harika alın aldırın çeyizim için aldım çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesi çok güzel çeyizime ve anneme aldım mükemmeller",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi kumaşı çok güzel çeyizlik aldım",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Paketlenme & Kalite",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "almışım",
+        "paketlenmesi",
+        "kalitesi",
+        "çeyizime",
+        "beğenerek",
+        "göründüğü",
+        "çeyizim"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "ürünün kalitesi çok güzel çeyizime ve anneme aldım mükemmeller",
+        "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun"
+      ],
+      "all_reviews": [
+        {
+          "text": "gerçekten çok şık bu kadar beklemiyordum kalite çok iyi satıcıya ayrıca teşekkür ederim paketlenmesi çok şıktı",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyse harika alın aldırın çeyizim için aldım çok kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kalitesi çok güzel çeyizime ve anneme aldım mükemmeller",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi kumaşı çok güzel çeyizlik aldım",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme ve kalitesi gerçekten güzel tereddüd ederek almıştım fakat tavsiye ederim çeyizçi kızlara tavsiye ederim hızlı bir şekilde elime ulaştı ve küçük tatlı hediyeniz içinde ayrıca teşekkürler ince düşüncelerin müptelasıyız bol kazançlarınız olsun",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Renk Canlı",
+      "review_count": 12,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -207,10 +255,23 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok beğendim hemen yıkadım renkler solmadı dağalmadı tavsiye ederim",
-        "ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum gerçekten teşekkür ediyorum"
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
+        "çok beğendim hemen yıkadım renkler solmadı dağalmadı tavsiye ederim"
       ],
       "all_reviews": [
+        {
+          "text": "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
         {
           "text": "ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum gerçekten teşekkür ediyorum",
           "score": 5.0
@@ -223,45 +284,14 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat & Lastikli Çarşafı",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat",
-        "fiyata",
-        "renkler",
-        "aldık",
-        "takımı",
-        "sağlam",
-        "fermuarlı",
-        "takım"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "düzgün yorum yapanlara teşekkür etmek lazim sonuçta bir urun alirken referans oluyor bu fiyata çarşaflı ve lastiksiz olusu benim favorim oldu çok beğendim ve annemede aldim satıcı ve kargo çok hızlı ayrica cok ozenli paketlenmiş alacaklara tavsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "düzgün yorum yapanlara teşekkür etmek lazim sonuçta bir urun alirken referans oluyor bu fiyata çarşaflı ve lastiksiz olusu benim favorim oldu çok beğendim ve annemede aldim satıcı ve kargo çok hızlı ayrica cok ozenli paketlenmiş alacaklara tavsiye ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Canlı Kumaşı",
-      "review_count": 3,
+      "name": "Canlı Kumaş",
+      "review_count": 10,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "canlı kumaşı",
         "takım",
-        "sağlam",
         "canlı",
         "kumaşı"
       ],
@@ -269,41 +299,189 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "anneme aldım çok beğendi güzel teşekkür ederim"
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
+        "ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum gerçekten teşekkür ediyorum"
       ],
       "all_reviews": [
         {
-          "text": "anneme aldım çok beğendi güzel teşekkür ederim",
+          "text": "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi kumaşı çok güzel çeyizlik aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum gerçekten teşekkür ediyorum",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Bende & Paketlenmesi",
-      "review_count": 3,
+      "name": "Kumaş / Rengi Canlı",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "aldık",
-        "bende",
-        "almışım",
-        "paketlenmesi",
-        "kalitesi",
-        "kullanıyor",
-        "çeyizime",
-        "beğenerek"
+        "kumaşı",
+        "kumaş",
+        "pamuklu",
+        "rengi",
+        "lastikli",
+        "takım",
+        "dokusu",
+        "ayrı"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürünün kalitesi çok güzel çeyizime ve anneme aldım mükemmeller"
+        "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
+        "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
+        "ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum gerçekten teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi kumaşı çok güzel çeyizlik aldım",
+          "score": 5.0
+        },
+        {
+          "text": "tek kelimeyle baaayyiillldimmmm rengi tam gorseldeki gibi dokusuda cookkkkkkkk iyi anneme hediye aldimmm ama benimde içim gitti en kısa sürede kendime de alicammm çünkü cidden harikaaaa teşekkür ederim ayrıca ekstra bi pakete daha konmuş çok ince bir düşünce ve hediyeniz için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum gerçekten teşekkür ediyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik & Alma",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "çeyizime",
+        "çift kişilik",
+        "kişilik",
+        "almayı",
+        "almayı düşünüyorum",
+        "düşünüyorum",
+        "çift",
+        "kalitesi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "ürünün kalitesi çok güzel çeyizime ve anneme aldım mükemmeller",
+        "çok beğendim hemen yıkadım renkler solmadı dağalmadı tavsiye ederim"
       ],
       "all_reviews": [
         {
           "text": "ürünün kalitesi çok güzel çeyizime ve anneme aldım mükemmeller",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim hemen yıkadım renkler solmadı dağalmadı tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat / Lastikl Çarşaf",
+      "review_count": 8,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat",
+        "renkler",
+        "aldık",
+        "takımı",
+        "fermuarlı",
+        "takım",
+        "buldum",
+        "lastikli"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+        "düzgün yorum yapanlara teşekkür etmek lazim sonuçta bir urun alirken referans oluyor bu fiyata çarşaflı ve lastiksiz olusu benim favorim oldu çok beğendim ve annemede aldim satıcı ve kargo çok hızlı ayrica cok ozenli paketlenmiş alacaklara tavsiye ederim",
+        "çok beğendim hemen yıkadım renkler solmadı dağalmadı tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "düzgün yorum yapanlara teşekkür etmek lazim sonuçta bir urun alirken referans oluyor bu fiyata çarşaflı ve lastiksiz olusu benim favorim oldu çok beğendim ve annemede aldim satıcı ve kargo çok hızlı ayrica cok ozenli paketlenmiş alacaklara tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "öncelikle hızlı ve özenli kargo için teşekkürler ürünün kalitesini çok pahalı markalara nazaran gayet tatmin edici buldum yumuşak bir dokusu var ve renkleri oldukça canlı beğenmeyecek olanlar yalnızca bir miktar ince oluşunu beğenmeyebilir onun dışında kusursuz ben çeyizime misafirlik için aldım memnun da kaldım tavsiye ederim alacak olanlara",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim hemen yıkadım renkler solmadı dağalmadı tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Çarşaf Lastikl",
+      "review_count": 7,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "kullanacağım",
+        "odası",
+        "modeli",
+        "yatağıma",
+        "deseni",
+        "bayıldım kumaşı",
+        "odasına"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
+        "ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum gerçekten teşekkür ediyorum",
+        "kalitesi kumaşı çok güzel çeyizlik aldım"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok güzel rengide çok tatlı kumaşı paketlemesi kargo hızı herşeyi ile başarılı bir ürün bana ulaşana kadar emeği geçen herkese teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kalitesi kumaşı çok güzel çeyizlik aldım",
+          "score": 5.0
+        },
+        {
+          "text": "ben rengine kumaşına bayıldım çok da severek sipariş verdim ve yeşili çok seviyorum gerçekten teşekkür ediyorum",
           "score": 5.0
         }
       ],

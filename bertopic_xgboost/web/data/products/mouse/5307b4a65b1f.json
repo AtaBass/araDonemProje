@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**Havit Gamenote MS966SE Kablosuz Gaming Mouse** için 48 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kullanımı Rahat** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kalite** ve **hoşuma** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Paketleme iyi di kargoda hızlı geldi ürün güzel sorunsuz çalışıyır\"\n• **Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sessiz** ve **kablosuz** başta olmak üzere. Örnek kullanıcı ifadesi: \"Ürün gelir gelmez hemen takıp denedik gerçekten güzel ve kaliteli bir ürün kablo ve k…\"\n• Kullanıcılar **Fiyatı Uygun** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **fiyata** ve **performans** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gerçekten göründüğü gibi geldi gayet güzel fps oyunlarinda gayet iyi\"\n• **Kablolu & Özellikle** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kullanım** ve **sıkıntı** başta olmak üzere. Örnek kullanıcı ifadesi: \"Güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve he…\"\n• Müşteri yorumlarında **Sessiz Rahat** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kaliteli** ve **teslimat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Arkadaşımiçin satın aldım ve beğendiler\"",
+  "summary": "Havit Gamenote MS966SE Kablosuz Gaming Mouse, kullanıcılar tarafından yüksek memnuniyet oranına ulaşmıştır. Ürün, kullanım ve kalite konusunda 4.83/5.0 puan alırken, kablol ve özellikle kullanılan kısmında tam not almaktadır. Sorunsuz işlemleme, fiyat performansı ve Kuzey yönünde de tamamı ile onaylanmış olması, ürünün genel kabul gören bir gaming mouse olarak konumunu desteklemektedir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,36 +18,44 @@
   },
   "aspects": [
     {
-      "name": "Kullanımı Rahat",
-      "review_count": 11,
-      "avg_score": 4.73,
+      "name": "Kullanım & Kalite",
+      "review_count": 18,
+      "avg_score": 4.83,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "kullanımı",
         "kalite",
         "paketleme",
-        "kaliteli",
-        "kullanımı rahat",
         "baya",
         "kalitesi",
-        "hoşuma"
+        "hoşuma",
+        "tasarımı",
+        "ayarı"
       ],
-      "positive_pct": 72.7,
+      "positive_pct": 83.3,
       "negative_pct": 0.0,
-      "neutral_pct": 27.3,
+      "neutral_pct": 16.7,
       "sample_reviews": [
-        "paketleme iyi di kargoda hızlı geldi ürün güzel sorunsuz çalışıyır",
-        "kalite çook iyi inanılmaz hafif eldr yok gibi",
-        "ürün bayağı iyi tavsiye ederim"
+        "ürün gelir gelmez hemen takıp denedik gerçekten güzel ve kaliteli bir ürün kablo ve kablosuz kullanımı çok başarılı dahili pili sayesinde şarj edilebiliyor yazılımını yükleyince tüm ayarlarına müdahele edilebiliyor",
+        "cidden kaliteli bir hissiyatı var oyunlarda işinizr yarar geldiğinde 500hz uygulamasını havitsmarttan indirip 1000 e çekip bir çok renk ayarı falan yapabilirsinz 3 4 gunde teslim aldık hızlıydı",
+        "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz"
       ],
       "all_reviews": [
         {
-          "text": "kalite çook iyi inanılmaz hafif eldr yok gibi",
+          "text": "cidden kaliteli bir hissiyatı var oyunlarda işinizr yarar geldiğinde 500hz uygulamasını havitsmarttan indirip 1000 e çekip bir çok renk ayarı falan yapabilirsinz 3 4 gunde teslim aldık hızlıydı",
           "score": 5.0
         },
         {
-          "text": "çok güzel bi mause uygulamasınıdan farklı görevler atıyabiliyorsunuz rengini değiştirebiliyorsunuz",
+          "text": "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gelir gelmez hemen takıp denedik gerçekten güzel ve kaliteli bir ürün kablo ve kablosuz kullanımı çok başarılı dahili pili sayesinde şarj edilebiliyor yazılımını yükleyince tüm ayarlarına müdahele edilebiliyor",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim paketlemesi çok güzeldi",
           "score": 5.0
         },
         {
@@ -55,7 +63,99 @@
           "score": 5.0
         },
         {
-          "text": "çok ergonamik mukemel",
+          "text": "kalite çook iyi inanılmaz hafif eldr yok gibi",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme iyi di kargoda hızlı geldi ürün güzel sorunsuz çalışıyır",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kablol & Özellikle",
+      "review_count": 15,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "bunu",
+        "kablolu",
+        "özellikle",
+        "oyun",
+        "kullanım",
+        "rahatlıkla",
+        "sıkıntı",
+        "oyunlarda"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
+        "cidden kaliteli bir hissiyatı var oyunlarda işinizr yarar geldiğinde 500hz uygulamasını havitsmarttan indirip 1000 e çekip bir çok renk ayarı falan yapabilirsinz 3 4 gunde teslim aldık hızlıydı",
+        "kimsenin sözüne bakmayin dpı merak edenler olmus uygulamasında 10k ya kadar çıkıyor kablolu kablosuz bilmiyorum usb ile kullanıyorum ve çoğu piyasadaki mouselerden güzel hissiyatıda iyi ben fps oynamasının icin kolayca yetiyor havitin herseyini seviyorum iyi günlerde kullanın alacak kisiler"
+      ],
+      "all_reviews": [
+        {
+          "text": "cidden kaliteli bir hissiyatı var oyunlarda işinizr yarar geldiğinde 500hz uygulamasını havitsmarttan indirip 1000 e çekip bir çok renk ayarı falan yapabilirsinz 3 4 gunde teslim aldık hızlıydı",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten göründüğü gibi geldi gayet güzel fps oyunlarinda gayet iyi",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gelir gelmez hemen takıp denedik gerçekten güzel ve kaliteli bir ürün kablo ve kablosuz kullanımı çok başarılı dahili pili sayesinde şarj edilebiliyor yazılımını yükleyince tüm ayarlarına müdahele edilebiliyor",
+          "score": 5.0
+        },
+        {
+          "text": "kimsenin sözüne bakmayin dpı merak edenler olmus uygulamasında 10k ya kadar çıkıyor kablolu kablosuz bilmiyorum usb ile kullanıyorum ve çoğu piyasadaki mouselerden güzel hissiyatıda iyi ben fps oynamasının icin kolayca yetiyor havitin herseyini seviyorum iyi günlerde kullanın alacak kisiler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz",
+      "review_count": 10,
+      "avg_score": 4.7,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "sorunsuz",
+        "paketleme",
+        "bunu",
+        "rengi",
+        "baya",
+        "sıkıntı",
+        "kalite"
+      ],
+      "positive_pct": 70.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 30.0,
+      "sample_reviews": [
+        "cidden kaliteli bir hissiyatı var oyunlarda işinizr yarar geldiğinde 500hz uygulamasını havitsmarttan indirip 1000 e çekip bir çok renk ayarı falan yapabilirsinz 3 4 gunde teslim aldık hızlıydı",
+        "paketleme iyi di kargoda hızlı geldi ürün güzel sorunsuz çalışıyır",
+        "çok güzel bi mause uygulamasınıdan farklı görevler atıyabiliyorsunuz rengini değiştirebiliyorsunuz"
+      ],
+      "all_reviews": [
+        {
+          "text": "cidden kaliteli bir hissiyatı var oyunlarda işinizr yarar geldiğinde 500hz uygulamasını havitsmarttan indirip 1000 e çekip bir çok renk ayarı falan yapabilirsinz 3 4 gunde teslim aldık hızlıydı",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel bi mause uygulamasınıdan farklı görevler atıyabiliyorsunuz rengini değiştirebiliyorsunuz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim paketlemesi çok güzeldi",
           "score": 5.0
         },
         {
@@ -72,30 +172,30 @@
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "şarj",
-        "sessiz",
-        "çalışıyor",
-        "performans",
+        "uygun",
+        "fiyat",
         "fiyat performans",
-        "sessiz çalışıyor",
-        "kablosuz",
-        "fiyat"
+        "performans",
+        "efsane",
+        "aldık",
+        "kullanabilirsiniz",
+        "yazılım"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün gelir gelmez hemen takıp denedik gerçekten güzel ve kaliteli bir ürün kablo ve kablosuz kullanımı çok başarılı dahili pili sayesinde şarj edilebiliyor yazılımını yükleyince tüm ayarlarına müdahele edilebiliyor",
-        "bu fiyata alınabilicek en iyi mause",
-        "cidden kaliteli bir hissiyatı var oyunlarda işinizr yarar geldiğinde 500hz uygulamasını havitsmarttan indirip 1000 e çekip bir çok renk ayarı falan yapabilirsinz 3 4 gunde teslim aldık hızlıydı"
+        "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
+        "ürün çok iyi alına bilecek en iyi kablosuz mouse fiyat olarak",
+        "bu fiyata alınabilicek en iyi mause"
       ],
       "all_reviews": [
         {
-          "text": "cidden kaliteli bir hissiyatı var oyunlarda işinizr yarar geldiğinde 500hz uygulamasını havitsmarttan indirip 1000 e çekip bir çok renk ayarı falan yapabilirsinz 3 4 gunde teslim aldık hızlıydı",
+          "text": "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
           "score": 5.0
         },
         {
-          "text": "ürün gelir gelmez hemen takıp denedik gerçekten güzel ve kaliteli bir ürün kablo ve kablosuz kullanımı çok başarılı dahili pili sayesinde şarj edilebiliyor yazılımını yükleyince tüm ayarlarına müdahele edilebiliyor",
+          "text": "ürün çok iyi alına bilecek en iyi kablosuz mouse fiyat olarak",
           "score": 5.0
         },
         {
@@ -106,118 +206,8 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 8,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "paketleme",
-        "fiyata",
-        "tane",
-        "fiyatı",
-        "uygun",
-        "performans",
-        "paketlemesi",
-        "kaliteli"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok beğendim paketlemesi çok güzeldi",
-        "gerçekten göründüğü gibi geldi gayet güzel fps oyunlarinda gayet iyi",
-        "uygulama üzerinden tüm ayarları yapılıyor çok beğendim"
-      ],
-      "all_reviews": [
-        {
-          "text": "gerçekten göründüğü gibi geldi gayet güzel fps oyunlarinda gayet iyi",
-          "score": 5.0
-        },
-        {
-          "text": "uygulama üzerinden tüm ayarları yapılıyor çok beğendim",
-          "score": 5.0
-        },
-        {
-          "text": "çok beğendim paketlemesi çok güzeldi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kablolu & Özellikle",
+      "name": "North",
       "review_count": 6,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "bunu",
-        "kablolu",
-        "özellikle",
-        "oyun",
-        "kullanım",
-        "sıkıntı",
-        "oyunlarda",
-        "rahatlıkla"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
-        "kimsenin sözüne bakmayin dpı merak edenler olmus uygulamasında 10k ya kadar çıkıyor kablolu kablosuz bilmiyorum usb ile kullanıyorum ve çoğu piyasadaki mouselerden güzel hissiyatıda iyi ben fps oynamasının icin kolayca yetiyor havitin herseyini seviyorum iyi günlerde kullanın alacak kisiler"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "kimsenin sözüne bakmayin dpı merak edenler olmus uygulamasında 10k ya kadar çıkıyor kablolu kablosuz bilmiyorum usb ile kullanıyorum ve çoğu piyasadaki mouselerden güzel hissiyatıda iyi ben fps oynamasının icin kolayca yetiyor havitin herseyini seviyorum iyi günlerde kullanın alacak kisiler",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sessiz Rahat",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kaliteli",
-        "teslimat",
-        "paketleme",
-        "sorunsuz",
-        "kullanımı",
-        "çalışıyor",
-        "sessiz rahat",
-        "fiyat"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "arkadaşımiçin satın aldım ve beğendiler",
-        "hızlı kargo sağlam ürün"
-      ],
-      "all_reviews": [
-        {
-          "text": "arkadaşımiçin satın aldım ve beğendiler",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı kargo sağlam ürün",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "North & Sağlam",
-      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -226,85 +216,120 @@
         "oldum",
         "şarj",
         "biri",
-        "sağlam",
         "oturuyor",
+        "istedim",
         "farklı",
-        "istedim"
+        "makro"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "ürün çok iyi alına bilecek en iyi kablosuz mouse fiyat olarak",
-        "kardeşime aldım çok memnun çok hafif bir mouse"
+        "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
+        "ürün gelir gelmez hemen takıp denedik gerçekten güzel ve kaliteli bir ürün kablo ve kablosuz kullanımı çok başarılı dahili pili sayesinde şarj edilebiliyor yazılımını yükleyince tüm ayarlarına müdahele edilebiliyor"
       ],
       "all_reviews": [
         {
-          "text": "ürün çok iyi alına bilecek en iyi kablosuz mouse fiyat olarak",
+          "text": "güzel bilgisayara çok oturan biri değilim bir bucuk haftadır şarja hiç takmadım ve her gün otururum en az iki saat olmak üzere ve hala bitmedi şarjı ve oyun performansı kullanımı hiç sıkıntısız modları da çok kullanışlı herkes almayı düşünebilir tereddütsüz olabilirsiniz",
           "score": 5.0
         },
         {
-          "text": "kardeşime aldım çok memnun çok hafif bir mouse",
+          "text": "ürün gelir gelmez hemen takıp denedik gerçekten güzel ve kaliteli bir ürün kablo ve kablosuz kullanımı çok başarılı dahili pili sayesinde şarj edilebiliyor yazılımını yükleyince tüm ayarlarına müdahele edilebiliyor",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Paketlemesi & Sessiz",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "name": "Paketleme & Saglam",
+      "review_count": 5,
+      "avg_score": 4.4,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "paketlemesi",
         "denedim",
         "saglam",
-        "gidiyor",
         "kelimeyle",
         "tatli",
         "icin",
-        "çokta"
+        "çokta",
+        "paketlenmesi"
       ],
-      "positive_pct": 100.0,
+      "positive_pct": 40.0,
       "negative_pct": 0.0,
-      "neutral_pct": 0.0,
+      "neutral_pct": 60.0,
       "sample_reviews": [
-        "beğendim gayet iyi kullanışlı sarjıda en az 2-3 gün gidiyor ve cok kisa surede sarj oluyor oneririm"
+        "çok beğendim paketlemesi çok güzeldi",
+        "paketleme iyi di kargoda hızlı geldi ürün güzel sorunsuz çalışıyır"
       ],
       "all_reviews": [
         {
-          "text": "beğendim gayet iyi kullanışlı sarjıda en az 2-3 gün gidiyor ve cok kisa surede sarj oluyor oneririm",
+          "text": "çok beğendim paketlemesi çok güzeldi",
           "score": 5.0
+        },
+        {
+          "text": "paketleme iyi di kargoda hızlı geldi ürün güzel sorunsuz çalışıyır",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Saglam & Sorun",
+      "review_count": 3,
+      "avg_score": 4.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "yormuyor",
+        "çıkarmıyor",
+        "saglam",
+        "sorun",
+        "bayıldım",
+        "efsane",
+        "diye",
+        "beklemiyordum"
+      ],
+      "positive_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "sample_reviews": [
+        "paketleme iyi di kargoda hızlı geldi ürün güzel sorunsuz çalışıyır"
+      ],
+      "all_reviews": [
+        {
+          "text": "paketleme iyi di kargoda hızlı geldi ürün güzel sorunsuz çalışıyır",
+          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Donma & Rahatlıkla",
-      "review_count": 2,
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "alacak",
-        "kullanıyor",
-        "ediyor",
         "donma",
         "rahatlıkla",
         "şimdilik",
         "kelimeyle",
-        "tuşları"
+        "tuşları",
+        "çıkarmıyor",
+        "sorunsuz"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "gayet güzeldi monitörüm olunca deneyeceğim"
+        "kimsenin sözüne bakmayin dpı merak edenler olmus uygulamasında 10k ya kadar çıkıyor kablolu kablosuz bilmiyorum usb ile kullanıyorum ve çoğu piyasadaki mouselerden güzel hissiyatıda iyi ben fps oynamasının icin kolayca yetiyor havitin herseyini seviyorum iyi günlerde kullanın alacak kisiler"
       ],
       "all_reviews": [
         {
-          "text": "gayet güzeldi monitörüm olunca deneyeceğim",
+          "text": "kimsenin sözüne bakmayin dpı merak edenler olmus uygulamasında 10k ya kadar çıkıyor kablolu kablosuz bilmiyorum usb ile kullanıyorum ve çoğu piyasadaki mouselerden güzel hissiyatıda iyi ben fps oynamasının icin kolayca yetiyor havitin herseyini seviyorum iyi günlerde kullanın alacak kisiler",
           "score": 5.0
         }
       ],

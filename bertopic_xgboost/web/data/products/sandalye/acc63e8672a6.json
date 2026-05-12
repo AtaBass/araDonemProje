@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Seduna Thunder Pro | Beyaz Yönetici | Ofis Çalışma Kolt** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kurulumu Kolay** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **rahat** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"2 günde geldi sağlam kutu içinde paketleme özenilerek yapılmış tavsiye üzerine bu mar…\"\n• **Rahat Koltuk**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **sağlam** ve **çalışma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu…\"\n• Kullanıcılar **Koltuk & Zarar** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **ergonomik** ve **rahat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Iyiki almışım diyorum çok rahat konforlu bir koltuk sürekli masa başı çalışanlar için…\"\n• **Kullanışlı Rahat** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **hafif** ve **kaliteli rahat** başta olmak üzere. Örnek kullanıcı ifadesi: \"Evde kullanmak icin aldim gayet rahat ve çok şık\"\n• Müşteri yorumlarında **Sorunsuz & Sağlam Kaliteli** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **kalitesi** ve **oldular** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Hediye olarak almıştık çok memnun kaldılar teşekkürler\"",
+  "summary": "**Seduna Thunder Pro | Beyaz Yönetici | Ofis Çalışma Kolt** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Kurulum Kolay**: Kullanıcılar kurulum kolay konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Koltuk**: Kullanıcılar koltuk konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Sorunsuz**: Kullanıcılar sorunsuz konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Koltuk & Ergonomik**: Kullanıcılar koltuk & ergonomik konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Fiyat Kalite**: Kullanıcılar fiyat kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,8 +18,8 @@
   },
   "aspects": [
     {
-      "name": "Kurulumu Kolay",
-      "review_count": 25,
+      "name": "Kurulum Kolay",
+      "review_count": 19,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -27,18 +27,18 @@
         "paketleme",
         "kolay",
         "kurulumu",
-        "rahat",
-        "sağlam",
         "kurulumu kolay",
-        "fiyata",
-        "kurulum"
+        "kurulum",
+        "konforlu",
+        "fiyat performans",
+        "performans"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "2 günde geldi sağlam kutu içinde paketleme özenilerek yapılmış tavsiye üzerine bu marka aldım dedikleri kadar varmış çok rahat konforlu ve sağlam öbür ay bur tane daha alacağım teşekkür ederim",
-        "paketleme çok özenliydi kargolanma süresi hızlıydı ürün çok rahat koltuk kısmı oldukça geniş tavsiye ederim",
+        "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
+        "çalışma masam için aldım kargo çok hızlı elime ulaştı ve kurulumu çok kolaydı paketlemesi biraz daha saglamlaştirilabilir teşekürler",
         "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık"
       ],
       "all_reviews": [
@@ -47,11 +47,11 @@
           "score": 5.0
         },
         {
-          "text": "çok memnunum rahat ve aşırı kaliteli geldi",
+          "text": "ürün fotoğraftakiyle aynı geldi çok konforlu paketlenmesi de çok iyiydi kolayca kurduk teşekkürler",
           "score": 5.0
         },
         {
-          "text": "ürün fotoğraftakiyle aynı geldi çok konforlu paketlenmesi de çok iyiydi kolayca kurduk teşekkürler",
+          "text": "çalışma masam için aldım kargo çok hızlı elime ulaştı ve kurulumu çok kolaydı paketlemesi biraz daha saglamlaştirilabilir teşekürler",
           "score": 5.0
         },
         {
@@ -59,23 +59,11 @@
           "score": 5.0
         },
         {
-          "text": "ben cok memnun kaldım aşırı rahat ve şık duruyor",
+          "text": "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
           "score": 5.0
         },
         {
-          "text": "merhaba kargolama çok iyi ürün çok kaliteli ve rahat kızım için aldık çok beğendik yerli üretim alacaklar hiç tereddüt etmeden alabilirler satıcının almış olduğu para son kuruşuna kadar helal hoş olsun",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel bi ürün sağlam paketlenmişyi kızıma aldım severek kullanıyo",
-          "score": 5.0
-        },
-        {
-          "text": "alırken çok tereddüt etmiştim ama çok kaliteli sapasağlam geldi beklentimi karşıladı satıcıya ve kargoya teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çok rahat ve aşırı şık biz çok beğendik",
+          "text": "çok güzel rahat bir koltuk oturaklı sağlam duruyor yapımı da çok kolay bütün parçalar eksiksiz olarak geldi tavsiye ediyorum",
           "score": 5.0
         },
         {
@@ -86,30 +74,254 @@
       "icon": "💬"
     },
     {
-      "name": "Rahat Koltuk",
-      "review_count": 15,
+      "name": "Koltuk",
+      "review_count": 19,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "rahat",
         "koltuk",
-        "sağlam",
         "çalışma",
         "kurulumu",
         "kumaşı",
-        "rahat koltuk",
-        "kurulumunu"
+        "kurulumunu",
+        "basit",
+        "uygun",
+        "paketleme"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çalışma masam için aldım kargo çok hızlı elime ulaştı ve kurulumu çok kolaydı paketlemesi biraz daha saglamlaştirilabilir teşekürler",
+        "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim",
+        "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat"
+      ],
+      "all_reviews": [
+        {
+          "text": "iyiki almışım diyorum çok rahat konforlu bir koltuk sürekli masa başı çalışanlar için ideal bir koltuk gerçekten önceki bel boyun ağrılarım artık yok en çokta buna seviniyorum tavsiye edilir",
+          "score": 5.0
+        },
+        {
+          "text": "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim",
+          "score": 5.0
+        },
+        {
+          "text": "çalışma masam için aldım kargo çok hızlı elime ulaştı ve kurulumu çok kolaydı paketlemesi biraz daha saglamlaştirilabilir teşekürler",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim muhteşem bi koltuk çok rahat ve konforlu gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel rahat bir koltuk oturaklı sağlam duruyor yapımı da çok kolay bütün parçalar eksiksiz olarak geldi tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok özenliydi kargolanma süresi hızlıydı ürün çok rahat koltuk kısmı oldukça geniş tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Sorunsuz",
+      "review_count": 17,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "sorunsuz",
+        "kalitesi",
+        "evime",
+        "oldular",
+        "hava",
+        "yardımcı",
+        "kusursuz",
+        "hayırlı"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+        "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
+        "merhaba kargolama çok iyi ürün çok kaliteli ve rahat kızım için aldık çok beğendik yerli üretim alacaklar hiç tereddüt etmeden alabilirler satıcının almış olduğu para son kuruşuna kadar helal hoş olsun"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok özenliydi kargolanma süresi hızlıydı ürün çok rahat koltuk kısmı oldukça geniş tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok memnunum rahat ve aşırı kaliteli geldi",
+          "score": 5.0
+        },
+        {
+          "text": "merhaba kargolama çok iyi ürün çok kaliteli ve rahat kızım için aldık çok beğendik yerli üretim alacaklar hiç tereddüt etmeden alabilirler satıcının almış olduğu para son kuruşuna kadar helal hoş olsun",
+          "score": 5.0
+        },
+        {
+          "text": "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
+          "score": 5.0
+        },
+        {
+          "text": "sandalyeye oturur oturmaz yazıyorum hem kaliteli hem de aşırı konforlu düşünmeden alın",
+          "score": 5.0
+        },
+        {
+          "text": "alırken çok tereddüt etmiştim ama çok kaliteli sapasağlam geldi beklentimi karşıladı satıcıya ve kargoya teşekkürler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Koltuk & Ergonomik",
+      "review_count": 17,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "uzun",
+        "koltuk",
+        "ergonomik",
+        "zarar",
+        "görünüyor",
+        "vida",
+        "sandalyenin",
+        "monte"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim",
-        "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
-        "çok güzel rahat bir koltuk oturaklı sağlam duruyor yapımı da çok kolay bütün parçalar eksiksiz olarak geldi tavsiye ediyorum"
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+        "iyiki almışım diyorum çok rahat konforlu bir koltuk sürekli masa başı çalışanlar için ideal bir koltuk gerçekten önceki bel boyun ağrılarım artık yok en çokta buna seviniyorum tavsiye edilir"
       ],
       "all_reviews": [
+        {
+          "text": "iyiki almışım diyorum çok rahat konforlu bir koltuk sürekli masa başı çalışanlar için ideal bir koltuk gerçekten önceki bel boyun ağrılarım artık yok en çokta buna seviniyorum tavsiye edilir",
+          "score": 5.0
+        },
+        {
+          "text": "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendim muhteşem bi koltuk çok rahat ve konforlu gönül rahatlığıyla alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel rahat bir koltuk oturaklı sağlam duruyor yapımı da çok kolay bütün parçalar eksiksiz olarak geldi tavsiye ediyorum",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok özenliydi kargolanma süresi hızlıydı ürün çok rahat koltuk kısmı oldukça geniş tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Fiyat Kalite",
+      "review_count": 17,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "yıldız",
+        "kalite",
+        "fiyat kalite",
+        "bakarak",
+        "olsa",
+        "tesekkurler",
+        "alırken",
+        "dikkat"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
+        "alırken çok tereddüt etmiştim ama çok kaliteli sapasağlam geldi beklentimi karşıladı satıcıya ve kargoya teşekkürler",
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim",
+          "score": 5.0
+        },
+        {
+          "text": "çok memnunum rahat ve aşırı kaliteli geldi",
+          "score": 5.0
+        },
+        {
+          "text": "merhaba kargolama çok iyi ürün çok kaliteli ve rahat kızım için aldık çok beğendik yerli üretim alacaklar hiç tereddüt etmeden alabilirler satıcının almış olduğu para son kuruşuna kadar helal hoş olsun",
+          "score": 5.0
+        },
+        {
+          "text": "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
+          "score": 5.0
+        },
+        {
+          "text": "sandalyeye oturur oturmaz yazıyorum hem kaliteli hem de aşırı konforlu düşünmeden alın",
+          "score": 5.0
+        },
+        {
+          "text": "alırken çok tereddüt etmiştim ama çok kaliteli sapasağlam geldi beklentimi karşıladı satıcıya ve kargoya teşekkürler",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kolay & Rahatlığıyla",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kolay",
+        "rahatlığıyla",
+        "tesekkurler",
+        "kaldik",
+        "kurulumuda",
+        "yaptım",
+        "rağmen",
+        "icin"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "indirim zamanı olmasına rağmen kargo özenli yapılmış ve hızlı geldi kurulumu kolay youtube bakarak yaptık kumaşı kaliteli duruşu acayip havalı kol ve sırt kısmı rahat",
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+        "çalışma masam için aldım kargo çok hızlı elime ulaştı ve kurulumu çok kolaydı paketlemesi biraz daha saglamlaştirilabilir teşekürler"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+          "score": 5.0
+        },
         {
           "text": "çok beğendim muhteşem bi koltuk çok rahat ve konforlu gönül rahatlığıyla alabilirsiniz",
           "score": 5.0
@@ -119,15 +331,11 @@
           "score": 5.0
         },
         {
-          "text": "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim",
+          "text": "ürün fotoğraftakiyle aynı geldi çok konforlu paketlenmesi de çok iyiydi kolayca kurduk teşekkürler",
           "score": 5.0
         },
         {
           "text": "çok güzel rahat bir koltuk oturaklı sağlam duruyor yapımı da çok kolay bütün parçalar eksiksiz olarak geldi tavsiye ediyorum",
-          "score": 5.0
-        },
-        {
-          "text": "sandalyeye oturur oturmaz yazıyorum hem kaliteli hem de aşırı konforlu düşünmeden alın",
           "score": 5.0
         },
         {
@@ -138,63 +346,108 @@
       "icon": "💬"
     },
     {
-      "name": "Koltuk & Zarar",
-      "review_count": 5,
+      "name": "Takım / Kurulum Kolay",
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "uzun",
-        "koltuk",
-        "zarar",
-        "ergonomik",
-        "görünüyor",
-        "rahat",
-        "vida",
-        "monte"
+        "takım",
+        "paketleme",
+        "teşekürler",
+        "yaptım",
+        "olsaydı",
+        "istediğim",
+        "sürekli",
+        "kazançlar"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "iyiki almışım diyorum çok rahat konforlu bir koltuk sürekli masa başı çalışanlar için ideal bir koltuk gerçekten önceki bel boyun ağrılarım artık yok en çokta buna seviniyorum tavsiye edilir",
-        "ürün gerçekten harika bir çok oyuncu koltuğunu da denedim ama bu ürün çok rahat"
+        "çalışma masam için aldım kargo çok hızlı elime ulaştı ve kurulumu çok kolaydı paketlemesi biraz daha saglamlaştirilabilir teşekürler",
+        "2 günde geldi sağlam kutu içinde paketleme özenilerek yapılmış tavsiye üzerine bu marka aldım dedikleri kadar varmış çok rahat konforlu ve sağlam öbür ay bur tane daha alacağım teşekkür ederim",
+        "paketleme çok özenliydi kargolanma süresi hızlıydı ürün çok rahat koltuk kısmı oldukça geniş tavsiye ederim"
       ],
       "all_reviews": [
         {
-          "text": "iyiki almışım diyorum çok rahat konforlu bir koltuk sürekli masa başı çalışanlar için ideal bir koltuk gerçekten önceki bel boyun ağrılarım artık yok en çokta buna seviniyorum tavsiye edilir",
+          "text": "2 günde geldi sağlam kutu içinde paketleme özenilerek yapılmış tavsiye üzerine bu marka aldım dedikleri kadar varmış çok rahat konforlu ve sağlam öbür ay bur tane daha alacağım teşekkür ederim",
           "score": 5.0
         },
         {
-          "text": "ürün gerçekten harika bir çok oyuncu koltuğunu da denedim ama bu ürün çok rahat",
+          "text": "çalışma masam için aldım kargo çok hızlı elime ulaştı ve kurulumu çok kolaydı paketlemesi biraz daha saglamlaştirilabilir teşekürler",
+          "score": 5.0
+        },
+        {
+          "text": "paketleme çok özenliydi kargolanma süresi hızlıydı ürün çok rahat koltuk kısmı oldukça geniş tavsiye ederim",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kullanışlı Rahat",
-      "review_count": 3,
+      "name": "Fiyat Performans",
+      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kullanışlı",
-        "rahat",
-        "kullanışlı rahat",
-        "hafif",
-        "almışım",
-        "kaliteli rahat",
-        "icin",
-        "göründüğü"
+        "fiyat",
+        "fiyat performans",
+        "performans",
+        "uygun",
+        "ilgili",
+        "kalite",
+        "kusursuz",
+        "kalitesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+        "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
+          "score": 5.0
+        },
+        {
+          "text": "çalışma sandalyesine çok ihtiyacım vardı trendyolda özellik olarak ve yorum olarak bu fiyatlarda en iyisi buydu indirime girdiği an sipariş ettim bence çok rahat fıtığım var ve saatlerce oturduğum da rahatsız etmedi son olarak koltuğun iyi olup olmadığını size şöyle söylim babam her şeyi beğenmez bugün koltuğa oturmuş ve gelip tebrik etti aferin iyi bir koltuk seçmişsin çok rahat dedi yaparken denememişti bugüne kısmetmiş böyle söylediği içinde hemen değerlendirme yapmak istedim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Hafif",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "hafif",
+        "almışım",
+        "icin",
+        "göründüğü",
+        "görünüyor",
+        "rahatlığıyla",
+        "konforlu",
+        "kolay"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "iyiki almışım diyorum çok rahat konforlu bir koltuk sürekli masa başı çalışanlar için ideal bir koltuk gerçekten önceki bel boyun ağrılarım artık yok en çokta buna seviniyorum tavsiye edilir",
         "evde kullanmak icin aldim gayet rahat ve çok şık"
       ],
       "all_reviews": [
+        {
+          "text": "iyiki almışım diyorum çok rahat konforlu bir koltuk sürekli masa başı çalışanlar için ideal bir koltuk gerçekten önceki bel boyun ağrılarım artık yok en çokta buna seviniyorum tavsiye edilir",
+          "score": 5.0
+        },
         {
           "text": "evde kullanmak icin aldim gayet rahat ve çok şık",
           "score": 5.0
@@ -203,30 +456,30 @@
       "icon": "💬"
     },
     {
-      "name": "Sorunsuz & Sağlam Kaliteli",
-      "review_count": 2,
+      "name": "Yoktu & Sıkınt",
+      "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "sorunsuz",
-        "sağlam kaliteli",
-        "kalitesi",
-        "severek",
-        "oldular",
-        "evime",
-        "sağlam",
-        "hava"
+        "yoktu",
+        "sıkıntı",
+        "vida",
+        "dikkat",
+        "montaj",
+        "iade",
+        "siparişim",
+        "konusunda"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "hediye olarak almıştık çok memnun kaldılar teşekkürler"
+        "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık"
       ],
       "all_reviews": [
         {
-          "text": "hediye olarak almıştık çok memnun kaldılar teşekkürler",
+          "text": "ürünü beğendim montajı kolay plastik kalitesi gayet iyi konforlu kargo süreci sağlıklı ve zamanında gerçekleşti ihtiyacınız varsa düşünmeden alın bu tür eşyalar uzun süreli kullanım içindir kaliteli ve gönlünüzce olmalıdır fiyat-performans ürünü olarak çok başarılı üretenlerin emeğine sağlık",
           "score": 5.0
         }
       ],

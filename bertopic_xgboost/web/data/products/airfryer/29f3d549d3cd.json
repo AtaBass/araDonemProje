@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Apple iPhone 16 Pro Max 256GB Siyah Titanyum** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Fiyatı Uygun** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **sağlam** ve **fiyat** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür eder…\"\n• **Sıkıntı & Deneme**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **aydır** ve **kızartma** başta olmak üzere. Örnek kullanıcı ifadesi: \"Anlatmaya gerek yok on numara\"\n• Kullanıcılar **Paketlemesi & Hasarsız** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **sorunsuz** ve **sağlam** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Gayet hızlı ulaştı elime çok güzel çok beğendim teşekkürler\"\n• **Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **kaliteli** ve **rahatlığıyla** başta olmak üzere.\n• Müşteri yorumlarında **Ideal** başlığı altında yoğun bir memnuniyet gözlemlenmektedir; **diyebilirim** ve **sorunsuz** konusu özellikle vurgulanmaktadır.",
+  "summary": "Apple iPhone 16 Pro Max 256GB Siyah Titanyum, tam bir liderlik performansı sergileyen bir ürün olarak öne çıkıyor. Ürünün köfte, sıkınt ve çeyiz özelliklerinin tamamında, yorumcuların yüzde yüz olumlu puan vermesi, ürünün kusursuzluğunu teyit ediyor. Kişilik ve fiyat performansına da bakıldığında, iPhone 16 Pro Max, beklentilerin üzerine çıkıyor ve yüksek memnuniyet oranını hak eden bir ürün olarak ortaya çıkıyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,76 +18,28 @@
   },
   "aspects": [
     {
-      "name": "Fiyatı Uygun",
-      "review_count": 13,
+      "name": "Köfte",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "paketleme",
-        "sağlam",
-        "uygun",
-        "fiyatı",
-        "fiyat",
-        "bayıldım",
-        "indirimden",
-        "performans"
+        "elim",
+        "köfte",
+        "kullanmak",
+        "börek",
+        "para gerek",
+        "tavuk",
+        "markalara",
+        "yemekler"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "uygun fiyat hızlı kargo",
-        "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
-        "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı",
-          "score": 5.0
-        },
-        {
-          "text": "kargo hızlıydı",
-          "score": 5.0
-        },
-        {
-          "text": "teşekkürler güzel ve tasarruflu bir alışveriş oldu",
-          "score": 5.0
-        },
-        {
-          "text": "her yönüyle harika cihaza zaten diyecek laf yok kargo paket vs mükemmel teşekkür ederim teknosa",
-          "score": 5.0
-        },
-        {
-          "text": "uygun fiyat hızlı kargo",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Sıkıntı & Deneme",
-      "review_count": 12,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "gerek",
-        "sıkıntı",
-        "uzun süre",
-        "süre",
-        "yaptık",
-        "deneme",
-        "aydır",
-        "kızartma"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "anlatmaya gerek yok on numara",
-        "sağlam geldi sıkıntı yok",
-        "fena süper her zamna ki gibi"
+        "gayet hızlı ulaştı elime çok güzel çok beğendim teşekkürler",
+        "çok hızlı elime ulaştı teşekkürler",
+        "anlatmaya gerek yok on numara"
       ],
       "all_reviews": [
         {
@@ -95,63 +47,7 @@
           "score": 5.0
         },
         {
-          "text": "çok iyi ve güzel",
-          "score": 5.0
-        },
-        {
-          "text": "efsoooo bir telefon",
-          "score": 5.0
-        },
-        {
-          "text": "sağlam geldi sıkıntı yok",
-          "score": 5.0
-        },
-        {
-          "text": "fena süper her zamna ki gibi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Paketlemesi & Hasarsız",
-      "review_count": 10,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "defa",
-        "görünüyor",
-        "denemedim",
-        "kullanıyoruz",
-        "paketlemesi",
-        "hasarsız",
-        "sorunsuz",
-        "sağlam"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzelll çok sağlam geldi teşekkür ederim",
-        "gayet hızlı ulaştı elime çok güzel çok beğendim teşekkürler",
-        "çok memnun kaldım teşekkür ederimmm"
-      ],
-      "all_reviews": [
-        {
           "text": "gayet hızlı ulaştı elime çok güzel çok beğendim teşekkürler",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzelll çok sağlam geldi teşekkür ederim",
-          "score": 5.0
-        },
-        {
-          "text": "çok memnun kaldım teşekkür ederimmm",
-          "score": 5.0
-        },
-        {
-          "text": "hızlı geldi teşekkürler",
           "score": 5.0
         },
         {
@@ -162,70 +58,100 @@
       "icon": "💬"
     },
     {
-      "name": "Fiyat Performans",
-      "review_count": 9,
+      "name": "Sıkınt",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "fiyat performans",
-        "performans",
-        "fiyat",
-        "kaliteli",
-        "rahatlığıyla",
-        "çıtır",
-        "pratik",
-        "yağsız"
+        "gerek",
+        "sıkıntı",
+        "uzun süre",
+        "süre",
+        "deneme",
+        "yaptık",
+        "aydır",
+        "kızartma"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "güzel kaliteli",
-        "mükemmel ürün"
+        "anlatmaya gerek yok on numara",
+        "sağlam geldi sıkıntı yok"
       ],
       "all_reviews": [
         {
-          "text": "mükemmel ürün",
+          "text": "anlatmaya gerek yok on numara",
           "score": 5.0
         },
         {
-          "text": "güzel kaliteli",
+          "text": "sağlam geldi sıkıntı yok",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Ideal",
-      "review_count": 6,
+      "name": "Çeyiz",
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "diyebilirim",
-        "yorum",
-        "sorunsuz",
-        "şimdilik",
-        "severek",
-        "sağlam",
-        "kolay",
-        "paketlemesi"
+        "kullanmadım",
+        "çeyiz",
+        "fakat",
+        "telefon",
+        "hacmi",
+        "görüntüsü",
+        "beğenerek",
+        "geniş"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok güzel beğendim",
-        "çok çok beğendim"
+        "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı",
+        "efsoooo bir telefon"
       ],
       "all_reviews": [
         {
-          "text": "çok çok beğendim",
+          "text": "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı",
           "score": 5.0
         },
         {
-          "text": "çok güzel beğendim",
+          "text": "efsoooo bir telefon",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kişilik / Fiyat Performans",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aile",
+        "aldık",
+        "kişilik",
+        "ideal",
+        "kişilik aile",
+        "anneler",
+        "aydır",
+        "sorunsuz"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı"
+      ],
+      "all_reviews": [
+        {
+          "text": "güzel telefon kız kardeşime aldık beğendi fatura ve kargo hızlıydı",
           "score": 5.0
         }
       ],

@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**Xiaomi Redmi Buds 6 Play Beyaz Kulakiçi Kulaklık- Gürül** için 50 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kalitesi & Fiyata Performans** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kılıf** ve **kaliteli** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özell…\"\n• **Şarjı & Fiyat Performans**, müşteriler tarafından özellikle takdir gören bir özellik olarak öne çıkmaktadır, **rengi** ve **fiyata** başta olmak üzere. Örnek kullanıcı ifadesi: \"Siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalite…\"\n• Kullanıcılar **Telefon & Uygun** hakkında genel itibarıyla memnuniyetlerini dile getirmektedir; **performans** ve **bağlantı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kullandığım telefon zaten redmiydi mükemmel bir duo oldular aşırı memnunum bu fiyata…\"\n• **Kaliteli & Fiyat Performans** açısından değerlendirmeler son derece olumlu bir tablo ortaya koymaktadır, **sorun** ve **paketlemesi** başta olmak üzere. Örnek kullanıcı ifadesi: \"Çok iyi kulaklık herkese tavsiye ederim bu fiyata bu kadar güzel ürün beklemiyordum a…\"\n• Müşteri yorumlarında **Kılıfı & Çıktı** başlığı altında yoğun bir memnuniyet gözlemlenmektedir. Örnek kullanıcı ifadesi: \"Bi kendime almıştım çok memnun kaldım bi de anneme aldım o da çok memnun tavsiye eder…\"",
+  "summary": "**Xiaomi Redmi Buds 6 Play Beyaz Kulakiçi Kulaklık- Gürül** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n• **Fiyat Performans**: Kullanıcılar fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Marka / Fiyat Performans**: Kullanıcılar marka / fiyat performans konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Kalite**: Kullanıcılar kalite konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Müzik Dinlerken**: Kullanıcılar müzik dinlerken konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.\n• **Şarja & Hiçbir**: Kullanıcılar şarja & hiçbir konusunda son derece memnun. Yapılan yorumların büyük çoğunluğu bu özelliğin çok başarılı olduğunu vurguluyor.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,8 +18,164 @@
   },
   "aspects": [
     {
-      "name": "Kalitesi & Fiyata Performans",
-      "review_count": 17,
+      "name": "Fiyat Performans",
+      "review_count": 32,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "fiyat performans",
+        "performans",
+        "performans fiyat",
+        "kalitesi baya",
+        "alin",
+        "sorunsuz",
+        "diye",
+        "tane"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kendime almıştım ikinci kez kızım için aldım ses kalitesi güzel şarjı dayanıklı tam bir fiyat performans ürünü",
+        "bu kulaklık tam bir fiyat performans ürünü o kadar güzel ki ses netliği ve kalitesine bayıldım",
+        "tam bir fiyat performans ürünü başka ürün düşünmenize gerek bile yok"
+      ],
+      "all_reviews": [
+        {
+          "text": "kullandığım telefon zaten redmiydi mükemmel bir duo oldular aşırı memnunum bu fiyata çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "kendime almıştım ikinci kez kızım için aldım ses kalitesi güzel şarjı dayanıklı tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır",
+          "score": 5.0
+        },
+        {
+          "text": "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "gönül rahatlığı ile alabilirsiniz ıphone 11 için aldım bu fiyata çok iyi performans",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldım memnun kaldı ses kalitesi de iyiymiş",
+          "score": 5.0
+        },
+        {
+          "text": "almak isteyenler güvenle alabilir ben cok begendim sesi cok guzel ve net fiyatina göre cok guzel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "bu kulaklık tam bir fiyat performans ürünü o kadar güzel ki ses netliği ve kalitesine bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi kulaklık herkese tavsiye ederim bu fiyata bu kadar güzel ürün beklemiyordum ama beklediğimden çok daha iyi geldi",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü başka ürün düşünmenize gerek bile yok",
+          "score": 5.0
+        },
+        {
+          "text": "ürün bugün elime ulaştı paketlemesi gayet özenliydi ve ürünün sesi güzel gayet kaliteli kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim ve kendime aldım tam bir fiyat performans",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Marka / Fiyat Performans",
+      "review_count": 32,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "marka",
+        "süresi",
+        "efsane",
+        "beyendi",
+        "aldı",
+        "kargolama",
+        "aydır",
+        "saglam"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+        "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır",
+        "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn"
+      ],
+      "all_reviews": [
+        {
+          "text": "ablam pembesini kullanıyordu bende beyazını aldım harika güzel güncelleme çok sağlam şarjı çok uzun süre gidiyor",
+          "score": 5.0
+        },
+        {
+          "text": "kendime almıştım ikinci kez kızım için aldım ses kalitesi güzel şarjı dayanıklı tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır",
+          "score": 5.0
+        },
+        {
+          "text": "kulaklık güzel pembe rengini kendime almıştım beyazını da canımmm kocamaa aldım bitanecik kocammm balım her şeyime",
+          "score": 5.0
+        },
+        {
+          "text": "bi kendime almıştım çok memnun kaldım bi de anneme aldım o da çok memnun tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "gönül rahatlığı ile alabilirsiniz ıphone 11 için aldım bu fiyata çok iyi performans",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel zaten kullanıyordum 2 kez satın aldım hediye etmek için",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bir ürün tavsiye ederim kızım için aldım sesi gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldım memnun kaldı ses kalitesi de iyiymiş",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim ve kendime aldım tam bir fiyat performans",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite",
+      "review_count": 27,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -27,17 +183,161 @@
         "kalitesi",
         "sesi",
         "şarj",
-        "kılıf",
-        "fiyata",
         "kalitesi kalitesi",
+        "kılıf",
         "bayıldım",
-        "kaliteli"
+        "dışarı",
+        "paketlemesi"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
         "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+        "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn",
+        "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "ablam pembesini kullanıyordu bende beyazını aldım harika güzel güncelleme çok sağlam şarjı çok uzun süre gidiyor",
+          "score": 5.0
+        },
+        {
+          "text": "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "kendime almıştım ikinci kez kızım için aldım ses kalitesi güzel şarjı dayanıklı tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bir ürün tavsiye ederim kızım için aldım sesi gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldım memnun kaldı ses kalitesi de iyiymiş",
+          "score": 5.0
+        },
+        {
+          "text": "almak isteyenler güvenle alabilir ben cok begendim sesi cok guzel ve net fiyatina göre cok guzel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "bu kulaklık tam bir fiyat performans ürünü o kadar güzel ki ses netliği ve kalitesine bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "ürün bugün elime ulaştı paketlemesi gayet özenliydi ve ürünün sesi güzel gayet kaliteli kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Müzik Dinlerken",
+      "review_count": 26,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "beklediğimden",
+        "aldık",
+        "kalitesi",
+        "sesi",
+        "müzik dinlerken",
+        "iyidi",
+        "sesim",
+        "dinlerken"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+        "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn",
+        "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır"
+      ],
+      "all_reviews": [
+        {
+          "text": "kendime almıştım ikinci kez kızım için aldım ses kalitesi güzel şarjı dayanıklı tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bir ürün tavsiye ederim kızım için aldım sesi gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşim için aldım memnun kaldı ses kalitesi de iyiymiş",
+          "score": 5.0
+        },
+        {
+          "text": "almak isteyenler güvenle alabilir ben cok begendim sesi cok guzel ve net fiyatina göre cok guzel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "bu kulaklık tam bir fiyat performans ürünü o kadar güzel ki ses netliği ve kalitesine bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi kulaklık herkese tavsiye ederim bu fiyata bu kadar güzel ürün beklemiyordum ama beklediğimden çok daha iyi geldi",
+          "score": 5.0
+        },
+        {
+          "text": "ürün bugün elime ulaştı paketlemesi gayet özenliydi ve ürünün sesi güzel gayet kaliteli kesinlikle tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Şarja & Hiçbir",
+      "review_count": 25,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "paketleme",
+        "şarja",
+        "hiçbir",
+        "üründen",
+        "yapılmış",
+        "ekstra",
+        "hediyeler",
+        "emeğinize"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün bugün elime ulaştı paketlemesi gayet özenliydi ve ürünün sesi güzel gayet kaliteli kesinlikle tavsiye ederim",
         "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır",
         "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn"
       ],
@@ -51,7 +351,79 @@
           "score": 5.0
         },
         {
-          "text": "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+          "text": "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn",
+          "score": 5.0
+        },
+        {
+          "text": "ürün çok güzel zaten kullanıyordum 2 kez satın aldım hediye etmek için",
+          "score": 5.0
+        },
+        {
+          "text": "güzel bir ürün tavsiye ederim kızım için aldım sesi gayet güzel",
+          "score": 5.0
+        },
+        {
+          "text": "almak isteyenler güvenle alabilir ben cok begendim sesi cok guzel ve net fiyatina göre cok guzel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "bu kulaklık tam bir fiyat performans ürünü o kadar güzel ki ses netliği ve kalitesine bayıldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi kulaklık herkese tavsiye ederim bu fiyata bu kadar güzel ürün beklemiyordum ama beklediğimden çok daha iyi geldi",
+          "score": 5.0
+        },
+        {
+          "text": "tam bir fiyat performans ürünü başka ürün düşünmenize gerek bile yok",
+          "score": 5.0
+        },
+        {
+          "text": "ürün bugün elime ulaştı paketlemesi gayet özenliydi ve ürünün sesi güzel gayet kaliteli kesinlikle tavsiye ederim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Görünt Kalite",
+      "review_count": 17,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "oglum",
+        "görüntü kalitesi",
+        "iyii",
+        "görüntü",
+        "ilgili",
+        "alınabilecek",
+        "saglam",
+        "ilgi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır",
+        "ürün gerçekten çok güzel arkadaşlar iş yerinde kullanmak için aldım çok sesli bir ortam ama taktığım gibi direk bütün sesleri kesiyor sesi kalitesi de çok iyi alın gerçekten alınnnnn",
+        "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "kendime almıştım ikinci kez kızım için aldım ses kalitesi güzel şarjı dayanıklı tam bir fiyat performans ürünü",
+          "score": 5.0
+        },
+        {
+          "text": "ürünü kız arkadaşıma aldım çok beğendi üründe en sevdiği özellik kulaklık kaybolunca uygulamadan kulaklığı bul özelligi ile bulması oldu ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır",
+          "score": 5.0
+        },
+        {
+          "text": "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
           "score": 5.0
         },
         {
@@ -74,52 +446,8 @@
       "icon": "💬"
     },
     {
-      "name": "Şarjı & Fiyat Performans",
+      "name": "Telefon",
       "review_count": 11,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "uzun",
-        "şarjı",
-        "gidiyor",
-        "performans",
-        "fiyat performans",
-        "rengi",
-        "fiyata",
-        "bakarak"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ablam pembesini kullanıyordu bende beyazını aldım harika güzel güncelleme çok sağlam şarjı çok uzun süre gidiyor",
-        "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
-        "tam bir fiyat performans ürünü başka ürün düşünmenize gerek bile yok"
-      ],
-      "all_reviews": [
-        {
-          "text": "ablam pembesini kullanıyordu bende beyazını aldım harika güzel güncelleme çok sağlam şarjı çok uzun süre gidiyor",
-          "score": 5.0
-        },
-        {
-          "text": "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
-          "score": 5.0
-        },
-        {
-          "text": "kulaklık güzel pembe rengini kendime almıştım beyazını da canımmm kocamaa aldım bitanecik kocammm balım her şeyime",
-          "score": 5.0
-        },
-        {
-          "text": "tam bir fiyat performans ürünü başka ürün düşünmenize gerek bile yok",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Telefon & Uygun",
-      "review_count": 6,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -129,16 +457,17 @@
         "telefon",
         "beklemiyordum",
         "uygun",
-        "performans",
         "bağlantı",
-        "sıkıntı"
+        "sıkıntı",
+        "telefonla"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kullandığım telefon zaten redmiydi mükemmel bir duo oldular aşırı memnunum bu fiyata çok iyi",
-        "gönül rahatlığı ile alabilirsiniz ıphone 11 için aldım bu fiyata çok iyi performans"
+        "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+        "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
+        "çok iyi kulaklık herkese tavsiye ederim bu fiyata bu kadar güzel ürün beklemiyordum ama beklediğimden çok daha iyi geldi"
       ],
       "all_reviews": [
         {
@@ -146,167 +475,55 @@
           "score": 5.0
         },
         {
-          "text": "gönül rahatlığı ile alabilirsiniz ıphone 11 için aldım bu fiyata çok iyi performans",
+          "text": "kardeşime aldım beğendi içinden şarj aleti ve yedek başlıklarıda çıkıyor ayrıca özelliklerini çok beğendik müzik dinlerken sadece sözlerin sesini kısıp yükseltebilirsunuz ayrıca telefondaki ses full bile olsa ayarlarından daha çok açabiliyoruz kargoda çok hızlıydı 1 günde elime ulaştı teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok iyi kulaklık herkese tavsiye ederim bu fiyata bu kadar güzel ürün beklemiyordum ama beklediğimden çok daha iyi geldi",
           "score": 5.0
         }
       ],
       "icon": "💬"
     },
     {
-      "name": "Kaliteli & Fiyat Performans",
-      "review_count": 6,
+      "name": "Sorunsuz & Uygun",
+      "review_count": 7,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
-        "kaliteli",
-        "beklediğimden",
-        "sorun",
+        "almak",
+        "sorunsuz",
+        "uygun",
+        "valla",
         "paketleme",
-        "paketlemesi",
-        "performans",
-        "tane",
-        "orijinal"
+        "direk",
+        "yapılmış",
+        "herşey"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "çok iyi kulaklık herkese tavsiye ederim bu fiyata bu kadar güzel ürün beklemiyordum ama beklediğimden çok daha iyi geldi",
-        "alalı tam 1 yıl oldu bugün o kadar memnunum ki kesinlikle tavsiye ediyorum 490 tl ye almıştım şimdi 600 lerde o kadar da çok artmamış almanızı tavsiye ederim",
+        "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
+        "ürün bugün elime ulaştı paketlemesi gayet özenliydi ve ürünün sesi güzel gayet kaliteli kesinlikle tavsiye ederim",
         "almak isteyenler güvenle alabilir ben cok begendim sesi cok guzel ve net fiyatina göre cok guzel bir ürün"
       ],
       "all_reviews": [
         {
-          "text": "çok iyi kulaklık herkese tavsiye ederim bu fiyata bu kadar güzel ürün beklemiyordum ama beklediğimden çok daha iyi geldi",
+          "text": "siyah rengini almıştık daha önce çok memnunuz diye beyazıda sipariş verdik ses kalitesi harika şarj ömrü çok uzun kaliteli ve uygun fiyatlı ürün istiyosanız tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürün bugün elime ulaştı paketlemesi gayet özenliydi ve ürünün sesi güzel gayet kaliteli kesinlikle tavsiye ederim",
           "score": 5.0
         },
         {
           "text": "almak isteyenler güvenle alabilir ben cok begendim sesi cok guzel ve net fiyatina göre cok guzel bir ürün",
-          "score": 5.0
-        },
-        {
-          "text": "alalı tam 1 yıl oldu bugün o kadar memnunum ki kesinlikle tavsiye ediyorum 490 tl ye almıştım şimdi 600 lerde o kadar da çok artmamış almanızı tavsiye ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kılıfı & Çıktı",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanıyor",
-        "aldık",
-        "para",
-        "kılıfı",
-        "yeğenime",
-        "çıktı",
-        "öneriyorum",
-        "defa"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "bi kendime almıştım çok memnun kaldım bi de anneme aldım o da çok memnun tavsiye ederim"
-      ],
-      "all_reviews": [
-        {
-          "text": "bi kendime almıştım çok memnun kaldım bi de anneme aldım o da çok memnun tavsiye ederim",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Fiyat Performans",
-      "review_count": 3,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "fiyat performans",
-        "performans",
-        "performans fiyat",
-        "alin",
-        "kalitesi baya",
-        "sorunsuz",
-        "fiyata",
-        "diye"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kardeşim ve kendime aldım tam bir fiyat performans"
-      ],
-      "all_reviews": [
-        {
-          "text": "kardeşim ve kendime aldım tam bir fiyat performans",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Marka & Süresi",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "marka",
-        "süresi",
-        "efsane",
-        "beyendi",
-        "aldı",
-        "kargolama",
-        "kullanıyor",
-        "aydır"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "güzel bir ürün tavsiye ederim kızım için aldım sesi gayet güzel"
-      ],
-      "all_reviews": [
-        {
-          "text": "güzel bir ürün tavsiye ederim kızım için aldım sesi gayet güzel",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Görüntü Kalitesi",
-      "review_count": 2,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kullanışlı",
-        "oglum",
-        "görüntü kalitesi",
-        "iyii",
-        "bende",
-        "görüntü",
-        "ilgili",
-        "alınabilecek"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "ürün çok güzel zaten kullanıyordum 2 kez satın aldım hediye etmek için"
-      ],
-      "all_reviews": [
-        {
-          "text": "ürün çok güzel zaten kullanıyordum 2 kez satın aldım hediye etmek için",
           "score": 5.0
         }
       ],

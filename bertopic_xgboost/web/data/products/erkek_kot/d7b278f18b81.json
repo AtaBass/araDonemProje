@@ -8,7 +8,7 @@
   "overall_score": 4.94,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**HLT JEANS Erkek Bej Regular Fit Esnek Likralı Denim Jea** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: Super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli.\n• **Kalite & Kalıb**: Super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli.\n• **Kumaş**: Gerçekten pantolonnlari çok beğendim duruşu kalıbı çok iyi yıkama da da rengi solmuyor.\n• **Kalıp**: 7 yorum incelendi; genel görüş olumlu.\n• **Kalite & Alınabilir**: 6 yorum incelendi; genel görüş olumlu.",
+  "summary": "HLT JEANS Erkek Bej Regular Fit Esnek Likralı Denim Jeans, yüksek memnuniyet oranına sahiptir. Ürün, fiyat performansında, kalite ve kalıptaki, kalite ve fiyatta, siyah renkli olarak ve kumaşında onay alıyor. Müşterilerin %95'i bu ürünün kalitesini ve değeriyle ilgili olumlu yorumlar yapmıştır. Fiyat performansında 4.91/5.0 olan ürün, yüksek kalite sunarken fiyatını da makul bulmaktadır.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 31,
-      "avg_score": 4.9,
+      "review_count": 33,
+      "avg_score": 4.91,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,9 +33,9 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 90.3,
+      "positive_pct": 90.9,
       "negative_pct": 0.0,
-      "neutral_pct": 9.7,
+      "neutral_pct": 9.1,
       "sample_reviews": [
         "super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli",
         "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz",
@@ -71,6 +71,10 @@
           "score": 5.0
         },
         {
+          "text": "çok güzel bir ürün bir tane daha sipariş verdim teşekkürler 1.75 boy 80 kg 32 30 beden",
+          "score": 5.0
+        },
+        {
           "text": "çok kaliteli tam kalıp memnun kaldım",
           "score": 5.0
         },
@@ -95,7 +99,7 @@
     },
     {
       "name": "Kalite & Kalıb",
-      "review_count": 12,
+      "review_count": 14,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -114,8 +118,8 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli",
-        "çok kaliteli tam kalıp memnun kaldım",
-        "oğluma hediye aldım çok beğendi kalıbı oldukça esnek ve rahat rengi de çok güzel kargo hızlıydı satıcıya ayrıca teşekkür ederim"
+        "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz",
+        "çok kaliteli tam kalıp memnun kaldım"
       ],
       "all_reviews": [
         {
@@ -124,6 +128,10 @@
         },
         {
           "text": "super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz",
           "score": 5.0
         },
         {
@@ -136,6 +144,99 @@
         },
         {
           "text": "çok güzel kaliteli tam bedenini aldım eşime",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünü eşim çok beğendi kottan nefret eden biri olarak dolabını yeniliyorum yorumlara bakarak yumuşak kot olduğunu görünce aldım tavsiye ederim fiyat yükselmesi yapılmazsa daha uzun süreçte de alacağım",
+        "super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli",
+        "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünü eşim çok beğendi kottan nefret eden biri olarak dolabını yeniliyorum yorumlara bakarak yumuşak kot olduğunu görünce aldım tavsiye ederim fiyat yükselmesi yapılmazsa daha uzun süreçte de alacağım",
+          "score": 5.0
+        },
+        {
+          "text": "super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli tam kalıp memnun kaldım",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel kaliteli tam bedenini aldım eşime",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Siyah",
+      "review_count": 12,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "aldık",
+        "siyah",
+        "yumuşacık",
+        "alınmalı",
+        "rengi"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "oğluma hediye aldım çok beğendi kalıbı oldukça esnek ve rahat rengi de çok güzel kargo hızlıydı satıcıya ayrıca teşekkür ederim",
+        "başka rengini de almıştım memnun kaldığım için tekrar sipariş verdim sorunsuz ulaştı teşekkürler",
+        "gerçekten pantolonnlari çok beğendim duruşu kalıbı çok iyi yıkama da da rengi solmuyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "çok beğendik tam beden aldık",
+          "score": 5.0
+        },
+        {
+          "text": "oğluma hediye aldım çok beğendi kalıbı oldukça esnek ve rahat rengi de çok güzel kargo hızlıydı satıcıya ayrıca teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "babama aldık gayet beğendi",
+          "score": 5.0
+        },
+        {
+          "text": "gerçekten pantolonnlari çok beğendim duruşu kalıbı çok iyi yıkama da da rengi solmuyor",
+          "score": 5.0
+        },
+        {
+          "text": "başka rengini de almıştım memnun kaldığım için tekrar sipariş verdim sorunsuz ulaştı teşekkürler",
           "score": 5.0
         }
       ],
@@ -187,7 +288,7 @@
     },
     {
       "name": "Kalıp",
-      "review_count": 7,
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -205,13 +306,17 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
+        "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz",
         "tam bedeninizi alabilirsiniz çok güzel aynı görseldeki gibi",
-        "çok kaliteli tam kalıp memnun kaldım",
-        "kendi bedeninizi alin"
+        "çok kaliteli tam kalıp memnun kaldım"
       ],
       "all_reviews": [
         {
           "text": "tam bedeninizi alabilirsiniz çok güzel aynı görseldeki gibi",
+          "score": 5.0
+        },
+        {
+          "text": "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz",
           "score": 5.0
         },
         {
@@ -227,7 +332,7 @@
     },
     {
       "name": "Kalite & Alınabilir",
-      "review_count": 6,
+      "review_count": 9,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -247,9 +352,13 @@
       "sample_reviews": [
         "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz",
         "çok kaliteli tam kalıp memnun kaldım",
-        "çok güzel kaliteli tam bedenini aldım eşime"
+        "super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli"
       ],
       "all_reviews": [
+        {
+          "text": "super hizli kargo ertesi gün geldi 65 kilo esim icin cuk oturdu ve baya kaliteli",
+          "score": 5.0
+        },
         {
           "text": "çok kaliteli ve kalıpları harika tavsiye ederim tam bedeninizi alabilirsiniz",
           "score": 5.0
@@ -293,73 +402,6 @@
         },
         {
           "text": "tam beden tavsiye edilir",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Siyah",
-      "review_count": 5,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "aldık",
-        "siyah",
-        "yumuşacık",
-        "alınmalı",
-        "rengi"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok beğendik tam beden aldık",
-        "babama aldık gayet beğendi"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok beğendik tam beden aldık",
-          "score": 5.0
-        },
-        {
-          "text": "babama aldık gayet beğendi",
-          "score": 5.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Fiyat",
-      "review_count": 4,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "düşünüyorum",
-        "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "çok güzel kaliteli tam bedenini aldım eşime",
-        "çok kaliteli tam kalıp memnun kaldım"
-      ],
-      "all_reviews": [
-        {
-          "text": "çok kaliteli tam kalıp memnun kaldım",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel kaliteli tam bedenini aldım eşime",
           "score": 5.0
         }
       ],

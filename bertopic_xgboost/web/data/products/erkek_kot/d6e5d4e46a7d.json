@@ -8,7 +8,7 @@
   "overall_score": 4.56,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "9 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
+  "summary": "\"Genel Değerlendirme Özeti: Blayn Jeans Erkek Regular Kalıp Likralı Esnek Kot Panto, overall satisfaction score of 4.6/5.0 with a total of 9 reviews. This product excels in terms of value for money, quality and affordability, as well as quality and fit, all receiving an average rating of 5.0/5.0 from the reviewers. The regular cut fits comfortably, and customers praise its flexibility and balance between comfort and style.\"",
   "score_distribution": {
     "1": 1,
     "2": 0,
@@ -16,7 +16,227 @@
     "4": 0,
     "5": 8
   },
-  "aspects": [],
+  "aspects": [
+    {
+      "name": "Fiyat Performans",
+      "review_count": 6,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kilo",
+        "kalite",
+        "fakat",
+        "super",
+        "bedeni",
+        "fiyat",
+        "aldık",
+        "performans"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz",
+        "birebir göreseldeki ürün geldi mükemmel kaliteli bir pantolon almanızı tavsiye ederim",
+        "4tane ayrı renklerde aldım çok kaliteli rahat pantolon hediye için teşekkür ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "4tane ayrı renklerde aldım çok kaliteli rahat pantolon hediye için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "33 beden aldım çok güzel oldu teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "birebir göreseldeki ürün geldi mükemmel kaliteli bir pantolon almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "183 boy 84 kilo beli ve boyu tam oldu modeli ve kesimi de harika teşekkürler",
+          "score": 5.0
+        },
+        {
+          "text": "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kaliteli tam kalıp hediyeniz için ayrıca teşekkür ediyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "birebir göreseldeki ürün geldi mükemmel kaliteli bir pantolon almanızı tavsiye ederim",
+        "çok beğendik kaliteli tam kalıp hediyeniz için ayrıca teşekkür ediyorum",
+        "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "4tane ayrı renklerde aldım çok kaliteli rahat pantolon hediye için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "birebir göreseldeki ürün geldi mükemmel kaliteli bir pantolon almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kaliteli tam kalıp hediyeniz için ayrıca teşekkür ediyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "4tane ayrı renklerde aldım çok kaliteli rahat pantolon hediye için teşekkür ederim",
+        "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz",
+        "birebir göreseldeki ürün geldi mükemmel kaliteli bir pantolon almanızı tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "4tane ayrı renklerde aldım çok kaliteli rahat pantolon hediye için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "birebir göreseldeki ürün geldi mükemmel kaliteli bir pantolon almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kaliteli tam kalıp hediyeniz için ayrıca teşekkür ediyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Kalıb",
+      "review_count": 4,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "baya",
+        "kalite",
+        "kalıbı",
+        "fakat",
+        "kalitesi",
+        "kesim",
+        "dilerim",
+        "kalıp"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "çok beğendik kaliteli tam kalıp hediyeniz için ayrıca teşekkür ediyorum",
+        "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz",
+        "birebir göreseldeki ürün geldi mükemmel kaliteli bir pantolon almanızı tavsiye ederim"
+      ],
+      "all_reviews": [
+        {
+          "text": "4tane ayrı renklerde aldım çok kaliteli rahat pantolon hediye için teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "birebir göreseldeki ürün geldi mükemmel kaliteli bir pantolon almanızı tavsiye ederim",
+          "score": 5.0
+        },
+        {
+          "text": "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kaliteli tam kalıp hediyeniz için ayrıca teşekkür ediyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "alin",
+        "aynı",
+        "kalıp",
+        "iade",
+        "istediğim",
+        "super",
+        "kocama",
+        "birebir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürünler görsellerde ki gibi geldi ve tam istediğim gibi oldu ayrıca incelik gösterip göndermiş olduğunuz hediyeler içinde ayrıca teşekkür ederim",
+        "çok beğendik kaliteli tam kalıp hediyeniz için ayrıca teşekkür ediyorum"
+      ],
+      "all_reviews": [
+        {
+          "text": "ürünler görsellerde ki gibi geldi ve tam istediğim gibi oldu ayrıca incelik gösterip göndermiş olduğunuz hediyeler içinde ayrıca teşekkür ederim",
+          "score": 5.0
+        },
+        {
+          "text": "çok beğendik kaliteli tam kalıp hediyeniz için ayrıca teşekkür ediyorum",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
   "top_reviews": [
     "ürünleriniz gerçekten çok kaliteli ve erken ulaştı pantolonu eşime almıştım beni de düşünerek gönderdiğiniz hediyeleriniz için teşekkür ederim çok incesiniz",
     "ürünler görsellerde ki gibi geldi ve tam istediğim gibi oldu ayrıca incelik gösterip göndermiş olduğunuz hediyeler içinde ayrıca teşekkür ederim",

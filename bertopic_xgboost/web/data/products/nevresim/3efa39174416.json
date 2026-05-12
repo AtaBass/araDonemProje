@@ -8,7 +8,7 @@
   "overall_score": 3.0,
   "overall_sentiment": "neutral",
   "stars": "★★★☆☆",
-  "summary": "2 yorum analiz edilmiştir, belirgin bir konu tespit edilemedi.",
+  "summary": "Madame Coco Marcelle Çift Kişilik %100 Pamuk Ranforce B, ortalama olarak karışık bir genel memnuniyet puanına sahip. Ürünün dokusunu ve kalitesini değerlendiren yorumcuların çoğu, ürünün olumlu tarafını işaret ederken bazıları da olumsuz deneyimleri paylaşmıştır. Çekme yapmadaki performansı ise tam ortada kalmıştır. Bu ürünü satın alacaklar için, gerçekçi bir beklentiyle karşılaşmaları gerekir.",
   "score_distribution": {
     "1": 1,
     "2": 0,
@@ -16,7 +16,72 @@
     "4": 0,
     "5": 1
   },
-  "aspects": [],
+  "aspects": [
+    {
+      "name": "Çekme Yapmad",
+      "review_count": 2,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "yıkadım",
+        "lastikli",
+        "yapmadı",
+        "pamuk",
+        "alıcam",
+        "solma",
+        "çekme",
+        "çekme yapmadı"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "pamuk var ama 100 değil kaliteli ürün uzun yıllar kullanacağımızı düşünüyorum fiyatına göre güzel",
+        "asla yüzde yüz pamuk değil hiç bilmeyen bi insan bile dokununca anlar pamuk olmadığını"
+      ],
+      "all_reviews": [
+        {
+          "text": "pamuk var ama 100 değil kaliteli ürün uzun yıllar kullanacağımızı düşünüyorum fiyatına göre güzel",
+          "score": 5.0
+        },
+        {
+          "text": "asla yüzde yüz pamuk değil hiç bilmeyen bi insan bile dokununca anlar pamuk olmadığını",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Doku & Kalite",
+      "review_count": 2,
+      "avg_score": 3.0,
+      "sentiment": "neutral",
+      "sentiment_label": "Karışık",
+      "top_terms": [
+        "dokusu",
+        "kalitesi"
+      ],
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "pamuk var ama 100 değil kaliteli ürün uzun yıllar kullanacağımızı düşünüyorum fiyatına göre güzel",
+        "asla yüzde yüz pamuk değil hiç bilmeyen bi insan bile dokununca anlar pamuk olmadığını"
+      ],
+      "all_reviews": [
+        {
+          "text": "pamuk var ama 100 değil kaliteli ürün uzun yıllar kullanacağımızı düşünüyorum fiyatına göre güzel",
+          "score": 5.0
+        },
+        {
+          "text": "asla yüzde yüz pamuk değil hiç bilmeyen bi insan bile dokununca anlar pamuk olmadığını",
+          "score": 1.0
+        }
+      ],
+      "icon": "💬"
+    }
+  ],
   "top_reviews": [
     "pamuk var ama 100 değil kaliteli ürün uzun yıllar kullanacağımızı düşünüyorum fiyatına göre güzel",
     "asla yüzde yüz pamuk değil hiç bilmeyen bi insan bile dokununca anlar pamuk olmadığını"

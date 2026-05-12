@@ -8,7 +8,7 @@
   "overall_score": 4.78,
   "overall_sentiment": "positive",
   "stars": "★★★★½",
-  "summary": "**wamoss Kışlık Boyfriend Asit Yıkamalı Taşlamalı Buz Mav** için 50 müşteri yorumu incelenmiştir. Genel değerlendirmeler oldukça olumludur.\n• **Fiyat Performans**: Fiyat performans ürünü bir beden büyük almanızı öneririm.\n• **Kumaş**: Normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş.\n• **Kalite & Fiyat**: Normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş.\n• **Kalite & Alınabilir**: Normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş.\n• **Kalite & Kalıb**: Normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş.",
+  "summary": "Wamoss Kışlık Boyfriend Asit Yıkamalı Taşlamalı Buz Mav, ortalama 4.8 puanla oldukça yüksek memnuniyet oranına sahip. Fiyat performansı ve kalite-fiyat dengesi mükemmel olarak değerlendiriliyor. Ürünün kumaş kalitesi de beğenilen bir özelliği ve alınan ürünün kalitesine ve kalıbına dair yorumlar da tamamıyla olumlu. Tüm yönlerden pozitif eleştirilerle donatılmış bu ürünü, yüksek memnuniyet oranını haklı olarak elde eden bir seçim olarak tavsiye edilir.",
   "score_distribution": {
     "1": 0,
     "2": 2,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 35,
-      "avg_score": 4.86,
+      "review_count": 44,
+      "avg_score": 4.75,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,13 +33,13 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 85.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 14.3,
+      "positive_pct": 84.1,
+      "negative_pct": 4.5,
+      "neutral_pct": 11.4,
       "sample_reviews": [
+        "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
         "fiyat performans ürünü bir beden büyük almanızı öneririm",
-        "güzel ürün kaliteli bedeninizi alın bol geliyor",
-        "tam bedeninizi alın kaliteli"
+        "güzel ürün kaliteli bedeninizi alın bol geliyor"
       ],
       "all_reviews": [
         {
@@ -47,15 +47,7 @@
           "score": 5.0
         },
         {
-          "text": "tam bedeninizi alın kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "mükemmel çok rahat tam bedeninizi alın şimdi diğer ürünün renginide sipariş ettim başarılı",
-          "score": 5.0
-        },
-        {
-          "text": "mükemmel ürün bedeninizi alın",
+          "text": "kumaşını gayet güzel 182 boy 83 kiloyum ve xl aldım gayet güzel oturdu üstüme öneririm",
           "score": 5.0
         },
         {
@@ -63,23 +55,11 @@
           "score": 5.0
         },
         {
-          "text": "1.75 70 kg 32 beden tam oldu güzel pantolon",
+          "text": "mükemmel ürün bedeninizi alın",
           "score": 5.0
         },
         {
-          "text": "güzel ürün kaliteli bedeninizi alın bol geliyor",
-          "score": 5.0
-        },
-        {
-          "text": "bedeninizi alın",
-          "score": 5.0
-        },
-        {
-          "text": "çok hoşuma gitti rahatlıkla kendi bedeninizi alabilirsiniz",
-          "score": 5.0
-        },
-        {
-          "text": "çok güzel tam bedeninize göre alın",
+          "text": "mükemmel çok rahat tam bedeninizi alın şimdi diğer ürünün renginide sipariş ettim başarılı",
           "score": 5.0
         },
         {
@@ -87,8 +67,92 @@
           "score": 5.0
         },
         {
+          "text": "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
+          "score": 5.0
+        },
+        {
+          "text": "eşim için aldım gayet güzel yani diğer rengini de alıcaz tam beden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "çok güzel tam bedeninize göre alın",
+          "score": 5.0
+        },
+        {
+          "text": "çok hoşuma gitti rahatlıkla kendi bedeninizi alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "tam bedeninizi alın kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "güzel ürün kaliteli bedeninizi alın bol geliyor",
+          "score": 5.0
+        },
+        {
+          "text": "1.75 70 kg 32 beden tam oldu güzel pantolon",
+          "score": 5.0
+        },
+        {
+          "text": "fiyat performans ürünü bir beden büyük almanızı öneririm",
+          "score": 4.0
+        },
+        {
           "text": "belinizi 1 beden büyük alın bence",
           "score": 4.0
+        },
+        {
+          "text": "32 beden istedim 33 geldi ön tarafında ki düğme zor takılıp çıkartılıyor bir tek rengini beğendim o kadar",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Fiyat",
+      "review_count": 14,
+      "avg_score": 4.79,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "düşünüyorum",
+        "kalite",
+        "fiyat",
+        "almak",
+        "uygun",
+        "beğenerek",
+        "tane",
+        "alınabilir"
+      ],
+      "positive_pct": 78.6,
+      "negative_pct": 0.0,
+      "neutral_pct": 21.4,
+      "sample_reviews": [
+        "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
+        "içiniz ferah bir şekilde alabilirsiniz çok kaliteli ve beden sorunu hiç yaşamadım gidip mağaza da almışım gibi tık oturdu",
+        "fiyat performans ürünü bir beden büyük almanızı öneririm"
+      ],
+      "all_reviews": [
+        {
+          "text": "tam bedeninizi alın kaliteli",
+          "score": 5.0
+        },
+        {
+          "text": "güzel ürün kaliteli bedeninizi alın bol geliyor",
+          "score": 5.0
+        },
+        {
+          "text": "içiniz ferah bir şekilde alabilirsiniz çok kaliteli ve beden sorunu hiç yaşamadım gidip mağaza da almışım gibi tık oturdu",
+          "score": 5.0
+        },
+        {
+          "text": "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
+          "score": 5.0
         },
         {
           "text": "fiyat performans ürünü bir beden büyük almanızı öneririm",
@@ -146,52 +210,8 @@
       "icon": "💬"
     },
     {
-      "name": "Kalite & Fiyat",
-      "review_count": 11,
-      "avg_score": 4.73,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "düşünüyorum",
-        "kalite",
-        "fiyat",
-        "almak",
-        "uygun",
-        "beğenerek",
-        "tane",
-        "alınabilir"
-      ],
-      "positive_pct": 72.7,
-      "negative_pct": 0.0,
-      "neutral_pct": 27.3,
-      "sample_reviews": [
-        "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
-        "fiyat performans ürünü bir beden büyük almanızı öneririm",
-        "güzel ürün kaliteli bedeninizi alın bol geliyor"
-      ],
-      "all_reviews": [
-        {
-          "text": "tam bedeninizi alın kaliteli",
-          "score": 5.0
-        },
-        {
-          "text": "güzel ürün kaliteli bedeninizi alın bol geliyor",
-          "score": 5.0
-        },
-        {
-          "text": "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
-          "score": 5.0
-        },
-        {
-          "text": "fiyat performans ürünü bir beden büyük almanızı öneririm",
-          "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
       "name": "Kalite & Alınabilir",
-      "review_count": 8,
+      "review_count": 11,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -210,8 +230,8 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
-        "güzel ürün kaliteli bedeninizi alın bol geliyor",
-        "tam bedeninizi alın kaliteli"
+        "içiniz ferah bir şekilde alabilirsiniz çok kaliteli ve beden sorunu hiç yaşamadım gidip mağaza da almışım gibi tık oturdu",
+        "güzel ürün kaliteli bedeninizi alın bol geliyor"
       ],
       "all_reviews": [
         {
@@ -223,6 +243,10 @@
           "score": 5.0
         },
         {
+          "text": "içiniz ferah bir şekilde alabilirsiniz çok kaliteli ve beden sorunu hiç yaşamadım gidip mağaza da almışım gibi tık oturdu",
+          "score": 5.0
+        },
+        {
           "text": "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
           "score": 5.0
         }
@@ -231,7 +255,7 @@
     },
     {
       "name": "Kalite & Kalıb",
-      "review_count": 8,
+      "review_count": 11,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -250,8 +274,8 @@
       "neutral_pct": 0.0,
       "sample_reviews": [
         "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
-        "güzel ürün kaliteli bedeninizi alın bol geliyor",
-        "tam bedeninizi alın kaliteli"
+        "içiniz ferah bir şekilde alabilirsiniz çok kaliteli ve beden sorunu hiç yaşamadım gidip mağaza da almışım gibi tık oturdu",
+        "güzel ürün kaliteli bedeninizi alın bol geliyor"
       ],
       "all_reviews": [
         {
@@ -263,6 +287,10 @@
           "score": 5.0
         },
         {
+          "text": "içiniz ferah bir şekilde alabilirsiniz çok kaliteli ve beden sorunu hiç yaşamadım gidip mağaza da almışım gibi tık oturdu",
+          "score": 5.0
+        },
+        {
           "text": "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
           "score": 5.0
         }
@@ -270,8 +298,49 @@
       "icon": "💬"
     },
     {
+      "name": "Siyah",
+      "review_count": 9,
+      "avg_score": 4.33,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
+      "top_terms": [
+        "aldık",
+        "siyah",
+        "yumuşacık",
+        "alınmalı",
+        "rengi"
+      ],
+      "positive_pct": 77.8,
+      "negative_pct": 22.2,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "32 beden istedim 33 geldi ön tarafında ki düğme zor takılıp çıkartılıyor bir tek rengini beğendim o kadar",
+        "mükemmel çok rahat tam bedeninizi alın şimdi diğer ürünün renginide sipariş ettim başarılı",
+        "eşim için aldım gayet güzel yani diğer rengini de alıcaz tam beden alabilirsiniz"
+      ],
+      "all_reviews": [
+        {
+          "text": "mükemmel çok rahat tam bedeninizi alın şimdi diğer ürünün renginide sipariş ettim başarılı",
+          "score": 5.0
+        },
+        {
+          "text": "kardeşime aldık çok beğendi çok güzel",
+          "score": 5.0
+        },
+        {
+          "text": "eşim için aldım gayet güzel yani diğer rengini de alıcaz tam beden alabilirsiniz",
+          "score": 5.0
+        },
+        {
+          "text": "32 beden istedim 33 geldi ön tarafında ki düğme zor takılıp çıkartılıyor bir tek rengini beğendim o kadar",
+          "score": 2.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
       "name": "Doku & Likral",
-      "review_count": 3,
+      "review_count": 5,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
@@ -289,11 +358,16 @@
       "negative_pct": 0.0,
       "neutral_pct": 0.0,
       "sample_reviews": [
-        "kumaşını gayet güzel 182 boy 83 kiloyum ve xl aldım gayet güzel oturdu üstüme öneririm"
+        "kumaşını gayet güzel 182 boy 83 kiloyum ve xl aldım gayet güzel oturdu üstüme öneririm",
+        "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş"
       ],
       "all_reviews": [
         {
           "text": "kumaşını gayet güzel 182 boy 83 kiloyum ve xl aldım gayet güzel oturdu üstüme öneririm",
+          "score": 5.0
+        },
+        {
+          "text": "normalde 34-30 giyiyorum burdan 36-32 aldım çok güzel oldu kumaş kalitesi fiyatına göre çok iyi kesim güzel renkte gayet hoş",
           "score": 5.0
         }
       ],

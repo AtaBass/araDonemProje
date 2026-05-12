@@ -8,7 +8,7 @@
   "overall_score": 4.35,
   "overall_sentiment": "neutral",
   "stars": "★★★★☆",
-  "summary": "**AC&Co / Altınyıldız Classics Erkek Lacivert Ekstra Slim** için 40 yorum analiz edilmiştir. Genel memnuniyet yüksek, bazı noktalarda farklı görüşler mevcuttur.\n• **Fiyat Performans**: Bu fiyata bu kalite bedava.\n• **Kalite & Fiyat**: Bu fiyata bu kalite bedava.\n• **Kalite & Kalıb**: Kaliteli fakat çok dar kesim.\n• **Kalite & Alınabilir**: Kaliteli fakat çok dar kesim.\n• **Kumaş**: Ürünün kumaşı dokusu çok güzel pantolonun özelliğinde belirtilmiş olmasına rağmen aşırı dar kesim fiyatına göre çok iyi.",
+  "summary": "AC&Co / Altınyıldız Classics Erkek Lacivert Ekstra Slim ürününün genel değerlendirmesi, pozitif görüşlerin hakimiyetinde yer alıyor. Ürünün fiyat performansına, kalite ve fiyatına, kalite ve alınabilirliğine, kalite ve kalıbına dair yorumlar, hepsi olağanüstü derecede olumlu. Ürüninin kumaşına ilişkin görüşler de yine yüksek puanlar aldı. Genel olarak, ürününü satın alan müşterilerin %87'si, ürünün yüksek kaliteli ve uygun fiyata sahip olduğunu ifade ediyor.",
   "score_distribution": {
     "1": 2,
     "2": 2,
@@ -19,8 +19,8 @@
   "aspects": [
     {
       "name": "Fiyat Performans",
-      "review_count": 20,
-      "avg_score": 4.9,
+      "review_count": 24,
+      "avg_score": 4.75,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -33,9 +33,9 @@
         "aldık",
         "performans"
       ],
-      "positive_pct": 90.0,
+      "positive_pct": 75.0,
       "negative_pct": 0.0,
-      "neutral_pct": 10.0,
+      "neutral_pct": 25.0,
       "sample_reviews": [
         "kaliteli tam bir fp ürünü bedeninizi alın",
         "kaliteli fakat çok dar kesim",
@@ -79,7 +79,15 @@
           "score": 5.0
         },
         {
+          "text": "179 boy 81 kg normalde 31 beden tam olur yorumlara bakarak 32 beden aldım bacaklarım ince olması nedeniyle tam oturdu ancak kemer kısmı geniş kaldı kumaşı ve kalıbı çok güzel ve dar kargo hızlı teslim edildi bu fiyata çok iyi",
+          "score": 4.0
+        },
+        {
           "text": "fena sayılmaz ucuzlarsa indirimdeyken alınır aynı markanın kendi mağazasındaki kot pantolonlardan bedenim olan 32 aldım küçük geldi iade ettim 33 alacağım bunları o yüzden 33 almıştım ama bunlarda büyük geldi tam bedeninizi alabilirsiniz",
+          "score": 4.0
+        },
+        {
+          "text": "177 93 kg 36 beden aldım paçasından ayağım zor geçti üst taraf iyi oldu kısaltacağım için paça düzelir diye düşünüyorum renk ve duruşunu sevdim bu arada arka baldır kısmında defo var ve yan dikişlerinde defo var o yüzden uygun fiyatlı diye kabul ettim",
           "score": 4.0
         }
       ],
@@ -87,8 +95,8 @@
     },
     {
       "name": "Kalite & Fiyat",
-      "review_count": 14,
-      "avg_score": 4.86,
+      "review_count": 20,
+      "avg_score": 4.8,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -101,15 +109,87 @@
         "tane",
         "alınabilir"
       ],
-      "positive_pct": 85.7,
+      "positive_pct": 80.0,
       "negative_pct": 0.0,
-      "neutral_pct": 14.3,
+      "neutral_pct": 20.0,
       "sample_reviews": [
         "177 93 kg 36 beden aldım paçasından ayağım zor geçti üst taraf iyi oldu kısaltacağım için paça düzelir diye düşünüyorum renk ve duruşunu sevdim bu arada arka baldır kısmında defo var ve yan dikişlerinde defo var o yüzden uygun fiyatlı diye kabul ettim",
         "bu fiyata bu kalite bedava",
+        "179 boy 81 kg normalde 31 beden tam olur yorumlara bakarak 32 beden aldım bacaklarım ince olması nedeniyle tam oturdu ancak kemer kısmı geniş kaldı kumaşı ve kalıbı çok güzel ve dar kargo hızlı teslim edildi bu fiyata çok iyi"
+      ],
+      "all_reviews": [
+        {
+          "text": "32 beden olarak aldım hafiften göbekte var daha önce bir ürün daha almıştım yine bu tarz çok güzel çok kaliteli çık beğendim indirime girdiğinde kaçırmayın derim yorumum fake değildir",
+          "score": 5.0
+        },
+        {
+          "text": "oldukça kaliteli ve mükemmel",
+          "score": 5.0
+        },
+        {
+          "text": "ürünün kumaşı dokusu çok güzel pantolonun özelliğinde belirtilmiş olmasına rağmen aşırı dar kesim fiyatına göre çok iyi",
+          "score": 5.0
+        },
+        {
+          "text": "hızla kargo kaliteli ürün teşekkür",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli güzel bir ürün",
+          "score": 5.0
+        },
+        {
+          "text": "bu fiyata bu kalite bedava",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli tam bir fp ürünü bedeninizi alın",
+          "score": 5.0
+        },
+        {
+          "text": "kaliteli fakat çok dar kesim",
+          "score": 5.0
+        },
+        {
+          "text": "179 boy 81 kg normalde 31 beden tam olur yorumlara bakarak 32 beden aldım bacaklarım ince olması nedeniyle tam oturdu ancak kemer kısmı geniş kaldı kumaşı ve kalıbı çok güzel ve dar kargo hızlı teslim edildi bu fiyata çok iyi",
+          "score": 4.0
+        },
+        {
+          "text": "177 93 kg 36 beden aldım paçasından ayağım zor geçti üst taraf iyi oldu kısaltacağım için paça düzelir diye düşünüyorum renk ve duruşunu sevdim bu arada arka baldır kısmında defo var ve yan dikişlerinde defo var o yüzden uygun fiyatlı diye kabul ettim",
+          "score": 4.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalite & Alınabilir",
+      "review_count": 16,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kalitesi",
+        "alınabilir",
+        "likralı",
+        "kalıp",
+        "beğenerek",
+        "birebir",
+        "yumuşacık",
+        "tşkler"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "ürün çok güzel evet dar kalıp eşim ara beden olduğu için 36 beden sipariş verdim çok iyi oldu boy 176 kilosu 93 34 beden dar gelirmiş",
+        "32 beden olarak aldım hafiften göbekte var daha önce bir ürün daha almıştım yine bu tarz çok güzel çok kaliteli çık beğendim indirime girdiğinde kaçırmayın derim yorumum fake değildir",
         "kaliteli tam bir fp ürünü bedeninizi alın"
       ],
       "all_reviews": [
+        {
+          "text": "32 beden olarak aldım hafiften göbekte var daha önce bir ürün daha almıştım yine bu tarz çok güzel çok kaliteli çık beğendim indirime girdiğinde kaçırmayın derim yorumum fake değildir",
+          "score": 5.0
+        },
         {
           "text": "oldukça kaliteli ve mükemmel",
           "score": 5.0
@@ -127,24 +207,24 @@
           "score": 5.0
         },
         {
+          "text": "ürün çok güzel evet dar kalıp eşim ara beden olduğu için 36 beden sipariş verdim çok iyi oldu boy 176 kilosu 93 34 beden dar gelirmiş",
+          "score": 5.0
+        },
+        {
           "text": "kaliteli güzel bir ürün",
           "score": 5.0
         },
         {
           "text": "hızla kargo kaliteli ürün teşekkür",
           "score": 5.0
-        },
-        {
-          "text": "177 93 kg 36 beden aldım paçasından ayağım zor geçti üst taraf iyi oldu kısaltacağım için paça düzelir diye düşünüyorum renk ve duruşunu sevdim bu arada arka baldır kısmında defo var ve yan dikişlerinde defo var o yüzden uygun fiyatlı diye kabul ettim",
-          "score": 4.0
         }
       ],
       "icon": "💬"
     },
     {
       "name": "Kalite & Kalıb",
-      "review_count": 14,
-      "avg_score": 4.86,
+      "review_count": 16,
+      "avg_score": 4.88,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
@@ -157,15 +237,19 @@
         "dilerim",
         "kalıp"
       ],
-      "positive_pct": 85.7,
+      "positive_pct": 87.5,
       "negative_pct": 0.0,
-      "neutral_pct": 14.3,
+      "neutral_pct": 12.5,
       "sample_reviews": [
         "kaliteli fakat çok dar kesim",
         "179 boy 81 kg normalde 31 beden tam olur yorumlara bakarak 32 beden aldım bacaklarım ince olması nedeniyle tam oturdu ancak kemer kısmı geniş kaldı kumaşı ve kalıbı çok güzel ve dar kargo hızlı teslim edildi bu fiyata çok iyi",
-        "kaliteli tam bir fp ürünü bedeninizi alın"
+        "32 beden olarak aldım hafiften göbekte var daha önce bir ürün daha almıştım yine bu tarz çok güzel çok kaliteli çık beğendim indirime girdiğinde kaçırmayın derim yorumum fake değildir"
       ],
       "all_reviews": [
+        {
+          "text": "32 beden olarak aldım hafiften göbekte var daha önce bir ürün daha almıştım yine bu tarz çok güzel çok kaliteli çık beğendim indirime girdiğinde kaçırmayın derim yorumum fake değildir",
+          "score": 5.0
+        },
         {
           "text": "oldukça kaliteli ve mükemmel",
           "score": 5.0
@@ -193,58 +277,6 @@
         {
           "text": "179 boy 81 kg normalde 31 beden tam olur yorumlara bakarak 32 beden aldım bacaklarım ince olması nedeniyle tam oturdu ancak kemer kısmı geniş kaldı kumaşı ve kalıbı çok güzel ve dar kargo hızlı teslim edildi bu fiyata çok iyi",
           "score": 4.0
-        }
-      ],
-      "icon": "💬"
-    },
-    {
-      "name": "Kalite & Alınabilir",
-      "review_count": 12,
-      "avg_score": 5.0,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
-      "top_terms": [
-        "kalitesi",
-        "alınabilir",
-        "likralı",
-        "kalıp",
-        "beğenerek",
-        "birebir",
-        "yumuşacık",
-        "tşkler"
-      ],
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "neutral_pct": 0.0,
-      "sample_reviews": [
-        "kaliteli tam bir fp ürünü bedeninizi alın",
-        "hızla kargo kaliteli ürün teşekkür",
-        "oldukça kaliteli ve mükemmel"
-      ],
-      "all_reviews": [
-        {
-          "text": "oldukça kaliteli ve mükemmel",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli fakat çok dar kesim",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli tam bir fp ürünü bedeninizi alın",
-          "score": 5.0
-        },
-        {
-          "text": "bu fiyata bu kalite bedava",
-          "score": 5.0
-        },
-        {
-          "text": "kaliteli güzel bir ürün",
-          "score": 5.0
-        },
-        {
-          "text": "hızla kargo kaliteli ürün teşekkür",
-          "score": 5.0
         }
       ],
       "icon": "💬"
@@ -291,8 +323,8 @@
     },
     {
       "name": "Kalıp",
-      "review_count": 4,
-      "avg_score": 3.0,
+      "review_count": 6,
+      "avg_score": 3.67,
       "sentiment": "neutral",
       "sentiment_label": "Karışık",
       "top_terms": [
@@ -305,14 +337,19 @@
         "kocama",
         "birebir"
       ],
-      "positive_pct": 0.0,
-      "negative_pct": 50.0,
-      "neutral_pct": 50.0,
+      "positive_pct": 33.3,
+      "negative_pct": 33.3,
+      "neutral_pct": 33.3,
       "sample_reviews": [
         "fena sayılmaz ucuzlarsa indirimdeyken alınır aynı markanın kendi mağazasındaki kot pantolonlardan bedenim olan 32 aldım küçük geldi iade ettim 33 alacağım bunları o yüzden 33 almıştım ama bunlarda büyük geldi tam bedeninizi alabilirsiniz",
+        "ürün çok güzel evet dar kalıp eşim ara beden olduğu için 36 beden sipariş verdim çok iyi oldu boy 176 kilosu 93 34 beden dar gelirmiş",
         "cok dar geldi iade"
       ],
       "all_reviews": [
+        {
+          "text": "ürün çok güzel evet dar kalıp eşim ara beden olduğu için 36 beden sipariş verdim çok iyi oldu boy 176 kilosu 93 34 beden dar gelirmiş",
+          "score": 5.0
+        },
         {
           "text": "fena sayılmaz ucuzlarsa indirimdeyken alınır aynı markanın kendi mağazasındaki kot pantolonlardan bedenim olan 32 aldım küçük geldi iade ettim 33 alacağım bunları o yüzden 33 almıştım ama bunlarda büyük geldi tam bedeninizi alabilirsiniz",
           "score": 4.0
@@ -326,10 +363,10 @@
     },
     {
       "name": "Doku & Likral",
-      "review_count": 4,
-      "avg_score": 4.5,
-      "sentiment": "positive",
-      "sentiment_label": "Olumlu",
+      "review_count": 6,
+      "avg_score": 4.33,
+      "sentiment": "neutral",
+      "sentiment_label": "Genel Olumlu",
       "top_terms": [
         "dokusu",
         "likralı",
@@ -340,17 +377,22 @@
         "kilo",
         "firmaya"
       ],
-      "positive_pct": 50.0,
+      "positive_pct": 33.3,
       "negative_pct": 0.0,
-      "neutral_pct": 50.0,
+      "neutral_pct": 66.7,
       "sample_reviews": [
         "ürünün kumaşı dokusu çok güzel pantolonun özelliğinde belirtilmiş olmasına rağmen aşırı dar kesim fiyatına göre çok iyi",
-        "179 boy 81 kg normalde 31 beden tam olur yorumlara bakarak 32 beden aldım bacaklarım ince olması nedeniyle tam oturdu ancak kemer kısmı geniş kaldı kumaşı ve kalıbı çok güzel ve dar kargo hızlı teslim edildi bu fiyata çok iyi"
+        "179 boy 81 kg normalde 31 beden tam olur yorumlara bakarak 32 beden aldım bacaklarım ince olması nedeniyle tam oturdu ancak kemer kısmı geniş kaldı kumaşı ve kalıbı çok güzel ve dar kargo hızlı teslim edildi bu fiyata çok iyi",
+        "fena sayılmaz ucuzlarsa indirimdeyken alınır aynı markanın kendi mağazasındaki kot pantolonlardan bedenim olan 32 aldım küçük geldi iade ettim 33 alacağım bunları o yüzden 33 almıştım ama bunlarda büyük geldi tam bedeninizi alabilirsiniz"
       ],
       "all_reviews": [
         {
           "text": "ürünün kumaşı dokusu çok güzel pantolonun özelliğinde belirtilmiş olmasına rağmen aşırı dar kesim fiyatına göre çok iyi",
           "score": 5.0
+        },
+        {
+          "text": "fena sayılmaz ucuzlarsa indirimdeyken alınır aynı markanın kendi mağazasındaki kot pantolonlardan bedenim olan 32 aldım küçük geldi iade ettim 33 alacağım bunları o yüzden 33 almıştım ama bunlarda büyük geldi tam bedeninizi alabilirsiniz",
+          "score": 4.0
         },
         {
           "text": "179 boy 81 kg normalde 31 beden tam olur yorumlara bakarak 32 beden aldım bacaklarım ince olması nedeniyle tam oturdu ancak kemer kısmı geniş kaldı kumaşı ve kalıbı çok güzel ve dar kargo hızlı teslim edildi bu fiyata çok iyi",

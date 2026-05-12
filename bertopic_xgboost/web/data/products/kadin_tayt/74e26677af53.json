@@ -8,7 +8,7 @@
   "overall_score": 5.0,
   "overall_sentiment": "positive",
   "stars": "★★★★★",
-  "summary": "**AOSFİT Yüksek Bel Toparlayıcı ve Esnek İspanyol Paça Ta** için 4 müşteri yorumu incelenmiştir. Ürün, kullanıcılar tarafından son derece olumlu karşılanmakta ve yüksek puan almaktadır.\n• **Kumaşı** konusunda kullanıcıların büyük bölümü olumlu deneyimini paylaşmaktadır; **kumaş** ve **kalıbı** konusu özellikle vurgulanmaktadır. Örnek kullanıcı ifadesi: \"Kumaşın dokusu ve kalitesi muhteşem fazla sıkmadan vücudu sarmalıyor farklı paça boyl…\"",
+  "summary": "AOSFİT Yüksek Bel Toparlayıcı ve Esnek İspanyol Paça Ta, yüksek memnuniyet oranına sahiptir. Ürün sahibi olanlar, toparlayıcının bedenini, kalıbını, kumaş/farklı renkliliği ve duruş/kaliteyi fazlasıyla beğenmişlerdir. Kumaşın kaliteli ve uzun süreli kullanımını da takdir etmişlerdir. Genel olarak, ürünün her yönü aynı derecede pozitif bir şekilde değerlendirilmiştir.",
   "score_distribution": {
     "1": 0,
     "2": 0,
@@ -18,20 +18,100 @@
   },
   "aspects": [
     {
-      "name": "Kumaşı",
+      "name": "Toparlayıc & Beden",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlayıcı",
+        "oturuyor",
+        "bedeni",
+        "alınmalı",
+        "yumuşak",
+        "kalitesi",
+        "bayıldım",
+        "beklediğimden"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "toparlayıcılığına bayıldım iç göstermiyor selülit belli etmiyor üstüne basic zara modeli bluzlardan aldım takım gibi durdu tavsiye ediyorum kılıflara koyup göndermişler bayıldım belki bir beden büyük alınabilir ama ben dar duruşunu sevdim",
+        "tok bi kumaş ve toparlayıcılığı baya baya güzel iç göstermiyor ayrıca beli tam oturuyor",
+        "kumaşın dokusu ve kalitesi muhteşem fazla sıkmadan vücudu sarmalıyor farklı paça boylarında kullanabilmek için hemen ikinci sipariş verdim umarım farklı renkleri de üretilir 42 beden olarak xl aldım tam oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "kumaşın dokusu ve kalitesi muhteşem fazla sıkmadan vücudu sarmalıyor farklı paça boylarında kullanabilmek için hemen ikinci sipariş verdim umarım farklı renkleri de üretilir 42 beden olarak xl aldım tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "toparlayıcılığına bayıldım iç göstermiyor selülit belli etmiyor üstüne basic zara modeli bluzlardan aldım takım gibi durdu tavsiye ediyorum kılıflara koyup göndermişler bayıldım belki bir beden büyük alınabilir ama ben dar duruşunu sevdim",
+          "score": 5.0
+        },
+        {
+          "text": "tok bi kumaş ve toparlayıcılığı baya baya güzel iç göstermiyor ayrıca beli tam oturuyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kalıp",
+      "review_count": 3,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "toparlıyor",
+        "kalıp",
+        "beyendim",
+        "baya",
+        "bayıldım",
+        "efsane",
+        "etek",
+        "olabilir"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "toparlayıcılığına bayıldım iç göstermiyor selülit belli etmiyor üstüne basic zara modeli bluzlardan aldım takım gibi durdu tavsiye ediyorum kılıflara koyup göndermişler bayıldım belki bir beden büyük alınabilir ama ben dar duruşunu sevdim",
+        "tok bi kumaş ve toparlayıcılığı baya baya güzel iç göstermiyor ayrıca beli tam oturuyor",
+        "bayıldım özellikle bel kısmına oturusunu begendim"
+      ],
+      "all_reviews": [
+        {
+          "text": "bayıldım özellikle bel kısmına oturusunu begendim",
+          "score": 5.0
+        },
+        {
+          "text": "toparlayıcılığına bayıldım iç göstermiyor selülit belli etmiyor üstüne basic zara modeli bluzlardan aldım takım gibi durdu tavsiye ediyorum kılıflara koyup göndermişler bayıldım belki bir beden büyük alınabilir ama ben dar duruşunu sevdim",
+          "score": 5.0
+        },
+        {
+          "text": "tok bi kumaş ve toparlayıcılığı baya baya güzel iç göstermiyor ayrıca beli tam oturuyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş / Farkl Renk",
       "review_count": 3,
       "avg_score": 5.0,
       "sentiment": "positive",
       "sentiment_label": "Olumlu",
       "top_terms": [
         "kumaşı",
-        "diye",
-        "kumaş",
-        "kalıbı",
-        "iade",
-        "esnek",
-        "bayıldım",
-        "baya"
+        "oldum",
+        "bedeni",
+        "rengi",
+        "alin",
+        "sarıyor",
+        "farklı renkleri",
+        "beli"
       ],
       "positive_pct": 100.0,
       "negative_pct": 0.0,
@@ -48,6 +128,76 @@
         },
         {
           "text": "toparlayıcılığına bayıldım iç göstermiyor selülit belli etmiyor üstüne basic zara modeli bluzlardan aldım takım gibi durdu tavsiye ediyorum kılıflara koyup göndermişler bayıldım belki bir beden büyük alınabilir ama ben dar duruşunu sevdim",
+          "score": 5.0
+        },
+        {
+          "text": "tok bi kumaş ve toparlayıcılığı baya baya güzel iç göstermiyor ayrıca beli tam oturuyor",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Duruş & Kalite",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "duruşu",
+        "kalitesi",
+        "göründüğü",
+        "sardı",
+        "bedeninizden",
+        "alin",
+        "bayıldım",
+        "almalısınız"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "toparlayıcılığına bayıldım iç göstermiyor selülit belli etmiyor üstüne basic zara modeli bluzlardan aldım takım gibi durdu tavsiye ediyorum kılıflara koyup göndermişler bayıldım belki bir beden büyük alınabilir ama ben dar duruşunu sevdim",
+        "kumaşın dokusu ve kalitesi muhteşem fazla sıkmadan vücudu sarmalıyor farklı paça boylarında kullanabilmek için hemen ikinci sipariş verdim umarım farklı renkleri de üretilir 42 beden olarak xl aldım tam oldu"
+      ],
+      "all_reviews": [
+        {
+          "text": "kumaşın dokusu ve kalitesi muhteşem fazla sıkmadan vücudu sarmalıyor farklı paça boylarında kullanabilmek için hemen ikinci sipariş verdim umarım farklı renkleri de üretilir 42 beden olarak xl aldım tam oldu",
+          "score": 5.0
+        },
+        {
+          "text": "toparlayıcılığına bayıldım iç göstermiyor selülit belli etmiyor üstüne basic zara modeli bluzlardan aldım takım gibi durdu tavsiye ediyorum kılıflara koyup göndermişler bayıldım belki bir beden büyük alınabilir ama ben dar duruşunu sevdim",
+          "score": 5.0
+        }
+      ],
+      "icon": "💬"
+    },
+    {
+      "name": "Kumaş",
+      "review_count": 2,
+      "avg_score": 5.0,
+      "sentiment": "positive",
+      "sentiment_label": "Olumlu",
+      "top_terms": [
+        "kumaşı",
+        "diye",
+        "kumaş",
+        "kalıbı",
+        "iade",
+        "bayıldım",
+        "baya",
+        "almışım"
+      ],
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "sample_reviews": [
+        "kumaşın dokusu ve kalitesi muhteşem fazla sıkmadan vücudu sarmalıyor farklı paça boylarında kullanabilmek için hemen ikinci sipariş verdim umarım farklı renkleri de üretilir 42 beden olarak xl aldım tam oldu",
+        "tok bi kumaş ve toparlayıcılığı baya baya güzel iç göstermiyor ayrıca beli tam oturuyor"
+      ],
+      "all_reviews": [
+        {
+          "text": "kumaşın dokusu ve kalitesi muhteşem fazla sıkmadan vücudu sarmalıyor farklı paça boylarında kullanabilmek için hemen ikinci sipariş verdim umarım farklı renkleri de üretilir 42 beden olarak xl aldım tam oldu",
           "score": 5.0
         },
         {
