@@ -89,3 +89,38 @@ pip install bertopic sentence-transformers xgboost scikit-learn pandas numpy mat
 | `output/{kategori}_eval_report.txt` | Değerlendirme raporu |
 | `output/{kategori}_bertopic_model/` | Kaydedilmiş BERTopic modeli |
 | `output/{kategori}_xgb_model.json` | Kaydedilmiş XGBoost modeli |
+
+---
+
+## ✅ Değerlendirme Durumu
+
+### Otomatik Değerlendirme — Tamamlandı
+
+10 kategorinin tamamı için aşağıdaki metrikler hesaplandı (`python3 evaluation.py --all`):
+
+| Metrik | Ortalama | Açıklama |
+|--------|----------|----------|
+| Silhouette Score | 0.0735 | Küme ayrışma kalitesi |
+| Topic Coherence (C_V) | 0.4256 | Topic kelime tutarlılığı |
+| XGBoost F1 (weighted) | 0.9684 | Outlier atama başarısı |
+| ROUGE-1 | 0.0809 | Özet–yorum örtüşmesi |
+
+Detaylı rapor: `evaluation_output/auto_eval_report.json`
+
+### ⚠️ İnsan Değerlendirmesi — Yapılmadı
+
+İnsan değerlendirmesi henüz tamamlanmamıştır.
+
+**Değerlendirme formu:** `evaluation_output/human_eval.html`
+
+Formu çalıştırmak için:
+```bash
+python3 -m http.server 8001 --directory evaluation_output/
+# Tarayıcıda aç: http://localhost:8001/human_eval.html
+```
+
+Form 80 sorudan oluşmaktadır:
+- **Bölüm 1 (50 soru):** Aspect başlıklarının yorumlarla uyumu (1–5 puan)
+- **Bölüm 2 (30 soru):** Üretilen özetlerin doğruluk, akıcılık ve kapsam değerlendirmesi (1–5 puan)
+
+Değerlendirme tamamlandığında form `human_eval_results.json` dosyasını indirir; bu dosya `evaluation_output/` altına kaydedilmelidir.
