@@ -124,16 +124,56 @@ def stars(s: float) -> str:
     h = "½" if s - f >= 0.4 else ""
     return "★" * f + h + "☆" * (5 - f - (1 if h else 0))
 
+# ─── KEYWORD TABANLI ASPECT (az sayıda yorum için) ─────────────────
+def _keyword_aspects(df: pd.DataFrame, texts: list[str]) -> dict[str, dict]:
+    """
+    Kümeleme yerine doğrudan ASPECT_SEEDS kelime eşleşmesi kullanır.
+    Her yorum birden fazla aspecte atanabilir.
+    Az sayıda yorum veya kümelemenin başarısız olduğu durumlar için kullanılır.
+    """
+    aspect_indices: dict[str, list[int]] = defaultdict(list)
+
+    for idx, text in enumerate(texts):
+        matched = False
+        for asp_name, seeds in ASPECT_SEEDS.items():
+            if any(seed in text for seed in seeds):
+                aspect_indices[asp_name].append(idx)
+                matched = True
+        if not matched:
+            aspect_indices["Genel Değerlendirme"].append(idx)
+
+    result: dict[str, dict] = {}
+    for asp_name, idxs in aspect_indices.items():
+        if not idxs:
+            continue
+        # Aspecte ait metinlerde en sık geçen kelimeler
+        word_counts: dict[str, int] = defaultdict(int)
+        for i in idxs:
+            for w in texts[i].split():
+                if w not in STOP_WORDS and len(w) > 3:
+                    word_counts[w] += 1
+        top_terms = sorted(word_counts, key=word_counts.__getitem__, reverse=True)[:8]
+        result[asp_name] = {"indices": list(set(idxs)), "top_terms": top_terms}
+
+    return result
+
+
 # ─── DİNAMİK ASPECT ÇIKARIM ────────────────────────────────────────
 def extract_aspects(df: pd.DataFrame, n_clusters: int = 6) -> dict[str, dict]:
     texts = [tr_lower(clean(t)) for t in df["temiz urun yorum"].tolist()]
-    if len(texts) < 5:
+    if not texts:
         return {}
+
+    # Az yorum: kümeleme anlamsız, doğrudan keyword eşleşmesi yap
+    if len(texts) < 10:
+        return _keyword_aspects(df, texts)
+
+    min_df = 1 if len(texts) < 20 else 2
 
     vectorizer = TfidfVectorizer(
         max_features=2000,
         ngram_range=(1, 2),
-        min_df=2,
+        min_df=min_df,
         max_df=0.90,
         token_pattern=r"(?u)\b[a-züğışöçıİĞÜŞÖÇ]{3,}\b",
         sublinear_tf=True,
@@ -141,7 +181,10 @@ def extract_aspects(df: pd.DataFrame, n_clusters: int = 6) -> dict[str, dict]:
     try:
         X = vectorizer.fit_transform(texts)
     except ValueError:
-        return {}
+        return _keyword_aspects(df, texts)
+
+    if X.shape[1] == 0:
+        return _keyword_aspects(df, texts)
 
     feature_names = vectorizer.get_feature_names_out()
     n_clust = min(n_clusters, max(2, len(texts) // 4))
@@ -177,16 +220,22 @@ def extract_aspects(df: pd.DataFrame, n_clusters: int = 6) -> dict[str, dict]:
     for idx, cid in enumerate(labels):
         aspect_indices[cluster_aspect[cid]].append(idx)
 
-    # En az 3 yorum olan aspectler
+    # Yorum sayısına göre eşik: az yorumda 1, çok yorumda 3
+    min_reviews = 1 if len(texts) < 20 else 3
     result: dict[str, dict] = {}
     for cid, asp_name in cluster_aspect.items():
         idxs = aspect_indices[asp_name]
-        if len(idxs) < 3:
+        if len(idxs) < min_reviews:
             continue
         result[asp_name] = {
             "indices": idxs,
             "top_terms": cluster_terms[cid][:8],
         }
+
+    # Kümeleme hiç aspect üretemezse keyword fallback
+    if not result:
+        return _keyword_aspects(df, texts)
+
     return result
 
 # ─── PUANLAMA ──────────────────────────────────────────────────────

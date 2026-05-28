@@ -879,6 +879,355 @@
       color: var(--t3)
     }
 
+    /* REVIEW TEST BUTTON */
+    .review-test-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      width: calc(100% - 32px);
+      margin: 0 16px 8px;
+      padding: 10px 14px;
+      background: linear-gradient(135deg, rgba(52,211,153,.12), rgba(56,189,248,.08));
+      border: 1px solid rgba(52,211,153,.3);
+      border-radius: var(--r-sm);
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+      font-size: .8rem;
+      font-weight: 600;
+      color: #34d399;
+      transition: all .2s;
+      text-align: left
+    }
+    .review-test-btn:hover {
+      background: linear-gradient(135deg, rgba(52,211,153,.2), rgba(56,189,248,.14));
+      border-color: rgba(52,211,153,.55)
+    }
+    .review-test-btn.active {
+      background: linear-gradient(135deg, rgba(52,211,153,.26), rgba(56,189,248,.18));
+      border-color: #34d399;
+      color: #a7f3d0
+    }
+
+    /* REVIEW TEST PANEL */
+    .rt-section-label {
+      font-size: .65rem;
+      font-weight: 700;
+      color: var(--t3);
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      margin: 0 0 10px
+    }
+
+    .review-card-sel {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      padding: 12px 14px;
+      cursor: pointer;
+      transition: all .18s;
+      user-select: none
+    }
+    .review-card-sel:hover { border-color: var(--border-h) }
+    .review-card-sel.selected {
+      border-color: var(--green);
+      background: rgba(52,211,153,.07)
+    }
+
+    .rc-top {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px
+    }
+    .rc-check {
+      width: 16px;
+      height: 16px;
+      border: 2px solid var(--t3);
+      border-radius: 4px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: .65rem;
+      transition: all .15s
+    }
+    .review-card-sel.selected .rc-check {
+      background: var(--green);
+      border-color: var(--green);
+      color: #000
+    }
+    .rc-stars { font-size: .8rem; letter-spacing: 1px }
+    .rc-user { font-size: .7rem; color: var(--t3) }
+    .rc-text {
+      font-size: .82rem;
+      line-height: 1.6;
+      color: var(--t2);
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden
+    }
+
+    .sel-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: rgba(52,211,153,.07);
+      border: 1px solid rgba(52,211,153,.2);
+      border-radius: var(--r-sm);
+      padding: 8px 14px;
+      font-size: .8rem;
+      margin-bottom: 16px
+    }
+    .sel-count { font-weight: 700; color: var(--green) }
+    .sel-actions { display: flex; gap: 8px }
+    .sel-action-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 3px 10px;
+      font-size: .72rem;
+      color: var(--t2);
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+      transition: all .15s
+    }
+    .sel-action-btn:hover { border-color: var(--accent); color: var(--t1) }
+
+    .manual-area {
+      width: 100%;
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      padding: 12px 14px;
+      font-size: .84rem;
+      color: var(--t1);
+      font-family: 'Inter', sans-serif;
+      resize: vertical;
+      min-height: 90px;
+      outline: none;
+      transition: border-color .2s;
+      box-sizing: border-box
+    }
+    .manual-area:focus { border-color: var(--accent) }
+    .manual-area::placeholder { color: var(--t3) }
+
+    .score-inline {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-top: 8px;
+      font-size: .8rem;
+      color: var(--t2)
+    }
+
+    .rt-analyze-btn {
+      width: 100%;
+      padding: 13px;
+      background: linear-gradient(135deg, var(--green), #059669);
+      border: none;
+      border-radius: var(--r-md);
+      font-family: 'Inter', sans-serif;
+      font-size: .9rem;
+      font-weight: 700;
+      color: #000;
+      cursor: pointer;
+      transition: opacity .2s;
+      margin-top: 4px
+    }
+    .rt-analyze-btn:hover { opacity: .88 }
+    .rt-analyze-btn:disabled { opacity: .4; cursor: not-allowed }
+
+    /* LIVE ANALYSIS BUTTON */
+    .live-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      width: calc(100% - 32px);
+      margin: 0 16px 16px;
+      padding: 10px 14px;
+      background: linear-gradient(135deg, rgba(248,113,113,.14), rgba(251,146,60,.10));
+      border: 1px solid rgba(248,113,113,.35);
+      border-radius: var(--r-sm);
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+      font-size: .8rem;
+      font-weight: 600;
+      color: #fb923c;
+      transition: all .2s;
+      text-align: left
+    }
+
+    .live-btn:hover {
+      background: linear-gradient(135deg, rgba(248,113,113,.22), rgba(251,146,60,.16));
+      border-color: rgba(251,146,60,.55)
+    }
+
+    .live-btn.active {
+      background: linear-gradient(135deg, rgba(248,113,113,.28), rgba(251,146,60,.22));
+      border-color: #fb923c;
+      color: #ffd89b
+    }
+
+    .live-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: #f87171;
+      box-shadow: 0 0 6px #f87171;
+      animation: pulse 1.6s ease-in-out infinite;
+      flex-shrink: 0
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1) }
+      50% { opacity: .55; transform: scale(0.85) }
+    }
+
+    /* LIVE FORM */
+    .live-form-wrap {
+      padding: 0 32px 40px;
+      max-width: 700px
+    }
+
+    .live-title {
+      font-size: 1.5rem;
+      font-weight: 800;
+      letter-spacing: -.3px;
+      margin-bottom: 6px
+    }
+
+    .live-sub {
+      font-size: .88rem;
+      color: var(--t2);
+      line-height: 1.65;
+      margin-bottom: 28px
+    }
+
+    .url-field {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 12px
+    }
+
+    .url-input {
+      flex: 1;
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      padding: 12px 16px;
+      font-size: .88rem;
+      color: var(--t1);
+      font-family: 'JetBrains Mono', monospace;
+      outline: none;
+      transition: border-color .2s
+    }
+
+    .url-input:focus {
+      border-color: var(--accent)
+    }
+
+    .url-input::placeholder {
+      color: var(--t3);
+      font-family: 'Inter', sans-serif
+    }
+
+    .analyze-btn {
+      padding: 12px 22px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border: none;
+      border-radius: var(--r-md);
+      font-family: 'Inter', sans-serif;
+      font-size: .88rem;
+      font-weight: 700;
+      color: #fff;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: opacity .2s;
+      box-shadow: var(--glow)
+    }
+
+    .analyze-btn:hover { opacity: .88 }
+    .analyze-btn:disabled { opacity: .45; cursor: not-allowed }
+
+    .pages-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      font-size: .8rem;
+      color: var(--t2)
+    }
+
+    .pages-select {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r-sm);
+      padding: 5px 10px;
+      font-size: .8rem;
+      color: var(--t1);
+      font-family: 'Inter', sans-serif;
+      outline: none;
+      cursor: pointer
+    }
+
+    .live-hint {
+      background: rgba(56,189,248,.07);
+      border: 1px solid rgba(56,189,248,.2);
+      border-radius: var(--r-sm);
+      padding: 10px 14px;
+      font-size: .78rem;
+      color: var(--t2);
+      line-height: 1.65
+    }
+
+    .live-hint b { color: var(--accent3) }
+
+    .live-error {
+      background: rgba(248,113,113,.08);
+      border: 1px solid rgba(248,113,113,.25);
+      border-radius: var(--r-sm);
+      padding: 14px 18px;
+      font-size: .86rem;
+      color: #fca5a5;
+      margin-top: 20px;
+      display: none
+    }
+
+    #live-loading {
+      display: none;
+      padding: 60px 0;
+      text-align: center;
+      color: var(--t2)
+    }
+
+    .live-spinner-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px
+    }
+
+    .live-spinner {
+      width: 44px;
+      height: 44px;
+      border: 3px solid var(--border);
+      border-top-color: #fb923c;
+      border-radius: 50%;
+      animation: spin .9s linear infinite
+    }
+
+    .live-loading-msg {
+      font-size: .9rem;
+      font-weight: 500
+    }
+
+    .live-loading-sub {
+      font-size: .78rem;
+      color: var(--t3);
+      margin-top: -8px
+    }
+
     /* RESPONSIVE */
     @media(max-width:900px) {
       .page {
@@ -937,7 +1286,16 @@
 
       <!-- SIDEBAR -->
       <aside class="sidebar" id="sidebar">
-        <div class="sidebar-label" style="padding:12px 24px 8px">Kategori</div>
+        <div class="sidebar-label" style="padding:12px 24px 8px">Canlı Test</div>
+        <button class="review-test-btn" id="review-test-btn" onclick="showReviewTestPanel()">
+          🧪 Yorum Bazlı Test
+        </button>
+        <button class="live-btn" id="live-btn" onclick="showLiveForm()">
+          <span class="live-dot"></span>
+          Canlı URL Analizi
+        </button>
+
+        <div class="sidebar-label" style="padding:4px 24px 8px">Kategori</div>
         <div class="cat-tabs" id="cat-tabs"></div>
 
         <div class="sidebar-label" style="padding:4px 24px 8px">Ürünler</div>
@@ -962,6 +1320,142 @@
           <div class="empty-title">Ürün Seçin</div>
           <div class="empty-sub">Sol panelden bir kategori, ardından analiz etmek istediğiniz ürünü
             seçin.<br />Yorumlardan dinamik olarak aspect'ler çıkarılacak ve puanlanacaktır.</div>
+        </div>
+
+        <!-- REVIEW TEST PANEL -->
+        <div id="review-test-panel" style="display:none; padding:32px">
+
+          <div style="font-size:1.4rem;font-weight:800;margin-bottom:6px">🧪 Yorum Bazlı Test</div>
+          <div style="font-size:.88rem;color:var(--t2);margin-bottom:24px;line-height:1.65">
+            URL'den yorum çek, istediğin yorumları seç veya kendin yaz, anlık aspect analizi yap.
+          </div>
+
+          <!-- URL + Çek -->
+          <div class="rt-section-label">1 · Yorumları Çek (İsteğe Bağlı)</div>
+          <div class="url-field" style="margin-bottom:8px">
+            <input class="url-input" id="rt-url-input" type="text"
+              placeholder="https://www.trendyol.com/..." />
+            <button class="analyze-btn" id="rt-scrape-btn" onclick="rtScrape()"
+              style="background:linear-gradient(135deg,#34d399,#059669);color:#000">Çek</button>
+          </div>
+          <div class="pages-row" style="margin-bottom:20px">
+            <span>Yorum sayısı:</span>
+            <select class="pages-select" id="rt-count-select">
+              <option value="20">20 yorum</option>
+              <option value="50" selected>50 yorum</option>
+              <option value="100">100 yorum</option>
+              <option value="200">200 yorum</option>
+            </select>
+          </div>
+
+          <!-- Scrape loading -->
+          <div id="rt-scrape-loading" style="display:none;padding:20px 0;text-align:center;color:var(--t2)">
+            <div class="spinner" style="border-top-color:var(--green)"></div>
+            <p style="margin-top:8px;font-size:.85rem">Yorumlar toplanıyor...</p>
+          </div>
+
+          <!-- Scraped reviews list -->
+          <div id="rt-scraped-section" style="display:none;margin-bottom:24px">
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px">
+              <div class="rt-section-label" style="margin:0">Çekilen Yorumlar</div>
+              <div style="display:flex;gap:8px">
+                <button class="sel-action-btn" onclick="rtSelectAll()">Tümünü Seç</button>
+                <button class="sel-action-btn" onclick="rtDeselectAll()">Temizle</button>
+              </div>
+            </div>
+            <div id="rt-review-list" style="display:flex;flex-direction:column;gap:8px;max-height:360px;overflow-y:auto;padding-right:4px"></div>
+          </div>
+
+          <!-- Manuel yorum -->
+          <div class="rt-section-label">2 · Manuel Yorum Ekle</div>
+          <textarea class="manual-area" id="rt-manual-text"
+            placeholder="Yorum metni yapıştır veya yaz... (birden fazla yorum için her satıra bir yorum)"></textarea>
+          <div class="score-inline">
+            <span>Puan:</span>
+            <select class="pages-select" id="rt-manual-score">
+              <option value="5">★★★★★ 5</option>
+              <option value="4">★★★★ 4</option>
+              <option value="3" selected>★★★ 3</option>
+              <option value="2">★★ 2</option>
+              <option value="1">★ 1</option>
+            </select>
+            <button class="sel-action-btn" onclick="rtAddManual()">+ Ekle</button>
+          </div>
+
+          <!-- Seçili yorumlar özet bar -->
+          <div id="rt-sel-bar" style="display:none;margin-top:20px">
+            <div class="sel-bar">
+              <span>Seçili / eklenen: <span class="sel-count" id="rt-sel-count">0</span> yorum</span>
+              <div class="sel-actions">
+                <button class="sel-action-btn" onclick="rtClearAdded()">Eklenenleri Sil</button>
+              </div>
+            </div>
+            <div id="rt-added-chips" style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px"></div>
+          </div>
+
+          <div id="rt-error" class="live-error" style="margin-top:12px"></div>
+
+          <button class="rt-analyze-btn" id="rt-analyze-btn" onclick="rtAnalyze()" style="margin-top:20px">
+            Analiz Et
+          </button>
+
+          <!-- Analiz loading -->
+          <div id="rt-analyze-loading" style="display:none;padding:40px 0;text-align:center;color:var(--t2)">
+            <div class="live-spinner" style="margin:0 auto 12px"></div>
+            <div style="font-size:.9rem">Aspect analizi yapılıyor...</div>
+          </div>
+
+          <!-- Sonuçlar -->
+          <div id="rt-result" style="display:none;margin-top:24px"></div>
+        </div>
+
+        <!-- LIVE ANALYSIS PANEL -->
+        <div id="live-panel" style="display:none">
+          <div class="live-form-wrap">
+            <div class="live-title">🔴 Canlı URL Analizi</div>
+            <div class="live-sub">
+              Herhangi bir Trendyol ürün URL'sini yapıştırın.<br />
+              Yorumlar otomatik toplanır, aspect çıkarımı ve genel özet anlık oluşturulur.
+            </div>
+
+            <div class="url-field">
+              <input class="url-input" id="url-input" type="text"
+                placeholder="https://www.trendyol.com/marka/urun-p-12345678"
+                onkeydown="if(event.key==='Enter') runAnalysis()" />
+              <button class="analyze-btn" id="analyze-btn" onclick="runAnalysis()">Analiz Et</button>
+            </div>
+
+            <div class="pages-row">
+              <span>Yorum sayfası sayısı:</span>
+              <select class="pages-select" id="pages-select">
+                <option value="3">3 sayfa (~60 yorum, ~30 sn)</option>
+                <option value="5" selected>5 sayfa (~100 yorum, ~50 sn)</option>
+                <option value="10">10 sayfa (~200 yorum, ~90 sn)</option>
+                <option value="20">20 sayfa (~400 yorum, ~3 dk)</option>
+                <option value="50">50 sayfa (~1000 yorum, ~7 dk)</option>
+                <option value="100">100 sayfa (~2000 yorum, ~15 dk)</option>
+                <option value="0">Tüm yorumlar (süre değişir)</option>
+              </select>
+            </div>
+
+            <div class="live-hint">
+              <b>Nasıl kullanılır?</b> Trendyol'da herhangi bir ürün sayfasını açın, URL'yi kopyalayıp buraya yapıştırın.
+              Sunucu yorumları toplar, TF-IDF + KMeans ile aspectleri çıkarır ve sonuçları gösterir.<br />
+              <b>Not:</b> Bu özellik için <code>python bertopic_xgboost/api_server.py</code> komutunun çalışıyor olması gerekir.
+            </div>
+
+            <div class="live-error" id="live-error"></div>
+          </div>
+
+          <div id="live-loading">
+            <div class="live-spinner-wrap">
+              <div class="live-spinner"></div>
+              <div class="live-loading-msg">Yorumlar toplanıyor ve analiz ediliyor...</div>
+              <div class="live-loading-sub">Bu işlem seçilen sayfa sayısına göre 30–90 saniye sürebilir.</div>
+            </div>
+          </div>
+
+          <div id="live-result" style="display:none; padding: 0 0 40px"></div>
         </div>
 
         <div id="product-panel" style="display:none"></div>
@@ -1027,6 +1521,12 @@
     async function loadCat(cat) {
       if (currentCat === cat) return;
       currentCat = cat;
+
+      // Hide test panels when switching to category
+      document.getElementById("live-panel").style.display        = "none";
+      document.getElementById("review-test-panel").style.display = "none";
+      document.getElementById("live-btn").classList.remove("active");
+      document.getElementById("review-test-btn").classList.remove("active");
 
       document.querySelectorAll(".cat-tab").forEach(b => b.classList.remove("active"));
       document.getElementById(`ctab-${cat}`)?.classList.add("active");
@@ -1282,6 +1782,414 @@
     document.getElementById("modal").addEventListener("click", e => {
       if (e.target === document.getElementById("modal")) closeModal();
     });
+
+    /* ── REVIEW TEST ─────────────────────────────────── */
+    let rtScrapedReviews = [];   // {text, score, date, user}
+    let rtAddedReviews   = [];   // {text, score} — manuel veya seçilip eklenen
+    let rtProductName    = "";
+
+    function showReviewTestPanel() {
+      document.querySelectorAll(".cat-tab").forEach(b => b.classList.remove("active"));
+      document.getElementById("live-btn").classList.remove("active");
+      document.getElementById("review-test-btn").classList.add("active");
+      currentCat = null;
+
+      document.getElementById("empty-state").style.display       = "none";
+      document.getElementById("product-panel").style.display     = "none";
+      document.getElementById("loading").style.display           = "none";
+      document.getElementById("live-panel").style.display        = "none";
+      document.getElementById("review-test-panel").style.display = "block";
+    }
+
+    async function rtScrape() {
+      const url       = document.getElementById("rt-url-input").value.trim();
+      const maxReviews = parseInt(document.getElementById("rt-count-select").value, 10);
+      const errEl     = document.getElementById("rt-error");
+      errEl.style.display = "none";
+
+      if (!url || !url.includes("trendyol.com")) {
+        errEl.textContent = "Geçerli bir Trendyol URL'si girin.";
+        errEl.style.display = "block";
+        return;
+      }
+
+      document.getElementById("rt-scrape-btn").disabled    = true;
+      document.getElementById("rt-scrape-loading").style.display = "block";
+      document.getElementById("rt-scraped-section").style.display = "none";
+
+      const API_BASE = (window.location.protocol === "file:" || window.location.port !== "5001")
+        ? "http://localhost:5001" : "";
+
+      try {
+        const res  = await fetch(`${API_BASE}/api/scrape-reviews`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ url, max_reviews: maxReviews }),
+        });
+        const data = await res.json();
+        document.getElementById("rt-scrape-loading").style.display = "none";
+
+        if (!res.ok || data.error) {
+          errEl.textContent = "⚠️ " + (data.error || "Hata");
+          errEl.style.display = "block";
+          return;
+        }
+
+        rtScrapedReviews = data.reviews || [];
+        rtProductName    = data.product_name || "Trendyol Ürünü";
+        rtRenderScraped();
+
+      } catch (e) {
+        document.getElementById("rt-scrape-loading").style.display = "none";
+        errEl.textContent = "⚠️ Sunucuya bağlanılamadı.";
+        errEl.style.display = "block";
+      } finally {
+        document.getElementById("rt-scrape-btn").disabled = false;
+      }
+    }
+
+    function rtRenderScraped() {
+      const list = document.getElementById("rt-review-list");
+      list.innerHTML = "";
+      rtScrapedReviews.forEach((r, i) => {
+        const stars = "★".repeat(r.score) + "☆".repeat(5 - r.score);
+        const div   = document.createElement("div");
+        div.className = "review-card-sel";
+        div.id = `rtcard-${i}`;
+        div.innerHTML = `
+          <div class="rc-top">
+            <div class="rc-check" id="rtcheck-${i}"></div>
+            <span class="rc-stars" style="color:${r.score>=4?"var(--green)":r.score>=3?"var(--yellow)":"var(--red)"}">${stars}</span>
+            <span class="rc-user">${escapeHtml(r.user || "")}</span>
+          </div>
+          <div class="rc-text">${escapeHtml(r.text)}</div>`;
+        div.addEventListener("click", () => rtToggleCard(i, div));
+        list.appendChild(div);
+      });
+      document.getElementById("rt-scraped-section").style.display = "block";
+    }
+
+    function rtToggleCard(i, el) {
+      const r = rtScrapedReviews[i];
+      if (el.classList.contains("selected")) {
+        el.classList.remove("selected");
+        el.querySelector(".rc-check").textContent = "";
+        rtAddedReviews = rtAddedReviews.filter(x => x._src !== `scraped-${i}`);
+      } else {
+        el.classList.add("selected");
+        el.querySelector(".rc-check").textContent = "✓";
+        rtAddedReviews.push({ text: r.text, score: r.score, _src: `scraped-${i}` });
+      }
+      rtUpdateSelBar();
+    }
+
+    function rtSelectAll() {
+      rtScrapedReviews.forEach((r, i) => {
+        const el = document.getElementById(`rtcard-${i}`);
+        if (el && !el.classList.contains("selected")) {
+          el.classList.add("selected");
+          el.querySelector(".rc-check").textContent = "✓";
+          rtAddedReviews.push({ text: r.text, score: r.score, _src: `scraped-${i}` });
+        }
+      });
+      rtUpdateSelBar();
+    }
+
+    function rtDeselectAll() {
+      rtScrapedReviews.forEach((_, i) => {
+        const el = document.getElementById(`rtcard-${i}`);
+        if (el) { el.classList.remove("selected"); el.querySelector(".rc-check").textContent = ""; }
+      });
+      rtAddedReviews = rtAddedReviews.filter(x => !x._src?.startsWith("scraped-"));
+      rtUpdateSelBar();
+    }
+
+    function rtAddManual() {
+      const raw   = document.getElementById("rt-manual-text").value.trim();
+      const score = parseInt(document.getElementById("rt-manual-score").value, 10);
+      if (!raw) return;
+
+      const lines = raw.split("\n").map(l => l.trim()).filter(l => l.length > 3);
+      lines.forEach(line => rtAddedReviews.push({ text: line, score, _src: "manual" }));
+      document.getElementById("rt-manual-text").value = "";
+      rtUpdateSelBar();
+    }
+
+    function rtClearAdded() {
+      rtAddedReviews = rtAddedReviews.filter(x => x._src?.startsWith("scraped-"));
+      // Seçili olmayan scraped'leri de temizle
+      rtAddedReviews = [];
+      document.querySelectorAll(".review-card-sel.selected").forEach(el => {
+        el.classList.remove("selected");
+        el.querySelector(".rc-check").textContent = "";
+      });
+      rtUpdateSelBar();
+    }
+
+    function rtUpdateSelBar() {
+      const n   = rtAddedReviews.length;
+      const bar = document.getElementById("rt-sel-bar");
+      document.getElementById("rt-sel-count").textContent = n;
+      bar.style.display = n > 0 ? "block" : "none";
+
+      // Chip'leri göster (max 10)
+      const chips = document.getElementById("rt-added-chips");
+      chips.innerHTML = rtAddedReviews.slice(0, 10).map((r, i) =>
+        `<span style="background:var(--bg-3);border:1px solid var(--border);border-radius:50px;
+          padding:3px 10px;font-size:.7rem;color:var(--t2);display:flex;align-items:center;gap:5px">
+          ${"★".repeat(r.score)}&nbsp;${escapeHtml(r.text.slice(0, 30))}${r.text.length>30?"…":""}
+         </span>`
+      ).join("") + (n > 10 ? `<span style="font-size:.75rem;color:var(--t3);padding:4px 6px">+${n-10} daha</span>` : "");
+    }
+
+    async function rtAnalyze() {
+      const errEl = document.getElementById("rt-error");
+      errEl.style.display = "none";
+
+      if (rtAddedReviews.length === 0) {
+        errEl.textContent = "Analiz için yorum seçin veya ekleyin.";
+        errEl.style.display = "block";
+        return;
+      }
+
+      document.getElementById("rt-analyze-btn").disabled    = true;
+      document.getElementById("rt-analyze-loading").style.display = "block";
+      document.getElementById("rt-result").style.display   = "none";
+
+      const API_BASE = (window.location.protocol === "file:" || window.location.port !== "5001")
+        ? "http://localhost:5001" : "";
+
+      try {
+        const res  = await fetch(`${API_BASE}/api/analyze-reviews`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            reviews: rtAddedReviews.map(r => ({ text: r.text, score: r.score })),
+            product_name: rtProductName || "Yorum Bazlı Test",
+          }),
+        });
+        const data = await res.json();
+        document.getElementById("rt-analyze-loading").style.display = "none";
+
+        if (!res.ok || data.error) {
+          errEl.textContent = "⚠️ " + (data.error || "Hata");
+          errEl.style.display = "block";
+          return;
+        }
+
+        currentProduct = data;
+        const resultEl = document.getElementById("rt-result");
+        resultEl.style.display = "block";
+        renderProductIn(data, resultEl);
+
+      } catch (e) {
+        document.getElementById("rt-analyze-loading").style.display = "none";
+        errEl.textContent = "⚠️ Sunucuya bağlanılamadı.";
+        errEl.style.display = "block";
+      } finally {
+        document.getElementById("rt-analyze-btn").disabled = false;
+      }
+    }
+
+    /* ── LIVE ANALYSIS ───────────────────────────────── */
+    function showLiveForm() {
+      document.querySelectorAll(".cat-tab").forEach(b => b.classList.remove("active"));
+      document.querySelectorAll(".prod-item").forEach(i => i.classList.remove("active"));
+      currentCat = null;
+
+      document.getElementById("review-test-btn").classList.remove("active");
+      document.getElementById("review-test-panel").style.display = "none";
+      document.getElementById("live-btn").classList.add("active");
+      document.getElementById("empty-state").style.display = "none";
+      document.getElementById("product-panel").style.display = "none";
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("live-result").style.display = "none";
+      document.getElementById("live-loading").style.display = "none";
+      document.getElementById("live-error").style.display = "none";
+      document.querySelector(".live-form-wrap").style.display = "block";
+      document.getElementById("live-panel").style.display = "block";
+    }
+
+    async function runAnalysis() {
+      const url = document.getElementById("url-input").value.trim();
+      const maxPages = parseInt(document.getElementById("pages-select").value, 10);
+      const errEl = document.getElementById("live-error");
+      const btn = document.getElementById("analyze-btn");
+
+      errEl.style.display = "none";
+      if (!url) {
+        errEl.textContent = "Lütfen bir Trendyol URL'si girin.";
+        errEl.style.display = "block";
+        return;
+      }
+      if (!url.includes("trendyol.com")) {
+        errEl.textContent = "Geçerli bir Trendyol URL'si girin (trendyol.com içermeli).";
+        errEl.style.display = "block";
+        return;
+      }
+
+      btn.disabled = true;
+      document.querySelector(".live-form-wrap").style.display = "none";
+      document.getElementById("live-loading").style.display = "block";
+      document.getElementById("live-result").style.display = "none";
+
+      const API_BASE = (window.location.protocol === "file:" || window.location.port !== "5001")
+        ? "http://localhost:5001"
+        : "";
+
+      try {
+        const res = await fetch(`${API_BASE}/api/analyze`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ url, max_pages: maxPages }),
+        });
+        const data = await res.json();
+        document.getElementById("live-loading").style.display = "none";
+
+        if (!res.ok || data.error) {
+          document.querySelector(".live-form-wrap").style.display = "block";
+          errEl.textContent = "⚠️ " + (data.error || "Bilinmeyen hata oluştu.");
+          errEl.style.display = "block";
+          return;
+        }
+
+        currentProduct = data;
+        const resultEl = document.getElementById("live-result");
+        resultEl.style.display = "block";
+        resultEl.innerHTML = `
+          <div style="padding:0 32px 16px">
+            <button onclick="backToLiveForm()" style="
+              background:var(--bg-2);border:1px solid var(--border);border-radius:var(--r-sm);
+              padding:7px 14px;font-size:.8rem;color:var(--t2);cursor:pointer;
+              font-family:'Inter',sans-serif;transition:all .2s"
+              onmouseover="this.style.color='var(--t1)'" onmouseout="this.style.color='var(--t2)'">
+              ← Yeni URL Analiz Et
+            </button>
+          </div>
+          <div style="padding:0 32px" id="live-product-inner"></div>`;
+
+        renderProductIn(data, document.getElementById("live-product-inner"));
+
+      } catch (e) {
+        document.getElementById("live-loading").style.display = "none";
+        document.querySelector(".live-form-wrap").style.display = "block";
+        errEl.textContent = "⚠️ Sunucuya bağlanılamadı. Terminalden 'python bertopic_xgboost/api_server.py' komutunu çalıştırın.";
+        errEl.style.display = "block";
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    function backToLiveForm() {
+      document.getElementById("live-result").style.display = "none";
+      document.getElementById("live-error").style.display = "none";
+      document.querySelector(".live-form-wrap").style.display = "block";
+    }
+
+    function renderProductIn(d, targetEl) {
+      const s = d.overall_score;
+      const scoreColor = s >= 4.5 ? "var(--green)" : s >= 3.5 ? "var(--yellow)" : "var(--red)";
+
+      const dist = d.score_distribution || {};
+      const maxD = Math.max(...Object.values(dist).map(Number));
+      const distHTML = [5, 4, 3, 2, 1].map(n => {
+        const cnt = dist[n] ?? 0;
+        const pct = maxD > 0 ? (cnt / maxD * 100) : 0;
+        const col = n >= 4 ? "var(--green)" : n === 3 ? "var(--yellow)" : "var(--red)";
+        return `<div class="sd-item">
+          <div class="sd-label" style="color:${col}">${n}★</div>
+          <div class="sd-bar-wrap"><div class="sd-bar" style="width:${pct}%;background:${col}"></div></div>
+          <div class="sd-count">${cnt}</div>
+        </div>`;
+      }).join("");
+
+      const sumHTML = (d.summary || "")
+        .split("\n")
+        .map(line => {
+          const escaped = line.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+          return line.startsWith("•")
+            ? `<div style="display:flex;gap:8px;margin-top:7px"><span style="color:var(--accent2);flex-shrink:0">•</span><span>${escaped.slice(1).trim()}</span></div>`
+            : `<div style="margin-bottom:6px">${escaped}</div>`;
+        }).join("");
+
+      const urlShort = d.product_url ? d.product_url.replace("https://www.trendyol.com/", "trendyol.com/") : "";
+      const urlLink = d.product_url ? `<a href="${d.product_url}" target="_blank" rel="noopener">${urlShort.slice(0, 70)}${urlShort.length > 70 ? "..." : ""}</a>` : "";
+
+      const aspectsHTML = (d.aspects || []).map((a, i) => {
+        const col = COLORS[i % COLORS.length];
+        const sc = a.avg_score;
+        const rc = sc >= 4.5 ? "var(--green)" : sc >= 3.5 ? "var(--yellow)" : "var(--red)";
+        const pilgClass = sc >= 4.2 ? "pill-pos" : sc >= 3.2 ? "pill-neu" : "pill-neg";
+        const radius = 18;
+        const circ = 2 * Math.PI * radius;
+        const offset = circ - (sc / 5) * circ;
+        const kwHTML = (a.top_terms || []).slice(0, 6).map(k => `<span class="kw">${escapeHtml(k)}</span>`).join("");
+        return `
+          <div class="aspect-card" onclick="openModal(${i})">
+            <div class="ac-top">
+              <div class="ac-icon" style="background:${col.bg};color:${col.c}">${a.icon}</div>
+              <div class="ac-info">
+                <div class="ac-name">${escapeHtml(a.name)}</div>
+                <div class="ac-count">${a.review_count} yorum</div>
+              </div>
+              <div class="ac-pill ${pilgClass}">${a.sentiment_label}</div>
+            </div>
+            <div class="ring-row">
+              <div class="ring">
+                <svg width="48" height="48" viewBox="0 0 48 48">
+                  <circle cx="24" cy="24" r="${radius}" fill="none" stroke="rgba(255,255,255,.06)" stroke-width="4"/>
+                  <circle cx="24" cy="24" r="${radius}" fill="none" stroke="${rc}" stroke-width="4"
+                    stroke-dasharray="${circ.toFixed(1)}" stroke-dashoffset="${offset.toFixed(1)}" stroke-linecap="round"/>
+                </svg>
+                <div class="ring-txt" style="color:${rc}">${sc.toFixed(1)}</div>
+              </div>
+              <div class="ring-info">
+                <div class="ring-val">${sc.toFixed(2)} / 5.00</div>
+                <div class="ring-sub">Ortalama müşteri puanı</div>
+              </div>
+            </div>
+            <div class="sent-bar">
+              <div class="sb-p" style="width:${a.positive_pct}%"></div>
+              <div class="sb-n-bar" style="width:${a.neutral_pct}%"></div>
+              <div class="sb-neg" style="width:${a.negative_pct}%"></div>
+            </div>
+            <div class="sent-legend">
+              <span><span class="dot" style="background:var(--green)"></span>Olumlu ${a.positive_pct}%</span>
+              <span><span class="dot" style="background:var(--yellow)"></span>Nötr ${a.neutral_pct}%</span>
+              <span><span class="dot" style="background:var(--red)"></span>Olumsuz ${a.negative_pct}%</span>
+            </div>
+            <div class="kws">${kwHTML}</div>
+          </div>`;
+      }).join("");
+
+      targetEl.innerHTML = `
+        <div class="product-header">
+          <div class="ph-top">
+            <div class="ph-left">
+              <div class="ph-cat">${escapeHtml(d.category_label)} · ${d.total_reviews} Yorum Analiz Edildi</div>
+              <div class="ph-name">${escapeHtml(d.product_name)}</div>
+              ${urlLink ? `<div class="ph-url">🔗 ${urlLink}</div>` : ""}
+            </div>
+            <div class="score-bubble">
+              <div class="sb-num" style="color:${scoreColor}">${s.toFixed(1)}</div>
+              <div class="sb-stars" style="color:${scoreColor}">${starsStr(s)}</div>
+              <div class="sb-label">Genel Skor</div>
+            </div>
+          </div>
+          <div class="summary-box">${sumHTML}</div>
+          ${d.summary_source ? `<div style="margin-bottom:12px;font-size:.7rem;color:var(--t3)">
+            ${d.summary_source === "ollama"
+              ? `<span style="color:#a3e635">✦ AI özet</span> · gemma4 tarafından üretildi`
+              : `<span style="color:var(--t3)">✦ Şablon özet</span> · Ollama çalışmıyor`}
+          </div>` : ""}
+          <div class="score-dist">${distHTML}</div>
+        </div>
+        <div class="section-hd">
+          <h2>Dinamik Aspect Analizi</h2>
+          <span class="badge">${d.aspects?.length ?? 0} konu keşfedildi</span>
+        </div>
+        <div class="aspect-grid">${aspectsHTML}</div>`;
+    }
 
     /* ── HELPERS ──────────────────────────────────────── */
     function starsStr(s) {
