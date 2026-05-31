@@ -12,6 +12,13 @@ Not: macOS'ta 5000 portu sıkça AirPlay Receiver tarafından kullanılır.
 
 from __future__ import annotations
 
+import os
+# OpenMP / tokenizer thread çakışmalarını önle (macOS Flask ortamında gerekli)
+os.environ.setdefault("OMP_NUM_THREADS", "1")
+os.environ.setdefault("OPENBLAS_NUM_THREADS", "1")
+os.environ.setdefault("MKL_NUM_THREADS", "1")
+os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
+
 import argparse
 import sys
 from pathlib import Path
@@ -27,10 +34,10 @@ sys.path.insert(0, str(_PROJECT_ROOT / "code"))
 sys.path.insert(0, str(_THIS_DIR))
 
 from trendyol_scraper import scrape_trendyol  # noqa: E402
-from product_analyzer import analyze_product  # noqa: E402
+from bertopic_product_analyzer import analyze_product_bertopic  # noqa: E402
 
 OLLAMA_URL   = "http://localhost:11434/api/generate"
-OLLAMA_MODEL = "gemma4:latest"
+OLLAMA_MODEL = "llama3:latest"
 
 # ─── UYGULAMA ──────────────────────────────────────────────────────
 app = Flask(__name__, static_folder="web", static_url_path="")
@@ -54,35 +61,106 @@ def ollama_summary(product_name: str, aspects: list, overall_score: float, total
         if a.get("sample_reviews"):
             sample_lines.append(f'"{a["sample_reviews"][0][:120]}"')
 
-    prompt = f"""Sen bir ürün yorum analisti asistanısın. Aşağıda Trendyol'dan toplanan müşteri yorum analizini görüyorsun.
+    if not aspect_lines:
+        return None
 
-Ürün: {product_name[:100]}
-Genel puan: {overall_score:.2f} / 5.00
-Analiz edilen yorum sayısı: {total_reviews}
+    # Örnek yorumları aspect bazında zengin şekilde hazırla
+    review_block_lines = []
+    for a in aspects[:5]:
+        reviews = a.get("sample_reviews", [])[:2]
+        sentiment = "olumlu" if a["avg_score"] >= 4.2 else ("olumsuz" if a["avg_score"] < 3.2 else "karışık")
+        if reviews:
+            review_block_lines.append(f'[{sentiment.upper()} | {a["review_count"]} yorum]')
+            for r in reviews:
+                review_block_lines.append(f'  • "{r[:130]}"')
+    review_block = "\n".join(review_block_lines) if review_block_lines else "\n".join(sample_lines)
 
-Aspect bazlı analiz sonuçları:
+    prompt = f"""Sen profesyonel bir Türkçe ürün değerlendirme editörüsün. \
+Görevin, gerçek müşteri yorumlarını okuyarak ürün hakkında akıcı ve bilgilendirici bir paragraf yazmaktır.
+
+=== ÜRÜN BİLGİSİ ===
+Ürün adı : {product_name[:80]}
+Genel puan: {overall_score:.1f} / 5.0  ({total_reviews} müşteri yorumu)
+
+=== MÜŞTERİ YORUMLARINDAN ALINTILAR ===
+{review_block}
+
+=== İSTATİSTİKSEL ÖZET ===
 {chr(10).join(aspect_lines)}
 
-Örnek müşteri yorumları:
-{chr(10).join(sample_lines) if sample_lines else "(yok)"}
+=== YAZIM GÖREVİ ===
+Yukarıdaki GERÇEK müşteri alıntılarına dayanarak 4-5 cümlelik, akıcı bir Türkçe değerlendirme paragrafı yaz.
 
-Görevin: Bu verilere dayanarak ürün hakkında **Türkçe**, akıcı, samimi ve bilgilendirici bir genel değerlendirme yaz.
-- 3-5 cümle ol
-- Öne çıkan güçlü ve zayıf yönleri doğal bir dille belirt
-- "Bu ürün" ya da ürün adıyla başla
-- Markdown kullanma, düz metin yaz
-- Sadece özet metni yaz, başka hiçbir şey ekleme
+=== MUTLAKA UYULMASI GEREKEN KURALLAR ===
+1. DİL: Yalnızca Türkçe. İngilizce kelime, cümle veya "Translation:" bölümü KESİNLİKLE YASAK.
+2. ÇEVİRİ YASAK: Türkçe yazdıktan sonra İngilizce çeviri EKLEME. Tek dil: Türkçe.
+3. KAYNAK: Yalnızca alıntılarda geçen konuları yaz. Olmayan özellik UYDURMA.
+4. DOĞALLIK: Alıntıları birebir kopyalama; kendi cümlelerinle anlat.
+5. BİÇİM: Madde işareti veya tire KULLANMA. Tek düz paragraf.
+6. BAŞLANGIÇ: İlk kelime "Bu" olacak. "Here is", "İşte", "Note:" YAZMA.
+7. UZUNLUK: 4-5 cümle.
+8. ÇIKTI: Sadece Türkçe paragraf. Başka hiçbir şey EKLEME.
 
-Özet:"""
+Bu"""
+
+    import re as _re
+
+    _TR_CHARS = set("ğüşıöçĞÜŞİÖÇ")
+    _EN_WORDS = {
+        "the", "and", "that", "with", "some", "only", "but", "for", "are",
+        "their", "this", "have", "been", "they", "customers", "noting",
+        "overall", "positive", "negative", "product", "feedback", "purchase",
+        "satisfied", "quality", "however", "while", "also", "although",
+        "here", "sure", "happy", "help", "based", "review", "paragraph",
+    }
+
+    def _is_english(sentence: str) -> bool:
+        """Cümle İngilizce mi? Türkçe karakter yoksa ve İngilizce kelimeler varsa evet."""
+        if any(c in sentence for c in _TR_CHARS):
+            return False
+        words = set(sentence.lower().split())
+        return len(words & _EN_WORDS) >= 2
+
+    def _clean_llm_output(raw: str) -> str:
+        text = raw.strip().strip('"').strip()
+
+        # Başta/sonda bilinen İngilizce kalıpları kes
+        for marker in ["Translation:", "Note:", "Çeviri:", "English:", "İngilizce:",
+                       "I'd be happy", "I'd be happy", "Here's a", "Here is a", "Sure,"]:
+            low = text.lower()
+            if marker.lower() in low:
+                idx = low.index(marker.lower())
+                if idx < 100:
+                    # Başta → Türkçe cümleleri bul
+                    text = " ".join(
+                        s.strip() for s in _re.split(r"(?<=[.!?])\s+", text)
+                        if s.strip() and not _is_english(s)
+                    )
+                else:
+                    # Sonda → kes
+                    text = text[:idx].strip()
+
+        # Cümle bazında İngilizce olanları filtrele (ortadaki geçişleri yakalar)
+        sentences = _re.split(r"(?<=[.!?])\s+", text)
+        clean_sentences = [s for s in sentences if s.strip() and not _is_english(s)]
+        if clean_sentences and len(clean_sentences) < len(sentences):
+            text = " ".join(clean_sentences)
+
+        return text.strip('"').strip()
 
     try:
         resp = _requests.post(
             OLLAMA_URL,
-            json={"model": OLLAMA_MODEL, "prompt": prompt, "stream": False},
+            json={
+                "model": OLLAMA_MODEL,
+                "system": "Sen yalnızca Türkçe yazan bir asistansın. Hiçbir zaman İngilizce yazma. Giriş cümlesi veya açıklama yazma. Sadece istenen metni yaz.",
+                "prompt": prompt,
+                "stream": False,
+            },
             timeout=60,
         )
         if resp.status_code == 200:
-            text = resp.json().get("response", "").strip()
+            text = _clean_llm_output(resp.json().get("response", ""))
             if len(text) > 30:
                 return text
     except Exception:
@@ -130,12 +208,12 @@ def analyze():
     product_name = df["urun adi"].iloc[0] or "Trendyol Ürünü"
 
     # Aspect analizi
-    result = analyze_product(
+    result = analyze_product_bertopic(
         product_df=df,
         product_url=product_url,
         product_name=product_name,
         category="",
-        n_clusters=6,
+        n_topics=6,
     )
 
     if not result:
@@ -228,12 +306,12 @@ def analyze_reviews():
 
     df = pd.DataFrame(rows)
 
-    result = analyze_product(
+    result = analyze_product_bertopic(
         product_df=df,
         product_url="review-test",
         product_name=product_name,
         category="",
-        n_clusters=6,
+        n_topics=6,
     )
 
     if not result:

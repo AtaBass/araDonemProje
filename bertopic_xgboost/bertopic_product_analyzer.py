@@ -363,6 +363,9 @@ def _is_meaningful(w: str) -> bool:
         return False
     if w in STOP_WORDS or w in _NOISE:
         return False
+    # Edilebilir/yapılabilir gibi potansiyel edilgen fiiller → anlamsız aspect
+    if re.search(r"(ebilir|abilir|ebiliyor|abiliyor|edilebilir|yapılabilir)$", w):
+        return False
     # Fiil sonu ekleri → fiil, atla
     if re.search(
         r"(dım|dim|tım|tim|dik|dık|tık|tik"
@@ -722,16 +725,24 @@ def generate_summary(
     
     aspect_str = "\n".join(aspect_lines)
 
-    prompt = f"""Sen e-ticaret sitesi için ürün değerlendirmeleri yazan profesyonel, tarafsız bir asistansın.
-Görev: Aşağıda verilen ürünün özellik (aspect) istatistiklerini kullanarak 3-4 cümlelik kısa, profesyonel, akıcı ve tek bir paragraftan oluşan bir "Genel Değerlendirme Özeti" yaz. Tıpkı profesyonel bir editör gibi maddeleme yapmadan, akıcı bir dil kullan.
+    prompt = f"""Sen yalnızca Türkçe yazan bir ürün değerlendirme asistanısın.
 
 Ürün: {short}
-Genel Memnuniyet Puanı: {round(overall, 1)}/5.0 (Toplam {n_reviews} Yorum)
+Genel puan: {round(overall, 1)}/5.0 ({n_reviews} yorum)
 
-Öne Çıkan Özellikler:
+Analiz edilen konular:
 {aspect_str}
 
-Lütfen sadece yukarıdaki verilere dayanarak akıcı bir Türkçe özet paragrafı yaz. Maddeleme (bullet point) KULLANMA. Sadece paragrafı ver:"""
+Yalnızca yukarıdaki konulara dayanarak 3-4 cümlelik bir değerlendirme paragrafı yaz.
+
+ZORUNLU KURALLAR:
+- Tüm metni TÜRKÇE yaz. "overall", "quality", "great" gibi İNGİLİZCE KELİME YASAK.
+- Yalnızca listede olan konuları kullan. Listede olmayan özellik UYDURMA.
+- Maddeleme kullanma, tek düz paragraf yaz.
+- "Bu ürün" veya ürün adıyla başla.
+- Sadece paragrafı yaz, başka hiçbir şey ekleme.
+
+Paragraf:"""
 
     try:
         # Llama-3 gibi lokal bir modele istek atıyoruz (Ollama varsayılan port: 11434)
@@ -755,7 +766,7 @@ Lütfen sadece yukarıdaki verilere dayanarak akıcı bir Türkçe özet paragra
         else:
             intro = f"**{short}** için {n_reviews} yorum incelenmiştir."
         bullets = ["• " + _extractive_aspect_bullet(a) for a in aspects[:5]]
-        return intro + "\n\n(Not: Llama3 modeli şu an kapalı olduğu için klasik şablon gösteriliyor.)\n" + "\n".join(bullets)
+        return intro + "\n" + "\n".join(bullets)
 
 # ─── KEYWORD TABANLI MULTI-LABEL ASPECT ATAMASI ───────────────────
 # BERTopic → aspect adları + keyword setleri keşfeder.
@@ -1034,6 +1045,259 @@ def analyze_category_bertopic(category: str, output_dir: Path, n_topics: int = 1
         encoding="utf-8",
     )
     return index_list
+
+# ─── KEYWORD FALLBACK (az yorum için) ─────────────────────────────
+_ASPECT_SEEDS_SIMPLE: dict[str, list[str]] = {
+    "Kumaş & Malzeme":      ["kumaş","malzeme","doku","dokusu","likralı","esnek","yumuşak","kalın","ince","plastik","metal","materyal","tekstil"],
+    "Kalite & Dayanıklılık":["kalite","kaliteli","sağlam","dayanıklı","işçilik","bozuldu","sağlamlık","uzun ömür"],
+    "Beden & Kalıp":        ["beden","kalıp","ölçü","numara","dar","bol","geniş","uydu","oturdu","kesim"],
+    "Fiyat & Değer":        ["fiyat","ucuz","pahalı","uygun","ekonomik","değer","performans","para","bütçe"],
+    "Kargo & Teslimat":     ["kargo","teslimat","teslim","hızlı","paketleme","paket","ulaştı","gecikme","nakliye"],
+    "Renk & Görünüm":       ["renk","rengi","renkli","görünüm","şık","estetik","tasarım","siyah","beyaz","görsel"],
+    "Kullanım Kolaylığı":   ["rahat","kolay","kullanım","pratik","hafif","ergonomik","işlevsel","kullanışlı"],
+    "Satıcı & Hizmet":      ["satıcı","hizmet","mağaza","firma","hediye","iade","müşteri","destek"],
+    "Pişirme Performansı":  ["pişirme","pişiriyor","kızarmış","lezzetli","çıtır","yağsız","ısınma","pişti"],
+    "Ses & Gürültü":        ["ses","gürültü","sessiz","gürültülü","motor","fan","akustik"],
+    "Batarya & Şarj":       ["batarya","pil","şarj","güç","mah","şarj süresi"],
+    "Bağlantı":             ["bluetooth","wifi","bağlantı","eşleştirme","sinyal","kablosuz","bağlan"],
+    "Ekran & Arayüz":       ["ekran","display","tuş","buton","arayüz","menü","dokunmatik"],
+    "Temizlik & Hijyen":    ["temizlik","temizleme","yıkama","hijyen","koku","temizlen"],
+    "Kapasite & Boyut":     ["kapasite","litre","büyüklük","boyut","hacim","alan"],
+}
+
+def _keyword_fallback_aspects(df: pd.DataFrame, texts: list[str]) -> list[AspectResult]:
+    """Az yorumlu durumlar için keyword eşleştirme tabanlı aspect fallback."""
+    aspect_indices: dict[str, list[int]] = defaultdict(list)
+    for idx, text in enumerate(texts):
+        matched = False
+        for asp_name, seeds in _ASPECT_SEEDS_SIMPLE.items():
+            if any(seed in text for seed in seeds):
+                aspect_indices[asp_name].append(idx)
+                matched = True
+        if not matched:
+            aspect_indices["Genel Değerlendirme"].append(idx)
+
+    results: list[AspectResult] = []
+    for asp_name, idxs in aspect_indices.items():
+        if len(idxs) < 2:
+            continue
+        word_counts: dict[str, int] = defaultdict(int)
+        for i in idxs:
+            for w in texts[i].split():
+                if w not in STOP_WORDS and w not in _NOISE and len(w) > 3:
+                    word_counts[w] += 1
+        top_terms = sorted(word_counts, key=word_counts.__getitem__, reverse=True)[:8]
+        ar = compute_aspect(df, asp_name, list(set(idxs)), top_terms)
+        results.append(ar)
+
+    return sorted(results, key=lambda a: -a.review_count)
+
+
+# ─── CANLÎ ANALİZ: Tek ürün BERTopic + XGBoost ────────────────────
+
+def _build_bertopic_live(n_reviews: int, n_topics: int, st_model) -> BERTopic:
+    """
+    Küçük veri setine özel BERTopic: HDBSCAN parametreleri düşürülmüş,
+    vectorizer min_df=1 (küçük cluster'larda c-TF-IDF hata vermez).
+    """
+    n_neighbors = max(3, min(8, n_reviews // 10))
+    umap_model = UMAP(
+        n_neighbors=n_neighbors,
+        n_components=3,
+        min_dist=0.0,
+        metric="cosine",
+        random_state=42,
+        low_memory=True,
+    )
+
+    min_cluster = max(3, n_reviews // 25)
+    hdbscan_model = HDBSCAN(
+        min_cluster_size=min_cluster,
+        min_samples=1,
+        metric="euclidean",
+        cluster_selection_method="eom",
+        prediction_data=True,
+    )
+
+    _all_stopwords = list(STOP_WORDS | _NOISE)
+    vectorizer = CountVectorizer(
+        ngram_range=(1, 2),
+        stop_words=_all_stopwords,
+        min_df=1,
+        max_df=0.90,
+        token_pattern=r"(?u)\b[a-züğışöçıİĞÜŞÖÇ]{4,}\b",
+    )
+
+    return BERTopic(
+        embedding_model=st_model,
+        umap_model=umap_model,
+        hdbscan_model=hdbscan_model,
+        vectorizer_model=vectorizer,
+        nr_topics=n_topics,
+        top_n_words=15,
+        verbose=False,
+        calculate_probabilities=True,
+    )
+
+
+def analyze_product_bertopic(
+    product_df: pd.DataFrame,
+    product_url: str,
+    product_name: str,
+    category: str = "",
+    n_topics: int = 8,
+) -> dict[str, Any]:
+    """
+    Tek ürün için saf BERTopic + XGBoost pipeline.
+    Hiçbir ön tanımlı kelime listesi kullanılmaz.
+
+    1. SBERT  : yorumları semantik vektöre dönüştür
+    2. BERTopic (UMAP + HDBSCAN + c-TF-IDF): topic'leri keşfet
+    3. XGBoost: outlier (-1) yorumları en uygun topic'e ata
+    4. label_from_keywords(): topic adını c-TF-IDF'den türet
+    5. Her yorum, BERTopic + XGBoost'un atadığı tek topic'e girer
+    """
+    df = product_df[product_df["urun url"] == product_url].copy()
+    df["puan"] = pd.to_numeric(df["puan"], errors="coerce").fillna(3.0)
+    df = df[df["temiz urun yorum"].str.len() >= 8].copy()
+    df.reset_index(drop=True, inplace=True)
+
+    n_reviews = len(df)
+    if n_reviews < 5:
+        return {}
+
+    overall = float(df["puan"].mean())
+    all_texts = [tr_lower(clean(t)) for t in df["temiz urun yorum"].tolist()]
+
+    aspect_results: list[AspectResult] = []
+
+    if n_reviews >= 15:
+        try:
+            # ── 1. SBERT Embedding ──────────────────────────────────
+            _st_model = SentenceTransformer(
+                "paraphrase-multilingual-MiniLM-L12-v2", device="cpu"
+            )
+            embeddings = _st_model.encode(
+                all_texts, show_progress_bar=False, batch_size=32
+            )
+
+            # ── 2. BERTopic (UMAP + HDBSCAN + c-TF-IDF) ────────────
+            n_top = min(n_topics, max(3, n_reviews // 12))
+            model = _build_bertopic_live(n_reviews, n_top, _st_model)
+            topics, _ = model.fit_transform(all_texts, embeddings=embeddings)
+            df["topic"] = topics
+
+            # ── 3. XGBoost: outlier (-1) yorumları topic'e ata ──────
+            labeled_mask = np.array(topics) != -1
+            outlier_mask = ~labeled_mask
+            valid_topics_list = [t for t in set(topics) if t != -1]
+
+            if (
+                outlier_mask.sum() > 0
+                and labeled_mask.sum() >= 10
+                and len(valid_topics_list) >= 2
+            ):
+                le = LabelEncoder()
+                y_enc = le.fit_transform(np.array(topics)[labeled_mask])
+                xgb = XGBClassifier(
+                    n_estimators=100,
+                    max_depth=4,
+                    learning_rate=0.1,
+                    subsample=0.8,
+                    colsample_bytree=0.8,
+                    eval_metric="mlogloss",
+                    random_state=42,
+                    verbosity=0,
+                )
+                xgb.fit(embeddings[labeled_mask], y_enc)
+                pred_enc = xgb.predict(embeddings[outlier_mask])
+                pred_topics = le.inverse_transform(pred_enc)
+                valid_set = set(valid_topics_list)
+                for i, pred in zip(np.where(outlier_mask)[0], pred_topics):
+                    if pred in valid_set:
+                        df.at[i, "topic"] = int(pred)
+
+            # ── 4. Topic → aspect adı (c-TF-IDF, sıfır kelime listesi) ─
+            topic_info = model.get_topic_info()
+            topic_labels: dict[int, str] = {}
+            topic_terms: dict[int, list[str]] = {}
+            used_labels: set[str] = set()
+
+            for _, row in topic_info.iterrows():
+                tid = row["Topic"]
+                if tid == -1:
+                    continue
+                word_score_pairs = model.get_topic(tid)
+                words   = [w for w, _ in word_score_pairs]
+                scores_ = [s for _, s in word_score_pairs]
+                clean_pairs = [
+                    (w, s) for w, s in zip(words, scores_)
+                    if w not in STOP_WORDS and w not in _NOISE and len(w) > 3
+                ]
+                clean_words  = [w for w, _ in clean_pairs]
+                clean_scores = [s for _, s in clean_pairs]
+
+                label = label_from_keywords(clean_words, clean_scores)
+                if label is None:
+                    label = clean_words[0].capitalize() if clean_words else f"Konu {tid + 1}"
+                if label in used_labels:
+                    label = f"{label} {tid + 1}"
+
+                topic_labels[tid] = label
+                topic_terms[tid]  = clean_words[:10]
+                used_labels.add(label)
+
+            # ── 5. Doğrudan topic → satır ataması (kelime listesi yok) ─
+            asp_indices: dict[str, list[int]] = defaultdict(list)
+            for idx, topic_id in enumerate(df["topic"]):
+                if int(topic_id) in topic_labels:
+                    asp_indices[topic_labels[int(topic_id)]].append(idx)
+
+            min_rev = 2 if n_reviews < 20 else 3
+            for asp_name, idxs in sorted(
+                asp_indices.items(), key=lambda x: -len(x[1])
+            ):
+                if len(idxs) < min_rev:
+                    continue
+                tid_for = next(
+                    (t for t, l in topic_labels.items() if l == asp_name), -1
+                )
+                aspect_results.append(
+                    compute_aspect(df, asp_name, idxs, topic_terms.get(tid_for, []))
+                )
+
+        except Exception:
+            aspect_results = []
+
+    aspect_results.sort(key=lambda a: -a.review_count)
+    aspect_results = aspect_results[:10]
+
+    summary = generate_summary(product_name, aspect_results, overall, n_reviews)
+    score_dist = {str(i): int((df["puan"] == i).sum()) for i in range(1, 6)}
+    top_reviews = (
+        df["temiz urun yorum"]
+        .sort_values(key=lambda x: x.str.len(), ascending=False)
+        .head(5)
+        .tolist()
+    )
+
+    return {
+        "product_id": url_to_id(product_url),
+        "product_name": product_name,
+        "product_url": product_url,
+        "category": category,
+        "category_label": CATEGORY_LABELS.get(category, category),
+        "total_reviews": n_reviews,
+        "overall_score": round(overall, 2),
+        "overall_sentiment": score_to_sentiment(overall),
+        "stars": stars(overall),
+        "summary": summary,
+        "score_distribution": score_dist,
+        "aspects": [asdict(a) for a in aspect_results],
+        "top_reviews": top_reviews,
+        "generated_at": "2026-04-06",
+    }
+
 
 # ─── CLI ──────────────────────────────────────────────────────────
 def main() -> None:
