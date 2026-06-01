@@ -589,7 +589,7 @@ def compute_aspect(
     sample = [r["text"] for r in ranked[:3]]
     return AspectResult(
         name=name,
-        review_count=len(indices),
+        review_count=len(unique_rows),
         avg_score=round(avg, 2),
         sentiment=score_to_sentiment(avg),
         sentiment_label=score_to_label(avg),

@@ -1731,25 +1731,16 @@
       document.getElementById("modal-ttl").innerHTML =
         `<span style="margin-right:8px">${a.icon}</span>${escapeHtml(a.name)}`;
 
-      const reviews = (a.sample_reviews || []).map(r =>
-        `<div class="review-card">${escapeHtml(r)}</div>`
-      ).join("") || `<div class="review-card" style="color:var(--t2)">Örnek yorum bulunamadı.</div>`;
-
       const allReviews = (a.all_reviews || []);
-      const sampleTexts = new Set(a.sample_reviews || []);
-      const remainingReviews = allReviews.filter(r => !sampleTexts.has(r.text));
-
       const sentColor = s => s >= 4.5 ? "var(--green)" : s >= 3.0 ? "var(--yellow)" : "var(--red)";
-      const allReviewsHTML = remainingReviews.length > 0
-        ? `<p style="font-size:.7rem;color:var(--t3);text-transform:uppercase;letter-spacing:1px;margin:18px 0 10px">Bu Aspecte Ait Tüm Yorumlar <span style="color:var(--t2);text-transform:none;font-size:.75rem">(${remainingReviews.length} yorum)</span></p>
-           <div style="display:flex;flex-direction:column;gap:8px">
-           ${remainingReviews.map(r => `
-             <div class="review-card" style="display:flex;gap:10px;align-items:flex-start">
-               <span style="font-size:.85rem;font-weight:700;color:${sentColor(r.score)};white-space:nowrap;margin-top:2px">${"★".repeat(Math.round(r.score))}</span>
-               <span>${escapeHtml(r.text)}</span>
-             </div>`).join("")}
-           </div>`
-        : "";
+
+      const reviewsHTML = allReviews.length > 0
+        ? allReviews.map(r => `
+            <div class="review-card" style="display:flex;gap:10px;align-items:flex-start">
+              <span style="font-size:.85rem;font-weight:700;color:${sentColor(r.score)};white-space:nowrap;margin-top:2px">${"★".repeat(Math.round(r.score))}</span>
+              <span>${escapeHtml(r.text)}</span>
+            </div>`).join("")
+        : `<div class="review-card" style="color:var(--t2)">Yorum bulunamadı.</div>`;
 
       const kws = (a.top_terms || []).map(k => `<span class="kw">${escapeHtml(k)}</span>`).join("");
 
@@ -1761,9 +1752,10 @@
       ${stat(a.review_count, "Yorum", "var(--t1)")}
     </div>
     <div class="kws" style="margin-bottom:18px">${kws}</div>
-    <p style="font-size:.7rem;color:var(--t3);text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">Temsili Yorumlar</p>
-    ${reviews}
-    ${allReviewsHTML}
+    <p style="font-size:.7rem;color:var(--t3);text-transform:uppercase;letter-spacing:1px;margin-bottom:10px">
+      Yorumlar <span style="color:var(--t2);text-transform:none;font-size:.75rem">(${allReviews.length} yorum)</span>
+    </p>
+    <div style="display:flex;flex-direction:column;gap:8px">${reviewsHTML}</div>
   `;
 
       document.getElementById("modal").classList.add("open");
