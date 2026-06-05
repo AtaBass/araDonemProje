@@ -1440,8 +1440,11 @@
 
             <div class="live-hint">
               <b>Nasıl kullanılır?</b> Trendyol'da herhangi bir ürün sayfasını açın, URL'yi kopyalayıp buraya yapıştırın.
-              Sunucu yorumları toplar, TF-IDF + KMeans ile aspectleri çıkarır ve sonuçları gösterir.<br />
-              <b>Not:</b> Bu özellik için <code>python bertopic_xgboost/api_server.py</code> komutunun çalışıyor olması gerekir.
+              Sunucu yorumları toplar, BERTopic + XGBoost ile aspectleri çıkarır ve sonuçları gösterir.<br />
+              <b>Not:</b> Bu özellik için terminalde
+              <code>.venv/bin/python bertopic_xgboost/api_server.py --port 5001</code>
+              çalışıyor olmalı. Arayüzü
+              <code>http://127.0.0.1:5001</code> adresinden açın.
             </div>
 
             <div class="live-error" id="live-error"></div>
@@ -1503,6 +1506,41 @@
     let currentCat = null;
     let allProducts = [];
     let currentProduct = null;
+
+    /** Flask sunucusundan açıldıysa aynı origin; file:// ise varsayılan port. */
+    function getApiBase() {
+      if (window.location.protocol === "file:") {
+        return "http://127.0.0.1:5001";
+      }
+      if (/^(localhost|127\.0\.0\.1)$/.test(window.location.hostname)) {
+        return "";
+      }
+      return `${window.location.protocol}//${window.location.host}`;
+    }
+
+    async function apiFetch(path, options = {}) {
+      const res = await fetch(`${getApiBase()}${path}`, options);
+      let data = {};
+      try {
+        data = await res.json();
+      } catch (_) {
+        if (!res.ok) {
+          throw new Error(`Sunucu hatası (${res.status}). API çalışıyor mu?`);
+        }
+      }
+      return { res, data };
+    }
+
+    function showConnectionError(errEl, err) {
+      const base = getApiBase() || window.location.origin;
+      errEl.textContent =
+        "⚠️ Sunucuya bağlanılamadı. Terminalde şunu çalıştırın:\n" +
+        ".venv/bin/python bertopic_xgboost/api_server.py --port 5001\n" +
+        "Sonra tarayıcıda açın: http://127.0.0.1:5001\n" +
+        (err?.message ? `(${err.message})` : "");
+      errEl.style.display = "block";
+      errEl.style.whiteSpace = "pre-line";
+    }
 
     /* ── INIT ─────────────────────────────────────────── */
     (async function init() {
@@ -1809,16 +1847,12 @@
       document.getElementById("rt-scrape-loading").style.display = "block";
       document.getElementById("rt-scraped-section").style.display = "none";
 
-      const API_BASE = (window.location.protocol === "file:" || window.location.port !== "5001")
-        ? "http://localhost:5001" : "";
-
       try {
-        const res  = await fetch(`${API_BASE}/api/scrape-reviews`, {
+        const { res, data } = await apiFetch("/api/scrape-reviews", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ url, max_reviews: maxReviews }),
         });
-        const data = await res.json();
         document.getElementById("rt-scrape-loading").style.display = "none";
 
         if (!res.ok || data.error) {
@@ -1833,8 +1867,7 @@
 
       } catch (e) {
         document.getElementById("rt-scrape-loading").style.display = "none";
-        errEl.textContent = "⚠️ Sunucuya bağlanılamadı.";
-        errEl.style.display = "block";
+        showConnectionError(errEl, e);
       } finally {
         document.getElementById("rt-scrape-btn").disabled = false;
       }
@@ -1948,11 +1981,8 @@
       document.getElementById("rt-analyze-loading").style.display = "block";
       document.getElementById("rt-result").style.display   = "none";
 
-      const API_BASE = (window.location.protocol === "file:" || window.location.port !== "5001")
-        ? "http://localhost:5001" : "";
-
       try {
-        const res  = await fetch(`${API_BASE}/api/analyze-reviews`, {
+        const { res, data } = await apiFetch("/api/analyze-reviews", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -1960,7 +1990,6 @@
             product_name: rtProductName || "Yorum Bazlı Test",
           }),
         });
-        const data = await res.json();
         document.getElementById("rt-analyze-loading").style.display = "none";
 
         if (!res.ok || data.error) {
@@ -1976,8 +2005,7 @@
 
       } catch (e) {
         document.getElementById("rt-analyze-loading").style.display = "none";
-        errEl.textContent = "⚠️ Sunucuya bağlanılamadı.";
-        errEl.style.display = "block";
+        showConnectionError(errEl, e);
       } finally {
         document.getElementById("rt-analyze-btn").disabled = false;
       }
@@ -2025,17 +2053,12 @@
       document.getElementById("live-loading").style.display = "block";
       document.getElementById("live-result").style.display = "none";
 
-      const API_BASE = (window.location.protocol === "file:" || window.location.port !== "5001")
-        ? "http://localhost:5001"
-        : "";
-
       try {
-        const res = await fetch(`${API_BASE}/api/analyze`, {
+        const { res, data } = await apiFetch("/api/analyze", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ url, max_pages: maxPages }),
         });
-        const data = await res.json();
         document.getElementById("live-loading").style.display = "none";
 
         if (!res.ok || data.error) {
@@ -2065,8 +2088,7 @@
       } catch (e) {
         document.getElementById("live-loading").style.display = "none";
         document.querySelector(".live-form-wrap").style.display = "block";
-        errEl.textContent = "⚠️ Sunucuya bağlanılamadı. Terminalden 'python bertopic_xgboost/api_server.py' komutunu çalıştırın.";
-        errEl.style.display = "block";
+        showConnectionError(errEl, e);
       } finally {
         btn.disabled = false;
       }

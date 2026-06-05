@@ -83,7 +83,10 @@ ASPECT_SEEDS: dict[str, list[str]] = {
     "Ekran & Arayüz":       ["ekran","display","tuş","buton","arayüz","menü","gösterge"],
     "Temizlik & Hijyen":    ["temizlik","temizleme","yıkama","hijyen","koku","çıkarılabilir"],
     "Kapasite & Boyut":     ["kapasite","litre","büyüklük","küçük","büyük","geniş","dar","boyut"],
+    "Konfor & Taban":       ["rahat","rahatlık","konfor","taban","yumuşak","hafif","ayak","numara","numarası"],
 }
+
+KNOWN_ASPECTS = set(ASPECT_SEEDS.keys()) | {"Genel Değerlendirme"}
 
 ASPECT_ICONS = {
     "Kumaş":  "🧵", "Malzeme": "🧵",
@@ -155,7 +158,7 @@ def _keyword_aspects(df: pd.DataFrame, texts: list[str]) -> dict[str, dict]:
         top_terms = sorted(word_counts, key=word_counts.__getitem__, reverse=True)[:8]
         result[asp_name] = {"indices": list(set(idxs)), "top_terms": top_terms}
 
-    return result
+    return {k: v for k, v in result.items() if k in KNOWN_ASPECTS}
 
 
 # ─── DİNAMİK ASPECT ÇIKARIM ────────────────────────────────────────
@@ -200,7 +203,7 @@ def extract_aspects(df: pd.DataFrame, n_clusters: int = 6) -> dict[str, dict]:
         terms = [feature_names[i] for i in top_idx if feature_names[i] not in STOP_WORDS and len(feature_names[i]) > 3]
         cluster_terms[cid] = terms[:10]
 
-    # Küme → aspect ismi (seed eşleştirme)
+    # Küme → aspect ismi (yalnızca seed eşleşmesi; eşleşmeyen küme atlanır)
     cluster_aspect: dict[int, str] = {}
     used: set[str] = set()
     for cid, terms in cluster_terms.items():
@@ -212,25 +215,34 @@ def extract_aspects(df: pd.DataFrame, n_clusters: int = 6) -> dict[str, dict]:
         if best and best not in used and best_score >= 1:
             cluster_aspect[cid] = best
             used.add(best)
-        else:
-            cluster_aspect[cid] = (terms[0].capitalize() if terms else f"Konu {cid+1}")
 
-    # Aspect → indices
+    if not cluster_aspect:
+        return _keyword_aspects(df, texts)
+
+    # Aspect → indices (aynı seed'e düşen kümeler birleştirilir)
     aspect_indices: dict[str, list[int]] = defaultdict(list)
+    cluster_for_aspect: dict[str, int] = {}
     for idx, cid in enumerate(labels):
-        aspect_indices[cluster_aspect[cid]].append(idx)
+        asp_name = cluster_aspect.get(cid)
+        if not asp_name:
+            continue
+        aspect_indices[asp_name].append(idx)
+        cluster_for_aspect.setdefault(asp_name, cid)
 
     # Yorum sayısına göre eşik: az yorumda 1, çok yorumda 3
     min_reviews = 1 if len(texts) < 20 else 3
     result: dict[str, dict] = {}
-    for cid, asp_name in cluster_aspect.items():
-        idxs = aspect_indices[asp_name]
+    for asp_name, idxs in aspect_indices.items():
         if len(idxs) < min_reviews:
             continue
+        cid = cluster_for_aspect[asp_name]
         result[asp_name] = {
-            "indices": idxs,
+            "indices": list(set(idxs)),
             "top_terms": cluster_terms[cid][:8],
         }
+
+    # Yalnızca bilinen aspect başlıklarını tut
+    result = {k: v for k, v in result.items() if k in KNOWN_ASPECTS}
 
     # Kümeleme hiç aspect üretemezse keyword fallback
     if not result:
@@ -251,6 +263,7 @@ class AspectResult:
     negative_pct: float
     neutral_pct: float
     sample_reviews: list[str]
+    all_reviews: list[dict]
     icon: str = "💬"
 
 def compute_aspect(df: pd.DataFrame, name: str, idxs: list[int], terms: list[str]) -> AspectResult:
@@ -261,12 +274,19 @@ def compute_aspect(df: pd.DataFrame, name: str, idxs: list[int], terms: list[str
     neg = float(np.mean(scores <= 2.0))
     neu = max(0.0, 1.0 - pos - neg)
 
-    sample = (
-        sub["temiz urun yorum"]
-        .sort_values(key=lambda x: x.str.len(), ascending=False)
-        .head(3)
-        .tolist()
-    )
+    # Tüm yorumları puana göre sırala, tekrarları kaldır
+    seen: set[str] = set()
+    all_reviews: list[dict] = []
+    for _, row in sub.sort_values("puan", ascending=False).iterrows():
+        txt = str(row["temiz urun yorum"]).strip()
+        if txt and txt not in seen:
+            seen.add(txt)
+            all_reviews.append({"text": txt, "score": float(row["puan"])})
+
+    # Örnek: en uzun 3 yorum
+    sample = sorted(all_reviews, key=lambda r: -len(r["text"]))[:3]
+    sample_texts = [r["text"] for r in sample]
+
     return AspectResult(
         name=name,
         review_count=len(idxs),
@@ -277,7 +297,8 @@ def compute_aspect(df: pd.DataFrame, name: str, idxs: list[int], terms: list[str
         positive_pct=round(pos * 100, 1),
         negative_pct=round(neg * 100, 1),
         neutral_pct=round(neu * 100, 1),
-        sample_reviews=sample,
+        sample_reviews=sample_texts,
+        all_reviews=all_reviews,
         icon=get_icon(name),
     )
 
